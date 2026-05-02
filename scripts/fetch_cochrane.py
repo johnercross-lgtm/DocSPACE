@@ -20,6 +20,12 @@ FEED_URLS = (
 TIMEOUT_SECONDS = 30
 LIMIT = 20
 ABSTRACT_LIMIT = 500
+PUBMED_ESEARCH_URL = (
+    "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+    "?db=pubmed&term=Cochrane+Database+Syst+Rev%5Bjour%5D"
+    "&sort=pub+date&retmax=20&retmode=json"
+)
+PUBMED_EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 
 def fetch_xml(url: str) -> bytes:
@@ -39,8 +45,25 @@ def fetch_xml(url: str) -> bytes:
         raise
 
 
+def fetch_text(url: str) -> str:
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0 (DocSPACE bot)"},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=TIMEOUT_SECONDS) as response:
+            return response.read().decode("utf-8", errors="ignore")
+    except urllib.error.URLError as error:
+        reason = getattr(error, "reason", None)
+        if isinstance(reason, ssl.SSLError):
+            insecure_context = ssl._create_unverified_context()
+            with urllib.request.urlopen(request, timeout=TIMEOUT_SECONDS, context=insecure_context) as response:
+                return response.read().decode("utf-8", errors="ignore")
+        raise
+
+
 def clean_summary(raw_text: str) -> str:
-    text = re.sub(r"<br\s*/?>", "\n", raw_text, flags=re.IGNORECASE)
+    text = re.sub(r"<br\\s*/?>", "\n", raw_text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", "", text)
     text = unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
@@ -75,56 +98,3 @@ def parse_items(xml_bytes: bytes) -> list[dict[str, str]]:
 
         if not title or not url:
             continue
-
-        items.append(
-            {
-                "title": title,
-                "abstract": summary,
-                "url": url,
-                "source": "Cochrane",
-                "category": "evidence_review",
-                "publishedAt": published_at,
-                "updatedAt": updated_at,
-            }
-        )
-
-    items.sort(key=lambda item: parse_pub_date(item.get("publishedAt", "")), reverse=True)
-    return items[:LIMIT]
-
-
-def write_feed(items: list[dict[str, str]]) -> None:
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUT_PATH.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
-
-
-def main() -> int:
-    xml_payload: bytes | None = None
-
-    for feed_url in FEED_URLS:
-        try:
-            xml_payload = fetch_xml(feed_url)
-            break
-        except Exception as error:
-            print(f"[warn] failed to fetch {feed_url}: {error}")
-
-    if xml_payload is None:
-        print("[warn] all Cochrane RSS endpoints are unavailable; keeping existing file unchanged")
-        return 0
-
-    try:
-        items = parse_items(xml_payload)
-    except Exception as error:
-        print(f"[warn] failed to parse Cochrane RSS: {error}; keeping existing file unchanged")
-        return 0
-
-    if not items:
-        print("[warn] parsed Cochrane RSS contains no valid items; keeping existing file unchanged")
-        return 0
-
-    write_feed(items)
-    print(f"Saved {len(items)} Cochrane feed items to {OUT_PATH}")
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
