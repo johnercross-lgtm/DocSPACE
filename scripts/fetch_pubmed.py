@@ -6,13 +6,30 @@ from pathlib import Path
 from datetime import datetime
 import time
 
-SEARCH_TERM = "pediatrics"
+SEARCH_TERMS = {
+    "general_medicine": (
+        "cardiology OR gastroenterology OR endocrinology OR neurology OR pediatrics "
+        "OR pulmonology OR oncology OR dermatology OR psychiatry OR rheumatology "
+        "OR nephrology OR urology OR gynecology OR infectious diseases OR emergency medicine "
+        "OR family medicine OR internal medicine OR surgery OR hepatology OR hematology "
+        "OR immunology OR pharmacology OR antibiotics OR vaccination OR diabetes "
+        "OR hypertension OR obesity OR asthma OR COPD"
+    )
+}
+
 OUT_PATH = Path("data/pubmed-feed.json")
-MAX_RESULTS = 5
+MAX_RESULTS = 30
 
 
 def get_json(url):
-    with urllib.request.urlopen(url, timeout=30) as response:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "DocSPACE PubMed Feed Bot/1.0"
+        }
+    )
+
+    with urllib.request.urlopen(request, timeout=30) as response:
         return json.loads(response.read().decode("utf-8"))
 
 
@@ -22,29 +39,45 @@ def get_text(element):
     return "".join(element.itertext()).strip()
 
 
-def fetch_pmids():
-    encoded = urllib.parse.quote(SEARCH_TERM)
+def fetch_pmids(term):
+    encoded = urllib.parse.quote(term)
+
     url = (
         "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-        f"?db=pubmed&term={encoded}&retmax={MAX_RESULTS}&sort=date&retmode=json"
+        f"?db=pubmed"
+        f"&term={encoded}"
+        f"&retmax={MAX_RESULTS}"
+        f"&sort=date"
+        f"&retmode=json"
     )
+
     data = get_json(url)
     return data.get("esearchresult", {}).get("idlist", [])
 
 
-def fetch_articles(pmids):
+def fetch_articles(pmids, category):
     if not pmids:
         return []
 
-    time.sleep(1)  # пауза чтобы не словить блок
+    time.sleep(2)
 
     ids = ",".join(pmids)
+
     url = (
         "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
-        f"?db=pubmed&id={ids}&retmode=xml"
+        f"?db=pubmed"
+        f"&id={ids}"
+        f"&retmode=xml"
     )
 
-    with urllib.request.urlopen(url, timeout=30) as response:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "DocSPACE PubMed Feed Bot/1.0"
+        }
+    )
+
+    with urllib.request.urlopen(request, timeout=30) as response:
         xml_data = response.read()
 
     root = ET.fromstring(xml_data)
@@ -57,6 +90,15 @@ def fetch_articles(pmids):
         abstract = get_text(article.find(".//Abstract/AbstractText"))
 
         year = get_text(article.find(".//PubDate/Year"))
+        month = get_text(article.find(".//PubDate/Month"))
+        day = get_text(article.find(".//PubDate/Day"))
+
+        published_at = year
+
+        if month:
+            published_at += f"-{month}"
+        if day:
+            published_at += f"-{day}"
 
         if not pmid or not title:
             continue
@@ -65,10 +107,10 @@ def fetch_articles(pmids):
             "pmid": pmid,
             "title": title,
             "journal": journal,
-            "publishedAt": year,
-            "abstract": abstract[:400],
+            "publishedAt": published_at,
+            "abstract": abstract[:500],
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-            "category": "pediatrics",
+            "category": category,
             "source": "PubMed",
             "updatedAt": datetime.utcnow().isoformat() + "Z"
         })
@@ -77,16 +119,24 @@ def fetch_articles(pmids):
 
 
 def main():
-    pmids = fetch_pmids()
-    articles = fetch_articles(pmids)
+    all_articles = {}
+
+    for category, term in SEARCH_TERMS.items():
+        pmids = fetch_pmids(term)
+        articles = fetch_articles(pmids, category)
+
+        for article in articles:
+            all_articles[article["pmid"]] = article
+
+    result = list(all_articles.values())
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
-        json.dumps(articles, ensure_ascii=False, indent=2),
+        json.dumps(result, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
-    print(f"Saved {len(articles)} articles")
+    print(f"Saved {len(result)} PubMed articles")
 
 
 if __name__ == "__main__":
