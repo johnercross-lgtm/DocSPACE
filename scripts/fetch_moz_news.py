@@ -1,75 +1,44 @@
 import json
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import datetime
-import re
 
 OUT_PATH = Path("data/ukrainian-news-feed.json")
-URL = "https://moz.gov.ua/uk/ostanni-novini"
+
+# RSS НСЗУ
+RSS_URL = "https://nszu.gov.ua/rss"
 
 
-def fetch_html(url):
+def fetch_rss(url):
     req = urllib.request.Request(
         url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9",
-            "Accept-Language": "uk-UA,uk;q=0.9,en-US;q=0.8,en;q=0.7",
-            "Connection": "keep-alive"
-        }
+        headers={"User-Agent": "Mozilla/5.0"}
     )
-
     with urllib.request.urlopen(req, timeout=30) as response:
-        return response.read().decode("utf-8")
+        return response.read()
 
 
-def clean_text(text):
-    text = re.sub(r"\s+", " ", text)
-    text = text.replace("&quot;", '"')
-    text = text.replace("&amp;", "&")
-    text = text.replace("&nbsp;", " ")
-    return text.strip()
-
-
-def parse_news(html):
+def parse_rss(xml_data):
+    root = ET.fromstring(xml_data)
     items = []
-    seen_urls = set()
 
-    matches = re.findall(
-        r'href="(/uk/[^"]+)"[^>]*>(.*?)</a>',
-        html,
-        flags=re.DOTALL
-    )
+    for item in root.findall(".//item"):
+        title = item.findtext("title", default="")
+        link = item.findtext("link", default="")
+        pub_date = item.findtext("pubDate", default="")
+        description = item.findtext("description", default="")
 
-    for link, raw_title in matches:
-        title = re.sub(r"<[^>]+>", "", raw_title)
-        title = clean_text(title)
-
-        if len(title) < 20:
+        if not title or not link:
             continue
-
-        if any(skip in link for skip in [
-            "/uk/contacts",
-            "/uk/pro-ministerstvo",
-            "/uk/gromadskosti",
-            "/uk/poslugi",
-            "/uk/dostup-do-publichnoi-informacii"
-        ]):
-            continue
-
-        full_url = "https://moz.gov.ua" + link
-
-        if full_url in seen_urls:
-            continue
-
-        seen_urls.add(full_url)
 
         items.append({
-            "title": title,
-            "url": full_url,
-            "source": "МОЗ України",
+            "title": title.strip(),
+            "url": link.strip(),
+            "abstract": description.strip()[:300],
+            "source": "НСЗУ",
             "category": "official_health_news",
-            "publishedAt": "",
+            "publishedAt": pub_date,
             "updatedAt": datetime.utcnow().isoformat() + "Z"
         })
 
@@ -77,8 +46,8 @@ def parse_news(html):
 
 
 def main():
-    html = fetch_html(URL)
-    news = parse_news(html)
+    xml_data = fetch_rss(RSS_URL)
+    news = parse_rss(xml_data)
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
@@ -86,7 +55,7 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"Saved {len(news)} MOZ news")
+    print(f"Saved {len(news)} NSZU news")
 
 
 if __name__ == "__main__":
