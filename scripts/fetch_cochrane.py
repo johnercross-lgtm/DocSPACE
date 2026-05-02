@@ -98,3 +98,150 @@ def parse_items(xml_bytes: bytes) -> list[dict[str, str]]:
 
         if not title or not url:
             continue
+
+        items.append(
+            {
+                "title": title,
+                "abstract": summary,
+                "url": url,
+                "source": "Cochrane",
+                "category": "evidence_review",
+                "publishedAt": published_at,
+                "updatedAt": updated_at,
+            }
+        )
+
+    items.sort(key=lambda item: parse_pub_date(item.get("publishedAt", "")), reverse=True)
+    return items[:LIMIT]
+
+
+def write_feed(items: list[dict[str, str]]) -> None:
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    OUT_PATH.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def join_abstract_text(article_node: ET.Element) -> str:
+    parts: list[str] = []
+    for node in article_node.findall(".//Abstract/AbstractText"):
+        text = "".join(node.itertext()).strip()
+        if text:
+            parts.append(text)
+    return clean_summary(" ".join(parts))
+
+
+def parse_pubmed_date(article_node: ET.Element) -> str:
+    pub_date = article_node.find(".//PubDate")
+    if pub_date is None:
+        return ""
+
+    year = (pub_date.findtext("Year") or "").strip()
+    month = (pub_date.findtext("Month") or "").strip()
+    day = (pub_date.findtext("Day") or "").strip()
+    medline = (pub_date.findtext("MedlineDate") or "").strip()
+
+    if year and month and day:
+        return f"{year} {month} {day}"
+    if year and month:
+        return f"{year} {month}"
+    if year:
+        return year
+    return medline
+
+
+def cochrane_url_from_ids(article_node: ET.Element, pmid: str) -> str:
+    doi = ""
+    for id_node in article_node.findall(".//ArticleIdList/ArticleId"):
+        if (id_node.get("IdType") or "").lower() == "doi":
+            doi = (id_node.text or "").strip()
+            break
+
+    if doi:
+        return f"https://www.cochranelibrary.com/cdsr/doi/{doi}/full"
+    return f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+
+
+def fetch_pubmed_fallback_items() -> list[dict[str, str]]:
+    updated_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+
+    search_text = fetch_text(PUBMED_ESEARCH_URL)
+    search_payload = json.loads(search_text)
+    id_list = search_payload.get("esearchresult", {}).get("idlist", [])[:LIMIT]
+    if not id_list:
+        return []
+
+    fetch_url = f"{PUBMED_EFETCH_URL}?db=pubmed&id={','.join(id_list)}&retmode=xml"
+    xml_text = fetch_text(fetch_url)
+    root = ET.fromstring(xml_text)
+
+    items: list[dict[str, str]] = []
+    for article in root.findall(".//PubmedArticle"):
+        pmid = (article.findtext(".//PMID") or "").strip()
+        title_node = article.find(".//ArticleTitle")
+        title = "".join(title_node.itertext()).strip() if title_node is not None else ""
+        if not title:
+            continue
+
+        summary = join_abstract_text(article)
+        published = parse_pubmed_date(article)
+        url = cochrane_url_from_ids(article, pmid) if pmid else ""
+        if not url:
+            continue
+
+        items.append(
+            {
+                "title": title,
+                "abstract": summary,
+                "url": url,
+                "source": "Cochrane",
+                "category": "evidence_review",
+                "publishedAt": published,
+                "updatedAt": updated_at,
+            }
+        )
+
+    return items[:LIMIT]
+
+
+def main() -> int:
+    xml_payload: bytes | None = None
+
+    for feed_url in FEED_URLS:
+        try:
+            xml_payload = fetch_xml(feed_url)
+            break
+        except Exception as error:
+            print(f"[warn] failed to fetch {feed_url}: {error}")
+
+    if xml_payload is None:
+        print("[warn] all Cochrane RSS endpoints are unavailable; trying PubMed fallback")
+        try:
+            fallback_items = fetch_pubmed_fallback_items()
+        except Exception as error:
+            print(f"[warn] PubMed fallback failed: {error}; keeping existing file unchanged")
+            return 0
+
+        if not fallback_items:
+            print("[warn] PubMed fallback returned no items; keeping existing file unchanged")
+            return 0
+
+        write_feed(fallback_items)
+        print(f"Saved {len(fallback_items)} Cochrane fallback items to {OUT_PATH}")
+        return 0
+
+    try:
+        items = parse_items(xml_payload)
+    except Exception as error:
+        print(f"[warn] failed to parse Cochrane RSS: {error}; keeping existing file unchanged")
+        return 0
+
+    if not items:
+        print("[warn] parsed Cochrane RSS contains no valid items; keeping existing file unchanged")
+        return 0
+
+    write_feed(items)
+    print(f"Saved {len(items)} Cochrane feed items to {OUT_PATH}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
