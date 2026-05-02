@@ -1,0 +1,36 @@
+name: Update Cochrane Feed
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cochrane-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch Cochrane feed
+        run: python scripts/fetch_cochrane.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- data/cochrane-feed.json; then
+            echo "No Cochrane feed changes"
+            exit 0
+          fi
+          git config user.name "docspace-bot"
+          git config user.email "docspace-bot@users.noreply.github.com"
+          git add data/cochrane-feed.json
+          git commit -m "Update Cochrane feed"
+          git push
