@@ -4,16 +4,11 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import datetime
+import time
 
-SEARCH_TERMS = {
-    "pediatrics": "pediatrics",
-    "cardiology": "cardiology",
-    "diabetes": "diabetes",
-    "infectious_diseases": "infectious diseases"
-}
-
+SEARCH_TERM = "pediatrics"
 OUT_PATH = Path("data/pubmed-feed.json")
-MAX_PER_CATEGORY = 10
+MAX_RESULTS = 5
 
 
 def get_json(url):
@@ -27,19 +22,21 @@ def get_text(element):
     return "".join(element.itertext()).strip()
 
 
-def fetch_pmids(term):
-    encoded = urllib.parse.quote(term)
+def fetch_pmids():
+    encoded = urllib.parse.quote(SEARCH_TERM)
     url = (
         "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
-        f"?db=pubmed&term={encoded}&retmax={MAX_PER_CATEGORY}&sort=date&retmode=json"
+        f"?db=pubmed&term={encoded}&retmax={MAX_RESULTS}&sort=date&retmode=json"
     )
     data = get_json(url)
     return data.get("esearchresult", {}).get("idlist", [])
 
 
-def fetch_articles(pmids, category):
+def fetch_articles(pmids):
     if not pmids:
         return []
+
+    time.sleep(1)  # пауза чтобы не словить блок
 
     ids = ",".join(pmids)
     url = (
@@ -60,23 +57,6 @@ def fetch_articles(pmids, category):
         abstract = get_text(article.find(".//Abstract/AbstractText"))
 
         year = get_text(article.find(".//PubDate/Year"))
-        month = get_text(article.find(".//PubDate/Month"))
-        day = get_text(article.find(".//PubDate/Day"))
-
-        published_at = year or ""
-
-        if month:
-            published_at += f"-{month}"
-        if day:
-            published_at += f"-{day}"
-
-        authors = []
-        for author in article.findall(".//Author"):
-            last = get_text(author.find("LastName"))
-            initials = get_text(author.find("Initials"))
-            name = f"{last} {initials}".strip()
-            if name:
-                authors.append(name)
 
         if not pmid or not title:
             continue
@@ -85,11 +65,10 @@ def fetch_articles(pmids, category):
             "pmid": pmid,
             "title": title,
             "journal": journal,
-            "publishedAt": published_at,
-            "abstract": abstract[:600],
-            "authors": authors[:6],
+            "publishedAt": year,
+            "abstract": abstract[:400],
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-            "category": category,
+            "category": "pediatrics",
             "source": "PubMed",
             "updatedAt": datetime.utcnow().isoformat() + "Z"
         })
@@ -98,24 +77,16 @@ def fetch_articles(pmids, category):
 
 
 def main():
-    all_articles = {}
-
-    for category, term in SEARCH_TERMS.items():
-        pmids = fetch_pmids(term)
-        articles = fetch_articles(pmids, category)
-
-        for article in articles:
-            all_articles[article["pmid"]] = article
-
-    result = list(all_articles.values())
+    pmids = fetch_pmids()
+    articles = fetch_articles(pmids)
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
-        json.dumps(result, ensure_ascii=False, indent=2),
+        json.dumps(articles, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
-    print(f"Saved {len(result)} PubMed articles")
+    print(f"Saved {len(articles)} articles")
 
 
 if __name__ == "__main__":
