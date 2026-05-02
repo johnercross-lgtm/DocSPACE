@@ -40,7 +40,7 @@ def fetch_xml(url: str) -> bytes:
 
 
 def clean_summary(raw_text: str) -> str:
-    text = re.sub(r"<br\\s*/?>", "\n", raw_text, flags=re.IGNORECASE)
+    text = re.sub(r"<br\s*/?>", "\n", raw_text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", "", text)
     text = unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
@@ -98,3 +98,33 @@ def write_feed(items: list[dict[str, str]]) -> None:
 
 
 def main() -> int:
+    xml_payload: bytes | None = None
+
+    for feed_url in FEED_URLS:
+        try:
+            xml_payload = fetch_xml(feed_url)
+            break
+        except Exception as error:
+            print(f"[warn] failed to fetch {feed_url}: {error}")
+
+    if xml_payload is None:
+        print("[warn] all Cochrane RSS endpoints are unavailable; keeping existing file unchanged")
+        return 0
+
+    try:
+        items = parse_items(xml_payload)
+    except Exception as error:
+        print(f"[warn] failed to parse Cochrane RSS: {error}; keeping existing file unchanged")
+        return 0
+
+    if not items:
+        print("[warn] parsed Cochrane RSS contains no valid items; keeping existing file unchanged")
+        return 0
+
+    write_feed(items)
+    print(f"Saved {len(items)} Cochrane feed items to {OUT_PATH}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
