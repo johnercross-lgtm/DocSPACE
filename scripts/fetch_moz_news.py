@@ -1,0 +1,1 @@
+print("moz news script")
