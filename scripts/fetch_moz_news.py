@@ -4,9 +4,10 @@ from pathlib import Path
 from datetime import datetime
 import re
 import html
+import time
 
 OUT_PATH = Path("data/ukrainian-news-feed.json")
-URL = "https://t.me/s/mozofficial?embed=1"
+URL = f"https://t.me/s/mozofficial?nocache={int(time.time())}"
 
 
 def fetch_html(url):
@@ -37,24 +38,16 @@ def parse_posts(page):
     posts = []
     seen = set()
 
-    blocks = re.findall(
-        r'<div class="tgme_widget_message[^"]*"[^>]*data-post="mozofficial/(\d+)".*?(?=<div class="tgme_widget_message|\Z)',
-        page,
-        flags=re.DOTALL
-    )
+    # режем страницу на карточки сообщений
+    blocks = re.split(r'<div class="tgme_widget_message_wrap', page)
 
-    for post_id in blocks:
-        post_pattern = (
-            r'<div class="tgme_widget_message[^"]*"[^>]*data-post="mozofficial/'
-            + re.escape(post_id)
-            + r'".*?(?=<div class="tgme_widget_message|\Z)'
+    for raw_block in blocks:
+        block = '<div class="tgme_widget_message_wrap' + raw_block
+
+        link_match = re.search(
+            r'<a class="tgme_widget_message_date" href="([^"]+)"',
+            block
         )
-
-        match = re.search(post_pattern, page, flags=re.DOTALL)
-        if not match:
-            continue
-
-        block = match.group(0)
 
         text_match = re.search(
             r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>',
@@ -67,25 +60,24 @@ def parse_posts(page):
             block
         )
 
-        if not text_match:
+        if not link_match or not text_match:
             continue
 
+        url = link_match.group(1).strip()
         text = clean_text(text_match.group(1))
 
         if len(text) < 40:
             continue
-
-        url = f"https://t.me/mozofficial/{post_id}"
 
         if url in seen:
             continue
 
         seen.add(url)
 
-        title = text.split("\n")[0][:140]
+        title = text.split("\n")[0].strip()[:140]
 
         posts.append({
-            "id": f"mozofficial_{post_id}",
+            "id": url.split("/")[-1],
             "title": title,
             "abstract": text[:500],
             "url": url,
@@ -101,6 +93,11 @@ def parse_posts(page):
 def main():
     page = fetch_html(URL)
     news = parse_posts(page)
+
+    print(f"Parsed {len(news)} MOZ Telegram posts")
+
+    if len(news) == 0:
+        raise RuntimeError("No MOZ posts parsed. Keeping old feed untouched.")
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
