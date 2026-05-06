@@ -1,17 +1,5 @@
 [
   {
-    "id": "docspace_digest_1",
-    "type": "docspace_digest",
-    "title": "Channel created",
-    "abstract": "Channel created",
-    "imageUrl": "",
-    "url": "https://t.me/docspace_digest/1",
-    "source": "DocSPACE Medical Digest",
-    "category": "editorial_digest",
-    "publishedAt": "2026-05-06T14:20:03+00:00",
-    "updatedAt": "2026-05-06T21:07:18.348251Z"
-  },
-  {
     "id": "docspace_digest_5",
     "type": "docspace_digest",
     "title": "Прееклампсія залишається однією з головних причин материнських та перинатальних ускладнень у світі.",
@@ -22,41 +10,5 @@
     "category": "editorial_digest",
     "publishedAt": "2026-05-06T16:16:43+00:00",
     "updatedAt": "2026-05-06T21:07:18.348581Z"
-  },
-  {
-    "id": "docspace_digest_6",
-    "type": "docspace_digest",
-    "title": "Тест DocSPACE webhook",
-    "abstract": "Тест DocSPACE webhook",
-    "imageUrl": "",
-    "url": "https://t.me/docspace_digest/6",
-    "source": "DocSPACE Medical Digest",
-    "category": "editorial_digest",
-    "publishedAt": "2026-05-06T20:57:48+00:00",
-    "updatedAt": "2026-05-06T21:07:18.348616Z"
-  },
-  {
-    "id": "docspace_digest_7",
-    "type": "docspace_digest",
-    "title": "Тест webhook DocSPACE 2",
-    "abstract": "Тест webhook DocSPACE 2",
-    "imageUrl": "",
-    "url": "https://t.me/docspace_digest/7",
-    "source": "DocSPACE Medical Digest",
-    "category": "editorial_digest",
-    "publishedAt": "2026-05-06T21:01:59+00:00",
-    "updatedAt": "2026-05-06T21:07:18.348647Z"
-  },
-  {
-    "id": "docspace_digest_8",
-    "type": "docspace_digest",
-    "title": "Тест DocSPACE Telegram webhook",
-    "abstract": "Тест DocSPACE Telegram webhook",
-    "imageUrl": "",
-    "url": "https://t.me/docspace_digest/8",
-    "source": "DocSPACE Medical Digest",
-    "category": "editorial_digest",
-    "publishedAt": "2026-05-06T21:07:09+00:00",
-    "updatedAt": "2026-05-06T21:07:18.348675Z"
   }
 ]
