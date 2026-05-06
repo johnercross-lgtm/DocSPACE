@@ -51,17 +51,19 @@ def normalize_url(url):
 
 def extract_image_url(block):
     patterns = [
-        r"background-image:\s*url\(['\"]?([^'\")]+)['\"]?\)",
-        r'<a[^>]+class="[^"]*tgme_widget_message_photo_wrap[^"]*"[^>]+style="[^"]*background-image:\s*url\(['\"]?([^'\")]+)['\"]?\)',
-        r'<img[^>]+src="([^"]+)"',
-        r'<img[^>]+data-src="([^"]+)"',
-        r'data-src="([^"]+)"',
+        r"""background-image:\s*url\(['"]?([^'")]+)['"]?\)""",
+        r"""<a[^>]+class="[^"]*tgme_widget_message_photo_wrap[^"]*"[^>]+style="[^"]*background-image:\s*url\(['"]?([^'")]+)['"]?\)""",
+        r"""<img[^>]+src="([^"]+)"""",
+        r"""<img[^>]+data-src="([^"]+)"""",
+        r"""data-src="([^"]+)"""",
     ]
 
     for pattern in patterns:
         match = re.search(pattern, block, flags=re.DOTALL)
+
         if match:
             image_url = normalize_url(match.group(1))
+
             if image_url and not image_url.startswith("data:"):
                 return image_url
 
