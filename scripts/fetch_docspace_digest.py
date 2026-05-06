@@ -7,7 +7,9 @@ import html
 import time
 
 OUT_PATH = Path("data/docspace-digest-feed.json")
+
 CHANNEL_USERNAME = "docspace_digest"
+
 URL = f"https://t.me/s/{CHANNEL_USERNAME}?nocache={int(time.time())}"
 
 
@@ -15,9 +17,7 @@ def fetch_html(url):
     req = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-            "Accept-Language": "uk-UA,uk;q=0.9,en;q=0.8",
+            "User-Agent": "Mozilla/5.0",
             "Cache-Control": "no-cache",
             "Pragma": "no-cache",
         }
@@ -33,6 +33,7 @@ def clean_text(text):
     text = html.unescape(text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]+", " ", text)
+
     return text.strip()
 
 
@@ -40,8 +41,8 @@ def normalize_url(url):
     if not url:
         return ""
 
-    url = html.unescape(url).strip()
-    url = url.strip("'\" ")
+    url = html.unescape(url)
+    url = url.strip().strip("'").strip('"')
 
     if url.startswith("//"):
         return "https:" + url
@@ -51,11 +52,10 @@ def normalize_url(url):
 
 def extract_image_url(block):
     patterns = [
-        r"""background-image:\s*url\(['"]?([^'")]+)['"]?\)""",
-        r"""<a[^>]+class="[^"]*tgme_widget_message_photo_wrap[^"]*"[^>]+style="[^"]*background-image:\s*url\(['"]?([^'")]+)['"]?\)""",
-        r"""<img[^>]+src="([^"]+)"""",
-        r"""<img[^>]+data-src="([^"]+)"""",
-        r"""data-src="([^"]+)"""",
+        r'background-image:\s*url\([\'"]?([^\'")]+)[\'"]?\)',
+        r'<img[^>]+src=[\'"]([^\'"]+)[\'"]',
+        r'<img[^>]+data-src=[\'"]([^\'"]+)[\'"]',
+        r'data-src=[\'"]([^\'"]+)[\'"]',
     ]
 
     for pattern in patterns:
@@ -72,6 +72,7 @@ def extract_image_url(block):
 
 def split_message_blocks(page):
     parts = re.split(r'<div class="tgme_widget_message_wrap', page)
+
     blocks = []
 
     for raw in parts[1:]:
@@ -82,6 +83,7 @@ def split_message_blocks(page):
 
 def parse_posts(page):
     posts = []
+
     seen = set()
 
     blocks = split_message_blocks(page)
@@ -103,26 +105,30 @@ def parse_posts(page):
             block
         )
 
-        image_url = extract_image_url(block)
-
         if not link_match:
             continue
 
         url = normalize_url(link_match.group(1))
-
-        text = ""
-        if text_match:
-            text = clean_text(text_match.group(1))
-
-        if len(text) < 10 and not image_url:
-            continue
 
         if url in seen:
             continue
 
         seen.add(url)
 
-        title = text.split("\n")[0].strip()[:140] if text else "DocSPACE Medical Digest"
+        text = ""
+
+        if text_match:
+            text = clean_text(text_match.group(1))
+
+        image_url = extract_image_url(block)
+
+        if len(text) < 10 and not image_url:
+            continue
+
+        title = "DocSPACE Medical Digest"
+
+        if text:
+            title = text.split("\n")[0].strip()[:140]
 
         posts.append({
             "id": f"docspace_digest_{url.split('/')[-1]}",
@@ -142,13 +148,20 @@ def parse_posts(page):
 
 def main():
     page = fetch_html(URL)
+
     posts = parse_posts(page)
 
-    print(f"Parsed {len(posts)} DocSPACE digest posts")
-    print(f"Posts with images: {sum(1 for post in posts if post.get('imageUrl'))}")
+    print(f"Parsed {len(posts)} posts")
+
+    print(
+        f"Posts with images: "
+        f"{sum(1 for post in posts if post.get('imageUrl'))}"
+    )
 
     if len(posts) == 0:
-        raise RuntimeError("No DocSPACE digest posts parsed. Keeping old feed untouched.")
+        raise RuntimeError(
+            "No posts parsed. Keeping old feed untouched."
+        )
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
@@ -157,7 +170,7 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"Saved {len(posts)} DocSPACE digest posts")
+    print(f"Saved {len(posts)} posts")
 
 
 if __name__ == "__main__":
