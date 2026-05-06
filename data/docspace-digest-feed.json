@@ -9,7 +9,7 @@
     "source": "DocSPACE Medical Digest",
     "category": "editorial_digest",
     "publishedAt": "2026-05-06T14:20:03+00:00",
-    "updatedAt": "2026-05-06T20:00:59.438476Z"
+    "updatedAt": "2026-05-06T21:02:56.113300Z"
   },
   {
     "id": "docspace_digest_5",
@@ -21,6 +21,30 @@
     "source": "DocSPACE Medical Digest",
     "category": "editorial_digest",
     "publishedAt": "2026-05-06T16:16:43+00:00",
-    "updatedAt": "2026-05-06T20:00:59.438817Z"
+    "updatedAt": "2026-05-06T21:02:56.113641Z"
+  },
+  {
+    "id": "docspace_digest_6",
+    "type": "docspace_digest",
+    "title": "Тест DocSPACE webhook",
+    "abstract": "Тест DocSPACE webhook",
+    "imageUrl": "",
+    "url": "https://t.me/docspace_digest/6",
+    "source": "DocSPACE Medical Digest",
+    "category": "editorial_digest",
+    "publishedAt": "2026-05-06T20:57:48+00:00",
+    "updatedAt": "2026-05-06T21:02:56.113678Z"
+  },
+  {
+    "id": "docspace_digest_7",
+    "type": "docspace_digest",
+    "title": "Тест webhook DocSPACE 2",
+    "abstract": "Тест webhook DocSPACE 2",
+    "imageUrl": "",
+    "url": "https://t.me/docspace_digest/7",
+    "source": "DocSPACE Medical Digest",
+    "category": "editorial_digest",
+    "publishedAt": "2026-05-06T21:01:59+00:00",
+    "updatedAt": "2026-05-06T21:02:56.113708Z"
   }
 ]
