@@ -34,6 +34,26 @@ def clean_text(text):
     return text.strip()
 
 
+def normalize_digest_text(text):
+    lines = [line.strip() for line in text.split("\n") if line.strip()]
+
+    brand_lines = {
+        "🧠 DocSPACE Medical Digest",
+        "DocSPACE Medical Digest",
+        "Powered by DocSPACE"
+    }
+
+    cleaned = []
+
+    for line in lines:
+        if line in brand_lines:
+            continue
+
+        cleaned.append(line)
+
+    return "\n\n".join(cleaned).strip()
+
+
 def normalize_url(url):
     if not url:
         return ""
@@ -48,12 +68,6 @@ def normalize_url(url):
 
 
 def extract_image_url(block):
-    """
-    Telegram post photo usually lives in:
-    <a class="tgme_widget_message_photo_wrap" style="background-image:url('...')">
-    We intentionally ignore normal <img> tags because Telegram uses them for emoji/avatar.
-    """
-
     photo_wraps = re.findall(
         r'<a[^>]+class="[^"]*tgme_widget_message_photo_wrap[^"]*"[^>]*>',
         block,
@@ -143,8 +157,10 @@ def parse_posts(page):
         seen.add(url)
 
         text = ""
+
         if text_match:
             text = clean_text(text_match.group(1))
+            text = normalize_digest_text(text)
 
         image_url = extract_image_url(block)
 
@@ -152,6 +168,7 @@ def parse_posts(page):
             continue
 
         title = "DocSPACE Medical Digest"
+
         if text:
             title = text.split("\n")[0].strip()[:140]
 
