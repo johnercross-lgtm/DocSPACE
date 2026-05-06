@@ -7,9 +7,7 @@ import html
 import time
 
 OUT_PATH = Path("data/docspace-digest-feed.json")
-
 CHANNEL_USERNAME = "docspace_digest"
-
 URL = f"https://t.me/s/{CHANNEL_USERNAME}?nocache={int(time.time())}"
 
 
@@ -33,7 +31,6 @@ def clean_text(text):
     text = html.unescape(text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]+", " ", text)
-
     return text.strip()
 
 
@@ -51,55 +48,69 @@ def normalize_url(url):
 
 
 def extract_image_url(block):
-    patterns = [
-        r'background-image:\s*url\([\'"]?([^\'")]+)[\'"]?\)',
-        r'<img[^>]+src=[\'"]([^\'"]+)[\'"]',
-        r'<img[^>]+data-src=[\'"]([^\'"]+)[\'"]',
-        r'data-src=[\'"]([^\'"]+)[\'"]',
-    ]
+    """
+    Telegram post photo usually lives in:
+    <a class="tgme_widget_message_photo_wrap" style="background-image:url('...')">
+    We intentionally ignore normal <img> tags because Telegram uses them for emoji/avatar.
+    """
 
-    bad_fragments = [
-        "telegram.org/img/emoji",
-        "/emoji/",
-        "data:image",
-        "tgme/emoji",
-        "static/img/emoji",
-    ]
+    photo_wraps = re.findall(
+        r'<a[^>]+class="[^"]*tgme_widget_message_photo_wrap[^"]*"[^>]*>',
+        block,
+        flags=re.DOTALL
+    )
 
-    for pattern in patterns:
-        matches = re.findall(pattern, block, flags=re.DOTALL)
+    for wrap in photo_wraps:
+        style_match = re.search(
+            r'style="([^"]+)"',
+            wrap,
+            flags=re.DOTALL
+        )
 
-        for raw_url in matches:
-            image_url = normalize_url(raw_url)
+        if not style_match:
+            continue
 
-            if not image_url:
-                continue
+        style = style_match.group(1)
 
-            if any(bad in image_url for bad in bad_fragments):
-                continue
+        image_match = re.search(
+            r'background-image:\s*url\([\'"]?([^\'")]+)[\'"]?\)',
+            style,
+            flags=re.DOTALL
+        )
 
-            if image_url.startswith("data:"):
-                continue
+        if not image_match:
+            continue
 
-            return image_url
+        image_url = normalize_url(image_match.group(1))
+        image_url_lower = image_url.lower()
+
+        bad_fragments = [
+            "emoji",
+            "avatar",
+            "profile_photo",
+            "telegram.org/img",
+            "tgme/emoji",
+            "data:image",
+        ]
+
+        if not image_url:
+            continue
+
+        if any(bad in image_url_lower for bad in bad_fragments):
+            continue
+
+        return image_url
 
     return ""
 
 
 def split_message_blocks(page):
     parts = re.split(r'<div class="tgme_widget_message_wrap', page)
-
-    blocks = []
-
-    for raw in parts[1:]:
-        blocks.append('<div class="tgme_widget_message_wrap' + raw)
-
-    return blocks
+    return ['<div class="tgme_widget_message_wrap' + raw for raw in parts[1:]]
 
 
 def parse_posts(page):
     posts = []
-
     seen = set()
 
     blocks = split_message_blocks(page)
@@ -132,7 +143,6 @@ def parse_posts(page):
         seen.add(url)
 
         text = ""
-
         if text_match:
             text = clean_text(text_match.group(1))
 
@@ -142,7 +152,6 @@ def parse_posts(page):
             continue
 
         title = "DocSPACE Medical Digest"
-
         if text:
             title = text.split("\n")[0].strip()[:140]
 
@@ -164,20 +173,13 @@ def parse_posts(page):
 
 def main():
     page = fetch_html(URL)
-
     posts = parse_posts(page)
 
     print(f"Parsed {len(posts)} posts")
-
-    print(
-        f"Posts with images: "
-        f"{sum(1 for post in posts if post.get('imageUrl'))}"
-    )
+    print(f"Posts with images: {sum(1 for post in posts if post.get('imageUrl'))}")
 
     if len(posts) == 0:
-        raise RuntimeError(
-            "No posts parsed. Keeping old feed untouched."
-        )
+        raise RuntimeError("No posts parsed. Keeping old feed untouched.")
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
