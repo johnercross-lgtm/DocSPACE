@@ -32,6 +32,11 @@ _BACKGROUND_IMAGE_UNQUOTED_RE = re.compile(
     flags=re.IGNORECASE,
 )
 _DATA_POST_ID_RE = re.compile(r"data-post\s*=\s*[\"'][^\"']*/(?P<id>\d+)[\"']", flags=re.IGNORECASE)
+_MEDIA_CONTAINER_CLASSES = {
+    "tgme_widget_message_photo_wrap",
+    "tgme_widget_message_service_photo",
+    "tgme_widget_message_grouped_layer",
+}
 _VOID_TAGS = {
     "area",
     "base",
@@ -78,6 +83,7 @@ class TelegramDigestHTMLParser(HTMLParser):
         self._current: TelegramMessageDraft | None = None
         self._wrapper_div_depth = 0
         self._text_depth = 0
+        self._inside_media_anchor_depth = 0
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attrs_dict = {key: (value or "") for key, value in attrs}
@@ -92,6 +98,9 @@ class TelegramDigestHTMLParser(HTMLParser):
         if self._current is None:
             return
 
+        is_media_container = bool(class_names & _MEDIA_CONTAINER_CLASSES)
+        is_media_anchor = tag == "a" and is_media_container
+
         if tag == "div":
             self._wrapper_div_depth += 1
             if "tgme_widget_message_text" in class_names:
@@ -99,7 +108,15 @@ class TelegramDigestHTMLParser(HTMLParser):
         elif self._text_depth > 0 and tag not in _VOID_TAGS:
             self._text_depth += 1
 
-        self._capture_message_metadata(tag=tag, attrs=attrs_dict, classes=class_names)
+        if is_media_anchor:
+            self._inside_media_anchor_depth += 1
+
+        self._capture_message_metadata(
+            tag=tag,
+            attrs=attrs_dict,
+            classes=class_names,
+            is_media_container=is_media_container,
+        )
 
     def handle_startendtag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         self.handle_starttag(tag, attrs)
@@ -115,6 +132,9 @@ class TelegramDigestHTMLParser(HTMLParser):
         if self._current is None:
             return
 
+        if tag == "a" and self._inside_media_anchor_depth > 0:
+            self._inside_media_anchor_depth -= 1
+
         if self._text_depth > 0:
             self._text_depth -= 1
 
@@ -125,8 +145,15 @@ class TelegramDigestHTMLParser(HTMLParser):
                 self._current = None
                 self._wrapper_div_depth = 0
                 self._text_depth = 0
+                self._inside_media_anchor_depth = 0
 
-    def _capture_message_metadata(self, tag: str, attrs: dict[str, str], classes: set[str]) -> None:
+    def _capture_message_metadata(
+        self,
+        tag: str,
+        attrs: dict[str, str],
+        classes: set[str],
+        is_media_container: bool,
+    ) -> None:
         if self._current is None:
             return
 
@@ -142,13 +169,15 @@ class TelegramDigestHTMLParser(HTMLParser):
             self._current.published_at = attrs.get("datetime", "").strip()
 
         style_value = attrs.get("style", "")
-        if style_value:
+        if style_value and is_media_container:
             extracted = extract_background_image(style_value)
             if extracted:
                 self._current.image_candidates.append(extracted)
 
         if tag == "img":
             if "emoji" in classes:
+                return
+            if self._inside_media_anchor_depth <= 0:
                 return
             src = attrs.get("src", "")
             if src:
@@ -219,138 +248,3 @@ def extract_title_abstract(text: str) -> tuple[str, str]:
         return "", ""
 
     parts = re.split(r"(?<=[\.\!\?])\s+", text)
-    title_candidate = parts[0] if parts else text
-    title = title_candidate[:TITLE_LIMIT].strip()
-    if len(title_candidate) > TITLE_LIMIT:
-        title = f"{title.rstrip()}…"
-
-    abstract = text[:ABSTRACT_LIMIT].strip()
-    if len(text) > ABSTRACT_LIMIT:
-        abstract = f"{abstract.rstrip()}…"
-
-    return title, abstract
-
-
-def parse_posts(html: str, updated_at_iso: str) -> list[dict[str, str]]:
-    parser = TelegramDigestHTMLParser()
-    parser.feed(html)
-
-    items: list[dict[str, str]] = []
-    for message in parser.items:
-        message_id = message.message_id
-        if message_id is None:
-            continue
-
-        url = message.url.strip()
-        published_at = message.published_at.strip()
-        if not url or not published_at:
-            continue
-
-        title, abstract = extract_title_abstract(message.text)
-        if not title:
-            title = f"DocSPACE Digest #{message_id}"
-
-        items.append(
-            {
-                "id": f"docspace_digest_{message_id}",
-                "type": "docspace_digest",
-                "title": title,
-                "abstract": abstract,
-                "imageUrl": message.image_url,
-                "url": url,
-                "source": "DocSPACE Medical Digest",
-                "category": "editorial_digest",
-                "publishedAt": published_at,
-                "updatedAt": updated_at_iso,
-            }
-        )
-
-    return items
-
-
-def parse_oldest_message_id(html: str) -> int | None:
-    ids = [int(match.group("id")) for match in _DATA_POST_ID_RE.finditer(html)]
-    if not ids:
-        return None
-    return min(ids)
-
-
-def iso_to_datetime(value: str) -> datetime:
-    return datetime.fromisoformat(value.replace("Z", "+00:00"))
-
-
-def deduplicate_items(items: Iterable[dict[str, str]]) -> list[dict[str, str]]:
-    by_id: dict[str, dict[str, str]] = {}
-    for item in items:
-        key = item.get("id", "").strip()
-        if not key:
-            continue
-
-        existing = by_id.get(key)
-        if existing is None:
-            by_id[key] = item
-            continue
-
-        current_date = iso_to_datetime(item.get("publishedAt", "1970-01-01T00:00:00Z"))
-        existing_date = iso_to_datetime(existing.get("publishedAt", "1970-01-01T00:00:00Z"))
-        if current_date >= existing_date:
-            by_id[key] = item
-
-    return list(by_id.values())
-
-
-def collect_posts(channel_url: str, max_pages: int, timeout_seconds: int) -> list[dict[str, str]]:
-    updated_at_iso = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-    before: int | None = None
-    seen_before_markers: set[int] = set()
-    all_items: list[dict[str, str]] = []
-
-    for _ in range(max_pages):
-        page_url = channel_url if before is None else f"{channel_url}?before={before}"
-        html = fetch_html(page_url, timeout_seconds)
-
-        all_items.extend(parse_posts(html, updated_at_iso=updated_at_iso))
-
-        oldest_id = parse_oldest_message_id(html)
-        if oldest_id is None or oldest_id in seen_before_markers:
-            break
-
-        seen_before_markers.add(oldest_id)
-        before = oldest_id
-
-    deduped = deduplicate_items(all_items)
-    deduped.sort(key=lambda item: iso_to_datetime(item["publishedAt"]), reverse=True)
-    return deduped
-
-
-def write_feed(items: list[dict[str, str]], output_path: Path, limit: int) -> None:
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    payload = items[:limit]
-    with output_path.open("w", encoding="utf-8") as handle:
-        json.dump(payload, handle, ensure_ascii=False, indent=2)
-
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Fetch DocSPACE Medical Digest feed from Telegram.")
-    parser.add_argument("--channel-url", type=str, default=TELEGRAM_SOURCE_URL, help="Telegram /s/ channel URL")
-    parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_PATH, help="Output JSON path")
-    parser.add_argument("--limit", type=int, default=DEFAULT_LIMIT, help="Maximum number of items to write")
-    parser.add_argument("--max-pages", type=int, default=DEFAULT_MAX_PAGES, help="Telegram pages to parse")
-    parser.add_argument("--timeout", type=int, default=DEFAULT_TIMEOUT_SECONDS, help="HTTP timeout in seconds")
-    return parser.parse_args()
-
-
-def main() -> int:
-    args = parse_args()
-    items = collect_posts(
-        channel_url=args.channel_url,
-        max_pages=args.max_pages,
-        timeout_seconds=args.timeout,
-    )
-    write_feed(items=items, output_path=args.output, limit=args.limit)
-    print(f"Saved {min(len(items), args.limit)} items to {args.output}")
-    return 0
-
-
-if __name__ == "__main__":
-    raise SystemExit(main())
