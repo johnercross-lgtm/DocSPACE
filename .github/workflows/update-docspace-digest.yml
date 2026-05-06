@@ -4,9 +4,19 @@ on:
   schedule:
     - cron: "15 */6 * * *"
   workflow_dispatch:
+    inputs:
+      source:
+        required: false
+        default: "manual"
+      telegram_message_id:
+        required: false
 
 permissions:
   contents: write
+
+concurrency:
+  group: docspace-digest-feed
+  cancel-in-progress: false
 
 jobs:
   update:
