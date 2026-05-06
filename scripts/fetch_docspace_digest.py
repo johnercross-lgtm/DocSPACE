@@ -58,14 +58,30 @@ def extract_image_url(block):
         r'data-src=[\'"]([^\'"]+)[\'"]',
     ]
 
+    bad_fragments = [
+        "telegram.org/img/emoji",
+        "/emoji/",
+        "data:image",
+        "tgme/emoji",
+        "static/img/emoji",
+    ]
+
     for pattern in patterns:
-        match = re.search(pattern, block, flags=re.DOTALL)
+        matches = re.findall(pattern, block, flags=re.DOTALL)
 
-        if match:
-            image_url = normalize_url(match.group(1))
+        for raw_url in matches:
+            image_url = normalize_url(raw_url)
 
-            if image_url and not image_url.startswith("data:"):
-                return image_url
+            if not image_url:
+                continue
+
+            if any(bad in image_url for bad in bad_fragments):
+                continue
+
+            if image_url.startswith("data:"):
+                continue
+
+            return image_url
 
     return ""
 
