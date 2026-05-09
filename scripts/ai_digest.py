@@ -1,5 +1,6 @@
 import json
 import os
+import urllib.error
 import urllib.request
 
 
@@ -32,7 +33,9 @@ Original title:
 Original abstract:
 {abstract}
 
-Поверни СТРОГО JSON без markdown:
+Поверни тільки валідний JSON без markdown, без пояснень, без ```.
+
+Формат:
 
 {{
   "title_uk": "короткий український заголовок",
@@ -47,7 +50,39 @@ Original abstract:
   "tags": ["тег1", "тег2", "тег3"],
   "priority_score": 1
 }}
-"""
+""".strip()
+
+
+def extract_output_text(response_payload: dict) -> str:
+    if isinstance(response_payload.get("output_text"), str):
+        return response_payload["output_text"].strip()
+
+    parts = []
+
+    for output_item in response_payload.get("output", []):
+        for content_item in output_item.get("content", []):
+            text = content_item.get("text")
+            if isinstance(text, str):
+                parts.append(text)
+
+    return "\n".join(parts).strip()
+
+
+def safe_parse_json(text: str) -> dict:
+    text = text.strip()
+
+    if text.startswith("```"):
+        text = text.strip("`").strip()
+        if text.startswith("json"):
+            text = text[4:].strip()
+
+    start = text.find("{")
+    end = text.rfind("}")
+
+    if start != -1 and end != -1 and end > start:
+        text = text[start:end + 1]
+
+    return json.loads(text)
 
 
 def process_article_with_ai(article: dict) -> dict:
@@ -79,10 +114,16 @@ def process_article_with_ai(article: dict) -> dict:
 
     try:
         with urllib.request.urlopen(request, timeout=60) as response:
-            data = json.loads(response.read().decode("utf-8"))
+            response_payload = json.loads(response.read().decode("utf-8"))
 
-        output_text = data.get("output_text", "")
-        ai = json.loads(output_text)
+        output_text = extract_output_text(response_payload)
+
+        if not output_text:
+            print("[warn] AI response has no text output")
+            print(json.dumps(response_payload, ensure_ascii=False)[:1000])
+            return article
+
+        ai = safe_parse_json(output_text)
 
         original_title = article.get("title", "")
         original_abstract = article.get("abstract", "")
@@ -102,6 +143,11 @@ def process_article_with_ai(article: dict) -> dict:
         article["aiProcessed"] = True
         article["aiModel"] = OPENAI_MODEL
 
+        return article
+
+    except urllib.error.HTTPError as error:
+        body = error.read().decode("utf-8", errors="ignore")
+        print(f"[warn] OpenAI HTTP error {error.code}: {body[:1000]}")
         return article
 
     except Exception as error:
