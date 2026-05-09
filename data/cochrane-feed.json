@@ -1,265 +1,261 @@
 [
   {
-    "title": "Протокол огляду Cochrane щодо прийому вітаміну B12 жінками репродуктивного віку",
-    "abstract": "Цей протокол передбачає оцінку потенційних користі та ризиків перорального прийому вітаміну B12 для покращення його статусу, профілактики анемії та здоров'я у жінок репродуктивного віку. Результати досліджень поки що очікуються і не є остаточними.",
+    "title": "Протокол огляду Cochrane: прийом вітаміну B12 для жінок репродуктивного віку",
+    "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити потенційні переваги та ризики перорального прийому вітаміну B12 щодо стану вітаміну B12, анемії та здоров'я у жінок репродуктивного віку.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016233/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 08",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Vitamin B12 supplementation for anaemia, vitamin B12 status, and health outcomes in women of reproductive age.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of oral vitamin B12 supplementation on vitamin B12 status, anaemia, and health outcomes in women of reproductive age.",
     "keyPoints": [
-      "Мета — оцінити вплив пероральної прийому B12 на стан вітаміну та здоров'я жінок репродуктивного віку.",
-      "Поточні дані відсутні, результатів дослідження ще не отримано.",
-      "Результати важливі для визначення рекомендацій щодо суплементації у цій групі.",
-      "practical_takeaway': ",
-      "Обережно інформуйте пацієнток про можливу користь і ризики, орієнтуючись на офіційні докази, що очікуються з цього дослідження.",
-      "specialty': "
+      "Огляд оцінює вплив перорального прийому вітаміну B12.",
+      "Розглядаються ефекти на рівень вітаміну B12 та анемію.",
+      "Це лише протокол, результати ще не отримані."
     ],
-    "practicalTakeaway": "",
-    "specialty": "",
+    "practicalTakeaway": "Інформація базується на запланованому огляді, результати ще не опубліковані.",
+    "specialty": "Дитяча та жіноча медицина",
     "tags": [
-      "вітаімін B12",
+      "вітамін B12",
       "анемія",
       "жінки репродуктивного віку"
     ],
-    "priorityScore": 1,
+    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Протокол огляду Cochrane щодо профілактики небажаної вагітності підлітків",
-    "abstract": "Цей протокол передбачає систематичний аналіз ефективності превентивних заходів (шкільних, громадських, клінічних, релігійних) у попередженні небажаних вагітностей серед підлітків. Результати допоможуть визначити найбільш ефективні стратегії профілактики.",
+    "title": "Протокол огляду Cochrane щодо запобігання небажаним вагітностям серед підлітків",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка впливу первинних профілактичних заходів (шкільних, громадських/домашніх, клінічних, релігійних) на рівень небажаних вагітностей серед підлітків.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016356/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 07",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Interventions for preventing unintended pregnancies among adolescents.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effects of primary prevention interventions (school-based, community/home-based, clinic-based, and faith-based) on unintended pregnancies among adolescents.",
     "keyPoints": [
-      "Актуальність проблеми небажаної вагітності серед підлітків.",
-      "Огляд різних програм профілактики, що застосовуються у різних середовищах.",
-      "Збір доказів щодо ефективності превентивних інтервенцій."
+      "Огляд оцінює профілактичні заходи для підлітків.",
+      "Розглядаються різні типи інтервенцій.",
+      "Це лише протокол, результати ще не опубліковані."
     ],
-    "practicalTakeaway": "Інформація з цього протоколу може слугувати основою для розробки та вдосконалення програм профілактики небажаної вагітності у підлітків.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Даний протокол визначає напрямки досліджень щодо профілактики небажаних вагітностей у підлітків.",
+    "specialty": "Гінекологія, педіатрія, громадське здоров'я",
     "tags": [
-      "репродуктологія",
       "профілактика",
-      "підлітки"
+      "підлітки",
+      "вагітність"
     ],
-    "priorityScore": 1,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Монолікування модулятора CFTR для cystic fibrosis з генетичними варіантами класу II",
-    "abstract": "Протокол огляду Cochrane аналізує застосування монотерапії модулятора CFTR у пацієнтів із муковісцидозом, зокрема з варіантом F508del. Це генетична форма, яка характеризується повною відсутністю функції CFTR через швидке руйнування білка перед його досягненням мембрани. Огляд досліджує потенційні ефекти цієї терапії для покращення стану пацієнтів.",
+    "title": "Монотерапія модуляторами CFTR для пацієнтів з муковісцидозом та варіантом F508del",
+    "abstract": "Цей протокол огляду Cochrane досліджує ефективність застосування модуляторів CFTR у монотерапії для осіб з муковісцидозом, у яких виявлено варіант гена F508del. Варіант F508del є найпоширенішим, що призводить до втрати функції білка CFTR через його деградацію перед досягненням клітинної мембрани.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016290/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 07",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "CFTR modulator monotherapy for people with cystic fibrosis with class II CFTR gene variants (most commonly F508del).",
     "originalAbstract": "Cystic fibrosis (CF) is a common, life-shortening genetic condition caused by a variant in the cystic fibrosis transmembrane conductance regulator (CFTR) protein. A class II CFTR gene variant, F508del, is the commonest CF-causing variant (found in up to 90% of people with CF (pwCF) in some populations). The F508del variant lacks meaningful CFTR function: the faulty protein is degraded before reaching the cell membrane, where it would normally transport salt across the epithelial membrane. Correc…",
     "keyPoints": [
-      "F508del — найпоширеніший варіант муковісцидозу, що позбавляє функції CFTR.",
-      "Монотерапія модулятора CFTR спрямована на корекцію цього дефекту.",
-      "Огляд охоплює потенційні результати та обмеження такої терапії."
+      "Розглядається застосування модуляторів CFTR у монотерапії.",
+      "Фокус на пацієнтах з варіантом F508del.",
+      "Огляд базується на протоколі огляду Cochrane."
     ],
-    "practicalTakeaway": "Вивчення ефективності монолікування модуляторами CFTR важливе для покращення лікувальних підходів до муковісцидозу з генетичними варіантами класу II.",
-    "specialty": "установи пульмонології",
+    "practicalTakeaway": "Інформація про потенційні можливості застосування модуляторів CFTR для пацієнтів з F508del потребує подальших досліджень.",
+    "specialty": "Пульмонологія, Генетика",
     "tags": [
       "муковісцидоз",
       "CFTR",
-      "генетика",
-      "фармацевтика"
+      "лікування"
     ],
-    "priorityScore": 1,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ольфакторна стимуляція у передчасних новонароджених",
-    "abstract": "Протокол огляду Cochrane оцінює можливий вплив ольфакторної стимуляції на розвиток та зниження захворюваності у госпіталізованих передчасних немовлят. Необхідні додаткові дослідження для визначення ефективності та безпеки цієї інтервенції.",
+    "title": "Ольфакторна стимуляція для підтримки розвитку та запобігання у передчасних немовлят",
+    "abstract": "Це протокол огляду Cochrane досліджує ефективність ольфакторної стимуляції у зменшенні захворюваності та сприянні розвитку у госпіталізованих передчасних немовлят. Мета — оцінити потенційні переваги та ризики цієї інтервенції.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016074.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 06",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Olfactory stimulation for promoting development and preventing morbidity in preterm infants.",
     "originalAbstract": "Preterm infants, often gavage-fed due to immaturity, may benefit from interventions that hasten the move to breastfeeding. Olfactory stimulation may increase appetite and speed up the transition to full oral feeding, potentially shortening hospital stay and improving outcomes for both infants and families. To evaluate the benefits and harms of olfactory stimulation for reducing morbidity and promoting development in hospitalized preterm infants. We searched MEDLINE, Embase, CENTRAL, CINAHL, Epis…",
     "keyPoints": [
-      "Ольфакторна стимуляція може прискорити перехід до повного орального годування у передчасних немовлят.",
-      "Може потенційно скоротити тривалість госпіталізації та покращити результати для немовлят і їх сімей.",
-      "Сучасний стан оцінки базується на протоколі огляду; результати потребують подальших досліджень."
+      "Досліджується вплив ольфакторної стимуляції на розвиток передчасних немовлят.",
+      "Розглядаються можливі переваги у скороченні госпіталізації та покращенні годування.",
+      "Огляд базується на протоколі, а не на завершених дослідженнях."
     ],
-    "practicalTakeaway": "На сьогодні достовірних доказів щодо ефективності ольфакторної стимуляції у передчасних немовлят немає, тому її застосування слід розглядати з обережністю та у рамках досліджень.",
+    "practicalTakeaway": "Поточні дані свідчать про потенціал ольфакторної стимуляції, але потрібні додаткові дослідження для підтвердження її ефективності.",
     "specialty": "неонатологія",
     "tags": [
-      "інтеракція з запахами",
-      "передчасні новонароджені",
-      "інтенсивна терапія"
+      "передчасні немовлята",
+      "стимуляція запахом",
+      "розвиток"
     ],
-    "priorityScore": 1,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Хорове спів для дорослих з хронічними респіраторними захворюваннями",
-    "abstract": "Це протокол огляду Cochrane, який має на меті оцінити переваги та ризики співу для дорослих з ХРЗ. Результати базуються на запланованих дослідженнях і поки що не є завершеними. Огляд допомагає визначити потенційний терапевтичний вплив співу.",
+    "title": "Пісенна терапія для дорослих з хронічними респіраторними захворюваннями",
+    "abstract": "Це протокол огляду Cochrane, метою якого є оцінка переваг та ризиків співу для дорослих з хронічними респіраторними захворюваннями у порівнянні з усіма дослідженими групами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016265/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 06",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Singing for adults with chronic respiratory disease.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of singing for chronic respiratory diseases in adults compared to all studied comparison groups.",
     "keyPoints": [
-      "Це запланований огляд ефективності співу у дорослих з хронічними респіраторними захворюваннями.",
-      "Спостерігається відсутність остаточних результатів, необхідних для формулювання клінічних рекомендацій.",
-      "Огляд зосереджений на співставленні співу з іншими втручаннями або стандартною терапією."
+      "Огляд оцінює вплив співу на дорослих з хронічними респіраторними захворюваннями.",
+      "Розглядаються потенційні переваги та ризики від співу.",
+      "Це протокол, а не завершений огляд."
     ],
-    "practicalTakeaway": "Інформація щодо ролі співу у лікуванні ХРЗ наразі обмежена, і потребує подальшого дослідження.",
-    "specialty": "пульмонологія",
+    "practicalTakeaway": "Інформація про потенційний вплив співу на стан пацієнтів з хронічними респіраторними захворюваннями ще потребує підтвердження.",
+    "specialty": "Пульмонологія, реабілітація дихальної системи",
     "tags": [
+      "респіраторні захворювання",
       "реабілітація",
-      "хронічні захворювання",
-      "нерідна терапія"
+      "спів"
     ],
-    "priorityScore": 1,
+    "priorityScore": 3,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Літні пацієнти у лікарнях: профілактика падінь",
-    "abstract": "Звіти з Cochrane аналізують інтервенції для зменшення ризику падінь у літніх пацієнтів у лікарнях, включаючи реабілітаційні відділення. Однак результати залишаються попередніми і вимагають подальших досліджень.",
+    "title": "Заходи для запобігання падінь у літніх пацієнтів у лікарнях",
+    "abstract": "Це оновлення огляду Cochrane щодо заходів для зменшення кількості падінь у літніх пацієнтів у лікарнях та реабілітаційних закладах. Пошук охоплював CENTRAL, MEDLINE, Embase, CINAHL та реєстри досліджень. Вивчалися переваги та можливі шкоди застосовуваних інтервенцій.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016065/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 05",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Interventions for preventing falls in older people in hospitals.",
     "originalAbstract": "Falls in hospitals are common events that cause considerable morbidity and mortality for older people. This is an update of the hospital components of a review of interventions in hospitals and care facilities first published in 2010 and updated in 2012 and 2018. To evaluate the benefits and harms of interventions designed to reduce the incidence of falls in older people in hospitals, including inpatient rehabilitation facilities. We searched CENTRAL, MEDLINE, Embase, CINAHL, and trial registers…",
     "keyPoints": [
-      "Підвищена частота падінь у пацієнтів похилого віку у стаціонарі.",
-      "Існує безліч інтервенцій для запобігання падінь, але їх ефективність потребує підтвердження.",
-      "Дослідження тривають для визначення найбільш ефективних заходів."
+      "Падіння у лікарнях є поширеною проблемою серед літніх.",
+      "Оновлений огляд аналізує ефективність заходів для запобігання падінь.",
+      "Дослідження включають різні типи інтервенцій та заклади."
     ],
-    "practicalTakeaway": "Медики повинні враховувати актуальну доказову базу при впровадженні профілактичних заходів для літніх пацієнтів у стаціонарних умовах.",
-    "specialty": "Геріатрія",
+    "practicalTakeaway": "Необхідно враховувати різноманітність заходів для запобігання падінь у літніх пацієнтів у лікарнях.",
+    "specialty": "Геріатрія, Травматологія",
     "tags": [
       "падіння",
-      "лікарня",
+      "лікарняні інтервенції",
       "літні пацієнти"
     ],
-    "priorityScore": 1,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Протокол огляду щодо профілактики анті-D у післяпологовому періоді",
-    "abstract": "Цей протокол огляду Cochrane досліджує ефективність і безпечність застосування різних доз і часів введення анті-D для запобігання резус-імунізації у Rh-негативних жінок після народження дитини з Rh-позитивною групою. Це лише план дослідження, а не завершений огляд.",
+    "title": "Протокол огляду Cochrane щодо профілактики Rh-аллоімунізації після пологів за допомогою анти-D",
+    "abstract": "Це протокол для огляду Cochrane, що оцінює ефективність та безпеку різних доз та часів введення анти-D для запобігання Rh-аллоімунізації у Rh-негативних жінок після пологів з Rh-позитивною дитиною.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014729/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 05",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Anti-D administration after childbirth for preventing Rhesus alloimmunisation for subsequent pregnancies.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of various doses and timings of anti-D administration for prevention of Rhesus (Rh) alloimmunisation after childbirth in Rh-negative women with an Rh-positive baby.",
     "keyPoints": [
-      "Це протокол огляду, який ще не містить даних.",
-      "Мета — оцінити, як різні режими застосування анті-D впливають на профілактику резус-імунізації.",
-      "Це важливо для покращення стратегій профілактики резус-імунізації у вагітних."
+      "Огляд стосується профілактики Rh-аллоімунізації після пологів.",
+      "Розглядаються різні дози та часи введення анти-D.",
+      "Мета — визначити баланс користі та ризиків."
     ],
-    "practicalTakeaway": "Планується систематичне оцінювання методів профілактики резус-імунізації у післяпологовому періоді у жінок з Rh-негативним резус-фактором.",
+    "practicalTakeaway": "Докази щодо оптимальної дози та часу введення анти-D ще потребують уточнення.",
     "specialty": "Акушерство та гінекологія",
     "tags": [
-      "вагітність",
-      "резус-конфлікт",
+      "Rh-аллоімунізація",
+      "анти-D",
       "профілактика"
     ],
-    "priorityScore": 1,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Візуальні тести капілярної прохідності для діагностики непрохідності труб і гидросальпіна",
-    "abstract": "Огляд Cochrane аналізує можливості неінвазивних візуальних методів для виявлення непрохідності маткових труб і гидросальпіна у пар. Враховується їх порівняльна ефективність з хірургічним обстеженням, яке є стандартом. Результати базуються на запланованих дослідженнях, остаточні висновки ще не оприлюднені.",
+    "title": "Візуальні тубальні тестування прохідності при облітерації та гидросальпінксі",
+    "abstract": "Дослідження показують, що у 18-33% пар з безпліддям виявляють облітерацію маткових труб або гидросальпінкс. Золотим стандартом діагностики є лапароскопія з хромоперитубацією, але через її інвазивність застосовують менш агресивні методи з використанням візуальної діагностики. Огляд Cochrane аналізує доступні альтернативи.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014968.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 May 04",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Visual tubal patency tests for tubal occlusion and hydrosalpinx.",
     "originalAbstract": "Around 18% to 33% of couples with infertility present with tubal occlusion (blocked or damaged fallopian tubes) or hydrosalpinx (fluid-filled tubes). Diagnostic laparoscopy (keyhole surgery) with chromopertubation (methylene blue dye tubal patency testing) is considered the reference standard for ruling out tubal occlusion and hydrosalpinx. However, due to its invasiveness and high costs, alternative, less invasive tests have been carried out using imaging techniques. They include sono-hysterosa…",
     "keyPoints": [
-      "Візуальні тестування можуть бути альтернативою хірургічного обстеження у діагностиці трубної непрохідності.",
-      "Поточні дані обмежені, і потрібні додаткові дослідження для підтвердження їх ефективності.",
-      "Результати огляду ще не завершені, тому не можна робити остаточні висновки про їх застосування."
+      "Лапароскопія з хромоперитубацією — стандарт діагностики.",
+      "Менш інвазивні методи використовують візуальні дослідження.",
+      "Доказова база щодо точності альтернативних тестів обмежена."
     ],
-    "practicalTakeaway": "Медикам слід враховувати обмеження поточних доказів щодо неінвазивних візуальних методів оцінки прохідності маткових труб.",
-    "specialty": "гінекологія",
+    "practicalTakeaway": "Для діагностики облітерації труб та гидросальпінкса розглядають використання менш інвазивних візуальних методів, але їх ефективність потребує додаткових досліджень.",
+    "specialty": "Гінекологія",
     "tags": [
       "діагностика",
-      "гінекологія",
-      "прохідність труб"
+      "тубальні обструкції",
+      "гідросальпінкс"
     ],
-    "priorityScore": 1,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Системи підтримки печінки при гострій печінковій недостатності у дорослих",
-    "abstract": "Гостра печінкова недостатність є загрозливим для життя станом, що потребує негайної медичної допомоги або трансплантації печінки. Це протокол огляду, що аналізує використання систем підтримки для детоксикації та відновлення функцій печінки перед можливим трансплантуванням.",
+    "abstract": "Гостра печінкова недостатність (ГПН) є небезпечним для життя станом, що характеризується серйозним пошкодженням клітин печінки та її функцій. Від етіології ГПН залежить прогноз, без невідкладної допомоги або трансплантації печінки ризик смерті високий. Системи підтримки печінки застосовуються як проміжна терапія для детоксикації та відновлення функцій печінки до настання клінічного одужання або доступності донорської печінки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015059.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 Apr 28",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Liver support systems for adults with acute liver failure.",
     "originalAbstract": "Acute liver failure (ALF) is a life-threatening condition, characterised by serious damage to the liver cells and function. The aetiology of ALF determines the prognosis, and without immediate care or liver transplantation, people with ALF will develop life-threatening complications and die. Liver support systems are used as a bridge therapy to provide detoxification and restore liver function until either functional recovery occurs or a liver becomes available for transplantation. Liver support…",
     "keyPoints": [
-      "Гостра печінкова недостатність спричинена різною етіологією та має серйозні ускладнення.",
-      "Системи підтримки печінки використовуються як тимчасова терапія для підтримки функцій печінки.",
-      "Дослідження зосереджені на визначенні ефективності та безпеки таких систем."
+      "Системи підтримки печінки використовуються як проміжна терапія при ГПН.",
+      "Мета — детоксикація та відновлення функцій печінки.",
+      "Застосовуються до отримання клінічного одужання або трансплантації."
     ],
-    "practicalTakeaway": "Системи підтримки печінки можуть слугувати проміжним заходом у лікуванні гострої печінкової недостатності, однак їх роль треба оцінювати у контексті інших методів лікування та трансплантації.",
+    "practicalTakeaway": "Використання систем підтримки печінки може бути важливим етапом у лікуванні гострої печінкової недостатності.",
     "specialty": "Гепатологія",
     "tags": [
-      "гепатологія",
       "гостра печінкова недостатність",
-      "лікування"
+      "лікування",
+      "підтримка печінки"
     ],
-    "priorityScore": 1,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Час проведення серцево-воєнних операцій: ранішній проти вечірнього початку",
-    "abstract": "Циркадні ритми впливають на функцію серця та ризик серйозних серцево-судинних подій. Вивчення порушує питання про оптимальний час початку хірургічних втручань, але наразі дані суперечливі. Це систематичний огляд протоколу для оцінки впливу часу операції на клінічні результати.",
+    "title": "Ранній проти пізнього початку серцево-судинної хірургії з використанням штучного кровообігу",
+    "abstract": "Це протокол огляду Cochrane, що аналізує вплив часу початку серцево-судинної хірургії з використанням штучного кровообігу на клінічні результати. Результати досліджень є суперечливими щодо переваг проведення операцій у різний час доби, зокрема щодо зменшення ішемічно-реперфузійних ушкоджень.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014901.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026 Apr 28",
-    "updatedAt": "2026-05-09T12:36:43Z",
+    "updatedAt": "2026-05-09T12:39:52Z",
     "originalTitle": "Early versus late surgical start times for on-pump cardiac surgery.",
     "originalAbstract": "Circadian rhythms affect cardiovascular function, and the timing and severity of stroke and myocardial infarction (commonly known as a heart attack). Afternoon cardiac surgery may improve outcomes by reducing ischaemia-reperfusion injury (i.e. reducing tissue damage caused when blood supply returns to tissue (reperfusion) after a period of oxygen deprivation (ischaemia)). However, the evidence is conflicting. This systematic review assessed the impact of surgical timing on clinical outcomes afte…",
     "keyPoints": [
-      "Ранній та пізній час проведення операцій можуть мати різний вплив на результати хірургії.",
-      "Враховується вплив циркадних ритмів на серцево-судинні функції та ушкодження тканин.",
-      "Доказова база ще недостатньо однозначна, щоб сформувати остаточні висновки."
+      "Розглядається вплив часу операції на результати.",
+      "Докази щодо переваг раннього або пізнього початку суперечливі.",
+      "Дослідження зосереджені на серцево-судинних операціях з використанням штучного кровообігу."
     ],
-    "practicalTakeaway": "Наразі необхідні додаткові дослідження для чіткішого визначення оптимального часу початку кардіохірургії.",
-    "specialty": "кардіохірургія",
+    "practicalTakeaway": "Поточні дані не дають однозначних рекомендацій щодо оптимального часу початку серцево-судинної хірургії.",
+    "specialty": "Кардіохірургія",
     "tags": [
-      "кардіохірургія",
+      "серцева хірургія",
       "час операції",
-      "циркадні ритми"
+      "клінічні результати"
     ],
-    "priorityScore": 1,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
