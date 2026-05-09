@@ -3,8 +3,11 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 import time
+
+from ai_digest import process_article_with_ai
+
 
 SEARCH_TERMS = {
     "general_medicine": (
@@ -18,7 +21,8 @@ SEARCH_TERMS = {
 }
 
 OUT_PATH = Path("data/pubmed-feed.json")
-MAX_RESULTS = 30
+MAX_RESULTS = 10
+ABSTRACT_LIMIT = 500
 
 
 def get_json(url):
@@ -55,6 +59,24 @@ def fetch_pmids(term):
     return data.get("esearchresult", {}).get("idlist", [])
 
 
+def parse_published_at(article):
+    year = get_text(article.find(".//PubDate/Year"))
+    month = get_text(article.find(".//PubDate/Month"))
+    day = get_text(article.find(".//PubDate/Day"))
+
+    if year and month and day:
+        return f"{year}-{month}-{day}"
+
+    if year and month:
+        return f"{year}-{month}"
+
+    if year:
+        return year
+
+    medline_date = get_text(article.find(".//PubDate/MedlineDate"))
+    return medline_date
+
+
 def fetch_articles(pmids, category):
     if not pmids:
         return []
@@ -83,22 +105,19 @@ def fetch_articles(pmids, category):
     root = ET.fromstring(xml_data)
     articles = []
 
+    updated_at = (
+        datetime.now(timezone.utc)
+        .replace(microsecond=0)
+        .isoformat()
+        .replace("+00:00", "Z")
+    )
+
     for article in root.findall(".//PubmedArticle"):
         pmid = get_text(article.find(".//PMID"))
         title = get_text(article.find(".//ArticleTitle"))
         journal = get_text(article.find(".//Journal/Title"))
         abstract = get_text(article.find(".//Abstract/AbstractText"))
-
-        year = get_text(article.find(".//PubDate/Year"))
-        month = get_text(article.find(".//PubDate/Month"))
-        day = get_text(article.find(".//PubDate/Day"))
-
-        published_at = year
-
-        if month:
-            published_at += f"-{month}"
-        if day:
-            published_at += f"-{day}"
+        published_at = parse_published_at(article)
 
         if not pmid or not title:
             continue
@@ -108,14 +127,24 @@ def fetch_articles(pmids, category):
             "title": title,
             "journal": journal,
             "publishedAt": published_at,
-            "abstract": abstract[:500],
+            "abstract": abstract[:ABSTRACT_LIMIT],
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
             "category": category,
             "source": "PubMed",
-            "updatedAt": datetime.utcnow().isoformat() + "Z"
+            "updatedAt": updated_at
         })
 
     return articles
+
+
+def process_items_with_ai(items):
+    processed_items = []
+
+    for index, item in enumerate(items, start=1):
+        print(f"AI processing PubMed item {index}/{len(items)}: {item.get('title', '')[:80]}")
+        processed_items.append(process_article_with_ai(item))
+
+    return processed_items
 
 
 def main():
@@ -128,15 +157,16 @@ def main():
         for article in articles:
             all_articles[article["pmid"]] = article
 
-    result = list(all_articles.values())
+    result = list(all_articles.values())[:MAX_RESULTS]
+    processed_result = process_items_with_ai(result)
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
-        json.dumps(result, ensure_ascii=False, indent=2),
+        json.dumps(processed_result, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
-    print(f"Saved {len(result)} PubMed articles")
+    print(f"Saved {len(processed_result)} AI-processed PubMed articles")
 
 
 if __name__ == "__main__":
