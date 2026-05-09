@@ -8,6 +8,30 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1-nano")
 
 
+SPECIALTIES = [
+    "кардіологія",
+    "пульмонологія",
+    "гастроентерологія",
+    "ендокринологія",
+    "неврологія",
+    "педіатрія",
+    "акушерство і гінекологія",
+    "інфекційні хвороби",
+    "фармакотерапія",
+    "доказова медицина",
+    "хірургія",
+    "онкологія",
+    "психіатрія",
+    "дерматологія",
+    "ревматологія",
+    "нефрологія",
+    "урологія",
+    "гематологія",
+    "імунологія",
+    "сімейна медицина",
+]
+
+
 DIGEST_SCHEMA = {
     "type": "object",
     "additionalProperties": False,
@@ -30,7 +54,8 @@ DIGEST_SCHEMA = {
             "type": "string"
         },
         "specialty": {
-            "type": "string"
+            "type": "string",
+            "enum": SPECIALTIES
         },
         "tags": {
             "type": "array",
@@ -63,6 +88,7 @@ def build_prompt(article: dict) -> str:
     abstract = article.get("abstract", "")
     source = article.get("source", "")
     journal = article.get("journal", "")
+    specialties_text = ", ".join(f'"{item}"' for item in SPECIALTIES)
 
     return f"""
 Ти медичний редактор DocSPACE.
@@ -81,6 +107,9 @@ def build_prompt(article: dict) -> str:
 - Краще використовуй: "прийом вітаміну B12", "пероральний прийом вітаміну B12", "суплементація вітаміном B12".
 - key_points мають містити тільки 3 короткі пункти.
 - Не вставляй поля practical_takeaway, specialty або tags всередину key_points.
+- specialty має бути тільки одним значенням зі списку: {specialties_text}.
+- Якщо матеріал загальний або доказовий, обирай "доказова медицина".
+- Якщо матеріал стосується жіночого здоров'я, вагітності або репродуктивного віку, обирай "акушерство і гінекологія".
 
 Джерело: {source}
 Журнал: {journal}
@@ -163,12 +192,16 @@ def normalize_ai_payload(ai: dict) -> dict:
 
     priority_score = max(1, min(priority_score, 10))
 
+    specialty = str(ai.get("specialty", "")).strip()
+    if specialty not in SPECIALTIES:
+        specialty = "доказова медицина"
+
     return {
         "title_uk": str(ai.get("title_uk", "")).strip(),
         "abstract_uk": str(ai.get("abstract_uk", "")).strip(),
         "key_points": key_points,
         "practical_takeaway": str(ai.get("practical_takeaway", "")).strip(),
-        "specialty": str(ai.get("specialty", "")).strip(),
+        "specialty": specialty,
         "tags": tags,
         "priority_score": priority_score,
     }
