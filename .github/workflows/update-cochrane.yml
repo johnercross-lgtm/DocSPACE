@@ -11,6 +11,7 @@ permissions:
 jobs:
   update-cochrane-feed:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,6 +22,9 @@ jobs:
           python-version: "3.11"
 
       - name: Fetch Cochrane feed
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-nano
         run: python scripts/fetch_cochrane.py
 
       - name: Commit changes
