@@ -13,19 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Run script
+      - name: Run PubMed script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-nano
         run: python scripts/fetch_pubmed.py
 
       - name: Commit updated feed
         run: |
+          if git diff --quiet -- data/pubmed-feed.json; then
+            echo "No PubMed feed changes"
+            exit 0
+          fi
           git config user.name "docspace-bot"
           git config user.email "docspace-bot@users.noreply.github.com"
           git add data/pubmed-feed.json
-          git diff --cached --quiet || git commit -m "Update PubMed feed"
+          git commit -m "Update PubMed feed"
           git push
