@@ -12,8 +12,7 @@ from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
 
-from scripts.ai_digest import process_article_with_ai
-
+from ai_digest import process_article_with_ai
 
 OUT_PATH = Path("data/cochrane-feed.json")
 FEED_URLS = (
