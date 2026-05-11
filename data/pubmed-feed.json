@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42107151",
-    "title": "Фактори затримки звернення за медичною допомогою у дорослих з пролежнями: якісний аналіз",
-    "journal": "Journal of tissue viability",
-    "publishedAt": "2026-May-05",
-    "abstract": "Мета дослідження — визначити чинники, що сприяють затримці звернення за медичною допомогою у пацієнтів з пролежнями, та створити теоретичну основу для розробки стратегій втручання з метою запобігання прогресії ушкоджень і покращення якості життя. Проведено якісний описовий аналіз з інтерв’ю 18 пацієнтів та їхніх опікунів, які мали затримки у зверненні за допомогою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107151/",
+    "pmid": "42109220",
+    "title": "Релаксометрія T2 у високогліальних гліомах: попередній аналіз характеристик пери-туморної тканини",
+    "journal": "The neuroradiology journal",
+    "publishedAt": "2026-May-11",
+    "abstract": "Дослідження оцінює можливість використання релаксометрії T2 для розрізнення тканинних характеристик високогліальних гліом та неінфільтративних уражень. Аналіз проведено з використанням програмного забезпечення Relaxo LNI на МРТ-даних пацієнтів із високогліальними гліомами, порівнюючи пери-туморні зони з гіперінтенсивністю T2 у менінгіомах та метастазах як регіони вазогенного набряку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109220/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Facilitators and barriers to delayed medical-seeking in adults with pressure injuries: a qualitative study.",
-    "originalAbstract": "This study aimed to: (1) explore factors associated with delayed medical consultation among patients with pressure injuries (PIs); and (2) provide a theoretical basis for formulating PI intervention strategies to curb injury progression and improve patients' quality of life. This was a qualitative descriptive study. Patients with PIs who had delayed seeking medical treatment, or their caregivers (n = 18), were interviewed using a semi-structured interview guide. Interviews were audio-recorded, t",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "T2 relaxometry in high-grade gliomas: Preliminary analysis of peritumoral tissue characteristics.",
+    "originalAbstract": "BackgroundThis study aims to assess whether T2 relaxometry can distinguish tissue characteristics between high-grade gliomas and non-infiltrative lesions.MethodsWe report our initial experience using the Relaxo LNI software to analyze multi-echo T2 relaxometry magnetic resonance imaging in patients with high-grade gliomas. For comparison, peritumoral T2-hyperintense areas in meningiomas and metastases were used as reference regions for vasogenic edema, based on the established concept that these",
     "keyPoints": [
-      "Виявлено фактори, що сприяють затримці звернення за медичною допомогою.",
-      "Розроблено теоретичну базу для стратегій втручання.",
-      "Затримка може впливати на прогресію пролежнів і якість життя."
+      "Релаксометрія T2 може допомогти у диференціації тканин високогліальних гліом.",
+      "Дослідження базується на аналізі МРТ із використанням програмного забезпечення Relaxo LNI.",
+      "Порівняння проведено з пери-туморними зонами у менінгіомах та метастазах."
     ],
-    "practicalTakeaway": "Розуміння факторів затримки звернення допомагає розробляти цілеспрямовані заходи для покращення своєчасності медичної допомоги пацієнтам з пролежнями.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "пролежні",
-      "звернення за допомогою",
-      "якісний аналіз"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42107150",
-    "title": "Динамічна оцінка ротаційної нестабільності та рухливості підтаранного суглоба при артрозі гомілково-ступневого суглоба за допомогою 4DКТ",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-May-02",
-    "abstract": "Дослідження використовує 4DКТ для оцінки ротаційної нестабільності та рухливості підтаранного суглоба у пацієнтів з артрозом гомілково-ступневого суглоба на різних стадіях захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107150/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "4DCT evaluation of rotational instability and subtalar joint motion in ankle osteoarthritis: a stage-based comparative study.",
-    "originalAbstract": "To dynamically evaluate tibiotalar rotational instability and subtalar joint mobility in patients with Ankle Osteoarthritis (AOA) across different disease stages using four-dimensional computed tomography (4DCT).",
-    "keyPoints": [
-      "Використано 4DКТ для оцінки рухів у пацієнтів з артрозом гомілково-ступневого суглоба.",
-      "Досліджено ротаційну нестабільність та рухливість підтаранного суглоба.",
-      "Результати допомагають зрозуміти прогресування захворювання на різних стадіях."
-    ],
-    "practicalTakeaway": "Динамічна 4DКТ може бути корисною для оцінки рухових порушень при артрозі гомілково-ступневого суглоба.",
-    "specialty": "хірургія",
-    "tags": [
-      "рентгенологія",
-      "артроз",
-      "діагностика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42107149",
-    "title": "Модель глибокого навчання на основі КТ для диференціації доброякісних та злоякісних адреналінових утворень",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-Apr-30",
-    "abstract": "Мета дослідження — створити модель глибокого навчання, яка здатна розрізняти доброякісні та злоякісні адреналінові утворення за результатами комп’ютерної томографії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107149/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "A CT-based deep learning model to differentiate between benign and malignant adrenal lesions.",
-    "originalAbstract": "To develop a deep learning model to differentiate benign from malignant adrenal lesions.",
-    "keyPoints": [
-      "Розроблено модель глибокого навчання для аналізу КТ.",
-      "Модель спрямована на диференціацію доброякісних і злоякісних утворень.",
-      "Дослідження базується на даних з КТ для підвищення точності діагностики."
-    ],
-    "practicalTakeaway": "Модель може допомогти у підвищенні точності діагностики адреналінових утворень за допомогою КТ.",
-    "specialty": "онкологія",
-    "tags": [
-      "діагностика",
-      "комп'ютерна томографія",
-      "глибоке навчання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42107147",
-    "title": "Інтерпретоване машинне навчання для диференціації феохромоцитоми та адренокортикальної аденоми за допомогою КТ: баг centerscale дослідження.",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-Apr-30",
-    "abstract": "Дослідження присвячене застосуванню інтерпретованих моделей машинного навчання та глибокого навчання для розрізнення феохромоцитоми від адренокортикальної аденоми на основі комп'ютерної томографії. Важливість диференціації полягає у запобіганні ускладненням під час операцій та уникненні зайвих хірургічних втручань.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107147/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Interpretable machine learning and deep learning model for discriminating pheochromocytoma from adrenocortical adenoma based on CT: A multicenter study.",
-    "originalAbstract": "Differentiating pheochromocytoma (PHEO) from adrenocortical adenoma (ACA) is vital to avoid intraoperative hypertensive crises or redundant surgeries.",
-    "keyPoints": [
-      "Модель машинного навчання допомагає диференціювати феохромоцитому та адренокортикальну аденому.",
-      "Дослідження проведено на багатьох центрах.",
-      "Застосування моделі може знизити ризики у хірургічних втручаннях."
-    ],
-    "practicalTakeaway": "Використання інтерпретованих моделей машинного навчання може покращити точність діагностики пухлин наднирників за допомогою КТ.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "машинне навчання",
-      "КТ",
-      "ендокринологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42107145",
-    "title": "Оптимізація дози при дитячій рентгенографії грудної клітки: порівняльне дослідження енергозбираючих та фотонно-рахункових КТ",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-May-02",
-    "abstract": "Дитяча діагностика грудної клітки вимагає оптимізації дози опромінення. У дослідженні порівнювалися показники дози та якість зображення між енергозбираючими та фотонно-рахунковими КТ, використовуючи протоколи з 70 kV та 100 kV з тіньовим фільтром. Фотонно-рахункова КТ обіцяє додаткове зниження дози без втрати якості зображення.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107145/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Dose optimization for pediatric chest CT: a comparative study of energy-integrating and photon-counting detector CT using 70 kV and 100 kV protocols with tin filtration regarding image quality and dose exposure.",
-    "originalAbstract": "Pediatric thoracic imaging requires radiation dose optimization. Common strategies include protocols with low (70 kV) or medium tube voltages (100 kV) with tin filtration (100Sn). Photon-Counting CT (PCCT) promises further dose reduction without compromising image quality. This study compares radiation dose and image quality between energy-integrating CT (EICT) and PCCT, using thermoluminescent dosimeter (TLD) measurements and clinical data.",
-    "keyPoints": [
-      "Порівнювалися показники дози та якість зображення між двома типами КТ.",
-      "Використовувалися протоколи з 70 kV та 100 kV з тіньовим фільтром.",
-      "Фотонно-рахункова КТ може зменшити дозу опромінення без втрати якості зображення."
-    ],
-    "practicalTakeaway": "Фотонно-рахункова КТ має потенціал для зниження дози опромінення у дитячій рентгенографії грудної клітки.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доза опромінення",
-      "якість зображення",
-      "фотонно-рахункова КТ"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42107144",
-    "title": "Динамічний вплив нікотинової пластирі на куріння перед і після спроби кинути, у поєднанні з вареникліном та консультаціями",
-    "journal": "Drug and alcohol dependence",
-    "publishedAt": "2026-May-01",
-    "abstract": "Дослідження аналізує, як застосування нікотинової пластирі у поєднанні з вареникліном та консультаціями впливає на куріння у різні періоди перед і після спроби кинути. Аналіз медіації дозволяє зрозуміти механізми впливу лікування на детермінанти куріння та їхню роль у ризику рецидиву.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107144/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Time-varying mediated effects of the nicotine patch on smoking before and after a quit attempt when it is added to varenicline and counseling.",
-    "originalAbstract": "Even with evidence-based treatment, most people who try to quit smoking return to regular smoking within weeks. Mediation analyses simultaneously test hypotheses about how treatments affect possible smoking determinants and how these determinants may influence smoking risk. Such evidence may inform treatment enhancement.",
-    "keyPoints": [
-      "Дослідження вивчає вплив нікотинової пластирі у комбінації з вареникліном та консультаціями.",
-      "Аналізує динаміку змін у мотивації та поведінці, що впливають на куріння.",
-      "Допомагає зрозуміти механізми, які можуть покращити програми відмови від куріння."
-    ],
-    "practicalTakeaway": "Розуміння динаміки впливу лікування може сприяти покращенню стратегій допомоги у відмові від куріння.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "куріння",
-      "відмова від куріння",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42107141",
-    "title": "Зміни у мікростанових характеристиках ЕЕГ як біомаркери для діагностичного розрізнення шизофренії",
-    "journal": "Psychiatry research. Neuroimaging",
-    "publishedAt": "2026-Apr-27",
-    "abstract": "Дослідження аналізує зміни у просторово-часових характеристиках ЕЕГ мікростанів у пацієнтів із шизофренією з використанням п’ятикласової моделі та оцінює потенціал цих параметрів як біомаркерів для діагностики.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107141/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Altered EEG microstate dynamics as a neurophysiological biomarker for diagnostic differentiation in Schizophrenia.",
-    "originalAbstract": "To examine spatiotemporal modifications in electroencephalogram (EEG) microstates among individuals diagnosed with schizophrenia utilizing a five-class model, and to evaluate the potential of microstate parameters as diagnostic biomarkers.",
-    "keyPoints": [
-      "Аналізуються зміни у мікростанах ЕЕГ у шизофренії.",
-      "Використовується п’ятикласова модель мікростанів.",
-      "Мікростанові параметри потенційно можуть слугувати біомаркерами."
-    ],
-    "practicalTakeaway": "Дослідження вказує на можливість використання характеристик ЕЕГ мікростанів у діагностиці шизофренії.",
+    "practicalTakeaway": "Релаксометрія T2 має потенціал для диференціації тканин у високогліальних гліомах, що може покращити діагностичний процес.",
     "specialty": "неврологія",
     "tags": [
-      "ЕЕГ",
-      "шизофренія",
-      "біомаркери"
+      "МРТ",
+      "гліоми",
+      "релаксометрія"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42107139",
-    "title": "Модифікація екстраклітинних везикулів ADSCs з PTEN-гіпоксією для покращення остеоінтеграції імплантатів у цукровому діабеті 2 типу",
-    "journal": "Pathology, research and practice",
-    "publishedAt": "2026-May-08",
-    "abstract": "Дослідження аналізує потенціал екстраклітинних везикулів, отриманих з модифікованих ADSCs за допомогою гена PTEN, для покращення остеоінтеграції імплантатів у пацієнтів з цукровим діабетом 2 типу. Виявлено, що ці везикули сприяють остеогенезу та покращують взаємодію між кістковими клітинами та імплантатами.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107139/",
+    "pmid": "42109216",
+    "title": "Виклики досліджень Nocardia та заклик до співпраці",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+    "publishedAt": "2026-May-11",
+    "abstract": "Дослідження Nocardia стикаються з численними викликами, що ускладнюють розуміння та лікування інфекцій, спричинених цим збудником. Автори закликають до більшої колаборації між дослідниками для подолання цих перешкод та покращення результатів для пацієнтів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109216/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "PTEN-knockdown modified T2DM ADSCs-derived extracellular vesicles promote T2DM implant osseointegration by enhancing the osteogenic differentiation of bone marrow mesenchymal stem cells.",
-    "originalAbstract": "How to improve implant osseointegration in type 2 diabetes mellitus (T2DM) represents a severe challenge worldwide. Currently, extracellular vesicles (EVs) play an essential role in intercellular communication and the execution of various biological functions, and are often employed as an ideal natural endogenous nanomedicine for repairing the structure and function of damaged tissues. Accumulating evidence suggests that exosomes derived from genetically modified ADSCs play an important role in ",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "The Challenges of Nocardia Research and a Call for Collaboration.",
+    "originalAbstract": "",
     "keyPoints": [
-      "Модифікація ADSCs з PTEN може покращити остеоінтеграцію імплантатів у цукровому діабеті 2 типу.",
-      "Екстраклітинні везикули сприяють остеогенезу та взаємодії клітин у кістковій тканині.",
-      "Дослідження має потенціал для розвитку нових методів лікування у пацієнтів з цукровим діабетом."
+      "Дослідження Nocardia ускладнені через діагностичні та терапевтичні труднощі.",
+      "Потрібна міждисциплінарна співпраця для покращення розуміння та лікування.",
+      "Зусилля спрямовані на подолання існуючих викликів у дослідженнях Nocardia."
     ],
-    "practicalTakeaway": "Модифікація клітинних терапій може сприяти покращенню результатів імплантації у пацієнтів з цукровим діабетом 2 типу.",
-    "specialty": "ендокринологія",
+    "practicalTakeaway": "Зміцнення колаборації між дослідниками може сприяти подоланню викликів у дослідженнях Nocardia.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "цукровий діабет",
-      "імплантація",
-      "екстраклітинні везикули"
+      "Nocardia",
+      "дослідження",
+      "співпраця"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42107135",
-    "title": "Вплив властивостей позаклітинного матриксу, міжтканинного потоку та градієнтів VEGF на поведінку трофобластів у моделі Trophoblast Invasion-on-Chip",
-    "journal": "Biomaterials",
-    "publishedAt": "2026-Apr-30",
-    "abstract": "Досліджено вплив властивостей позаклітинного матриксу, міжтканинного потоку та градієнтів VEGF на поведінку трофобластів у платформі Trophoblast Invasion-on-Chip. Використано мікрофлюїдний пристрій без насоса для моделювання інвазії трофобластів у контексті плацентарної імплантації.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107135/",
+    "pmid": "42109215",
+    "title": "Штучний інтелект у психотичних ілюзіях та ризик насильства у судовій психіатрії: спостережне дослідження рішень суду",
+    "journal": "Journal of medical Internet research",
+    "publishedAt": "2026-May-11",
+    "abstract": "Дослідження аналізує роль штучного інтелекту (ШІ) у структурі психотичних ілюзій у пацієнтів із психотичними розладами та їхній зв'язок із ризиком насильства. Виявлено, що у деяких випадках ШІ виступає центральним елементом у системі переконань, що може бути пов'язано з підвищеним ризиком насильницьких дій або обмежувальними заходами у судовій практиці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109215/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Extracellular matrix properties, interstitial flow, and VEGF gradients shape trophoblast behavior in a pumpless Trophoblast Invasion-on-Chip (TIoC).",
-    "originalAbstract": "Placental trophoblast invasion into the maternal endometrium is a critical step in establishing the maternal-fetal interface during implantation. In vitro, this complex process can be partially modeled using a Trophoblast Invasion-on-Chip (TIoC) platform. In this study, we used an in-house-developed, pumpless, recirculating \"loop-in-loop\" microfluidic device that generates interstitial flow (IF) within a tissue compartment to optimize indirect co-culture of cytotrophoblast BeWo cells with human ",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Artificial Intelligence Centrality in Psychotic Delusions and Violence Risk in Forensic Psychiatry: Observational Study of Judicial Decisions.",
+    "originalAbstract": "Artificial intelligence (AI)-themed delusions are increasingly observed in psychotic-spectrum disorders, reflecting the incorporation of contemporary sociotechnical elements into delusional systems. While prior research has examined the phenomenology of technology-related delusions, it remains unclear whether the structural role of AI within these belief systems (particularly when AI occupies a central, organizing function) is associated with increased violence risk or more restrictive forensic ",
     "keyPoints": [
-      "Вивчено вплив мікросередовища на поведінку трофобластів.",
-      "Використано мікрофлюїдний пристрій без насоса для моделювання інвазії.",
-      "Досліджено роль VEGF у процесі інвазії трофобластів."
+      "ШІ-інспіровані ілюзії все частіше зустрічаються у психотичних розладах.",
+      "Централізована роль ШІ у переконаннях може бути пов'язана з ризиком насильства.",
+      "Дослідження базується на аналізі судових рішень у психіатричному контексті."
     ],
-    "practicalTakeaway": "Модель Trophoblast Invasion-on-Chip дозволяє досліджувати механізми інвазії трофобластів у контексті плацентарної імплантації.",
+    "practicalTakeaway": "Урахування ролі ШІ у психотичних переконаннях може бути важливим для оцінки ризику насильства у судовій психіатрії.",
+    "specialty": "психіатрія",
+    "tags": [
+      "штучний інтелект",
+      "психотичні ілюзії",
+      "судова психіатрія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42109214",
+    "title": "Генітальний піодермія гангренозум: систематичний огляд випадків та результатів лікування",
+    "journal": "Journal of cutaneous medicine and surgery",
+    "publishedAt": "2026-May-11",
+    "abstract": "Це систематичний огляд випадків генітальної піодермії гангренозум, що включає аналіз повідомлень про клінічний перебіг та результати терапії. Огляд підкреслює рідкість цього стану та різноманітність застосовуваних методів лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109214/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Genital Pyoderma Gangrenosum: A Systematic Review of Reported Cases and Treatment Outcomes.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Рідкість генітальної піодермії гангренозум у клінічній практиці.",
+      "Різноманітність застосовуваних методів лікування.",
+      "Необхідність подальших досліджень для визначення оптимальної терапії."
+    ],
+    "practicalTakeaway": "Знання про клінічні особливості та лікування генітальної піодермії гангренозум може сприяти швидшій діагностиці та підвищенню ефективності терапії.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "дерматологія",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42109213",
+    "title": "Молекулярний аналіз Lancefield груп C/G стрептококів, що спричиняють інфекції у Великій Британії",
+    "journal": "Microbial genomics",
+    "publishedAt": "2026-May",
+    "abstract": "Дослідження аналізує геномну різноманітність Lancefield груп C/G стрептококів, які викликають інфекції у Великій Британії. Вивчено 109 ізолятів з різних інфекцій за 5 місяців 2020 року у Шеффілді, що сприяє розумінню їх ролі у клінічній практиці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109213/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Molecular analysis of Lancefield group C/G streptococci causing human infections in Sheffield, UK.",
+    "originalAbstract": "Lancefield group C/G streptococci (GCS/GGS) are increasingly recognized as significant human pathogens that cause a disease spectrum similar to Streptococcus pyogenes. Despite their high clinical burden in the UK, their genomic diversity remains poorly understood. We performed whole-genome sequencing on a prospective collection of 109 consecutive GCS/GGS isolates from any infection types in Sheffield, UK, over 5 months in 2020. Streptococcus dysgalactiae subsp. equisimilis (SDSE) accounted for 1",
+    "keyPoints": [
+      "Проаналізовано 109 ізолятів Lancefield груп C/G стрептококів.",
+      "Вивчено геномну різноманітність зразків у Великій Британії.",
+      "Дослідження сприяє розумінню ролі цих бактерій у клінічних інфекціях."
+    ],
+    "practicalTakeaway": "Геномний аналіз Lancefield груп C/G стрептококів допомагає краще зрозуміти їхню роль у розвитку інфекцій.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "мікробіологія",
+      "геноміка"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42109212",
+    "title": "Вплив дисфункції транспорту ліпідів через плаценту на запалення мозку матері під час ускладнень вагітності",
+    "journal": "Archives of physiology and biochemistry",
+    "publishedAt": "2026-May-11",
+    "abstract": "Дослідження аналізує, як порушення транспорту ліпідів через плаценту при ускладненнях вагітності, таких як прееклампсія та гестаційний цукровий діабет, може спричиняти нейроінфламмацію у мозку матері. Це може впливати на розвиток плода та системні реакції організму матері.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109212/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Influence of placental lipid transport dysfunction on maternal brain inflammation during pregnancy complications.",
+    "originalAbstract": "Introduction: The conditions associated with pregnancy, such as preeclampsia, gestational diabetes, and disruptions of Placental lipid transport, are increasingly becoming known to be the cause of intrauterine growth restriction. Recent data indicate that compensatory efforts can initiate neuroinflammatory and systemic reactions in the mother, which can influence foetal development. Methods: This study aims to learn how maternal brain inflammation and neuroimmune activation during complicated pr",
+    "keyPoints": [
+      "Порушення транспорту ліпідів через плаценту може спричиняти запалення мозку у матері.",
+      "Ускладнення вагітності пов'язані з системними та нейроінфламмаційними реакціями.",
+      "Дослідження спрямоване на розуміння механізмів впливу цих процесів на розвиток плода."
+    ],
+    "practicalTakeaway": "Розуміння механізмів запалення мозку у матерів з ускладненнями вагітності може допомогти у розробці профілактичних та лікувальних стратегій.",
     "specialty": "акушерство і гінекологія",
     "tags": [
-      "мікрофлюїдні технології",
-      "трофобласти",
-      "VEGF"
+      "вагітність",
+      "запалення",
+      "плацента"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42107134",
-    "title": "Стратегія мікроваскулярної ремоделювання для омолодження шкіри через переробку мікрооточення та відновлення придатків",
-    "journal": "Biomaterials",
-    "publishedAt": "2026-Apr-27",
-    "abstract": "Дослідження присвячене розробці мікрониткового патчу з використанням декількованої матриці жирової тканини для покращення мікросудинної функції та боротьби з фотостарінням шкіри, викликаним ультрафіолетовим випромінюванням. В експериментах показано, що DAM сприяє покращенню функцій мікросудин та зменшенню ознак старіння.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42107134/",
+    "pmid": "42109206",
+    "title": "Модель мініпигу з генною мутацією для дослідження ранніх метаболічних змін при хворобі Гантінгтона",
+    "journal": "Disease models & mechanisms",
+    "publishedAt": "2026-Jun-01",
+    "abstract": "У дослідженні створено індуковані плюрипотентні стовбурові клітини (iPSCs) з трансгенного мініпигу з моделлю хвороби Гантінгтона (HD), що викликається мутацією в гені HTT. Це дозволяє вивчати ранні метаболічні та транскрипційні зміни у нервовій та периферійній тканинах, що мають значення для розуміння патогенезу захворювання.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109206/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T02:39:56Z",
-    "originalTitle": "Microvascular remodeling strategy for skin rejuvenation through microenvironmental reprogramming and appendage restoration.",
-    "originalAbstract": "Skin photoaging, induced by excessive ultraviolet exposure, leads to microvascular and appendage degeneration, extracellular matrix degradation, and cellular senescence. The limited efficacy of current treatments for photoaging is partly due to underlying microvascular dysfunction. This study introduces a microneedle patch incorporating decellularized adipose-derived matrix (DAM) to enhance microvascular remodeling and mitigate photoaging. In vitro studies demonstrate that DAM enhances the funct",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Induced pluripotent stem cells from a transgenic minipig model of Huntington's disease reveal early metabolic changes.",
+    "originalAbstract": "Huntington's disease (HD) is a neurodegenerative autosomal dominant hereditary disease caused by a CAG triplet repeat expansion mutation in the gene encoding the huntingtin (HTT) protein. The main feature of HD is the loss of striatal neurons, accompanied by metabolic and transcriptional alterations in both neural and peripheral tissues. Induced pluripotent stem cells (iPSCs) derived from a transgenic HD (TgHD) minipig model expressing a mutant HTT construct were generated to investigate early m",
     "keyPoints": [
-      "Розроблено мікронитковий патч з декількованою матрицею жирової тканини.",
-      "Патч сприяє ремоделюванню мікросудин та відновленню шкірних придатків.",
-      "Дослідження має потенціал для застосування у терапії фотостаріння шкіри."
+      "Створено iPSC з трансгенного мініпигу з моделлю HD.",
+      "Досліджуються ранні метаболічні зміни при HD.",
+      "Модель дозволяє вивчати нейродегенеративний процес."
     ],
-    "practicalTakeaway": "Використання мікрониткових патчів з DAM може покращити мікросудинну функцію та сприяти омолодженню шкіри.",
-    "specialty": "дерматологія",
+    "practicalTakeaway": "Модель мініпигу з HD може сприяти дослідженню ранніх біохімічних змін при хворобі Гантінгтона.",
+    "specialty": "неврологія",
     "tags": [
-      "шкіра",
-      "фотостаріння",
-      "мікросудини"
+      "модель тварин",
+      "метаболізм",
+      "нейродегенеративні захворювання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42109204",
+    "title": "Порівняльна 30-добова оцінка життєвого циклу стратегій дренування сечового міхура",
+    "journal": "BJU international",
+    "publishedAt": "2026-May-11",
+    "abstract": "Мета дослідження — визначити найбільш екологічно сталий спосіб дренування сечового міхура, що застосовується при обструкції вихідних шляхів сечового міхура, та виявити можливі заходи для зменшення екологічного впливу у клінічній практиці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109204/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Comparative 30-day life cycle assessment of bladder drainage strategies.",
+    "originalAbstract": "To identify the most environmentally sustainable urinary drainage strategies commonly used to manage bladder outlet obstruction and also to highlight actionable levers for reducing the footprint of urinary drainage in clinical practice.",
+    "keyPoints": [
+      "Оцінено життєвий цикл різних стратегій дренування сечового міхура.",
+      "Виявлено найбільш екологічно сталий підхід.",
+      "Обговорено можливості зменшення екологічного сліду у клінічних умовах."
+    ],
+    "practicalTakeaway": "Вибір стратегій дренування сечового міхура може впливати на екологічний слід медичної практики.",
+    "specialty": "нефрологія",
+    "tags": [
+      "екологія",
+      "медицина",
+      "життєвий цикл"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42109203",
+    "title": "Геномний аналіз сімейства генів AP2/ERF у Rheum officinale Baill.",
+    "journal": "The plant genome",
+    "publishedAt": "2026-Jun",
+    "abstract": "Дослідження вивчало сімейство генів AP2/ERF у Rheum officinale Baill., важливій лікарській рослині. Аналіз охоплював еволюцію та експресію генів під час розвитку рослини, при стресових умовах та відповіді на зовнішні гормони. Результати сприяють розумінню регуляторних механізмів у розвитку та метаболізмі рослини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109203/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Genome-wide analysis of the AP2/ERF gene family in Rheum officinale Baill.: Evolution and expression profiling during plant development, abiotic stresses, and exogenous hormone responses.",
+    "originalAbstract": "The APETALA2/ethylene-responsive factor (AP2/ERF) superfamily plays a central role in plant metabolism, stress responses, and hormone signaling. Rheum officinale Baill. is an important traditional medicinal plant whose roots and rhizomes are rich in anthraquinones and other secondary metabolites. However, the regulatory mechanisms underlying its development and secondary metabolism remain unclear, and systematic analyses of its AP2/ERF family are lacking. This study aimed to characterize the gen",
+    "keyPoints": [
+      "Вивчено сімейство генів AP2/ERF у Rheum officinale.",
+      "Проаналізовано їхню роль у розвитку та стресових реакціях.",
+      "Допомагає зрозуміти регуляторні механізми метаболізму рослини."
+    ],
+    "practicalTakeaway": "Дослідження сприяє розробці стратегій використання Rheum officinale у медицині та біотехнологіях.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "геноміка",
+      "рослини",
+      "регуляторні механізми"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42109201",
+    "title": "Обґрунтування біомаркерів для діагностики сепсису на основі генів, пов’язаних з фумаратомним обміном, із аналізом імунної інфільтрації та визначенням підтипів.",
+    "journal": "Immunological investigations",
+    "publishedAt": "2026-May-11",
+    "abstract": "Дослідження вивчає роль дисрегуляції фумаратового обміну у розвитку сепсису, що є важливим для пошуку нових діагностичних біомаркерів та терапевтичних цілей. Враховується імунна інфільтрація та різноманіття підтипів сепсису.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109201/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-11T14:37:33Z",
+    "originalTitle": "Screening of Sepsis Diagnostic Biomarkers Based on Fumarate Metabolism-Related Genes with Analysis of Immune Infiltration and Subtype Identification.",
+    "originalAbstract": "Sepsis is a major global health challenge characterized by a complex pathogenesis involving an early hyperinflammatory phase followed by a subsequent immunosuppressive state. Recent studies have revealed that dysregulation of fumarate metabolism plays a central role in immune dysregulation during sepsis, making related genes promising candidates as novel diagnostic biomarkers and therapeutic targets.",
+    "keyPoints": [
+      "Дисрегуляція фумаратового обміну повʼязана з сепсисом.",
+      "Гени, повʼязані з цим обміном, можуть слугувати біомаркерами.",
+      "Аналіз імунної інфільтрації допомагає у класифікації підтипів сепсису."
+    ],
+    "practicalTakeaway": "Дослідження підкреслює потенціал генів, повʼязаних з фумаратомним обміном, для діагностики та лікування сепсису.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "біомаркери",
+      "сепсис",
+      "імунна інфільтрація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
