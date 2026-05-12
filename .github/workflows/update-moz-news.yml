@@ -22,10 +22,17 @@ jobs:
       - name: Run MOZ news script
         run: python scripts/fetch_moz_news.py
 
+      - name: Validate feeds
+        run: python scripts/validate_feeds.py
+
       - name: Commit updated MOZ feed
         run: |
           git config user.name "docspace-bot"
           git config user.email "docspace-bot@users.noreply.github.com"
           git add data/ukrainian-news-feed.json
-          git diff --cached --quiet || git commit -m "Update MOZ news feed"
+          if git diff --cached --quiet; then
+            echo "No MOZ feed changes"
+            exit 0
+          fi
+          git commit -m "Update MOZ news feed"
           git push

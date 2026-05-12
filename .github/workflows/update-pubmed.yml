@@ -27,6 +27,9 @@ jobs:
           OPENAI_MODEL: gpt-4.1-nano
         run: python scripts/fetch_pubmed.py
 
+      - name: Validate feeds
+        run: python scripts/validate_feeds.py
+
       - name: Commit updated feed
         run: |
           if git diff --quiet -- data/pubmed-feed.json; then

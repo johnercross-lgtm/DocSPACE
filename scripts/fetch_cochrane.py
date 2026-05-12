@@ -170,6 +170,44 @@ def join_abstract_text(article_node: ET.Element) -> str:
 
 
 def parse_pubmed_date(article_node: ET.Element) -> str:
+    month_map = {
+        "jan": 1, "january": 1,
+        "feb": 2, "february": 2,
+        "mar": 3, "march": 3,
+        "apr": 4, "april": 4,
+        "may": 5,
+        "jun": 6, "june": 6,
+        "jul": 7, "july": 7,
+        "aug": 8, "august": 8,
+        "sep": 9, "sept": 9, "september": 9,
+        "oct": 10, "october": 10,
+        "nov": 11, "november": 11,
+        "dec": 12, "december": 12,
+    }
+
+    def normalize_to_iso(year_value: str, month_value: str = "", day_value: str = "") -> str:
+        year_value = str(year_value or "").strip()
+        month_value = str(month_value or "").strip()
+        day_value = str(day_value or "").strip()
+
+        if not year_value.isdigit():
+            return ""
+
+        year_int = int(year_value)
+        month_int = 1
+        day_int = 1
+
+        if month_value:
+            if month_value.isdigit():
+                month_int = max(1, min(int(month_value), 12))
+            else:
+                month_int = month_map.get(month_value.lower(), 1)
+
+        if day_value and day_value.isdigit():
+            day_int = max(1, min(int(day_value), 28))
+
+        return f"{year_int:04d}-{month_int:02d}-{day_int:02d}T00:00:00Z"
+
     pub_date = article_node.find(".//PubDate")
 
     if pub_date is None:
@@ -180,16 +218,15 @@ def parse_pubmed_date(article_node: ET.Element) -> str:
     day = (pub_date.findtext("Day") or "").strip()
     medline = (pub_date.findtext("MedlineDate") or "").strip()
 
-    if year and month and day:
-        return f"{year} {month} {day}"
+    normalized = normalize_to_iso(year, month, day)
+    if normalized:
+        return normalized
 
-    if year and month:
-        return f"{year} {month}"
+    year_match = re.search(r"\b(\d{4})\b", medline or "")
+    if year_match:
+        return normalize_to_iso(year_match.group(1))
 
-    if year:
-        return year
-
-    return medline
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
 def cochrane_url_from_ids(article_node: ET.Element, pmid: str) -> str:
