@@ -13,6 +13,7 @@ message = """
 • PubMed
 • Cochrane
 • МОЗ України
+• НСЗУ
 • AI digest
 
 Powered by DocSPACE
