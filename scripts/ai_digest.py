@@ -408,4 +408,3 @@ def process_public_health_with_ai(article: dict) -> dict:
     except Exception as error:
         print(f"[warn] Public health AI processing failed: {error}")
         return article
-
