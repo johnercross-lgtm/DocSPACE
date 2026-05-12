@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
-from ai_digest import process_public_health_with_ai
+from ai_digest import process_safety_alert_with_ai
 
 OUT_PATH = Path("data/fda-ema-safety-feed.json")
 LIMIT = 24
@@ -157,7 +157,7 @@ def process_items_with_ai(items: list[dict]) -> list[dict]:
     for index, item in enumerate(items, start=1):
         print(f"AI processing safety item {index}/{len(items)}: {item.get('title', '')[:80]}")
 
-        enriched = process_public_health_with_ai(dict(item))
+        enriched = process_safety_alert_with_ai(dict(item))
         enriched["category"] = "drug_safety"
         enriched["source"] = item.get("source", "FDA/EMA")
 
