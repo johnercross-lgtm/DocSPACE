@@ -29,6 +29,7 @@ SPECIALTIES = [
     "гематологія",
     "імунологія",
     "сімейна медицина",
+    "громадське здоровʼя",
 ]
 
 
@@ -270,6 +271,34 @@ def normalize_ai_payload(ai: dict) -> dict:
     }
 
 
+def sanitize_generated_text(value: str, fallback: str) -> str:
+    candidate = str(value or "").strip()
+    fallback_value = str(fallback or "").strip()
+    lowered = candidate.lower()
+
+    blocked_values = {
+        "стандарт",
+        "standard",
+        "test",
+        "тест",
+        "n/a",
+        "na",
+        "null",
+        "-",
+        "—",
+    }
+
+    if not candidate:
+        return fallback_value
+    if lowered in blocked_values:
+        return fallback_value
+    if len(candidate) < 8:
+        return fallback_value
+    if len(set(candidate.replace(" ", ""))) <= 2:
+        return fallback_value
+    return candidate
+
+
 def process_article_with_ai(article: dict) -> dict:
     if not OPENAI_API_KEY:
         print("[warn] OPENAI_API_KEY is missing; returning original article")
@@ -320,8 +349,8 @@ def process_article_with_ai(article: dict) -> dict:
         article["originalTitle"] = original_title
         article["originalAbstract"] = original_abstract
 
-        article["title"] = ai["title_uk"] or original_title
-        article["abstract"] = ai["abstract_uk"] or original_abstract
+        article["title"] = sanitize_generated_text(ai["title_uk"], original_title)
+        article["abstract"] = sanitize_generated_text(ai["abstract_uk"], original_abstract)
 
         article["keyPoints"] = ai["key_points"]
         article["practicalTakeaway"] = ai["practical_takeaway"]
@@ -393,8 +422,8 @@ def process_public_health_with_ai(article: dict) -> dict:
         article["originalTitle"] = article.get("originalTitle") or original_title
         article["originalAbstract"] = article.get("originalAbstract") or original_abstract
 
-        article["title"] = ai["title_uk"] or original_title
-        article["abstract"] = ai["abstract_uk"] or original_abstract
+        article["title"] = sanitize_generated_text(ai["title_uk"], original_title)
+        article["abstract"] = sanitize_generated_text(ai["abstract_uk"], original_abstract)
 
         article["keyPoints"] = ai["key_points"]
         article["practicalTakeaway"] = ai["practical_takeaway"]
