@@ -66,6 +66,7 @@ def main() -> int:
         DATA_DIR / "pubmed-feed.json",
         DATA_DIR / "phc-feed.json",
         DATA_DIR / "nszu-feed.json",
+        DATA_DIR / "fda-ema-safety-feed.json",
         DATA_DIR / "docspace-digest-feed.json",
         DATA_DIR / "ukrainian-news-feed.json",
     ]
