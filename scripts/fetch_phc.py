@@ -13,6 +13,8 @@ from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
 
+from ai_digest import process_public_health_with_ai
+
 OUT_PATH = Path("data/phc-feed.json")
 SOURCE_URL = "https://phc.org.ua/news/all"
 SOURCE_NAME = "ЦГЗ України"
@@ -344,6 +346,16 @@ def parse_items(html_text: str) -> list[dict]:
     return items[:LIMIT]
 
 
+def process_items_with_ai(items: list[dict]) -> list[dict]:
+    processed_items: list[dict] = []
+
+    for index, item in enumerate(items, start=1):
+        print(f"AI processing PHC item {index}/{len(items)}: {item.get('title', '')[:80]}")
+        processed_items.append(process_public_health_with_ai(item))
+
+    return processed_items
+
+
 def write_feed(items: list[dict]) -> None:
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
@@ -369,8 +381,10 @@ def main() -> int:
         print("[warn] parsed PHC page contains no valid items; keeping existing file unchanged")
         return 0
 
-    write_feed(items)
-    print(f"Saved {len(items)} PHC feed items to {OUT_PATH}")
+    processed_items = process_items_with_ai(items)
+
+    write_feed(processed_items)
+    print(f"Saved {len(processed_items)} AI-processed PHC feed items to {OUT_PATH}")
 
     return 0
 
