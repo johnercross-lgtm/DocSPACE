@@ -19,6 +19,7 @@ CHANNEL_USERNAME = "NSZU_gov"
 CHANNEL_URL = f"https://t.me/s/{CHANNEL_USERNAME}"
 LIMIT = 20
 ABSTRACT_LIMIT = 420
+FULL_TEXT_LIMIT = 4000
 
 TOPIC_KEYWORDS = (
     "есоз",
@@ -94,10 +95,10 @@ def is_target_topic(text: str) -> bool:
     return any(keyword in lowered for keyword in TOPIC_KEYWORDS)
 
 
-def extract_title_and_abstract(text: str) -> tuple[str, str]:
+def extract_title_and_abstract(text: str) -> tuple[str, str, str]:
     clean = strip_leading_noise(text.strip())
     if not clean:
-        return "", ""
+        return "", "", ""
 
     one_line = re.sub(r"\s+", " ", clean).strip()
     title_parts = re.split(r"(?<=[.!?])\s+", one_line)
@@ -105,7 +106,8 @@ def extract_title_and_abstract(text: str) -> tuple[str, str]:
     abstract = one_line[:320].strip()
     if len(one_line) > ABSTRACT_LIMIT:
         abstract = f"{abstract.rstrip()}…"
-    return title, abstract
+    full_text = one_line[:FULL_TEXT_LIMIT].strip()
+    return title, abstract, full_text
 
 
 def deduplicate_by_url(items: Iterable[dict]) -> list[dict]:
@@ -143,7 +145,7 @@ def parse_posts(page: str) -> list[dict]:
         if not is_target_topic(raw_text):
             continue
 
-        title, abstract = extract_title_and_abstract(raw_text)
+        title, abstract, full_text = extract_title_and_abstract(raw_text)
         if not title or not abstract:
             continue
 
@@ -157,7 +159,8 @@ def parse_posts(page: str) -> list[dict]:
                 "publishedAt": (time_match.group(1).replace("+00:00", "Z") if time_match else updated_at),
                 "updatedAt": updated_at,
                 "originalTitle": title,
-                "originalAbstract": abstract,
+                "originalAbstract": full_text,
+                "fullText": full_text,
                 "keyPoints": [],
                 "practicalTakeaway": "",
                 "specialty": "сімейна медицина",
@@ -177,10 +180,23 @@ def process_items_with_ai(items: list[dict]) -> list[dict]:
     processed: list[dict] = []
     for index, item in enumerate(items, start=1):
         print(f"AI processing NSZU item {index}/{len(items)}: {item.get('title', '')[:80]}")
-        enriched = process_public_health_with_ai(item)
+        ai_input = dict(item)
+        full_text = str(ai_input.get("fullText") or ai_input.get("abstract") or "").strip()
+        if full_text:
+            ai_input["abstract"] = full_text
+            ai_input["originalAbstract"] = full_text
+
+        enriched = process_public_health_with_ai(ai_input)
+
+        # Keep full readable body in feed; AI enriches title/key points/tags.
+        if full_text:
+            enriched["abstract"] = full_text
+            enriched["originalAbstract"] = full_text
+
         enriched["source"] = "НСЗУ"
         # Keep a distinct category for NSZU system-level content.
         enriched["category"] = "health_system_policy"
+        enriched.pop("fullText", None)
         processed.append(enriched)
     return processed
 
