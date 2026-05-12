@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42109220",
-    "title": "Релаксометрія T2 у високогліальних гліомах: попередній аналіз характеристик пери-туморної тканини",
-    "journal": "The neuroradiology journal",
-    "publishedAt": "2026-May-11",
-    "abstract": "Дослідження оцінює можливість використання релаксометрії T2 для розрізнення тканинних характеристик високогліальних гліом та неінфільтративних уражень. Аналіз проведено з використанням програмного забезпечення Relaxo LNI на МРТ-даних пацієнтів із високогліальними гліомами, порівнюючи пери-туморні зони з гіперінтенсивністю T2 у менінгіомах та метастазах як регіони вазогенного набряку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109220/",
+    "pmid": "42114192",
+    "title": "Особливі механізми ініціації трансляції вірусних мРНК без канонічних ознак",
+    "journal": "Virology",
+    "publishedAt": "2026-May-08",
+    "abstract": "Дослідження аналізує альтернативні стратегії вірусних РНК для запуску трансляції у клітині, коли відсутні стандартні ознаки, такі як 5'-кап або 3'-поли(A)-хвіст. Розглядаються механізми обходу кап-залежності для доступу до клітинної трансляційної машини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114192/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "T2 relaxometry in high-grade gliomas: Preliminary analysis of peritumoral tissue characteristics.",
-    "originalAbstract": "BackgroundThis study aims to assess whether T2 relaxometry can distinguish tissue characteristics between high-grade gliomas and non-infiltrative lesions.MethodsWe report our initial experience using the Relaxo LNI software to analyze multi-echo T2 relaxometry magnetic resonance imaging in patients with high-grade gliomas. For comparison, peritumoral T2-hyperintense areas in meningiomas and metastases were used as reference regions for vasogenic edema, based on the established concept that these",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Making ends meet: Specialized translation of viral mRNAs lacking canonical features.",
+    "originalAbstract": "Translation initiation in eukaryotic cells is usually driven by recognition of a 5' cap and a 3' poly(A) tail, which cooperate through interactions with eukaryotic initiation factors (eIFs) and poly(A)-binding protein (PABP) to promote mRNA circularization and efficient ribosome recruitment. However, many viral RNAs lack one or both of these canonical features and must use alternative strategies to access the host translational machinery. Diverse mechanisms are used to bypass cap dependence, inc",
     "keyPoints": [
-      "Релаксометрія T2 може допомогти у диференціації тканин високогліальних гліом.",
-      "Дослідження базується на аналізі МРТ із використанням програмного забезпечення Relaxo LNI.",
-      "Порівняння проведено з пери-туморними зонами у менінгіомах та метастазах."
+      "Вірусні мРНК часто позбавлені стандартних ознак для ініціації трансляції.",
+      "Досліджуються альтернативні механізми запуску трансляції без 5'-капу.",
+      "Ці механізми дозволяють вірусам використовувати клітинний білковий синтез без стандартних ознак."
     ],
-    "practicalTakeaway": "Релаксометрія T2 має потенціал для диференціації тканин у високогліальних гліомах, що може покращити діагностичний процес.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Розуміння альтернативних механізмів трансляції вірусних мРНК може допомогти у розробці нових антивірусних стратегій.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "МРТ",
-      "гліоми",
-      "релаксометрія"
+      "вірусні РНК",
+      "трансляція",
+      "мікроорганізми"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42109216",
-    "title": "Виклики досліджень Nocardia та заклик до співпраці",
-    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
-    "publishedAt": "2026-May-11",
-    "abstract": "Дослідження Nocardia стикаються з численними викликами, що ускладнюють розуміння та лікування інфекцій, спричинених цим збудником. Автори закликають до більшої колаборації між дослідниками для подолання цих перешкод та покращення результатів для пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109216/",
+    "pmid": "42114190",
+    "title": "Стандарт",
+    "journal": "Human immunology",
+    "publishedAt": "2026-May-10",
+    "abstract": "Стандарт",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114190/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "The Challenges of Nocardia Research and a Call for Collaboration.",
-    "originalAbstract": "",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "The \"Next\" standard for ABO genotyping.",
+    "originalAbstract": "ABO histocompatibility plays a critical role in red blood cell (RBC) transfusions and is of great importance in solid organ and hematopoietic stem cell transplantation. ABO is primarily typed from red blood cell samples using serological reagents. However, stem cell donors are often screened using buccal swabs which cannot be used for serologic testing. Furthermore, serologic testing can be complicated by recent transfusions, weak reactions, or unusual reaction patterns, which require resolution",
     "keyPoints": [
-      "Дослідження Nocardia ускладнені через діагностичні та терапевтичні труднощі.",
-      "Потрібна міждисциплінарна співпраця для покращення розуміння та лікування.",
-      "Зусилля спрямовані на подолання існуючих викликів у дослідженнях Nocardia."
+      "ABO генотипування важливе для трансфузій та трансплантації.",
+      "Новий стандарт",
+      "Ключовий пункт потребує уточнення за оригінальним джерелом."
     ],
-    "practicalTakeaway": "Зміцнення колаборації між дослідниками може сприяти подоланню викликів у дослідженнях Nocardia.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "Nocardia",
-      "дослідження",
-      "співпраця"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109215",
-    "title": "Штучний інтелект у психотичних ілюзіях та ризик насильства у судовій психіатрії: спостережне дослідження рішень суду",
-    "journal": "Journal of medical Internet research",
-    "publishedAt": "2026-May-11",
-    "abstract": "Дослідження аналізує роль штучного інтелекту (ШІ) у структурі психотичних ілюзій у пацієнтів із психотичними розладами та їхній зв'язок із ризиком насильства. Виявлено, що у деяких випадках ШІ виступає центральним елементом у системі переконань, що може бути пов'язано з підвищеним ризиком насильницьких дій або обмежувальними заходами у судовій практиці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109215/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Artificial Intelligence Centrality in Psychotic Delusions and Violence Risk in Forensic Psychiatry: Observational Study of Judicial Decisions.",
-    "originalAbstract": "Artificial intelligence (AI)-themed delusions are increasingly observed in psychotic-spectrum disorders, reflecting the incorporation of contemporary sociotechnical elements into delusional systems. While prior research has examined the phenomenology of technology-related delusions, it remains unclear whether the structural role of AI within these belief systems (particularly when AI occupies a central, organizing function) is associated with increased violence risk or more restrictive forensic ",
-    "keyPoints": [
-      "ШІ-інспіровані ілюзії все частіше зустрічаються у психотичних розладах.",
-      "Централізована роль ШІ у переконаннях може бути пов'язана з ризиком насильства.",
-      "Дослідження базується на аналізі судових рішень у психіатричному контексті."
-    ],
-    "practicalTakeaway": "Урахування ролі ШІ у психотичних переконаннях може бути важливим для оцінки ризику насильства у судовій психіатрії.",
-    "specialty": "психіатрія",
-    "tags": [
-      "штучний інтелект",
-      "психотичні ілюзії",
-      "судова психіатрія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109214",
-    "title": "Генітальний піодермія гангренозум: систематичний огляд випадків та результатів лікування",
-    "journal": "Journal of cutaneous medicine and surgery",
-    "publishedAt": "2026-May-11",
-    "abstract": "Це систематичний огляд випадків генітальної піодермії гангренозум, що включає аналіз повідомлень про клінічний перебіг та результати терапії. Огляд підкреслює рідкість цього стану та різноманітність застосовуваних методів лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109214/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Genital Pyoderma Gangrenosum: A Systematic Review of Reported Cases and Treatment Outcomes.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Рідкість генітальної піодермії гангренозум у клінічній практиці.",
-      "Різноманітність застосовуваних методів лікування.",
-      "Необхідність подальших досліджень для визначення оптимальної терапії."
-    ],
-    "practicalTakeaway": "Знання про клінічні особливості та лікування генітальної піодермії гангренозум може сприяти швидшій діагностиці та підвищенню ефективності терапії.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "дерматологія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109213",
-    "title": "Молекулярний аналіз Lancefield груп C/G стрептококів, що спричиняють інфекції у Великій Британії",
-    "journal": "Microbial genomics",
-    "publishedAt": "2026-May",
-    "abstract": "Дослідження аналізує геномну різноманітність Lancefield груп C/G стрептококів, які викликають інфекції у Великій Британії. Вивчено 109 ізолятів з різних інфекцій за 5 місяців 2020 року у Шеффілді, що сприяє розумінню їх ролі у клінічній практиці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109213/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Molecular analysis of Lancefield group C/G streptococci causing human infections in Sheffield, UK.",
-    "originalAbstract": "Lancefield group C/G streptococci (GCS/GGS) are increasingly recognized as significant human pathogens that cause a disease spectrum similar to Streptococcus pyogenes. Despite their high clinical burden in the UK, their genomic diversity remains poorly understood. We performed whole-genome sequencing on a prospective collection of 109 consecutive GCS/GGS isolates from any infection types in Sheffield, UK, over 5 months in 2020. Streptococcus dysgalactiae subsp. equisimilis (SDSE) accounted for 1",
-    "keyPoints": [
-      "Проаналізовано 109 ізолятів Lancefield груп C/G стрептококів.",
-      "Вивчено геномну різноманітність зразків у Великій Британії.",
-      "Дослідження сприяє розумінню ролі цих бактерій у клінічних інфекціях."
-    ],
-    "practicalTakeaway": "Геномний аналіз Lancefield груп C/G стрептококів допомагає краще зрозуміти їхню роль у розвитку інфекцій.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "мікробіологія",
-      "геноміка"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109212",
-    "title": "Вплив дисфункції транспорту ліпідів через плаценту на запалення мозку матері під час ускладнень вагітності",
-    "journal": "Archives of physiology and biochemistry",
-    "publishedAt": "2026-May-11",
-    "abstract": "Дослідження аналізує, як порушення транспорту ліпідів через плаценту при ускладненнях вагітності, таких як прееклампсія та гестаційний цукровий діабет, може спричиняти нейроінфламмацію у мозку матері. Це може впливати на розвиток плода та системні реакції організму матері.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109212/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Influence of placental lipid transport dysfunction on maternal brain inflammation during pregnancy complications.",
-    "originalAbstract": "Introduction: The conditions associated with pregnancy, such as preeclampsia, gestational diabetes, and disruptions of Placental lipid transport, are increasingly becoming known to be the cause of intrauterine growth restriction. Recent data indicate that compensatory efforts can initiate neuroinflammatory and systemic reactions in the mother, which can influence foetal development. Methods: This study aims to learn how maternal brain inflammation and neuroimmune activation during complicated pr",
-    "keyPoints": [
-      "Порушення транспорту ліпідів через плаценту може спричиняти запалення мозку у матері.",
-      "Ускладнення вагітності пов'язані з системними та нейроінфламмаційними реакціями.",
-      "Дослідження спрямоване на розуміння механізмів впливу цих процесів на розвиток плода."
-    ],
-    "practicalTakeaway": "Розуміння механізмів запалення мозку у матерів з ускладненнями вагітності може допомогти у розробці профілактичних та лікувальних стратегій.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "вагітність",
-      "запалення",
-      "плацента"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109206",
-    "title": "Модель мініпигу з генною мутацією для дослідження ранніх метаболічних змін при хворобі Гантінгтона",
-    "journal": "Disease models & mechanisms",
-    "publishedAt": "2026-Jun-01",
-    "abstract": "У дослідженні створено індуковані плюрипотентні стовбурові клітини (iPSCs) з трансгенного мініпигу з моделлю хвороби Гантінгтона (HD), що викликається мутацією в гені HTT. Це дозволяє вивчати ранні метаболічні та транскрипційні зміни у нервовій та периферійній тканинах, що мають значення для розуміння патогенезу захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109206/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Induced pluripotent stem cells from a transgenic minipig model of Huntington's disease reveal early metabolic changes.",
-    "originalAbstract": "Huntington's disease (HD) is a neurodegenerative autosomal dominant hereditary disease caused by a CAG triplet repeat expansion mutation in the gene encoding the huntingtin (HTT) protein. The main feature of HD is the loss of striatal neurons, accompanied by metabolic and transcriptional alterations in both neural and peripheral tissues. Induced pluripotent stem cells (iPSCs) derived from a transgenic HD (TgHD) minipig model expressing a mutant HTT construct were generated to investigate early m",
-    "keyPoints": [
-      "Створено iPSC з трансгенного мініпигу з моделлю HD.",
-      "Досліджуються ранні метаболічні зміни при HD.",
-      "Модель дозволяє вивчати нейродегенеративний процес."
-    ],
-    "practicalTakeaway": "Модель мініпигу з HD може сприяти дослідженню ранніх біохімічних змін при хворобі Гантінгтона.",
-    "specialty": "неврологія",
-    "tags": [
-      "модель тварин",
-      "метаболізм",
-      "нейродегенеративні захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109204",
-    "title": "Порівняльна 30-добова оцінка життєвого циклу стратегій дренування сечового міхура",
-    "journal": "BJU international",
-    "publishedAt": "2026-May-11",
-    "abstract": "Мета дослідження — визначити найбільш екологічно сталий спосіб дренування сечового міхура, що застосовується при обструкції вихідних шляхів сечового міхура, та виявити можливі заходи для зменшення екологічного впливу у клінічній практиці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109204/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Comparative 30-day life cycle assessment of bladder drainage strategies.",
-    "originalAbstract": "To identify the most environmentally sustainable urinary drainage strategies commonly used to manage bladder outlet obstruction and also to highlight actionable levers for reducing the footprint of urinary drainage in clinical practice.",
-    "keyPoints": [
-      "Оцінено життєвий цикл різних стратегій дренування сечового міхура.",
-      "Виявлено найбільш екологічно сталий підхід.",
-      "Обговорено можливості зменшення екологічного сліду у клінічних умовах."
-    ],
-    "practicalTakeaway": "Вибір стратегій дренування сечового міхура може впливати на екологічний слід медичної практики.",
-    "specialty": "нефрологія",
-    "tags": [
-      "екологія",
-      "медицина",
-      "життєвий цикл"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42109203",
-    "title": "Геномний аналіз сімейства генів AP2/ERF у Rheum officinale Baill.",
-    "journal": "The plant genome",
-    "publishedAt": "2026-Jun",
-    "abstract": "Дослідження вивчало сімейство генів AP2/ERF у Rheum officinale Baill., важливій лікарській рослині. Аналіз охоплював еволюцію та експресію генів під час розвитку рослини, при стресових умовах та відповіді на зовнішні гормони. Результати сприяють розумінню регуляторних механізмів у розвитку та метаболізмі рослини.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109203/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Genome-wide analysis of the AP2/ERF gene family in Rheum officinale Baill.: Evolution and expression profiling during plant development, abiotic stresses, and exogenous hormone responses.",
-    "originalAbstract": "The APETALA2/ethylene-responsive factor (AP2/ERF) superfamily plays a central role in plant metabolism, stress responses, and hormone signaling. Rheum officinale Baill. is an important traditional medicinal plant whose roots and rhizomes are rich in anthraquinones and other secondary metabolites. However, the regulatory mechanisms underlying its development and secondary metabolism remain unclear, and systematic analyses of its AP2/ERF family are lacking. This study aimed to characterize the gen",
-    "keyPoints": [
-      "Вивчено сімейство генів AP2/ERF у Rheum officinale.",
-      "Проаналізовано їхню роль у розвитку та стресових реакціях.",
-      "Допомагає зрозуміти регуляторні механізми метаболізму рослини."
-    ],
-    "practicalTakeaway": "Дослідження сприяє розробці стратегій використання Rheum officinale у медицині та біотехнологіях.",
+    "practicalTakeaway": "Використання генотипування для ABO може покращити точність визначення груп крові у донорів та пацієнтів.",
     "specialty": "доказова медицина",
     "tags": [
-      "геноміка",
-      "рослини",
-      "регуляторні механізми"
+      "генетика",
+      "трансфузії",
+      "трансплантація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42109201",
-    "title": "Обґрунтування біомаркерів для діагностики сепсису на основі генів, пов’язаних з фумаратомним обміном, із аналізом імунної інфільтрації та визначенням підтипів.",
-    "journal": "Immunological investigations",
-    "publishedAt": "2026-May-11",
-    "abstract": "Дослідження вивчає роль дисрегуляції фумаратового обміну у розвитку сепсису, що є важливим для пошуку нових діагностичних біомаркерів та терапевтичних цілей. Враховується імунна інфільтрація та різноманіття підтипів сепсису.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42109201/",
+    "pmid": "42114189",
+    "title": "Порівняння ультразвукового блокування сідничного нерва та інфільтрації навколо геникулярних структур у собак після хірургії крестообразної зв'язки",
+    "journal": "Veterinary anaesthesia and analgesia",
+    "publishedAt": "2026-Apr-10",
+    "abstract": "Мета дослідження — порівняти моторний блокад між інфільтрацією навколо геникулярних структур (FLAGS) та блокадою сідничного нерва (з заднього підходу) (SCIATIC) у собак, що перенесли операцію на колінному суглобі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114189/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-11T14:37:33Z",
-    "originalTitle": "Screening of Sepsis Diagnostic Biomarkers Based on Fumarate Metabolism-Related Genes with Analysis of Immune Infiltration and Subtype Identification.",
-    "originalAbstract": "Sepsis is a major global health challenge characterized by a complex pathogenesis involving an early hyperinflammatory phase followed by a subsequent immunosuppressive state. Recent studies have revealed that dysregulation of fumarate metabolism plays a central role in immune dysregulation during sepsis, making related genes promising candidates as novel diagnostic biomarkers and therapeutic targets.",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Comparison of ultrasound-guided sciatic nerve block with inFiLtration Around Genicular Structures (FLAGS) in dogs undergoing cranial cruciate ligament repair.",
+    "originalAbstract": "To compare motor blockade between local anaesthetic inFiLtration Around Genicular Structures (FLAGS) and sciatic nerve block (caudal approach) (SCIATIC) in dogs undergoing stifle surgery.",
     "keyPoints": [
-      "Дисрегуляція фумаратового обміну повʼязана з сепсисом.",
-      "Гени, повʼязані з цим обміном, можуть слугувати біомаркерами.",
-      "Аналіз імунної інфільтрації допомагає у класифікації підтипів сепсису."
+      "Дослідження порівнює два методи анестезії у собак після хірургії колінного суглоба.",
+      "Мета — визначити різницю у моторному блокаді між інфільтрацією та блокадою сідничного нерва.",
+      "Результати допомагають оптимізувати анестезію при хірургічних втручаннях на коліні собак."
     ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал генів, повʼязаних з фумаратомним обміном, для діагностики та лікування сепсису.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір методу анестезії у ветеринарній практиці при хірургії колінного суглоба.",
+    "specialty": "неврологія",
     "tags": [
-      "біомаркери",
-      "сепсис",
-      "імунна інфільтрація"
+      "ветеринарна медицина",
+      "анестезія",
+      "хірургія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114184",
+    "title": "Щоденне застосування довготривалого адренокортикотропного гормону (АКТГ) впливає на розвитковий патерн плазмового фібриногену у молодих щурів",
+    "journal": "Brain & development",
+    "publishedAt": "2026-May-10",
+    "abstract": "Дослідження вивчало вплив щоденного застосування довготривалого АКТГ на рівень плазмового фібриногену у молодих щурів, що моделює раннє дитинство у людей. Попередні дані показували зниження рівня фібриногену при терапії АКТГ у дітей з епілептичним синдромом, але механізми залишаються невідомими.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114184/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Daily administration of long-acting adrenocorticotropic hormone (ACTH) alters the developmental pattern of plasma fibrinogen in juvenile rats.",
+    "originalAbstract": "We previously reported that adrenocorticotropic hormone (ACTH) therapy for infantile epileptic spasm syndrome (IESS) decreases plasma fibrinogen (Fbg) levels. However, the underlying mechanism(s) has not been elucidated. An animal model approximating early childhood in humans uses juvenile rats at postnatal days (P)21-P35, but its applicability to this question has not been examined.",
+    "keyPoints": [
+      "Дослідження вивчало вплив АКТГ на рівень фібриногену у молодих щурів.",
+      "Результати допомагають зрозуміти механізми дії терапії АКТГ.",
+      "Модель щурів використана для імітації раннього дитинства у людей."
+    ],
+    "practicalTakeaway": "Дослідження сприяє розумінню впливу АКТГ на розвиток кровоносної системи у молодих організмів.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "акушерство і гінекологія",
+      "доказова медицина",
+      "педіатрія"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114179",
+    "title": "Аномалії слухової мозковоїstem-реакції при аутизмі: глибоке навчання для аналізу час-частотних характеристик",
+    "journal": "Hearing research",
+    "publishedAt": "2026-May-08",
+    "abstract": "Дослідження застосовує методи глибокого навчання для аналізу час-частотних сигналів слухової мозковоїstem-реакції у пацієнтів з аутизмом, прагнучи виявити нейрофізіологічно значущі патерни, що можуть доповнити традиційний аналіз waveform.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114179/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Auditory brainstem response abnormalities in autism spectrum disorder: A deep learning approach to characterize time-frequency signatures.",
+    "originalAbstract": "While Auditory Brainstem Response (ABR) provides a non-invasive window into auditory brainstem function, prior studies of ASD have primarily focused on localized waveform features (e.g., waves I, III, and V), potentially overlooking subtle but informative patterns in the full-band signal. This study introduces a deep learning framework to comprehensively characterize time-frequency signatures of auditory brainstem activity in ASD, with the goal of identifying neurophysiologically meaningful ABR ",
+    "keyPoints": [
+      "Використано глибоке навчання для аналізу ABR у аутизмі.",
+      "Зосереджено увагу на час-частотних характеристиках сигналу.",
+      "Мета — виявити нейрофізіологічно значущі патерни."
+    ],
+    "practicalTakeaway": "Застосування глибокого навчання може покращити розуміння нейрофізіологічних особливостей аутизму через аналіз ABR.",
+    "specialty": "неврологія",
+    "tags": [
+      "аутизм",
+      "ABR",
+      "глибоке навчання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114178",
+    "title": "Вірусна симфонія: «Дистонія при грі на фортепіано» як постенцефалітичний феномен при денге",
+    "journal": "Parkinsonism & related disorders",
+    "publishedAt": "2026-May-06",
+    "abstract": "Дослідження описує випадок розвитку дистонії у пацієнта після перенесеної денге, що проявляється при грі на фортепіано. Виявлено, що цей руховий розлад може бути наслідком вірусної інфекції, що впливає на центральну нервову систему.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114178/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "A viral symphony: \"Piano-playing dystonia\" as a post-encephalitic phenomenon in dengue.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Дистонія виникла після перенесеної денге.",
+      "Проявляється при грі на фортепіано.",
+      "Можливий вірусний механізм у розвитку розладу."
+    ],
+    "practicalTakeaway": "Враховувати можливість вірусних ускладнень у пацієнтів з руховими порушеннями після інфекцій.",
+    "specialty": "неврологія",
+    "tags": [
+      "вірусні інфекції",
+      "рухові розлади",
+      "денге"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114177",
+    "title": "Новий погляд на ризик розвитку депресії та тривоги при паркінсонізмі: роль GBA1 і LRRK2",
+    "journal": "Parkinsonism & related disorders",
+    "publishedAt": "2026-May-07",
+    "abstract": "Дослідження вивчає зв’язки між мутаціями GBA1 і LRRK2 та розвитком депресії й тривоги у пацієнтів з паркінсонізмом. Аналізується потенційна роль цих генетичних маркерів у ранній діагностиці та прогнозуванні психічних розладів, що суттєво впливають на якість життя хворих.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114177/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "A novel insight into the risk of depression and anxiety onset in Parkinson's disease: the implications of GBA1 and LRRK2.",
+    "originalAbstract": "The non-motor symptoms of Parkinson's disease (PD) conspicuously undermine the quality of life of patients, with mood disorders being the most prevalent. However, reliable indicators for early prediction are currently scarce. Glucocerebrosidase beta 1 (GBA1) and leucine-rich repeat kinase 2 (LRRK2) mutations are regarded as associated with depression and anxiety. Nevertheless, relevant longitudinal analyses are infrequent. The aim of this study is to investigate the longitudinal relationships be",
+    "keyPoints": [
+      "Мутації GBA1 і LRRK2 пов’язані з депресією і тривогою у пацієнтів з паркінсонізмом.",
+      "Дослідження підкреслює важливість довгострокового аналізу цих зв’язків.",
+      "Роль генетичних маркерів у передбаченні психічних розладів при паркінсонізмі потребує подальшого вивчення."
+    ],
+    "practicalTakeaway": "Врахування генетичних факторів GBA1 і LRRK2 може допомогти у ранній діагностиці та управлінні психічними симптомами при паркінсонізмі.",
+    "specialty": "неврологія",
+    "tags": [
+      "паркінсонізм",
+      "депресія",
+      "тривога"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114176",
+    "title": "Метаболічно асоційована жирова хвороба печінки у людей із травмами спинного мозку та ожирінням: огляд механізмів та наслідків",
+    "journal": "Nutrition research (New York, N.Y.)",
+    "publishedAt": "2026-Apr-12",
+    "abstract": "Ця стаття аналізує механізми розвитку метаболічно асоційованої жирової хвороби печінки (MASLD) у пацієнтів із травмами спинного мозку (SCI), які не мають ожиріння, та порівнює їх із випадками, пов’язаними з ожирінням. Виявлено, що різні початкові чинники можуть спричиняти ураження печінки, але кінцеві наслідки можуть бути схожими.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114176/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Metabolic dysfunction-associated steatotic liver disease in spinal cord injury and obesity: A narrative review of divergent mechanisms, convergent outcomes.",
+    "originalAbstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is most frequently attributed to obesity. However, spinal cord injury (SCI) also induces a rapidly developing MASLD phenotype in the absence of obesity. This narrative review synthesizes emerging evidence to compare neurogenic and obesogenic drivers of MASLD (neurogenic MASLD vs obesity-associated MASLD [oMASLD]) to uncover mechanistic pathways that converge on liver injury despite markedly different initiating stimuli. While neuro",
+    "keyPoints": [
+      "MASLD може розвиватися у пацієнтів із SCI без ожиріння.",
+      "Різні механізми запуску MASLD можуть приводити до схожих уражень печінки.",
+      "Дослідження сприяє розумінню шляхів розвитку MASLD у різних груп пацієнтів."
+    ],
+    "practicalTakeaway": "Розуміння різних механізмів MASLD важливе для розробки цілеспрямованих стратегій лікування.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "печінка",
+      "метаболізм",
+      "захворювання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114175",
+    "title": "Оркестрування мітохондріальної катастрофи: механізми та терапевтичні перспективи купроптозу у прецизійній фармакології",
+    "journal": "Current opinion in pharmacology",
+    "publishedAt": "2026-Apr-18",
+    "abstract": "Купроптоз — це регульований шлях клітинної смерті, викликаний надлишком міді у мітохондріях. На відміну від апоптозу або фероптозу, купроптоз характеризується зв'язуванням надлишкової міді з ліпоатованими ферментами циклу трикарбонових кислот, що спричиняє агрегацію білків та дестабілізацію залізо-сірчаних комплексів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114175/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Orchestrating mitochondrial catastrophe: Mechanistic insights and therapeutic frontiers of cuproptosis in precision pharmacology.",
+    "originalAbstract": "Recent pharmacological breakthroughs have identified cuproptosis as a distinct, regulated cell death (RCD) pathway driven by mitochondrial copper overload. Unlike traditional RCDs such as apoptosis or ferroptosis, cuproptosis is characterized by the direct binding of excess copper to lipoylated enzymes of the tricarboxylic acid (TCA) cycle, notably the E2 subunit of pyruvate dehydrogenase (DLAT). This interaction triggers toxic protein aggregation and the destabilization of iron-sulfur (Fe-S) cl",
+    "keyPoints": [
+      "Купроптоз — це регульований шлях клітинної смерті, викликаний міді.",
+      "Міді надходить до ферментів циклу Кребса, спричиняючи токсичні зміни.",
+      "Цей механізм має потенціал для цільової терапії в прецизійній фармакології."
+    ],
+    "practicalTakeaway": "Дослідження купроптозу відкривають нові можливості для розробки цільових терапевтичних стратегій.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "мітохондрія",
+      "клітинна смерть",
+      "фармакологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42114171",
+    "title": "Стадійні методи в немелкоклітинному раку легень: рекомендації та систематичний огляд",
+    "journal": "Clinical lung cancer",
+    "publishedAt": "2026-Apr-10",
+    "abstract": "Немелкоклітинний рак легень залишається провідною причиною смертності від раку, а точна стадія визначає вибір терапії та прогноз. Це керівництво, розроблене бразильською групою з торакальної онкології, містить рекомендації на основі доказів щодо стадіювання NSCLC.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114171/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-12T02:32:53Z",
+    "originalTitle": "Staging Modalities in Non-Small Cell Lung Cancer: Evidence-Based Guideline and Systematic Review by the Brazilian Group of Thoracic Oncology.",
+    "originalAbstract": "Non-small cell lung cancer (NSCLC) remains the leading cause of cancer-related deaths, and accurate staging is essential to guide therapeutic decision-making and optimize patient survival. This guideline, developed by the Brazilian Group of Thoracic Oncology, provides evidence-based recommendations for NSCLC staging.",
+    "keyPoints": [
+      "Рекомендації базуються на систематичному огляді доказів.",
+      "Точне стадіювання важливе для вибору терапії.",
+      "Значення стадіювання для прогнозу залишається критичним."
+    ],
+    "practicalTakeaway": "Дотримання доказових рекомендацій щодо стадіювання NSCLC може покращити процес прийняття клінічних рішень.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракові захворювання",
+      "діагностика",
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
