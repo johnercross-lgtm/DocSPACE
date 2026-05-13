@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42114192",
-    "title": "Особливі механізми ініціації трансляції вірусних мРНК без канонічних ознак",
-    "journal": "Virology",
-    "publishedAt": "2026-May-08",
-    "abstract": "Дослідження аналізує альтернативні стратегії вірусних РНК для запуску трансляції у клітині, коли відсутні стандартні ознаки, такі як 5'-кап або 3'-поли(A)-хвіст. Розглядаються механізми обходу кап-залежності для доступу до клітинної трансляційної машини.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114192/",
+    "pmid": "42119303",
+    "title": "Таламічні міжприступні епілептичні та неепілептичні події під час сну NREM у пацієнтів із фокальною епілепсією: дослідження Stereo-EEG",
+    "journal": "EBioMedicine",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Дослідження аналізує характер міжприступних епілептичних та неепілептичних подій у таламусі під час сну NREM у пацієнтів із фокальною епілепсією. Вивчення електрофізіології таламічних структур сприяє покращенню розуміння патологічних та фізіологічних активностей, що може вплинути на цілі нейромодуляції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119303/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Making ends meet: Specialized translation of viral mRNAs lacking canonical features.",
-    "originalAbstract": "Translation initiation in eukaryotic cells is usually driven by recognition of a 5' cap and a 3' poly(A) tail, which cooperate through interactions with eukaryotic initiation factors (eIFs) and poly(A)-binding protein (PABP) to promote mRNA circularization and efficient ribosome recruitment. However, many viral RNAs lack one or both of these canonical features and must use alternative strategies to access the host translational machinery. Diverse mechanisms are used to bypass cap dependence, inc",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Thalamic interictal epileptic and non-epileptic events during NREM sleep in patients with focal epilepsy: a Stereo-EEG study.",
+    "originalAbstract": "Thalamic recordings are increasingly incorporated into stereo-electroencephalography (SEEG) evaluations of drug-resistant focal epilepsy to guide neuromodulation targeting. Human thalamic electrophysiology, however, is poorly defined, limiting the distinction between pathological and physiological activity. Here, we characterised interictal epileptic and non-epileptic events during non-rapid eye movement (NREM) sleep across multiple thalamic nuclei and examined their associations to seizure outc",
     "keyPoints": [
-      "Вірусні мРНК часто позбавлені стандартних ознак для ініціації трансляції.",
-      "Досліджуються альтернативні механізми запуску трансляції без 5'-капу.",
-      "Ці механізми дозволяють вірусам використовувати клітинний білковий синтез без стандартних ознак."
+      "Досліджено міжприступні події у таламусі під час сну NREM.",
+      "Аналізовано різні таламічні ядра та їх зв'язки з епілептичними нападами.",
+      "Результати сприяють покращенню цілей нейромодуляції при фокальній епілепсії."
     ],
-    "practicalTakeaway": "Розуміння альтернативних механізмів трансляції вірусних мРНК може допомогти у розробці нових антивірусних стратегій.",
+    "practicalTakeaway": "Розуміння характеру таламічних активностей під час сну NREM може допомогти у вдосконаленні методів нейромодуляції для лікування фокальної епілепсії.",
+    "specialty": "неврологія",
+    "tags": [
+      "епілепсія",
+      "таламус",
+      "сон"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42119302",
+    "title": "Динамічні нейронні стани визначають тяжкість моторних симптомів при Паркінсонізмі: довгостроковий аналіз записів кортикально-стовбурової ядерної мережі",
+    "journal": "EBioMedicine",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Моторні симптоми при Паркінсонізмі можуть виникати через тимчасові, мережево-загальні нейронні динаміки, що виходять за межі бета-діапазону коливань у кортикально-стовбуровій ядерній мережі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119302/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Dynamic neural states underpin motor symptom severity in Parkinson's disease: a longitudinal analysis of chronic cortico-subthalamic nucleus recordings.",
+    "originalAbstract": "Motor symptoms in Parkinson's disease (PD) may arise due to transient, network-wide neural dynamics that extend beyond beta-band oscillatory activity within the motor cortical-subthalamic nucleus (STN) circuit.",
+    "keyPoints": [
+      "Моторні симптоми при Паркінсонізмі пов'язані з нейронними динаміками, що виходять за межі бета-коливань.",
+      "Дослідження базується на довгострокових записах активності кортикально-стовбурової мережі.",
+      "Результати підкреслюють важливість мережевих динамік для розуміння тяжкості симптомів."
+    ],
+    "practicalTakeaway": "Розуміння нейронних мережевих динамік може сприяти розвитку нових підходів до лікування моторних симптомів при Паркінсонізмі.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейронаука",
+      "Паркінсонізм",
+      "моторні симптоми"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42119301",
+    "title": "Мультидисциплінарне управління болем і функцією у пацієнтки з двобічною гіпоплазією великого пальця",
+    "journal": "Rehabilitacion",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Описано випадок 33-річної жінки з двобічною гіпоплазією великого пальця, яка після дитячого лікування розвинуло міофасціальний біль. Ультразвукове дослідження виявило триггерні точки та гіпертрофію м'язів. Ін'єкції ботулотоксину типу A зменшили біль на 60% на чотири місяці без погіршення функціональних показників.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119301/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Multidisciplinary management of pain and function in a patient with bilateral thumb hypoplasia undergoing multiple reconstructive procedures.",
+    "originalAbstract": "Congenital thumb hypoplasia impairs hand function. Surgical reconstruction may cause long-term muscle overload and chronic pain. A 33-year-old woman with a history of bilateral thumb hypoplasia, treated during childhood, developed myofascial pain. Ultrasound examination confirmed trigger points and hypertrophy in the brachialis and finger flexor muscles. Injections of botulinum toxin type A (BoNT-A, 60U) reduced pain by 60% for four months without compromising functional capacity. Biomechanical ",
+    "keyPoints": [
+      "Міофасціальний біль може виникати у пацієнтів з гіпоплазією пальця після реконструктивних операцій.",
+      "Ультразвукове дослідження допомагає виявити триггерні точки та гіпертрофію м'язів.",
+      "Ін'єкції ботулотоксину типу A можуть зменшити біль без втрати функціональності."
+    ],
+    "practicalTakeaway": "Використання ботулотоксину може бути ефективним для зменшення хронічного болю у пацієнтів з гіпоплазією пальця.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "хірургія",
+      "біль",
+      "функція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42119300",
+    "title": "Поширеність низької функціональної здатності у пацієнтів перед великими хірургічними втручаннями: систематичний огляд та мета-аналіз",
+    "journal": "Rehabilitacion",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Мета препабілітації — підвищити фізіологічний резерв перед великою операцією. Однак невідомо, скільки пацієнтів із зниженою функціональною здатністю отримують ці заходи. Виявлення цієї групи є важливим, оскільки вони найбільше можуть отримати користь від препабілітації. Цей систематичний огляд та мета-аналіз оцінює поширеність низької функціональної здатності серед дорослих пацієнтів, що проходять препабілітацію перед операцією.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119300/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Prevalence of poor functional capacity in patients undergoing prehabilitation before major surgery: A systematic review and meta-analysis.",
+    "originalAbstract": "Prehabilitation aims to enhance physiological reserve prior to major surgery; however, the proportion of patients with impaired functional capacity who actually receive these interventions remains unclear. Identifying this subgroup is crucial, as patients with reduced functional capacity are those most likely to benefit from prehabilitation. This systematic review and meta-analysis aimed to estimate the prevalence of poor functional capacity among adult patients undergoing prehabilitation before",
+    "keyPoints": [
+      "Визначено поширеність низької функціональної здатності у пацієнтів перед хірургією.",
+      "Знижена функціональна здатність є потенційним показником для цілей препабілітації.",
+      "Дослідження базуються на систематичному огляді та мета-аналізі PubMed."
+    ],
+    "practicalTakeaway": "Врахування рівня функціональної здатності пацієнтів може допомогти у визначенні тих, хто найбільше потребує препабілітаційних заходів.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "хірургія",
+      "реабілітація",
+      "функціональна здатність"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42119299",
+    "title": "Порівняльний аналіз кардіореспіраторних відповідей при тестуванні у пацієнтів з ХОЗЛ",
+    "journal": "Rehabilitacion",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Дослідження порівнює кардіореспіраторні відповіді під час інкрементального степ-тесту та кардіопульмонального тесту у пацієнтів з хронічною обструктивною хворобою легень (ХОЗЛ).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119299/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Comparison of cardiorespiratory responses between the incremental step test and the cardiopulmonary exercise test in people with chronic obstructive pulmonary disease.",
+    "originalAbstract": "The incremental step test (IST) is designed for people with COPD, but its cardiorespiratory response remains unknown. This study aimed to assess the cardiorespiratory response of the IST and compare it to CPET in people with COPD.",
+    "keyPoints": [
+      "Дослідження порівнює два тестування у пацієнтів з ХОЗЛ.",
+      "Кардіореспіраторні відповіді під час тестів аналізуються.",
+      "Результати допомагають зрозуміти фізіологічні реакції при різних видах тестування."
+    ],
+    "practicalTakeaway": "Результати дослідження можуть сприяти оптимізації методів оцінки фізичної витривалості у пацієнтів з ХОЗЛ.",
+    "specialty": "пульмонологія",
+    "tags": [
+      "доказова медицина",
+      "пульмонологія",
+      "загальнонаціональний"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42119293",
+    "title": "Зимуючі водоплавні птахи як резервуари антибіотикорезистентності: ризики передачі ARGs",
+    "journal": "Journal of hazardous materials",
+    "publishedAt": "2026-05-04T00:00:00Z",
+    "abstract": "Дослідження показало, що зимуючі водоплавні птахи є важливими резервуарами генів антибіотикорезистентності (ARGs). Виявлено спільні патерни поширення ARGs між птахами та навколишнім середовищем, що підвищує ризик горизонтальної передачі. Це ускладнює розуміння ролі водоплавних птахів у поширенні ARGs.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119293/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Overwintering waterbirds are important reservoirs for the spread of antibiotic resistance genes (ARGs): Shared patterns at the waterbird-environment interface and the risk of horizontal transfer.",
+    "originalAbstract": "The global spread of antibiotic resistance genes (ARGs) has become a critical challenge to public health. Long-distance migratory waterbirds are recognized as important biological vectors in the transregional spread of ARGs. However, the sharing patterns of ARGs and the horizontal transfer risks between these birds and their habitats during the wintering period remain poorly understood. This limits a comprehensive understanding of their role in ARG transmission. This study investigated a typical",
+    "keyPoints": [
+      "Зимуючі водоплавні птахи є резервуарами ARGs.",
+      "Спільні патерни поширення ARGs між птахами та середовищем.",
+      "Ризик горизонтальної передачі ARGs зростає."
+    ],
+    "practicalTakeaway": "Необхідно враховувати роль водоплавних птахів у поширенні антибіотикорезистентності.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "вірусні РНК",
-      "трансляція",
-      "мікроорганізми"
+      "інфекційні хвороби",
+      "загальні наслідки для здоровʼя",
+      "екологія"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42114190",
-    "title": "The \"Next\" standard for ABO genotyping.",
-    "journal": "Human immunology",
-    "publishedAt": "2026-May-10",
-    "abstract": "ABO histocompatibility plays a critical role in red blood cell (RBC) transfusions and is of great importance in solid organ and hematopoietic stem cell transplantation. ABO is primarily typed from red blood cell samples using serological reagents. However, stem cell donors are often screened using buccal swabs which cannot be used for serologic testing. Furthermore, serologic testing can be complicated by recent transfusions, weak reactions, or unusual reaction patterns, which require resolution",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114190/",
+    "pmid": "42119292",
+    "title": "Приховані шляхи: Виявлення та кількісна оцінка мікропластику на різних етапах очищення стічних вод фармацевтичної промисловості",
+    "journal": "Journal of hazardous materials",
+    "publishedAt": "2026-05-09T00:00:00Z",
+    "abstract": "Дослідження аналізує рівень мікропластику у стічних водах фармацевтичної галузі на різних стадіях очищення. Виявлено, що фармацевтична промисловість є потенційним джерелом мікропластику, що потрапляє у водні системи. Детально досліджуються характеристики та поширення мікропластику у водних екосистемах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119292/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "The \"Next\" standard for ABO genotyping.",
-    "originalAbstract": "ABO histocompatibility plays a critical role in red blood cell (RBC) transfusions and is of great importance in solid organ and hematopoietic stem cell transplantation. ABO is primarily typed from red blood cell samples using serological reagents. However, stem cell donors are often screened using buccal swabs which cannot be used for serologic testing. Furthermore, serologic testing can be complicated by recent transfusions, weak reactions, or unusual reaction patterns, which require resolution",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Hidden pathways: Detection and quantification of microplastics across treatment stages of pharmaceutical WWTPs.",
+    "originalAbstract": "Recently, it has been recognised that the pharmaceutical industry has emerged as a new source of microplastic contamination, particularly when treated wastewater is discharged into aquatic systems. Microplastics have been widely reported in aquatic animals, the terrestrial environment, and food systems, but the prevalence and characteristics of microplastics associated with the pharmaceutical industry remain poorly understood. This study investigates the degree of microplastic contamination, alo",
     "keyPoints": [
-      "ABO генотипування важливе для трансфузій та трансплантації.",
-      "Новий стандарт",
-      "Ключовий пункт потребує уточнення за оригінальним джерелом."
+      "Фармацевтична промисловість може бути джерелом мікропластику у воді.",
+      "Досліджено рівень мікропластику на різних етапах очищення стічних вод.",
+      "Виявлено поширення мікропластику у водних системах та його характеристики."
     ],
-    "practicalTakeaway": "Використання генотипування для ABO може покращити точність визначення груп крові у донорів та пацієнтів.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Необхідно враховувати роль фармацевтичної галузі у забрудненні мікропластиком водних систем.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "мікропластик",
+      "водні системи",
+      "забруднення"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42119286",
+    "title": "Генотип-залежна реакція на комбінацію леводопи/бенсеразиду та тригексифенідил у дитячій генетичній дистонії",
+    "journal": "Brain & development",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Дослідження вивчає, чи відповідає лікування комбінацією леводопи/бенсеразиду та тригексифенідил у дітей з генетичною дистонією залежно від генотипу. Встановлено, що генетичні причини відіграють важливу роль у розвитку цієї патології, але питання про варіації у лікувальній реакції залежно від генетичних особливостей залишається відкритим.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119286/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Genotype-dependent response to combined levodopa/benserazide and trihexyphenidyl in pediatric genetic dystonia.",
+    "originalAbstract": "Genetic etiologies underlie a substantial proportion of pediatric dystonia, but whether treatment response to combined dopaminergic and anticholinergic therapy varies by genotype remains unknown.",
+    "keyPoints": [
+      "Дослідження фокусується на генетичних причинах дитячої дистонії.",
+      "Вивчається залежність відповіді на лікування від генотипу.",
+      "Результати можуть вплинути на персоналізований підхід до терапії."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити, чи потрібно враховувати генетичний профіль при призначенні терапії дитячої дистонії.",
+    "specialty": "неврологія",
     "tags": [
       "генетика",
-      "трансфузії",
-      "трансплантація"
+      "лікування",
+      "дитяча дистонія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42114189",
-    "title": "Порівняння ультразвукового блокування сідничного нерва та інфільтрації навколо геникулярних структур у собак після хірургії крестообразної зв'язки",
-    "journal": "Veterinary anaesthesia and analgesia",
-    "publishedAt": "2026-Apr-10",
-    "abstract": "Мета дослідження — порівняти моторний блокад між інфільтрацією навколо геникулярних структур (FLAGS) та блокадою сідничного нерва (з заднього підходу) (SCIATIC) у собак, що перенесли операцію на колінному суглобі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114189/",
+    "pmid": "42119283",
+    "title": "Ефективність імплантатів деслореїну у кастрованих самців собак, що приваблюють інших самців: рандомізоване дослідження",
+    "journal": "Theriogenology",
+    "publishedAt": "2026-05-07T00:00:00Z",
+    "abstract": "Дослідження оцінює вплив імплантатів деслореїну на зменшення сексуальної привабливості кастрованих самців собак, які приваблюють інших самців. Участь брали 30 собак, випадковим чином розподілених на групи, одна з яких отримала 4,7 мг імплантату. Результати показують потенційну ефективність цього методу у зниженні сексуальної привабливості.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119283/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Comparison of ultrasound-guided sciatic nerve block with inFiLtration Around Genicular Structures (FLAGS) in dogs undergoing cranial cruciate ligament repair.",
-    "originalAbstract": "To compare motor blockade between local anaesthetic inFiLtration Around Genicular Structures (FLAGS) and sciatic nerve block (caudal approach) (SCIATIC) in dogs undergoing stifle surgery.",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "The efficacy of deslorelin implants in neutered male dogs that sexually attract other male dogs: a randomized controlled trial.",
+    "originalAbstract": "Sexual attractiveness of neutered male dogs to other male dogs is a frequently reported phenomenon of unknown pathophysiology. As gonadectomized dogs exhibit elevated luteinizing hormone (LH) concentrations, this study evaluated the efficacy of deslorelin implants in a double-blinded randomized controlled trial (RCT) to mitigate sexual attractiveness. Thirty gonadectomized male dogs attractive to other dogs were recruited for this RCT. One group (n = 15) received a 4.7 mg deslorelin implant (Sup",
     "keyPoints": [
-      "Дослідження порівнює два методи анестезії у собак після хірургії колінного суглоба.",
-      "Мета — визначити різницю у моторному блокаді між інфільтрацією та блокадою сідничного нерва.",
-      "Результати допомагають оптимізувати анестезію при хірургічних втручаннях на коліні собак."
+      "Дослідження оцінює вплив імплантатів деслореїну у кастрованих собак.",
+      "Вивчено зменшення сексуальної привабливості до інших самців.",
+      "Рандомізоване контрольоване дослідження з 30 собаками."
     ],
-    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір методу анестезії у ветеринарній практиці при хірургії колінного суглоба.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Імплантати деслореїну можуть бути ефективним засобом зменшення сексуальної привабливості у кастрованих собак.",
+    "specialty": "сімейна медицина",
     "tags": [
-      "ветеринарна медицина",
-      "анестезія",
-      "хірургія"
+      "ветеринарія",
+      "поведінка тварин",
+      "загальні наслідки для здоровʼя"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42114184",
-    "title": "Щоденне застосування довготривалого адренокортикотропного гормону (АКТГ) впливає на розвитковий патерн плазмового фібриногену у молодих щурів",
-    "journal": "Brain & development",
-    "publishedAt": "2026-May-10",
-    "abstract": "Дослідження вивчало вплив щоденного застосування довготривалого АКТГ на рівень плазмового фібриногену у молодих щурів, що моделює раннє дитинство у людей. Попередні дані показували зниження рівня фібриногену при терапії АКТГ у дітей з епілептичним синдромом, але механізми залишаються невідомими.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114184/",
+    "pmid": "42119282",
+    "title": "Загальнонаціональна поширеність та терапевтичні послідовності лікування резистентної депресії у Німеччині",
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Дослідження оцінює поширеність резистентної депресії (РД) та терапевтичні практики у Німеччині на основі страхових даних. Аналіз охоплює дані понад 2,4 мільйонів застрахованих у 2019 році, визначаючи РД за операційною ознакою, що базується на даних претензій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42119282/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Daily administration of long-acting adrenocorticotropic hormone (ACTH) alters the developmental pattern of plasma fibrinogen in juvenile rats.",
-    "originalAbstract": "We previously reported that adrenocorticotropic hormone (ACTH) therapy for infantile epileptic spasm syndrome (IESS) decreases plasma fibrinogen (Fbg) levels. However, the underlying mechanism(s) has not been elucidated. An animal model approximating early childhood in humans uses juvenile rats at postnatal days (P)21-P35, but its applicability to this question has not been examined.",
+    "updatedAt": "2026-05-13T02:39:21Z",
+    "originalTitle": "Population-based prevalence and pharmacotherapy sequences of treatment resistant depression in Germany.",
+    "originalAbstract": "Treatment-resistant depression (TRD) represents a significant clinical challenge, yet data on its epidemiology and real-world therapy patterns remain limited. This study aimed to estimate TRD prevalence and analyze treatment patterns using claims data. This retrospective analysis used the German Analysis Database for Evaluation and Health Services Research (DADB), encompassing 2.47 million statutory health insurance beneficiaries in 2019. TRD was operationally defined as a claims-based proxy for",
     "keyPoints": [
-      "Дослідження вивчало вплив АКТГ на рівень фібриногену у молодих щурів.",
-      "Результати допомагають зрозуміти механізми дії терапії АКТГ.",
-      "Модель щурів використана для імітації раннього дитинства у людей."
+      "Дослідження оцінює поширеність резистентної депресії у Німеччині.",
+      "Аналіз базується на страхових даних за 2019 рік.",
+      "Визначення РД ґрунтується на претензійних даних щодо лікування."
     ],
-    "practicalTakeaway": "Дослідження сприяє розумінню впливу АКТГ на розвиток кровоносної системи у молодих організмів.",
-    "specialty": "ендокринологія",
+    "practicalTakeaway": "Дані про поширеність та терапевтичні послідовності можуть допомогти у плануванні лікування резистентної депресії.",
+    "specialty": "доказова медицина",
     "tags": [
-      "акушерство і гінекологія",
-      "доказова медицина",
-      "педіатрія"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42114179",
-    "title": "Аномалії слухової мозковоїstem-реакції при аутизмі: глибоке навчання для аналізу час-частотних характеристик",
-    "journal": "Hearing research",
-    "publishedAt": "2026-May-08",
-    "abstract": "Дослідження застосовує методи глибокого навчання для аналізу час-частотних сигналів слухової мозковоїstem-реакції у пацієнтів з аутизмом, прагнучи виявити нейрофізіологічно значущі патерни, що можуть доповнити традиційний аналіз waveform.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114179/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Auditory brainstem response abnormalities in autism spectrum disorder: A deep learning approach to characterize time-frequency signatures.",
-    "originalAbstract": "While Auditory Brainstem Response (ABR) provides a non-invasive window into auditory brainstem function, prior studies of ASD have primarily focused on localized waveform features (e.g., waves I, III, and V), potentially overlooking subtle but informative patterns in the full-band signal. This study introduces a deep learning framework to comprehensively characterize time-frequency signatures of auditory brainstem activity in ASD, with the goal of identifying neurophysiologically meaningful ABR ",
-    "keyPoints": [
-      "Використано глибоке навчання для аналізу ABR у аутизмі.",
-      "Зосереджено увагу на час-частотних характеристиках сигналу.",
-      "Мета — виявити нейрофізіологічно значущі патерни."
-    ],
-    "practicalTakeaway": "Застосування глибокого навчання може покращити розуміння нейрофізіологічних особливостей аутизму через аналіз ABR.",
-    "specialty": "неврологія",
-    "tags": [
-      "аутизм",
-      "ABR",
-      "глибоке навчання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42114178",
-    "title": "Вірусна симфонія: «Дистонія при грі на фортепіано» як постенцефалітичний феномен при денге",
-    "journal": "Parkinsonism & related disorders",
-    "publishedAt": "2026-May-06",
-    "abstract": "Дослідження описує випадок розвитку дистонії у пацієнта після перенесеної денге, що проявляється при грі на фортепіано. Виявлено, що цей руховий розлад може бути наслідком вірусної інфекції, що впливає на центральну нервову систему.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114178/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "A viral symphony: \"Piano-playing dystonia\" as a post-encephalitic phenomenon in dengue.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Дистонія виникла після перенесеної денге.",
-      "Проявляється при грі на фортепіано.",
-      "Можливий вірусний механізм у розвитку розладу."
-    ],
-    "practicalTakeaway": "Враховувати можливість вірусних ускладнень у пацієнтів з руховими порушеннями після інфекцій.",
-    "specialty": "неврологія",
-    "tags": [
-      "вірусні інфекції",
-      "рухові розлади",
-      "денге"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42114177",
-    "title": "Новий погляд на ризик розвитку депресії та тривоги при паркінсонізмі: роль GBA1 і LRRK2",
-    "journal": "Parkinsonism & related disorders",
-    "publishedAt": "2026-May-07",
-    "abstract": "Дослідження вивчає зв’язки між мутаціями GBA1 і LRRK2 та розвитком депресії й тривоги у пацієнтів з паркінсонізмом. Аналізується потенційна роль цих генетичних маркерів у ранній діагностиці та прогнозуванні психічних розладів, що суттєво впливають на якість життя хворих.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114177/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "A novel insight into the risk of depression and anxiety onset in Parkinson's disease: the implications of GBA1 and LRRK2.",
-    "originalAbstract": "The non-motor symptoms of Parkinson's disease (PD) conspicuously undermine the quality of life of patients, with mood disorders being the most prevalent. However, reliable indicators for early prediction are currently scarce. Glucocerebrosidase beta 1 (GBA1) and leucine-rich repeat kinase 2 (LRRK2) mutations are regarded as associated with depression and anxiety. Nevertheless, relevant longitudinal analyses are infrequent. The aim of this study is to investigate the longitudinal relationships be",
-    "keyPoints": [
-      "Мутації GBA1 і LRRK2 пов’язані з депресією і тривогою у пацієнтів з паркінсонізмом.",
-      "Дослідження підкреслює важливість довгострокового аналізу цих зв’язків.",
-      "Роль генетичних маркерів у передбаченні психічних розладів при паркінсонізмі потребує подальшого вивчення."
-    ],
-    "practicalTakeaway": "Врахування генетичних факторів GBA1 і LRRK2 може допомогти у ранній діагностиці та управлінні психічними симптомами при паркінсонізмі.",
-    "specialty": "неврологія",
-    "tags": [
-      "паркінсонізм",
       "депресія",
-      "тривога"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42114176",
-    "title": "Метаболічно асоційована жирова хвороба печінки у людей із травмами спинного мозку та ожирінням: огляд механізмів та наслідків",
-    "journal": "Nutrition research (New York, N.Y.)",
-    "publishedAt": "2026-Apr-12",
-    "abstract": "Ця стаття аналізує механізми розвитку метаболічно асоційованої жирової хвороби печінки (MASLD) у пацієнтів із травмами спинного мозку (SCI), які не мають ожиріння, та порівнює їх із випадками, пов’язаними з ожирінням. Виявлено, що різні початкові чинники можуть спричиняти ураження печінки, але кінцеві наслідки можуть бути схожими.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114176/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Metabolic dysfunction-associated steatotic liver disease in spinal cord injury and obesity: A narrative review of divergent mechanisms, convergent outcomes.",
-    "originalAbstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is most frequently attributed to obesity. However, spinal cord injury (SCI) also induces a rapidly developing MASLD phenotype in the absence of obesity. This narrative review synthesizes emerging evidence to compare neurogenic and obesogenic drivers of MASLD (neurogenic MASLD vs obesity-associated MASLD [oMASLD]) to uncover mechanistic pathways that converge on liver injury despite markedly different initiating stimuli. While neuro",
-    "keyPoints": [
-      "MASLD може розвиватися у пацієнтів із SCI без ожиріння.",
-      "Різні механізми запуску MASLD можуть приводити до схожих уражень печінки.",
-      "Дослідження сприяє розумінню шляхів розвитку MASLD у різних груп пацієнтів."
-    ],
-    "practicalTakeaway": "Розуміння різних механізмів MASLD важливе для розробки цілеспрямованих стратегій лікування.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "печінка",
-      "метаболізм",
-      "захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42114175",
-    "title": "Оркестрування мітохондріальної катастрофи: механізми та терапевтичні перспективи купроптозу у прецизійній фармакології",
-    "journal": "Current opinion in pharmacology",
-    "publishedAt": "2026-Apr-18",
-    "abstract": "Купроптоз — це регульований шлях клітинної смерті, викликаний надлишком міді у мітохондріях. На відміну від апоптозу або фероптозу, купроптоз характеризується зв'язуванням надлишкової міді з ліпоатованими ферментами циклу трикарбонових кислот, що спричиняє агрегацію білків та дестабілізацію залізо-сірчаних комплексів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114175/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Orchestrating mitochondrial catastrophe: Mechanistic insights and therapeutic frontiers of cuproptosis in precision pharmacology.",
-    "originalAbstract": "Recent pharmacological breakthroughs have identified cuproptosis as a distinct, regulated cell death (RCD) pathway driven by mitochondrial copper overload. Unlike traditional RCDs such as apoptosis or ferroptosis, cuproptosis is characterized by the direct binding of excess copper to lipoylated enzymes of the tricarboxylic acid (TCA) cycle, notably the E2 subunit of pyruvate dehydrogenase (DLAT). This interaction triggers toxic protein aggregation and the destabilization of iron-sulfur (Fe-S) cl",
-    "keyPoints": [
-      "Купроптоз — це регульований шлях клітинної смерті, викликаний міді.",
-      "Міді надходить до ферментів циклу Кребса, спричиняючи токсичні зміни.",
-      "Цей механізм має потенціал для цільової терапії в прецизійній фармакології."
-    ],
-    "practicalTakeaway": "Дослідження купроптозу відкривають нові можливості для розробки цільових терапевтичних стратегій.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "мітохондрія",
-      "клітинна смерть",
-      "фармакологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42114171",
-    "title": "Стадійні методи в немелкоклітинному раку легень: рекомендації та систематичний огляд",
-    "journal": "Clinical lung cancer",
-    "publishedAt": "2026-Apr-10",
-    "abstract": "Немелкоклітинний рак легень залишається провідною причиною смертності від раку, а точна стадія визначає вибір терапії та прогноз. Це керівництво, розроблене бразильською групою з торакальної онкології, містить рекомендації на основі доказів щодо стадіювання NSCLC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42114171/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-12T02:32:53Z",
-    "originalTitle": "Staging Modalities in Non-Small Cell Lung Cancer: Evidence-Based Guideline and Systematic Review by the Brazilian Group of Thoracic Oncology.",
-    "originalAbstract": "Non-small cell lung cancer (NSCLC) remains the leading cause of cancer-related deaths, and accurate staging is essential to guide therapeutic decision-making and optimize patient survival. This guideline, developed by the Brazilian Group of Thoracic Oncology, provides evidence-based recommendations for NSCLC staging.",
-    "keyPoints": [
-      "Рекомендації базуються на систематичному огляді доказів.",
-      "Точне стадіювання важливе для вибору терапії.",
-      "Значення стадіювання для прогнозу залишається критичним."
-    ],
-    "practicalTakeaway": "Дотримання доказових рекомендацій щодо стадіювання NSCLC може покращити процес прийняття клінічних рішень.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "діагностика",
-      "лікування"
+      "лікування",
+      "епідеміологія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
