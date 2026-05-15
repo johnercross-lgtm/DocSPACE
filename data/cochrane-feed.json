@@ -1,206 +1,24 @@
 [
   {
     "title": "Фармакологічне лікування ожиріння у дітей та підлітків",
-    "abstract": "Дослідження аналізує ефективність та безпеку фармакологічних методів для лікування ожиріння у молодих пацієнтів. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
+    "abstract": "Дослідження аналізує ефективність та безпеку застосування фармакологічних засобів для лікування ожиріння у молодих пацієнтів. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015986/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-13T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
     "originalTitle": "Pharmacological interventions for the treatment of obesity in children and adolescents.",
     "originalAbstract": "Treating obesity in children and adolescents is complex, given the dynamic nature of growth and development during this life stage. The role of pharmacological treatments in the management of pediatric obesity remains uncertain, particularly with respect to outcomes beyond weight reduction, including quality of life and long-term adverse events. To assess the benefits and harms of pharmacological interventions for the treatment of obesity in children and adolescents. We searched CENTRAL, MEDLINE…",
     "keyPoints": [
-      "Фармакологічне лікування ожиріння у дітей потребує додаткових досліджень.",
-      "Важливо враховувати довгострокові наслідки для здоровʼя.",
-      "Загальна ефективність препаратів залишається невизначеною."
+      "Фармакологічні засоби для дітей з ожирінням досліджуються, але їхні довгострокові наслідки залишаються невизначеними.",
+      "Оцінюється вплив на зниження ваги, якість життя та безпеку.",
+      "Поточні дані не дають однозначних рекомендацій щодо застосування препаратів у цій віковій групі."
     ],
-    "practicalTakeaway": "Необхідно більше доказів щодо безпеки та ефективності фармакотерапії для молодих пацієнтів.",
+    "practicalTakeaway": "Потрібні додаткові дослідження для визначення довгострокової безпеки та ефективності фармакологічних методів лікування ожиріння у дітей та підлітків.",
     "specialty": "доказова медицина",
     "tags": [
       "ожиріння",
-      "лікування",
-      "діти"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Фармакологічне лікування при хворобі Фрідріху",
-    "abstract": "Хвороба Фрідріху — рідке спадкове нейрологічне захворювання, що починається з порушень рівноваги і поступово прогресує до залежності від інвалідного візка. Часто супроводжується сколіозом, плоскостопістю та кардіоміопатією. З прогресією з'являються мовні порушення, порушення слуху, проблеми з сечовим міхуром, цукровий діабет, тривожність і депресія.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007791.pub5/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Pharmacological treatments for Friedreich ataxia.",
-    "originalAbstract": "Friedreich ataxia (FRDA) is a rare inherited autosomal recessive neurological disorder, characterised initially by unsteadiness in standing and walking, and slowly progressing to wheelchair dependency, usually in the late teens or early twenties. Scoliosis, pes cavus and cardiomyopathy are often present at diagnosis. As the disease progresses, individuals usually develop slurred speech, auditory impairment (especially in a noisy environment), urinary tract morbidity, diabetes, anxiety, depressio…",
-    "keyPoints": [
-      "Досліджується ефективність фармакологічних препаратів для хвороби Фрідріху.",
-      "Значна частина симптомів пов'язана з прогресуванням захворювання.",
-      "На даний час відсутні чіткі рекомендації щодо оптимальної терапії."
-    ],
-    "practicalTakeaway": "Поточні дослідження спрямовані на визначення ефективності фармакологічних засобів для управління симптомами хвороби Фрідріху.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "нейрологія",
-      "лікування",
-      "дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Конвалесцентна плазма для лікування COVID-19",
-    "abstract": "Дослідження оцінює ефективність та безпеку трансфузії конвалесцентної плазми у пацієнтів з COVID-19. Вивчено завершені та поточні дослідження, що аналізують потенційні переваги та ризики цієї терапії.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013600.pub7/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Convalescent plasma for people with COVID-19.",
-    "originalAbstract": "Convalescent plasma (CP) may reduce mortality in people with viral respiratory diseases, and is being investigated as a potential therapy for coronavirus disease 2019 (COVID-19). A thorough understanding of the current body of evidence regarding the benefits and risks of this intervention is required. To assess the effectiveness and safety of convalescent plasma transfusion in the treatment of people with COVID-19. To identify completed and ongoing studies, we searched CENTRAL, MEDLINE, Embase,…",
-    "keyPoints": [
-      "Оцінюється безпека та ефективність конвалесцентної плазми при COVID-19.",
-      "Проаналізовано завершені та поточні дослідження.",
-      "Мета — визначити потенційні переваги та ризики терапії."
-    ],
-    "practicalTakeaway": "На даний час необхідні додаткові дослідження для підтвердження користі та безпеки трансфузії конвалесцентної плазми у пацієнтів з COVID-19.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "COVID-19",
-      "терапія",
-      "конвалесцентна плазма"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Інсулінові режими для дорослих з цукровим діабетом типу 1",
-    "abstract": "Це протокол для аналізу, що має на меті оцінити вплив різних інсулінових режимів на досягнення оптимального глікемічного контролю та мінімізацію ускладнень у дорослих з цукровим діабетом типу 1. Основна ціль — визначити баланс між перевагами та ризиками кожного режиму. Другорядна — порівняти й ранжувати режими за їх ефективністю та безпечністю.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016351/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Insulin regimens for adults living with type 1 diabetes mellitus.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To assess the effects of different insulin regimens in terms of their benefits and harms for achieving optimal glycaemic control while minimising complications and adverse events in adults with type 1 diabetes mellitus. Secondary objective To estimate the relative ranking of insulin regimens according to their probability of being the most effective and safest treatment using network meta-an…",
-    "keyPoints": [
-      "Оцінка впливу різних інсулінових режимів на глікемічний контроль.",
-      "Порівняння безпеки та ефективності інсулінових схем.",
-      "Ранжування режимів за їхньою ефективністю та безпечністю."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективні та безпечні інсулінові режими для дорослих з цукровим діабетом типу 1.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "цукровий діабет",
-      "інсулінові режими",
-      "дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Магнітно-резонансна спектроскопія для диференціації рецидиву пухлини від радіаційного некрозу у пацієнтів з внутрішньочерепними пухлинами",
-    "abstract": "Це протокол для дослідження з метою визначення точності магнітно-резонансної спектроскопії (МРС) у виявленні рецидиву або прогресії внутрішньочерепних пухлин у пацієнтів, які раніше пройшли радіотерапію або радіо хірургію, при появі нових або збільшених контрастно-усилених уражень, що можуть свідчити про рецидив.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016353/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Magnetic resonance spectroscopy (MRS) for differentiating tumour recurrence from radiation necrosis in treated intra-axial brain tumours.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: The primary objective of this review is to determine the diagnostic accuracy of magnetic resonance spectroscopy (MRS) for detecting tumour recurrence or progression in people with primary or secondary intra-axial brain tumours who have previously undergone radiotherapy or radiosurgery and who present with new or enlarging contrast-enhancing lesions suggestive of recurrence. Secondary objectives The secondary ob…",
-    "keyPoints": [
-      "МРС досліджується для диференціації рецидиву пухлини та радіаційного некрозу.",
-      "Обʼєкт дослідження — пацієнти з внутрішньочерепними пухлинами після радіотерапії.",
-      "Це протокол для оцінки діагностичної точності МРС."
-    ],
-    "practicalTakeaway": "Магнітно-резонансна спектроскопія може бути корисною для диференціації рецидиву пухлини від радіаційного некрозу у пацієнтів з внутрішньочерепними пухлинами.",
-    "specialty": "неврологія",
-    "tags": [
-      "діагностика",
-      "нейрорадіологія",
-      "онкологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Прийом вітаміну B12 для жінок репродуктивного віку",
-    "abstract": "Цей протокол досліджує потенційні переваги та ризики перорального прийому вітаміну B12 щодо покращення статусу вітаміну B12, лікування анемії та інших показників здоровʼя у жінок репродуктивного віку.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016233/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-08T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Vitamin B12 supplementation for anaemia, vitamin B12 status, and health outcomes in women of reproductive age.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of oral vitamin B12 supplementation on vitamin B12 status, anaemia, and health outcomes in women of reproductive age.",
-    "keyPoints": [
-      "Досліджується вплив перорального прийому вітаміну B12 на рівень вітаміну B12.",
-      "Розглядаються можливі ефекти на анемію та інші показники здоровʼя.",
-      "Оцінюється баланс користі та ризиків суплементації вітаміном B12."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність та безпеку прийому вітаміну B12 у жінок репродуктивного віку.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "вітамін B12",
-      "жінки репродуктивного віку",
-      "суплементація"
-    ],
-    "priorityScore": 5,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Заходи для запобігання небажаних вагітностей серед підлітків",
-    "abstract": "Це протокол для огляду Cochrane, мета якого — оцінити вплив первинних профілактичних заходів (шкільних, громадських/домашніх, клінічних, релігійних) на рівень небажаних вагітностей серед підлітків.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016356/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-07T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Interventions for preventing unintended pregnancies among adolescents.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effects of primary prevention interventions (school-based, community/home-based, clinic-based, and faith-based) on unintended pregnancies among adolescents.",
-    "keyPoints": [
-      "Огляд досліджує профілактичні заходи для підлітків.",
-      "Розглядаються програми в школах, громаді, клініках і релігійних організаціях.",
-      "Мета — визначити їхню ефективність у запобіганні небажаних вагітностей."
-    ],
-    "practicalTakeaway": "Огляд допомагає зрозуміти, які профілактичні заходи можуть бути ефективними для зменшення рівня небажаних вагітностей серед підлітків.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "профілактика",
-      "підлітки",
-      "небажані вагітності"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Монотерапія модуляторами CFTR для пацієнтів з муковісцидозом з варіантом F508del",
-    "abstract": "Муковісцидоз (МВ) — поширене генетичне захворювання, спричинене варіантом у гені CFTR. Варіант F508del є найчастотнішим і зустрічається у до 90% пацієнтів з МВ у деяких популяціях. Цей варіант призводить до руйнування білка CFTR перед його потраплянням до клітинної мембрани, що зменшує функцію транспорту солі. Дослідження аналізує ефективність монотерапії модуляторами CFTR у цій групі пацієнтів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016290/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-07T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "CFTR modulator monotherapy for people with cystic fibrosis with class II CFTR gene variants (most commonly F508del).",
-    "originalAbstract": "Cystic fibrosis (CF) is a common, life-shortening genetic condition caused by a variant in the cystic fibrosis transmembrane conductance regulator (CFTR) protein. A class II CFTR gene variant, F508del, is the commonest CF-causing variant (found in up to 90% of people with CF (pwCF) in some populations). The F508del variant lacks meaningful CFTR function: the faulty protein is degraded before reaching the cell membrane, where it would normally transport salt across the epithelial membrane. Correc…",
-    "keyPoints": [
-      "Варіант F508del є найпоширенішим у пацієнтів з муковісцидозом.",
-      "Цей варіант знижує функцію білка CFTR, що ускладнює транспортування солі.",
-      "Дослідження оцінює ефективність монотерапії модуляторами CFTR для цієї групи."
-    ],
-    "practicalTakeaway": "Монотерапія модуляторами CFTR може бути потенційним лікувальним підходом для пацієнтів з муковісцидозом, що мають варіант F508del.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "муковісцидоз",
-      "генетичні захворювання",
+      "діти",
       "лікування"
     ],
     "priorityScore": 8,
@@ -208,54 +26,236 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ольфакторна стимуляція для сприяння розвитку та запобігання захворювань у недоношених немовлят",
-    "abstract": "Дослідження аналізує можливість використання ольфакторної стимуляції для прискорення переходу недоношених немовлят до грудного вигодовування, що може зменшити тривалість госпіталізації та покращити їхній розвиток і здоровʼя. Вивчено ефективність та потенційні ризики цієї інтервенції.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016074.pub2/full",
+    "title": "Фармакологічне лікування при хворобі Фрідріху",
+    "abstract": "Хвороба Фрідріху — рідке спадкове неврологічне захворювання, що починається з порушень рівноваги та поступово прогресує до інвалідності. Часто супроводжується сколіозом, високою стопою та кардіоміопатією. З часом у пацієнтів з'являються мовні порушення, слухові проблеми, сечова та цукровий діабет, тривожність і депресія.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007791.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
-    "publishedAt": "2026-05-06T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
-    "originalTitle": "Olfactory stimulation for promoting development and preventing morbidity in preterm infants.",
-    "originalAbstract": "Preterm infants, often gavage-fed due to immaturity, may benefit from interventions that hasten the move to breastfeeding. Olfactory stimulation may increase appetite and speed up the transition to full oral feeding, potentially shortening hospital stay and improving outcomes for both infants and families. To evaluate the benefits and harms of olfactory stimulation for reducing morbidity and promoting development in hospitalized preterm infants. We searched MEDLINE, Embase, CENTRAL, CINAHL, Epis…",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Pharmacological treatments for Friedreich ataxia.",
+    "originalAbstract": "Friedreich ataxia (FRDA) is a rare inherited autosomal recessive neurological disorder, characterised initially by unsteadiness in standing and walking, and slowly progressing to wheelchair dependency, usually in the late teens or early twenties. Scoliosis, pes cavus and cardiomyopathy are often present at diagnosis. As the disease progresses, individuals usually develop slurred speech, auditory impairment (especially in a noisy environment), urinary tract morbidity, diabetes, anxiety, depressio…",
     "keyPoints": [
-      "Ольфакторна стимуляція може сприяти швидшому переходу до грудного вигодовування у недоношених.",
-      "Може зменшити тривалість госпіталізації та покращити розвиток немовлят.",
-      "Дослідження оцінює користь і ризики цієї методики."
+      "Хвороба Фрідріху — спадкове неврологічне захворювання.",
+      "Загальні симптоми включають порушення рівноваги та прогресуючу інвалідність.",
+      "Дослідження аналізують можливі фармакологічні підходи до лікування."
     ],
-    "practicalTakeaway": "Ольфакторна стимуляція може бути корисною для підтримки розвитку недоношених немовлят, але потребує подальшого вивчення.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "На даний час немає підтверджених ефективних фармакологічних методів лікування хвороби Фрідріху.",
+    "specialty": "неврологія",
     "tags": [
       "доказова медицина",
-      "педіатрія",
-      "інтенсивна терапія"
+      "хвороба Фрідріху",
+      "фармакотерапія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Конвалесцентна плазма для лікування COVID-19",
+    "abstract": "Мета дослідження — оцінити ефективність та безпеку трансфузії конвалесцентної плазми у пацієнтів з COVID-19. Вивчено наявні та поточні дослідження щодо потенційних переваг і ризиків цієї терапії.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013600.pub7/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Convalescent plasma for people with COVID-19.",
+    "originalAbstract": "Convalescent plasma (CP) may reduce mortality in people with viral respiratory diseases, and is being investigated as a potential therapy for coronavirus disease 2019 (COVID-19). A thorough understanding of the current body of evidence regarding the benefits and risks of this intervention is required. To assess the effectiveness and safety of convalescent plasma transfusion in the treatment of people with COVID-19. To identify completed and ongoing studies, we searched CENTRAL, MEDLINE, Embase,…",
+    "keyPoints": [
+      "Досліджується можливість зниження смертності при застосуванні конвалесцентної плазми у COVID-19.",
+      "Вивчається безпека та потенційна ефективність трансфузії плазми.",
+      "Збір даних із різних баз даних для аналізу поточного стану доказової бази."
+    ],
+    "practicalTakeaway": "Поточні дослідження спрямовані на визначення ролі конвалесцентної плазми у терапії COVID-19.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "COVID-19",
+      "терапія",
+      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Режими інсуліну для дорослих з цукровим діабетом типу 1",
+    "abstract": "Це протокол для аналізу, що має оцінити ефективність та безпеку різних режимів інсуліну у дорослих з цукровим діабетом типу 1. Мета — визначити, які режими сприяють досягненню оптимального глікемічного контролю при мінімізації ускладнень та побічних ефектів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016351/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Insulin regimens for adults living with type 1 diabetes mellitus.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To assess the effects of different insulin regimens in terms of their benefits and harms for achieving optimal glycaemic control while minimising complications and adverse events in adults with type 1 diabetes mellitus. Secondary objective To estimate the relative ranking of insulin regimens according to their probability of being the most effective and safest treatment using network meta-an…",
+    "keyPoints": [
+      "Оцінка різних режимів інсуліну для дорослих з цукровим діабетом типу 1.",
+      "Мета — баланс між контролем глікемії та ризиком ускладнень.",
+      "Використання мережевого мета-аналізу для порівняння ефективності та безпеки."
+    ],
+    "practicalTakeaway": "Дослідження має допомогти визначити найбільш ефективні та безпечні режими інсуліну для дорослих з цукровим діабетом типу 1.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "діабет",
+      "інсулін",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Магнітно-резонансна спектроскопія для диференціації рецидиву пухлини та радіаційного некрозу у treated внутрішньочерепних пухлинах",
+    "abstract": "Це протокол для дослідження з метою оцінки точності магнітно-резонансної спектроскопії (МРС) у визначенні рецидиву або прогресування внутрішньочерепних пухлин у пацієнтів, які раніше пройшли радіотерапію або радіохірургію, та мають нові або збільшені контрастно-усилені ураження, що можуть свідчити про рецидив.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016353/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Magnetic resonance spectroscopy (MRS) for differentiating tumour recurrence from radiation necrosis in treated intra-axial brain tumours.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: The primary objective of this review is to determine the diagnostic accuracy of magnetic resonance spectroscopy (MRS) for detecting tumour recurrence or progression in people with primary or secondary intra-axial brain tumours who have previously undergone radiotherapy or radiosurgery and who present with new or enlarging contrast-enhancing lesions suggestive of recurrence. Secondary objectives The secondary ob…",
+    "keyPoints": [
+      "МРС досліджується для визначення рецидиву пухлини.",
+      "Фокус на пацієнтах з внутрішньочерепними пухлинами після радіотерапії.",
+      "Дослідження оцінює точність МРС у діагностиці."
+    ],
+    "practicalTakeaway": "Магнітно-резонансна спектроскопія може допомогти у диференціації між рецидивом пухлини та радіаційним некрозом у пацієнтів з внутрішньочерепними пухлинами.",
+    "specialty": "неврологія",
+    "tags": [
+      "діагностика",
+      "МРС",
+      "пухлини"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Прийом вітаміну B12 для жінок репродуктивного віку",
+    "abstract": "Цей протокол досліджує потенційні переваги та ризики перорального прийому вітаміну B12 щодо покращення статусу вітаміну B12, профілактики анемії та інших показників здоровʼя у жінок репродуктивного віку.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016233/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-08T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Vitamin B12 supplementation for anaemia, vitamin B12 status, and health outcomes in women of reproductive age.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of oral vitamin B12 supplementation on vitamin B12 status, anaemia, and health outcomes in women of reproductive age.",
+    "keyPoints": [
+      "Досліджується вплив перорального прийому вітаміну B12 на стан вітаміну B12.",
+      "Розглядаються можливі ефекти на анемію та інші показники здоровʼя.",
+      "Мета — оцінити користь і ризики суплементації вітаміном B12."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність і безпечність прийому вітаміну B12 у жінок репродуктивного віку.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "вітамін B12",
+      "жінки репродуктивного віку",
+      "суплементація"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Заходи для запобігання непланованим вагітностям серед підлітків",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка впливу первинних профілактичних заходів (шкільних, громадських/домашніх, клінічних, релігійних) на рівень непланованих вагітностей серед підлітків.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016356/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-07T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Interventions for preventing unintended pregnancies among adolescents.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effects of primary prevention interventions (school-based, community/home-based, clinic-based, and faith-based) on unintended pregnancies among adolescents.",
+    "keyPoints": [
+      "Огляд досліджує профілактичні заходи для підлітків.",
+      "Розглядаються програми в школах, громаді, клініках та релігійних організаціях.",
+      "Мета — визначити ефективність заходів у зменшенні непланованих вагітностей."
+    ],
+    "practicalTakeaway": "Огляд спрямований на визначення ефективних стратегій профілактики непланованих вагітностей серед підлітків.",
+    "specialty": "педіатрія",
+    "tags": [
+      "педіатрія",
+      "профілактика",
+      "підлітки"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Монотерапія модуляторами CFTR для пацієнтів із муковісцидозом з варіантом F508del",
+    "abstract": "Муковісцидоз (МВ) — поширене генетичне захворювання, спричинене варіантом у гені CFTR, зокрема F508del, який зустрічається у до 90% випадків. Цей варіант призводить до деградації білка CFTR перед досягненням ним клітинної мембрани, що знижує функцію транспорту солі. Дослідження аналізує ефективність монотерапії модуляторами CFTR у цій групі пацієнтів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016290/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-07T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "CFTR modulator monotherapy for people with cystic fibrosis with class II CFTR gene variants (most commonly F508del).",
+    "originalAbstract": "Cystic fibrosis (CF) is a common, life-shortening genetic condition caused by a variant in the cystic fibrosis transmembrane conductance regulator (CFTR) protein. A class II CFTR gene variant, F508del, is the commonest CF-causing variant (found in up to 90% of people with CF (pwCF) in some populations). The F508del variant lacks meaningful CFTR function: the faulty protein is degraded before reaching the cell membrane, where it would normally transport salt across the epithelial membrane. Correc…",
+    "keyPoints": [
+      "F508del — найпоширеніший варіант у гені CFTR, що спричиняє муковісцидоз.",
+      "Монотерапія модуляторами CFTR досліджується для покращення функції білка.",
+      "Дослідження оцінює потенційний вплив на функцію CFTR у пацієнтів з цим варіантом."
+    ],
+    "practicalTakeaway": "Монотерапія модуляторами CFTR може мати потенціал для покращення функції білка у пацієнтів із муковісцидозом, спричиненим варіантом F508del.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "муковісцидоз",
+      "CFTR",
+      "генетичні варіанти"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Ольфакторна стимуляція для сприяння розвитку та запобігання захворювань у недоношених немовлят",
+    "abstract": "Дослідження аналізує ефективність ольфакторної стимуляції у зменшенні захворюваності та підтримці розвитку у госпіталізованих недоношених немовлят. Враховуються потенційні переваги у прискоренні переходу до грудного вигодовування та зменшенні тривалості перебування у лікарні.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016074.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-06T00:00:00Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
+    "originalTitle": "Olfactory stimulation for promoting development and preventing morbidity in preterm infants.",
+    "originalAbstract": "Preterm infants, often gavage-fed due to immaturity, may benefit from interventions that hasten the move to breastfeeding. Olfactory stimulation may increase appetite and speed up the transition to full oral feeding, potentially shortening hospital stay and improving outcomes for both infants and families. To evaluate the benefits and harms of olfactory stimulation for reducing morbidity and promoting development in hospitalized preterm infants. We searched MEDLINE, Embase, CENTRAL, CINAHL, Epis…",
+    "keyPoints": [
+      "Ольфакторна стимуляція може сприяти швидшому переходу до грудного вигодовування.",
+      "Може зменшувати тривалість госпіталізації недоношених немовлят.",
+      "Дослідження оцінює користь та можливі ризики цієї методики."
+    ],
+    "practicalTakeaway": "Ольфакторна стимуляція може бути корисною для підтримки розвитку недоношених немовлят, але потребує подальшого вивчення.",
+    "specialty": "педіатрія",
+    "tags": [
+      "недоношені немовлята",
+      "розвиток",
+      "захворюваність"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Спів для дорослих із хронічними респіраторними захворюваннями",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики співу для дорослих із хронічними респіраторними захворюваннями у порівнянні з іншими методами лікування.",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики співу для дорослих із хронічними респіраторними захворюваннями порівняно з іншими методами лікування.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016265/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-06T00:00:00Z",
-    "updatedAt": "2026-05-14T14:32:40Z",
+    "updatedAt": "2026-05-15T04:10:13Z",
     "originalTitle": "Singing for adults with chronic respiratory disease.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of singing for chronic respiratory diseases in adults compared to all studied comparison groups.",
     "keyPoints": [
       "Огляд досліджень щодо співу для дорослих із хронічними респіраторними захворюваннями.",
-      "Мета — оцінити потенційні переваги та ризики.",
-      "Загальнонаціональний аналіз"
+      "Мета — оцінити користь і можливі шкоди від цієї практики.",
+      "Результати допоможуть визначити ефективність співу як додаткової терапії."
     ],
-    "practicalTakeaway": "Загальнонаціональний аналіз досліджень щодо впливу співу на хронічні респіраторні захворювання у дорослих.",
+    "practicalTakeaway": "Поточний аналіз спрямований на визначення потенційної користі співу для пацієнтів із хронічними респіраторними захворюваннями.",
     "specialty": "пульмонологія",
     "tags": [
-      "респіраторні захворювання",
-      "реабілітація",
-      "інноваційні підходи"
+      "доказова медицина",
+      "хронічні респіраторні захворювання",
+      "реабілітація"
     ],
-    "priorityScore": 5,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
