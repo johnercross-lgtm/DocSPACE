@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42125877",
-    "title": "Клінічна та генетична характеристика конституційної гіперметиляції промотора MLH1: наслідки для діагностики синдрома Лінча",
-    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Дослідження аналізує клінічний фенотип і генетичні причини конституційної гіперметиляції промотора MLH1 у найбільшій клінічній когорті. Це рідкісна причина синдрома Лінча, що може бути спричинена вторинними епімутаціями або спадковими варіантами в регіоні промотора MLH1.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125877/",
+    "pmid": "42134034",
+    "title": "Регуляція експресії TAGLN2 через метилювання ДНК сприяє легеневій артеріальній гіпертензії",
+    "journal": "Archives of medical research",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Дослідження вивчає роль метилювання ДНК у регуляції гена TAGLN2 та його вплив на розвиток легеневої артеріальної гіпертензії (ЛАГ). Виявлено, що епігенетичні механізми можуть впливати на експресію генів, що беруть участь у ремоделюванні судин та метаболічних змінах при ЛАГ.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134034/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Clinical and Genetic Characterization of Constitutional MLH1 Promoter Hypermethylation: Implications for Lynch Syndrome Diagnosis.",
-    "originalAbstract": "Constitutional MLH1 promoter hypermethylation (CMPH) is a relatively rare cause of Lynch syndrome. While most cases appear sporadic, some result from secondary epimutations, mainly caused by germline variants in the MLH1 promoter region. This study describes the clinical phenotype and genetic etiology of CMPH in the largest clinical cohort to date.",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "DNA Methylation-Mediated Regulation of TAGLN2 Expression Promotes Pulmonary Arterial Hypertension.",
+    "originalAbstract": "Succinylation, a key post-translational modification, is implicated in the metabolic reprogramming and vascular remodeling of pulmonary arterial hypertension (PAH). While epigenetic regulation, particularly DNA methylation, potentially governs succinylation-related gene expression, its causal links to PAH remain unclear.",
     "keyPoints": [
-      "Конституційна гіперметиляція промотора MLH1 є рідкісною причиною синдрома Лінча.",
-      "Може виникати спорадично або через спадкові генетичні варіанти.",
-      "Дослідження охоплює найбільшу клінічну когорту з цим станом."
+      "Метилювання ДНК може регулювати експресію гена TAGLN2.",
+      "Зміни у метилюванні пов'язані з патологічними процесами при ЛАГ.",
+      "Дослідження підкреслює епігенетичну роль у розвитку легеневої гіпертензії."
     ],
-    "practicalTakeaway": "Розуміння генетичних причин конституційної гіперметиляції MLH1 важливе для діагностики синдрома Лінча.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Розуміння епігенетичних механізмів може допомогти у пошуку нових терапевтичних цілей для ЛАГ.",
+    "specialty": "пульмонологія",
     "tags": [
-      "генетика",
-      "синдром Лінча",
-      "діагностика"
+      "епігенетика",
+      "легенева гіпертензія",
+      "метилювання ДНК"
     ],
-    "priorityScore": 8,
+    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42125873",
-    "title": "Глобальна відповідь крові на періопераційний дексаметазон при тотальному замішуванні колінного суглоба: аналіз цільового панелю",
-    "journal": "Acta anaesthesiologica Scandinavica",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження вивчало зміни в транскриптомі імунних клітин у пацієнтів, які перенесли тотальне замішування колінного суглоба, зокрема вплив періопераційного дексаметазону. Виявлено, що імунна відповідь може бути специфічною для операції та потенційно модульованою глюкокортикоїдами.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125873/",
+    "pmid": "42134031",
+    "title": "Матино-неонатальні результати у вагітних з синдромом Бругади: багатоцентрове дослідження (2014-2025)",
+    "journal": "International journal of obstetric anesthesia",
+    "publishedAt": "2026-05-08T00:00:00Z",
+    "abstract": "Дослідження аналізує результати вагітності та новонароджених у жінок з синдромом Бругади, спадковою каналопатією, що спричиняє ризик вентрикулярних аритмій. Вивчено вплив тригерів, таких як лихоманка, вагусна стимуляція, електролітні порушення та медикаменти, включаючи місцеві анестетики та пропофол. Відсутні дані про анестезіологічне управління та результати у матері та дитини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134031/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Whole Blood Transcriptomic Response to Perioperative Dexamethasone in Total Knee Arthroplasty: A Targeted Panel Analysis.",
-    "originalAbstract": "Changes in the transcriptome of immune cells are predictive of clinical outcomes. These effects may be surgery-specific and possibly modulated by glucocorticoids. We investigated the immune response and the impact of dexamethasone on the response in patients undergoing total knee arthroplasty (TKA).",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "Maternal and neonatal outcomes in pregnant patients with Brugada Syndrome - a multicentre retrospective study (2014-2025).",
+    "originalAbstract": "Brugada Syndrome is an inherited channelopathy that predisposes to ventricular arrhythmias. Triggers include fever, enhanced vagal tone, electrolyte abnormalities and certain medications, including local anaesthetics and propofol. Multicentre studies evaluating anaesthetic management in conjunction with maternal and neonatal outcomes in pregnant patients with Brugada Syndrome are lacking.",
     "keyPoints": [
-      "Дослідження аналізувало імунну відповідь у пацієнтів після тотального замішування колінного суглоба.",
-      "Пероральний прийом дексаметазону може впливати на транскриптомні зміни імунних клітин.",
-      "Результати допомагають краще зрозуміти імунологічні механізми у періопераційний період."
+      "Дослідження фокусується на вагітних з синдромом Бругади.",
+      "Розглядаються тригери, що можуть спричинити аритмії.",
+      "Відсутні дані про анестезіологічне управління та результати."
     ],
-    "practicalTakeaway": "Розуміння імунної відповіді та впливу дексаметазону може сприяти оптимізації періопераційного менеджменту.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Необхідні додаткові дослідження для визначення оптимальних підходів до анестезії у вагітних з синдромом Бругади.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
-      "імунологія",
-      "хірургія",
-      "доказова медицина"
+      "вагітність",
+      "синдром Бругади",
+      "анестезія"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42125872",
-    "title": "Як цифрові молекулярні діагностичні інструменти можуть допомогти у боротьбі з малярією?",
-    "journal": "Expert review of anti-infective therapy",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Малярія залишається глобальною проблемою з високою захворюваністю та смертністю. Використання цифрових молекулярних діагностичних технологій може покращити швидкість та точність виявлення збудника, що сприятиме більш ефективному контролю та лікуванню. Однак, впровадження таких технологій потребує врахування технічних та економічних аспектів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125872/",
+    "pmid": "42134030",
+    "title": "П'ятирічний аналіз тем обговорень у онлайн-міждисциплінарних конференціях для дітей з порушеннями слуху у сільській Японії",
+    "journal": "International journal of pediatric otorhinolaryngology",
+    "publishedAt": "2026-05-09T00:00:00Z",
+    "abstract": "Дослідження оцінює систему онлайн-міждисциплінарних конференцій у Івате, Японія, спрямовану на підтримку довгострокового розвитку дітей з порушеннями слуху та перехід від реактивної до превентивної допомоги.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134030/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "How can the use of digital molecular diagnostic tools help to tackle malaria?",
-    "originalAbstract": "",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "A five-year longitudinal analysis of discussion topics in online multidisciplinary collaboration for children with hearing loss in rural Japan.",
+    "originalAbstract": "Sustaining multidisciplinary collaboration is crucial yet challenging in rural areas characterized by geographical challenges. This study assessed an online multidisciplinary conference (MDC) system in Iwate, Japan, with the objective of supporting a shift from reactive care toward a more proactive support model for the long-term development of children with hearing loss.",
     "keyPoints": [
-      "Цифрові молекулярні діагностичні інструменти можуть підвищити точність виявлення малярії.",
-      "Вони сприяють швидшому визначенню збудника, що важливо для контролю епідемії.",
-      "Впровадження технологій потребує врахування технічних та економічних факторів."
+      "Аналіз тем обговорень у онлайн-конференціях за п'ять років.",
+      "Оцінка ролі системи у підтримці довгострокового розвитку дітей з порушеннями слуху.",
+      "Значення онлайн-міждисциплінарної співпраці у сільських районах."
     ],
-    "practicalTakeaway": "Розвиток цифрових молекулярних діагностичних технологій може покращити боротьбу з малярією, але потребує системного підходу до впровадження.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "діагностика",
-      "малярія",
-      "цифрові технології"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42125867",
-    "title": "Виявлення та аналіз біомаркерів, пов’язаних із ліпідним обміном та фероптозом у виразковому коліті",
-    "journal": "Journal of immunology research",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження спрямоване на ідентифікацію біомаркерів, що асоціюються з ліпідним обміном і фероптозом у виразковому коліті, з метою розуміння їх ролі у патології та пошуку шляхів оптимізації терапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125867/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Identification and Analysis of Biomarkers Associated With Lipid Metabolism and Ferroptosis in Ulcerative Colitis.",
-    "originalAbstract": "Mounting evidence shows that lipid metabolism and ferroptosis contribute to ulcerative colitis (UC), but the mechanism remains unclear. This study aimed to identify related biomarkers, clarify their roles in UC, and provide insights into optimized therapies.",
-    "keyPoints": [
-      "Вивчено зв’язок між ліпідним обміном і фероптозом у виразковому коліті.",
-      "Ідентифіковано потенційні біомаркери для діагностики та моніторингу захворювання.",
-      "Результати можуть сприяти розробці нових терапевтичних стратегій."
-    ],
-    "practicalTakeaway": "Розуміння ролі біомаркерів у ліпідному обміні та фероптозі може допомогти у вдосконаленні лікування виразкового коліту.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "біомаркери",
-      "ліпідний обмін",
-      "фероптоз"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42125863",
-    "title": "Виправлення щодо диференціації гідронефрозу за ступенями Society for Fetal Urology",
-    "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує точність діагностики ступеня гідронефрозу у резидентів, зосереджуючись на диференціації між ступенями 2 та 3 за класифікацією Society for Fetal Urology.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125863/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Correction to \"Differentiating Society for Fetal Urology Grades 2 and 3 Hydronephrosis: Diagnostic Accuracy of Resident Physicians\".",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Дослідження оцінює діагностичну точність резидентів.",
-      "Фокус на диференціацію між ступенями 2 і 3 гідронефрозу.",
-      "Застосовуєся у контексті педіатрії."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають покращити діагностичну точність у визначенні ступеня гідронефрозу у дітей.",
+    "practicalTakeaway": "Використання онлайн-міждисциплінарних конференцій може сприяти довгостроковій підтримці дітей з порушеннями слуху у сільських регіонах.",
     "specialty": "педіатрія",
     "tags": [
-      "діагностика",
-      "гідронефроз",
+      "доказова медицина",
+      "сімейна медицина",
+      "інформаційні технології"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42134025",
+    "title": "Ідіопатична спінальна епідуральна ліпоматоз у малюка, що проявилася порушенням ходи та гострою недержанням сечі",
+    "journal": "Pediatric neurology",
+    "publishedAt": "2026-04-27T00:00:00Z",
+    "abstract": "Описано випадок ідіопатичної спінальної епідуральної ліпоматозу у малюка, який проявився порушенням ходи та гострим недержанням сечі. Це рідкісне захворювання, що характеризується надмірним накопиченням жирової тканини у епідуральному просторі хребта, що може викликати неврологічні симптоми.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134025/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "Idiopathic Spinal Epidural Lipomatosis Presenting With Gait Regression and Acute Incontinence in a Toddler.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Випадок ідіопатичної епідуральної ліпоматозу у малюка.",
+      "Прояви: порушення ходи та гостре недержання сечі.",
+      "Рідкісне захворювання з потенційним неврологічним впливом."
+    ],
+    "practicalTakeaway": "При наявності неврологічних симптомів у малюка слід враховувати можливість рідкісних причин, таких як епідуральна ліпоматоз.",
+    "specialty": "неврологія",
+    "tags": [
+      "неврологія",
+      "доказова медицина",
       "педіатрія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42134024",
+    "title": "Збагачення насіння чіа у високожирній та високцукровій дієті під час вагітності: стратегія підвищення рівнів DHA у тканинах матері та плода",
+    "journal": "Prostaglandins, leukotrienes, and essential fatty acids",
+    "publishedAt": "2026-05-09T00:00:00Z",
+    "abstract": "Дослідження аналізує можливість використання насіння чіа для підвищення рівнів докозагексаєнової кислоти (DHA) у тканинах матері, плаценті та мозку плода під час вагітності. Враховуючи роль ALA як попередника DHA, дослідження зосереджене на перетворенні ALA у DHA у контексті високожирної та високцукрової дієти.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134024/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "Chia seed enrichment in high-fat-high-sugar diet-induced obesity: a strategy to increase DHA levels in maternal tissues and in fetal placenta and brain during pregnancy.",
+    "originalAbstract": "An appropriate nutritional environment is crucial for both the mother's health and that of the developing fetus. Alpha-linolenic acid (ALA) serves as a precursor to docosahexaenoic acid (DHA), a n-3 long chain polyunsaturated fatty acid (n-3 LCPUFA) required for placentation and fetal brain development. Chia seeds are particularly rich in ALA, however, although its benefits to offspring's health are well established, the extent to which ALA is converted into fetal n-3 LCPUFA, particularly DHA, r",
+    "keyPoints": [
+      "Насіння чіа багате на ALA, який є попередником DHA.",
+      "Дослідження фокусується на перетворенні ALA у DHA під час вагітності.",
+      "Мета — підвищити рівень DHA у тканинах матері та плода."
+    ],
+    "practicalTakeaway": "Застосування насіння чіа може сприяти підвищенню рівнів DHA у вагітних та плода.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "вагітність",
+      "харчування",
+      "DHA"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42125857",
-    "title": "Імунний профілювання у ортопедичних захворюваннях за допомогою масової цитометрії: огляд застосувань і перспектив",
-    "journal": "Bone & joint research",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Масова цитометрія за допомогою масового аналізу (CyTOF) дозволяє детально досліджувати імунні механізми у захворюваннях опорно-рухового апарату. Вона перевищує можливості традиційної проточної цитометрії, забезпечуючи багатовимірний імунний профіль. Огляд підсумовує застосування CyTOF у дослідженнях ортопедичних та ревматичних захворювань, окреслює перспективи розвитку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125857/",
+    "pmid": "42134022",
+    "title": "p75NTR сприяє апоптозу епітеліальних клітин підщелепної залози після опромінення через сигнальний шлях церамід",
+    "journal": "Archives of oral biology",
+    "publishedAt": "2026-05-04T00:00:00Z",
+    "abstract": "Дослідження аналізує роль p75 нейротрофінового рецептора (p75NTR) у пошкодженні підщелепної залози, спричиненому радіацією. Виявлено, що p75NTR сприяє апоптозу клітин залози через сигнальний шлях церамід, що може впливати на розвиток радіаційного сіаладеніту.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134022/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Immune profiling in orthopaedic diseases using mass cytometry : a narrative review of applications and future directions.",
-    "originalAbstract": "Musculoskeletal (MSK) diseases involve complex immune mechanisms. Conventional flow cytometry is restricted by spectral overlap, limiting multidimensional immune characterization. Mass cytometry by time-of-flight (CyTOF) can measure over 40 proteins per cell using metal-tagged antibodies and time-of-flight detection, providing deep immune phenotyping. The aim of this narrative review was to summarize the applications of CyTOF in the study of human orthopaedic and rheumatic diseases, highlight ke",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "P75NTR promotes radiation-induced submandibular gland epithelial cell apoptosis via the ceramide signaling.",
+    "originalAbstract": "Radiotherapy for head and neck cancers often damages normal tissues, including radiation-induced sialadenitis. The role of the p75 neurotrophin receptor (p75NTR) in radiation injury is dual; however, its mechanisms in salivary glands are unclear. This study examines p75NTR's role in radiation-induced submandibular gland injury.",
     "keyPoints": [
-      "CyTOF дозволяє багатовимірне імунне профілювання понад 40 білків на клітину.",
-      "Застосовується у дослідженнях ортопедичних і ревматичних захворювань.",
-      "Дослідження відкривають нові можливості для розуміння імунних механізмів у цих захворюваннях."
+      "p75NTR сприяє апоптозу клітин залози після радіації.",
+      "Механізм дії пов'язаний із сигнальним шляхом церамід.",
+      "Результати мають значення для розуміння радіаційних ушкоджень залоз."
     ],
-    "practicalTakeaway": "Масова цитометрія (CyTOF) є перспективним інструментом для глибокого імунного аналізу у дослідженнях ортопедичних захворювань.",
-    "specialty": "неврологія",
-    "tags": [
-      "імунологія",
-      "доказова медицина",
-      "ортопедія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42125855",
-    "title": "Безперервність догляду та досвід пацієнтів у норвезькій загальній практиці: чи пов'язані вони, і чи важливо вимірювати безперервність?",
-    "journal": "Family practice",
-    "publishedAt": "2026-04-03T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між безперервністю медичного догляду та досвідом пацієнтів у норвезькій загальній практиці, використовуючи реєстрові та самозвітні показники. Мета — визначити, наскільки ці показники співвідносяться з досвідом пацієнтів, та порівняти різні методи вимірювання безперервності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125855/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Continuity of care and patient-reported experiences in Norwegian general practice: are they linked, and does the measurement of continuity matter?",
-    "originalAbstract": "Continuity of care has been associated with improved health and healthcare outcomes. Continuity can be measured using registry-based and patient-reported measures, but how these measures relate to patient-reported experiences is less well understood. The main aim was to assess the association between continuity of care and patient-reported experiences in Norwegian general practice, using registry-based and self-reported measures. A secondary aim was to compare the two continuity measures and exa",
-    "keyPoints": [
-      "Дослідження вивчає зв'язок між безперервністю догляду та досвідом пацієнтів.",
-      "Використовуються реєстрові та самозвітні показники.",
-      "Результати допомагають зрозуміти важливість вимірювання безперервності."
-    ],
-    "practicalTakeaway": "Вимірювання безперервності догляду має значення для покращення досвіду пацієнтів у загальній практиці.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "доказова медицина",
-      "загальне здоровʼя",
-      "дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42125854",
-    "title": "Катионні нанопластики формують корони з ліпідною А, що змінює сигналізацію TLR4 та порушує толерантність до ендотоксинів",
-    "journal": "Environmental science & technology",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Дослідження показує, що амін-функціоналізовані полістринові нанопластики (PS-NH2) здатні зв'язувати ліпід А, формуючи компактні корони з ліпополісахаридів, що зменшує ефективність взаємодії з комплексом TLR4-MD-2. Це може впливати на імунну відповідь та толерантність до ендотоксинів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125854/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Cationic Nanoplastics Assemble Lipid A Coronas That Alter TLR4 Signaling and Impair Endotoxin Tolerance.",
-    "originalAbstract": "Micro- and nanoplastics are pervasive, yet their capacity to modify host recognition of microbial ligands remains incompletely understood. Here we show that amine-functionalized polystyrene nanoplastics (PS-NH2) act as a chemically defined cationic endmember that sequesters lipid A, assembling compact lipopolysaccharide (LPS) coronas that reduce productive engagement of the TLR4-MD-2 complex. Biophysical readouts (DLS, zeta potential, TEM, and UV-vis) and all-atom molecular dynamics support tigh",
-    "keyPoints": [
-      "Нанопластики можуть змінювати імунну реакцію.",
-      "Зв'язування ліпідної А з нанопластиками порушує сигналізацію TLR4.",
-      "Дослідження використовують біофізичні методи та моделювання."
-    ],
-    "practicalTakeaway": "Розуміння взаємодії нанопластиків з імунною системою важливе для оцінки їхнього впливу на здоровʼя.",
+    "practicalTakeaway": "Розуміння ролі p75NTR у радіаційних ушкодженнях залоз може допомогти у розробці стратегій захисту тканин.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "екологія",
+      "радіація",
+      "залози",
+      "апоптоз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42134021",
+    "title": "Сенсорна біологія смакового сприйняття у комарів",
+    "journal": "Current opinion in neurobiology",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Хемосенсація дозволяє комарам оцінювати складні хімічні середовища, що впливає на їх поведінку щодо пошуку їжі, місць для відкладання яєць, а також уникнення токсичних речовин і репелентів. Це має значення для розуміння механізмів передачі хвороб.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134021/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "The sensory biology of mosquito gustation.",
+    "originalAbstract": "Chemosensation enables animals to assess complex chemical environments, guiding decisions about what to approach, eat, or avoid. In mosquitoes, the gustatory system detects chemical cues on contact, supporting evaluation of food and oviposition sites, specialized behaviors such as blood feeding, and avoidance of toxic and repellent cues. These behaviors directly influence disease transmission, making the study of mosquito gustation important from both basic biological and medical standpoints. Th",
+    "keyPoints": [
+      "Комари використовують хемосенсорні системи для оцінки хімічних сигналів.",
+      "Смакове сприйняття важливе для поведінки, пов'язаної з пошуком їжі та відкладанням яєць.",
+      "Дослідження сенсорної біології комарів має медичне значення для контролю хвороб."
+    ],
+    "practicalTakeaway": "Вивчення сенсорної біології комарів може сприяти розробці нових методів контролю їх поведінки та зменшенню передачі хвороб.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "комарі",
+      "сенсорна біологія",
+      "хімічна оцінка"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42134020",
+    "title": "Стратегії залучення та утримання чорних і латиноамериканських жінок у дослідженнях біосубстратів",
+    "journal": "Sexual & reproductive healthcare : official journal of the Swedish Association of Midwives",
+    "publishedAt": "2026-05-04T00:00:00Z",
+    "abstract": "Дослідження SOLARS застосовувало три основні стратегії для залучення чорних і латиноамериканських жінок у дослідження біосубстратів: особистий контакт через партнерів, групові зустрічі та таблінг у клініках або громадських заходах. Комбіновані підходи збільшили кількість залучених учасниць. Всього залучено 35 жінок.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134020/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "Strategies to recruit and retain Black and Latina/x women and birthing people in a biospecimen research study.",
+    "originalAbstract": "The Supporting Our Ladies And Reducing Stress to prevent preterm birth (SOLARS) Feasibility Study utilized three strategies to recruit Black and Latina/x women in a biospecimen study: individual (warm hand-off from community partner); group (attend group sessions to discuss study), and tabling (setting up a table at a clinic or community event). Additionally, we combined individual + group and individual + group + tabling strategies. Using these strategies, 35 women were recruited, where 32 comp",
+    "keyPoints": [
+      "Застосовано три основні стратегії залучення учасниць.",
+      "Комбіновані підходи підвищили ефективність залучення.",
+      "Загалом залучено 35 жінок."
+    ],
+    "practicalTakeaway": "Комбінування різних стратегій може підвищити залучення цільових груп у дослідження.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "залучення учасників",
+      "біосубстратні дослідження",
+      "різноманітність у дослідженнях"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42134019",
+    "title": "Аніфролумаб при важких шкірних проявах аміопатичної дерматоміозиту",
+    "journal": "Annales de dermatologie et de venereologie",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Дослідження оцінює ефективність аніфролумабу у пацієнтів з важкими шкірними симптомами аміопатичної дерматоміозиту, що не реагують на стандартне лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134019/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "Anifrolumab for refractory cutaneous manifestations of amyopathic dermatomyositis.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Аніфролумаб може бути корисним для важких шкірних проявів аміопатичної дерматоміозиту.",
+      "Дослідження зосереджене на пацієнтах, що не відповідають на стандартну терапію.",
+      "Результати дослідження поки що попередні і потребують додаткової верифікації."
+    ],
+    "practicalTakeaway": "Поточні дані свідчать про потенціал аніфролумабу для лікування важких шкірних проявів аміопатичної дерматоміозиту, але потрібні додаткові дослідження.",
+    "specialty": "дерматологія",
+    "tags": [
+      "дерматологія",
       "імунологія",
-      "мікропластики"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42125853",
-    "title": "Високе поширення депресії та тривоги у дорослих з важкою ожирінням: роль бінг-їдингу та мультикоморбідності",
-    "journal": "Nutrition and health",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Дослідження виявило високий рівень депресії та тривоги серед дорослих з класом II/III ожиріння. Факторами, що асоціюються з цими станами, є бінг-їдінг, мультикоморбідність та соціодемографічні характеристики. Врахування цих факторів важливе для комплексної оцінки психічного здоров'я у цій групі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125853/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Binge eating, multimorbidity and sociodemographic characteristics are associated with a high prevalence of depression and anxiety in adults with class II and III obesity.",
-    "originalAbstract": "BackgroundObesity increases chronic disease risk and is related to psychological implications like depression and anxiety. However, research has predominantly focused on overweight or class I obesity, leaving a gap concerning severe (class II/III) obesity. The objective of this study was to evaluate the prevalence of anxiety and depression and associated factors in adults with class II/III obesity.MethodsThis cross-sectional study used baseline data from the DieTBra Clinical Trial. A total of 15",
-    "keyPoints": [
-      "Важка форма ожиріння пов'язана з високим рівнем депресії та тривоги.",
-      "Бінг-їдінг і мультикоморбідність є значущими факторами ризику.",
-      "Соціодемографічні характеристики також впливають на психічне здоров'я."
-    ],
-    "practicalTakeaway": "У пацієнтів з важкою ожирінням слід враховувати психологічний стан і фактори ризику для депресії та тривоги.",
-    "specialty": "психіатрія",
-    "tags": [
-      "депресія",
-      "тривога",
-      "ожиріння"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42125851",
-    "title": "Гострий респіраторний дистрес-синдром у собаки з інфекцією коронавірусу дихальних шляхів",
-    "journal": "Journal of veterinary emergency and critical care (San Antonio, Tex. : 2001)",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Описано клінічний перебіг гострого респіраторного дистрес-синдрому (ГРДС), асоційованого з інфекцією коронавірусу дихальних шляхів у молодої собаки без попередніх захворювань, із підозрою на аспірацію.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42125851/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-13T14:21:11Z",
-    "originalTitle": "Acute Respiratory Distress Syndrome in a Dog With Canine Respiratory Coronavirus Infection.",
-    "originalAbstract": "To describe the clinical progression of acute respiratory distress syndrome (ARDS) associated with canine respiratory coronavirus and suspected aspiration in a previously healthy young dog.",
-    "keyPoints": [
-      "Описано клінічний перебіг ГРДС у собаки з інфекцією коронавірусу.",
-      "Зазначена можливість аспірації як чинника розвитку стану.",
-      "Дослідження зосереджене на клінічних проявах та прогресії стану."
-    ],
-    "practicalTakeaway": "У собак з інфекцією коронавірусу дихальних шляхів можливий розвиток ГРДС, що потребує уваги до клінічних ознак.",
-    "specialty": "неврологія",
-    "tags": [
-      "інфекційні хвороби",
-      "ветеринарія",
-      "клінічне дослідження"
+      "загальна медицина"
     ],
     "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42134018",
+    "title": "«Біла себорейна кератоз»: неправильно зрозумілий стан у шкірі темної пігментації.",
+    "journal": "Annales de dermatologie et de venereologie",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Стаття аналізує особливості діагностики та класифікації «білої себорейної кератозу» у пацієнтів із темною шкірою. Вказується на можливі труднощі диференціальної діагностики з іншими ураженнями шкіри, що мають схожі прояви.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42134018/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-15T02:40:13Z",
+    "originalTitle": "\"White seborrheic keratosis\": a misunderstood entity in skin of color.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Обговорюється неправильне сприйняття «білої себорейної кератозу» у темній шкірі.",
+      "Підкреслюється важливість диференціальної діагностики з іншими ураженнями.",
+      "Зазначається необхідність врахування особливостей пігментації при діагностиці."
+    ],
+    "practicalTakeaway": "При діагностиці у пацієнтів із темною шкірою слід враховувати особливості проявів «білої себорейної кератозу».",
+    "specialty": "дерматологія",
+    "tags": [
+      "дерматологія",
+      "шкіра",
+      "діагностика"
+    ],
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
