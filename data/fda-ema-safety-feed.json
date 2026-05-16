@@ -1,16 +1,16 @@
 [
   {
-    "title": "Попередження: проблема з апаратами анестезії Draeger",
-    "abstract": "Draeger виправляє додаткові апарати анестезії через виробничу помилку, що може призвести до відмови вентилятора.",
+    "title": "Попередження: проблема з апаратами для анестезії Draeger",
+    "abstract": "Draeger виправляє додаткові апарати для анестезії через виробничу помилку, яка може призвести до відмови вентилятора.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-anesthesia-machine-issue-draeger-inc",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Early Alert: Anesthesia Machine Issue from Draeger, Inc.",
     "originalAbstract": "Draeger is correcting additional anesthesia workstations due to a manufacturing error that may cause the ventilator to fail before or during use.",
     "keyPoints": [
-      "Виправлення стосується додаткових апаратів анестезії Draeger.",
+      "Виправлення стосується додаткових апаратів для анестезії Draeger.",
       "Можлива несправність вентилятора перед або під час використання.",
       "Джерело: FDA."
     ],
@@ -19,7 +19,7 @@
     "tags": [
       "анестезія",
       "апарати",
-      "Draeger",
+      "безпека",
       "FDA"
     ],
     "priorityScore": 8,
@@ -28,18 +28,18 @@
   },
   {
     "title": "Відкликання препарату DOXOrubicin Liposome у США через можливе наявність скляних частинок",
-    "abstract": "Sun Pharma проводить добровільний відкликання однієї партії препарату у США через потенційну наявність скляних частинок.",
+    "abstract": "Sun Pharma проводить добровільне відкликання однієї партії препарату у США через потенційну присутність скляних частинок.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sun-pharmaceutical-industries-inc-sun-pharma-initiates-voluntary-us-nationwide-recall-doxorubicin",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Sun Pharmaceutical Industries, Inc. (Sun Pharma) Initiates Voluntary U.S. Nationwide Recall of DOXOrubicin Hydrochloride Liposome Injection 50mg/25 mL Due To Potential Presence of Glass Particles",
     "originalAbstract": "FOR IMMEDIATE RELEASE MUMBAI, INDIA and PRINCETON, NJ - May 13, 2026 – Sun Pharma is voluntarily recalling within the U.S. to the hospital/user level, one batch of DOXOrubicin Hydrochloride Liposome Injection 50mg/25 mL, Lot # HAG2581B, Expiration 05/2027 (675 vials). The single batch of 675 vials i",
     "keyPoints": [
-      "Відкликання стосується однієї партії препарату, 675 флаконів.",
-      "Партія має номер HAG2581B, термін придатності – 05/2027.",
-      "Відкликання здійснюється у США, з метою безпеки."
+      "Відкликання у США, травень 2026 року.",
+      "Партія HAG2581B, 675 флаконів.",
+      "Термін придатності до 05/2027."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
@@ -53,132 +53,81 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання наборів AVID Medical через проблеми з адаптором Namic RA",
-    "abstract": "Компанія AVID Medical відкликає набори через можливе розкручування адаптора на шприцах Namic RA.",
+    "title": "Відкликання наборів AVID Medical через потенційний ризик",
+    "abstract": "Компанія AVID Medical відкликає набори з голками Namic RA через можливе розхитування адаптера під час використання.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-containing-namic-ra-syringes",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Containing Namic RA Syringes",
     "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
     "keyPoints": [
       "Відкликання стосується наборів AVID Medical.",
-      "Проблема з адаптором Namic RA, можливе його розкручування.",
-      "Може спричинити інфекцію, кровотечу або повітряну емболію."
-    ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу безпеки медичних виробів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні набори",
-      "безпека препаратів",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук фармкомпанії щодо кремів MG217 через мікробне забруднення",
-    "abstract": "Pharmacal відкликає один лот кремів MG217 через виявлення бактерії Staphylococcus aureus.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pharmacal-issues-nationwide-recall-mg217-multi-symptom-treatment-cream-skin-protectant-eczema-cream",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Pharmacal Issues Nationwide Recall of MG217 Multi-Symptom Treatment Cream & Skin Protectant Eczema Cream Due to Microbial Contamination",
-    "originalAbstract": "- May/8/2026- Jackson, WI, Pharmacal is recalling one lot of MG217 Multi-symptom Treatment Cream & Skin Protectant Eczema Cream, 6oz tube to the consumer level. The product has been found to be contaminated with Staphylococcus aureus.",
-    "keyPoints": [
-      "Відгук стосується одного лоту продукту.",
-      "Забруднення виявлено у кремах MG217.",
-      "Місце відгуку: Джексон, Вісконсін."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "креми",
-      "мікробне забруднення",
-      "фармацевтика",
-      "інфекції"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання наборів з шприцами Namic RA через ризик розхитування адаптера",
-    "abstract": "FDA повідомляє про відкликання наборів з шприцами Namic RA через можливість розхитування адаптера під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-aligned-medical-solutions-removes-convenience-kits-containing-namic-ra",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Convenience Kit Recall: Aligned Medical Solutions Removes Convenience Kits Containing Namic RA Syringes",
-    "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
-    "keyPoints": [
-      "Відкликання стосується наборів з шприцами Namic RA.",
-      "Можливе розхитування адаптера під час використання.",
-      "Джерело: FDA."
+      "Можливе розхитування адаптера Namic RA.",
+      "Ризики включають інфекцію, кровотечу або повітряну емболію."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "відкликання",
-      "шприци",
-      "FDA",
-      "ризик"
+      "медичні набори",
+      "ризики"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Рекомендації FDA щодо акумуляторів Accolade від Boston Scientific",
-    "abstract": "FDA опублікувала рекомендації щодо пристроїв для стимуляції серця Accolade та можливості їх ранньої заміни.",
-    "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
+    "title": "Відбір партії крему MG217 через мікробне забруднення",
+    "abstract": "Pharmacal відкликає одну партію крему MG217 через виявлення Staphylococcus aureus.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/pharmacal-issues-nationwide-recall-mg217-multi-symptom-treatment-cream-skin-protectant-eczema-cream",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
-    "originalAbstract": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Pharmacal Issues Nationwide Recall of MG217 Multi-Symptom Treatment Cream & Skin Protectant Eczema Cream Due to Microbial Contamination",
+    "originalAbstract": "- May/8/2026- Jackson, WI, Pharmacal is recalling one lot of MG217 Multi-symptom Treatment Cream & Skin Protectant Eczema Cream, 6oz tube to the consumer level. The product has been found to be contaminated with Staphylococcus aureus.",
     "keyPoints": [
-      "FDA рекомендує моніторинг пристроїв Accolade",
-      "Можлива необхідність ранньої заміни пристроїв",
-      "Джерело: FDA"
+      "Дата відкликання: 8 травня 2026 року",
+      "Місце: Джексон, Вісконсін",
+      "Забруднення: Staphylococcus aureus"
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцева терапія",
-      "імплантати",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про комплекти для ін'єкцій Namic RA",
-    "abstract": "Американська компанія відкликає комплекти з голками Namic RA через можливий розхитування адаптера.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-american-contract-systems-removes-convenience-kits-containing-namic-ra",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Convenience Kit Recall: American Contract Systems Removes Convenience Kits Containing Namic RA Syringes",
-    "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
-    "keyPoints": [
-      "Відгук стосується комплектів для ін'єкцій Namic RA.",
-      "Можливий розхит адаптера під час використання.",
-      "Результат може бути інфекція, кровотеча або повітряна емболія."
-    ],
-    "practicalTakeaway": "Важливо перевіряти цілісність комплектів перед застосуванням.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "відгук",
-      "ін'єкції",
+      "забруднення",
+      "крем",
+      "фармацевтика",
+      "інфекція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук про комплекти з шприцами Namic RA",
+    "abstract": "FDA повідомляє про можливу проблему з адаптерами шприців Namic RA, що може спричинити ускладнення.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-aligned-medical-solutions-removes-convenience-kits-containing-namic-ra",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Convenience Kit Recall: Aligned Medical Solutions Removes Convenience Kits Containing Namic RA Syringes",
+    "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
+    "keyPoints": [
+      "Виробник відкликав комплекти з шприцами Namic RA.",
+      "Можливе розкручування адаптера під час використання.",
+      "Може спричинити інфекцію, кровотечу або повітряну емболію."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "шприци",
+      "FDA",
+      "медичне обладнання",
       "безпека"
     ],
     "priorityScore": 8,
@@ -186,80 +135,79 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Корекція для кардіостимуляторів Boston Scientific",
-    "abstract": "Компанія Boston Scientific оновила інформацію щодо доступності моделей Brady SMR6 для пристроїв ACCOLADE та CRT-P.",
+    "title": "Рекомендації FDA щодо пейсмейкерів Accolade від Boston Scientific",
+    "abstract": "FDA опублікувала рекомендації щодо можливого раннього замінювання пристроїв Accolade.",
+    "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
+    "originalAbstract": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
+    "keyPoints": [
+      "FDA рекомендує перевіряти стан пристроїв Accolade.",
+      "Можливий ризик необхідності раннього замінювання.",
+      "Джерело: FDA, США."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "кардіологія",
+    "tags": [
+      "пейсмейкер",
+      "FDA",
+      "безпека",
+      "серцева медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук щодо комплектів для ін'єкцій Namic RA від American Contract Systems",
+    "abstract": "Американська компанія відкликає комплекти для ін'єкцій через можливе розхитування адаптера на шприцах Namic RA.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-american-contract-systems-removes-convenience-kits-containing-namic-ra",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Convenience Kit Recall: American Contract Systems Removes Convenience Kits Containing Namic RA Syringes",
+    "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
+    "keyPoints": [
+      "Відгук стосується комплектів для ін'єкцій Namic RA.",
+      "Можливе розхитування адаптера під час використання.",
+      "Результатом може бути інфекція, кровотеча або повітряна емболія."
+    ],
+    "practicalTakeaway": "Важливо перевіряти цілісність комплектів перед використанням.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "комплекти для ін'єкцій",
+      "FDA",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Виправлення для кардіостимуляторів Boston Scientific",
+    "abstract": "Компанія Boston Scientific оновила інформацію щодо доступності моделей пристроїв.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pacemaker-correction-boston-scientific-issues-correction-accolade-pacemakers-and-crt-ps",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Pacemaker Correction: Boston Scientific Issues Correction for ACCOLADE Pacemakers and CRT-Ps",
     "originalAbstract": "Brady SMR6 is now available for ACCOLADE pacemakers and CRT-Ps; correction expanded to include CRT-P and DR-EL devices.",
     "keyPoints": [
       "Brady SMR6 доступний для ACCOLADE та CRT-P.",
-      "Корекція поширена на CRT-P та DR-EL пристрої.",
-      "Інформація опублікована FDA."
+      "Виправлення поширене на CRT-P і DR-EL.",
+      "Джерело: FDA."
     ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за період.",
+    "practicalTakeaway": "Інформація може бути використана для моніторингу оновлень у характеристиках медичних пристроїв.",
     "specialty": "кардіологія",
     "tags": [
       "кардіологія",
       "кардіостимулятори",
-      "FDA",
-      "Boston Scientific",
-      "медична техніка"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про набір для зручності: видалення комплектів з шприцами Namic RA",
-    "abstract": "Медична компанія вилучає комплекти з шприцами Namic RA через можливий ризик розхитування адаптера.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medical-action-industries-removes-convenience-kits-containing-namic-ra",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Convenience Kit Recall: Medical Action Industries Removes Convenience Kits Containing Namic RA Syringes",
-    "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
-    "keyPoints": [
-      "Вилучення комплектів з Namic RA через ризик розхитування адаптера.",
-      "Можливі наслідки: інфекція, кровотеча, повітряна емболія.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Вилучення комплектів з шприцами Namic RA допомагає запобігти потенційним ускладненням.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медицина",
-      "шприци",
-      "ризик"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблеми з постачанням нейрохірургічних матеріалів",
-    "abstract": "FDA повідомляє про перебої у постачанні нейрохірургічних паті, губок і стрічок.",
-    "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/disruptions-availability-neurosurgical-patties-sponges-and-strips-letter-health-care-providers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Disruptions in Availability of Neurosurgical Patties, Sponges, and Strips - Letter to Health Care Providers",
-    "originalAbstract": "The FDA issued a LHCP to notify providers that Neurosurgical Patties, Sponges, and Strips (product code HBA) are experiencing a supply disruption.",
-    "keyPoints": [
-      "Перебої у постачанні нейрохірургічних паті, губок і стрічок (код HBA)",
-      "Інформація від FDA для медичних закладів",
-      "Діє з невказаного періоду"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейрохірургія",
-      "постачання",
-      "медичні матеріали",
       "FDA"
     ],
     "priorityScore": 8,
@@ -267,24 +215,25 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук щодо калібрувальних катетерів Cook Medical",
-    "abstract": "Компанія Cook Medical відкликає різні моделі калібрувальних катетерів через ризик тріщин або поломки маркерних кільць.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sizing-catheter-recall-cook-medical-removes-various-centimeter-sizing-catheters",
+    "title": "Відгук про набір для зручності: Medical Action Industries вилучає комплекти з шприцами Namic RA",
+    "abstract": "Компанія Medical Action Industries відкликає комплекти з шприцами Namic RA через можливий розгін адаптера під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medical-action-industries-removes-convenience-kits-containing-namic-ra",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Sizing Catheter Recall: Cook Medical Removes Various Centimeter Sizing Catheters",
-    "originalAbstract": "When the sizing catheters are used during angiographic procedures the marker bands may be at an increased risk of cracking/breakage.",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Convenience Kit Recall: Medical Action Industries Removes Convenience Kits Containing Namic RA Syringes",
+    "originalAbstract": "The adaptor on Namic RA syringes may unwind during use. The resulting loose connection or disconnection may lead to infection, blood loss, or air embolism.",
     "keyPoints": [
-      "Відгук стосується моделей калібрувальних катетерів.",
-      "Ризик тріщин або поломки маркерних кільць.",
+      "Відгук стосується комплектів з шприцами Namic RA.",
+      "Можливий розгін адаптера під час використання.",
       "Джерело: FDA."
     ],
-    "practicalTakeaway": "Матеріал фіксує оновлені показники за період відкликання.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "катетери",
+      "медикаменти",
+      "шприци",
       "відгук",
       "FDA"
     ],
@@ -293,26 +242,80 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Проблеми з постачанням нейрохірургічних матеріалів",
+    "abstract": "FDA повідомляє про перебої у постачанні нейрохірургічних паті, губок та стріпів.",
+    "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/disruptions-availability-neurosurgical-patties-sponges-and-strips-letter-health-care-providers",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Disruptions in Availability of Neurosurgical Patties, Sponges, and Strips - Letter to Health Care Providers",
+    "originalAbstract": "The FDA issued a LHCP to notify providers that Neurosurgical Patties, Sponges, and Strips (product code HBA) are experiencing a supply disruption.",
+    "keyPoints": [
+      "Перебої з постачанням нейрохірургічних матеріалів (код HBA)",
+      "Інформація від FDA",
+      "Затримки у постачанні"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейрохірургія",
+      "постачання",
+      "FDA",
+      "медична безпека",
+      "лікарі"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук щодо калібрувальних катетерів: Cook Medical відкликає різні моделі",
+    "abstract": "Компанія Cook Medical відкликає різні моделі калібрувальних катетерів через ризик тріщин або ламкості маркерних кільць.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sizing-catheter-recall-cook-medical-removes-various-centimeter-sizing-catheters",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Sizing Catheter Recall: Cook Medical Removes Various Centimeter Sizing Catheters",
+    "originalAbstract": "When the sizing catheters are used during angiographic procedures the marker bands may be at an increased risk of cracking/breakage.",
+    "keyPoints": [
+      "Відкликання стосується моделей катетерів з маркерними кільцями.",
+      "Ризик тріщин або ламкості під час ангіографічних процедур.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Використання калібрувальних катетерів з маркерними кільцями може супроводжуватися ризиком пошкоджень.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетери",
+      "відгук",
+      "FDA",
+      "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання перезаряджань для хірургічного stapler SureForm 30 Gray",
-    "abstract": "FDA повідомляє про можливість утворення неповних швів при використанні певних перезаряджань SureForm 30 Gray.",
+    "abstract": "FDA повідомляє про можливість формування неповних швів при використанні певних перезаряджань SureForm 30 Gray, що може спричинити серйозні кровотечі або смерть.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/surgical-stapler-reload-recall-intuitive-surgical-removes-8mm-sureform-30-gray-reloads",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Surgical Stapler Reload Recall: Intuitive Surgical Removes 8mm SureForm 30 Gray Reloads",
     "originalAbstract": "Certain SureForm Surgical Stapler reloads may form incomplete staple lines, leading to severe bleeding or death.",
     "keyPoints": [
-      "Відкликання стосується перезаряджань SureForm 30 Gray.",
-      "Можливе утворення неповних швів.",
-      "Джерело: FDA."
+      "Відкликання стосується перезаряджань SureForm 30 Gray",
+      "Можливе утворення неповних швів",
+      "Джерело: FDA"
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Важливо враховувати інформацію про відкликання медичних виробів.",
     "specialty": "хірургія",
     "tags": [
       "хірургія",
-      "відкликання",
-      "стаплери",
+      "медичні вироби",
       "FDA"
     ],
     "priorityScore": 8,
@@ -321,28 +324,28 @@
   },
   {
     "title": "Корекція маркування систем моніторингу глюкози TRUE METRIX",
-    "abstract": "Trividia Health оновила інформацію щодо маркування медичних пристроїв для вимірювання глюкози.",
+    "abstract": "Trividia Health оновила інформацію щодо маркування своїх систем для вимірювання глюкози. Оновлення стосується всіх моделей TRUE METRIX.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/trividia-health-correction-true-metrix-blood-glucose-monitoring-systems",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Trividia Health Correction for TRUE METRIX Blood Glucose Monitoring Systems",
     "originalAbstract": "FT. LAUDERDALE, FL – May 1, 2026 – Trividia Health, Inc., a global leader in diabetes management, today provided an important update to the medical device labeling correction it announced on February 6, 2026, for all TRUE METRIX®, TRUE METRIX® AIR, TRUE METRIX® GO, and TRUE METRIX® PRO Blood Glucose",
     "keyPoints": [
-      "Оновлення стосується всіх моделей TRUE METRIX, включаючи AIR, GO та PRO.",
-      "Зміни внесені 1 травня 2026 року.",
-      "Джерело — FDA."
+      "Оновлення маркування від 1 травня 2026 року.",
+      "Моделі TRUE METRIX®, AIR, GO, PRO.",
+      "Компанія Trividia Health, США."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній інформації щодо маркування медичних пристроїв.",
+    "practicalTakeaway": "Публікація фіксує оновлені показники за 2026 рік.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "медичні пристрої",
-      "глюкометри",
-      "оновлення",
+      "діабет",
+      "моніторинг глюкози",
+      "медичне обладнання",
       "FDA"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -352,8 +355,8 @@
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-certain-omnipod-5-pods",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Insulin Pump Recall: Insulet Removes Certain Omnipod 5 Pods",
     "originalAbstract": "Omnipod Pods may not deliver insulin as intended due to a tear in the internal tubing.",
     "keyPoints": [
@@ -361,12 +364,12 @@
       "Можливе неправильне дозування інсуліну",
       "Джерело: FDA"
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Публікація фіксує оновлені показники за період відкликання.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "інсулін",
+      "інсулінова терапія",
       "відкликання",
-      "Omnipod",
+      "медичне обладнання",
       "FDA"
     ],
     "priorityScore": 8,
@@ -374,26 +377,25 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з торкальним стент-графтом від Bolton Medical",
-    "abstract": "Можливе незакріплення гратки з системою доставки, що може потребувати відкритого хірургічного втручання та призвести до смерті пацієнта.",
+    "title": "Попередження: проблема з торкальним стент-графтом Bolton Medical",
+    "abstract": "Виявлено випадки, коли імплантовані гратки не розкладаються від системи доставки, що може потребувати хірургічного втручання.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-thoracic-stent-graft-issue-bolton-medical",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Early Alert: Thoracic Stent Graft Issue from Bolton Medical",
     "originalAbstract": "Affected grafts may not unclasp from the delivery system, which may require conversion to open surgical repair and can result in patient death",
     "keyPoints": [
-      "Впливові гратки від Bolton Medical",
-      "Можливість незакріплення з системою доставки",
+      "Вплив на гратки Bolton Medical",
+      "Можливість необхідності відкритої хірургії",
       "Джерело: FDA"
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Матеріал фіксує оновлені показники за період.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "стент-граф",
-      "хірургія",
-      "безпека",
+      "стент-графт",
+      "медична безпека",
       "FDA"
     ],
     "priorityScore": 8,
@@ -401,105 +403,27 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження FDA щодо систем моніторингу глюкози TRUE METRIX",
-    "abstract": "FDA повідомляє про ризики при використанні систем моніторингу глюкози TRUE METRIX від Trividia Health.",
+    "title": "Попередження FDA щодо ризиків систем моніторингу глюкози TRUE METRIX",
+    "abstract": "FDA повідомляє про потенційні ризики при використанні систем TRUE METRIX для контролю глюкози крові.",
     "url": "http://www.fda.gov/medical-devices/safety-communications/risks-using-true-metrix-blood-glucose-monitoring-systems-trividia-health-fda-safety-communication",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
     "originalTitle": "Risks of Using TRUE METRIX Blood Glucose Monitoring Systems by Trividia Health: FDA Safety Communication",
     "originalAbstract": "FDA alerts of risks with use TRUE METRIX Blood Glucose Monitoring Systems by Trividia Health.",
     "keyPoints": [
-      "FDA попереджає про ризики використання систем TRUE METRIX",
-      "Звіт охоплює період до 2023 року",
-      "Джерело — FDA"
+      "FDA попереджає про ризики систем TRUE METRIX",
+      "Повідомлення стосується безпеки використання",
+      "Джерело: FDA"
     ],
-    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній безпеці медичних пристроїв.",
+    "practicalTakeaway": "Публікація фіксує оновлені показники за період з 2023 року.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "глюкометрія",
-      "безпека",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання Lactated Ringer’s Injection через частки у розчині",
-    "abstract": "Компанія B. Braun Medical проводить добровільне відкликання двох партій розчину Lactated Ringer’s E7500, 1L, через наявність часток у розчині.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-lactated-ringers-injection-1l-e7500-due",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "B. Braun Medical, Inc. Issues Voluntary Nationwide Recall of Lactated Ringer’s Injection, 1L, E7500 Due to the Presence of Particulate Matter in Solution",
-    "originalAbstract": "For Immediate Release - BETHLEHEM, PA – APRIL 28, 2026 – B. Braun Medical Inc. is voluntarily recalling two lots of Lactated Ringer’s Injection, E7500, 1L, to the hospital/healthcare facility level. The product has been found to have particulate matter in solution.",
-    "keyPoints": [
-      "Відкликання двох партій Lactated Ringer’s E7500, 1L",
-      "Причина: наявність часток у розчині",
-      "Дата повідомлення: 28 квітня 2026"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "лікарські засоби",
-      "частки у розчині",
-      "фармацевтика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання глюкометрів TRUE METRIX через помилку E-5",
-    "abstract": "Trividia рекомендує звернутися до лікаря при появі коду E-5 та симптомах високого рівня глюкози.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/blood-glucose-monitor-recall-trividia-health-issues-correction-true-metrix-blood-glucose-monitoring",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Blood Glucose Monitor Recall: Trividia Health Issues Correction for TRUE METRIX Blood Glucose Monitoring Systems",
-    "originalAbstract": "Trividia recommends that device users who receive an E-5 error code and are experiencing symptoms of high glucose should seek medical care immediately.",
-    "keyPoints": [
-      "Компанія Trividia відкликає глюкометри TRUE METRIX.",
-      "Помилка E-5 може супроводжуватися симптомами високого глюкозу.",
-      "Рекомендується звернутися до медичного закладу при симптомах."
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за період відкликання глюкометрів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "глюкометри",
-      "відкликання",
       "FDA",
-      "медична безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема автоматизованої системи компаундування Omnicell",
-    "abstract": "Деякі етикетки для систем i.V.Station можуть не визначатися, що спричиняє неправильне маркування стерильних шприців.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-automated-compounding-system-issue-omnicell",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Early Alert: Automated Compounding System Issue from Omnicell",
-    "originalAbstract": "Certain labels used with i.V.Station automated compounding systems may not be detected, leading to mislabeled sterile filled syringes",
-    "keyPoints": [
-      "Проблема стосується систем Omnicell, період не вказано.",
-      "Можливе неправильне маркування стерильних шприців.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "автоматизація",
-      "компаундування",
+      "глюкоза",
+      "моніторинг",
+      "ризики",
       "безпека"
     ],
     "priorityScore": 8,
@@ -507,54 +431,136 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Arrow International відкликає набори для діалізу з Merit Medical Sheath Introducers",
-    "abstract": "Arrow International вилучає набори для діалізу, що містять Merit Medical Splittable Sheath Introducers, через їхній відклик.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-dialysis-catheter-kits-containing-merit-medical-splittable",
+    "title": "Відкликання Лактатного розчину Рінгера через частки у розчині",
+    "abstract": "Компанія B. Braun Medical добровільно відкликає два партії Лактатного розчину Рінгера через наявність часток у розчині.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-lactated-ringers-injection-1l-e7500-due",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-05-15T20:02:58Z",
-    "updatedAt": "2026-05-15T20:02:58Z",
-    "originalTitle": "Early Alert: Arrow International Removes Dialysis Catheter Kits Containing Merit Medical Splittable Sheath Introducers",
-    "originalAbstract": "Arrow International is removing dialysis catheter kits containing recalled Merit Medical Splittable Sheath Introducers",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "B. Braun Medical, Inc. Issues Voluntary Nationwide Recall of Lactated Ringer’s Injection, 1L, E7500 Due to the Presence of Particulate Matter in Solution",
+    "originalAbstract": "For Immediate Release - BETHLEHEM, PA – APRIL 28, 2026 – B. Braun Medical Inc. is voluntarily recalling two lots of Lactated Ringer’s Injection, E7500, 1L, to the hospital/healthcare facility level. The product has been found to have particulate matter in solution.",
     "keyPoints": [
-      "Вилучення наборів для діалізу через відклик Merit Medical.",
-      "Відклик стосується наборів з Merit Medical Splittable Sheath Introducers.",
-      "Джерело: FDA."
+      "Відкликання двох партій, 28 квітня 2026 року",
+      "Продукт: Лактатний розчин Рінгера, 1L, E7500",
+      "Виявлення часток у розчині"
     ],
-    "practicalTakeaway": "Вилучення стосується наборів для діалізу з Merit Medical Sheath Introducers.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "громадське здоровʼя",
     "tags": [
-      "діаліз",
       "відкликання",
-      "медична безпека"
+      "лікарські засоби",
+      "інфекційні хвороби",
+      "безпека пацієнтів"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "EMA контролює спалах хантавірусу на круїзному судні",
-    "abstract": "Європейське агентство з медикаментів слідкує за поширенням хантавірусу, пов'язаного з круїзним судном.",
+    "title": "Відкликання моніторів глюкози TRUE METRIX",
+    "abstract": "Trividia рекомендує звертатися за медичною допомогою при появі коду E-5 та симптомах високого рівня глюкози.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/blood-glucose-monitor-recall-trividia-health-issues-correction-true-metrix-blood-glucose-monitoring",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Blood Glucose Monitor Recall: Trividia Health Issues Correction for TRUE METRIX Blood Glucose Monitoring Systems",
+    "originalAbstract": "Trividia recommends that device users who receive an E-5 error code and are experiencing symptoms of high glucose should seek medical care immediately.",
+    "keyPoints": [
+      "Компанія Trividia відкликає монітори глюкози TRUE METRIX.",
+      "При появі коду E-5 та симптомів високого глюкози слід звернутися до лікаря.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Після появи коду E-5 та симптомів високого глюкози потрібно звернутися за медичною допомогою.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "глюкоза",
+      "моніторинг",
+      "відкликання",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема автоматизованої системи компаундування Omnicell",
+    "abstract": "Можливі помилки у маркуванні стерильних шприців через несправність системи i.V.Station.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-automated-compounding-system-issue-omnicell",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Early Alert: Automated Compounding System Issue from Omnicell",
+    "originalAbstract": "Certain labels used with i.V.Station automated compounding systems may not be detected, leading to mislabeled sterile filled syringes",
+    "keyPoints": [
+      "Проблема виявлена у системі Omnicell, джерело — FDA.",
+      "Можливе невиявлення деяких етикеток у системі i.V.Station.",
+      "Може призводити до неправильної маркування стерильних шприців."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "автоматизація",
+      "компаундування",
+      "FDA",
+      "Omnicell",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Arrow International відкликає набори для діалізу з роз'єднуваними вводниками Merit Medical",
+    "abstract": "Компанія Arrow International проводить відкликання наборів для діалізу через зняття з ринку певних вводників Merit Medical.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-arrow-international-removes-dialysis-catheter-kits-containing-merit-medical-splittable",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-05-16T04:09:37Z",
+    "updatedAt": "2026-05-16T04:09:37Z",
+    "originalTitle": "Early Alert: Arrow International Removes Dialysis Catheter Kits Containing Merit Medical Splittable Sheath Introducers",
+    "originalAbstract": "Arrow International is removing dialysis catheter kits containing recalled Merit Medical Splittable Sheath Introducers",
+    "keyPoints": [
+      "Відкликання стосується наборів для діалізу.",
+      "Зняття з ринку пов'язане з Merit Medical.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Інформація може бути використана для моніторингу безпеки медичних виробів.",
+    "specialty": "громадське здоровʼя",
+    "tags": [
+      "відкликання",
+      "діаліз",
+      "медичні вироби",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "EMA контролює спалах хантавірусної інфекції на круїзному судні",
+    "abstract": "EMA слідкує за поширенням хантавірусної інфекції, пов'язаної з круїзним судном, у співпраці з іншими структурами ЄС.",
     "url": "https://www.ema.europa.eu/en/news/ema-actively-monitoring-cruise-ship-hantavirus-outbreak",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-05-12T12:19:00Z",
-    "updatedAt": "2026-05-15T20:02:59Z",
+    "updatedAt": "2026-05-16T04:09:42Z",
     "originalTitle": "EMA actively monitoring cruise ship Hantavirus outbreak",
     "originalAbstract": "EMA is actively monitoring the ongoing hantavirus outbreak linked to a cruise ship, in coordination with other EU bodies.The virus has been identified as Andes hantavirus, the…",
     "keyPoints": [
       "Спалах хантавірусу на круїзному судні.",
-      "Вірус ідентифіковано як Andes hantavirus.",
-      "Контроль здійснюється у співпраці з ЄС."
+      "Вірус — Andes хантавірус.",
+      "Контроль здійснюється у межах ЄС."
     ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за період спостереження.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "хантавірус",
       "спалах",
-      "круїзне судно",
       "ЄС",
-      "моніторинг"
+      "круїзне судно"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -562,12 +568,12 @@
   },
   {
     "title": "Години роботи EMA під час святкових днів 14-15 травня",
-    "abstract": "Офіс EMA закритий з 13 травня 18:00 до 18 травня 08:30. Гаряча лінія доступна поза робочим часом і у святкові дні.",
+    "abstract": "Офіс EMA закритий з 13 травня 18:00 до 18 травня 08:30. Гаряча лінія доступна поза робочим часом та у святкові дні.",
     "url": "https://www.ema.europa.eu/en/news/ema-business-hours-over-ascension-day-holidays-14-15-may",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-05-12T12:00:00Z",
-    "updatedAt": "2026-05-15T20:02:59Z",
+    "updatedAt": "2026-05-16T04:09:42Z",
     "originalTitle": "EMA business hours over Ascension Day holidays, 14 and 15 May",
     "originalAbstract": "EMA's office is closed from 18:00 on 13 May 2026 until 08:30 on 18 May 2026.The product emergency hotline is available outside working hours and on public holidays. To reach…",
     "keyPoints": [
@@ -575,40 +581,38 @@
       "Гаряча лінія доступна поза робочим часом і у святкові дні.",
       "Джерело: EMA."
     ],
-    "practicalTakeaway": "Графік роботи EMA змінюється під час святкових днів, гаряча лінія працює цілодобово.",
+    "practicalTakeaway": "Час роботи EMA змінюється під час святкових періодів.",
     "specialty": "громадське здоровʼя",
     "tags": [
       "EMA",
       "графік роботи",
-      "святкові дні",
-      "гаряча лінія",
-      "офіс"
+      "святкові дні"
     ],
     "priorityScore": 6,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Європейський парламент і Рада погодилися щодо Закону про критичні ліки",
+    "title": "Європейський парламент та Рада досягли домовленості щодо Закону про критичні ліки",
     "abstract": "Європейська агенція з лікарських засобів вітає політичне погодження щодо Закону про критичні ліки, що сприятиме забезпеченню безпеки та стабільності постачання.",
     "url": "https://www.ema.europa.eu/en/news/ema-welcomes-political-agreement-critical-medicines-act",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-05-12T08:16:00Z",
-    "updatedAt": "2026-05-15T20:02:59Z",
+    "updatedAt": "2026-05-16T04:09:42Z",
     "originalTitle": "EMA welcomes political agreement on Critical Medicines Act",
     "originalAbstract": "EMA welcomes the provisional agreement reached by the European Parliament and the Council of the European Union on the proposed Critical Medicines Act (CMA), which represents an…, “At a time of increasing global disruptions, resilient and secure supply chains for critical medicines are essential to protect public health across the EU. Today’s…, In recent years, EU Member States have faced serious medicine shortages and global challenges such as the COVID-19 pandemic and geopolitical tensions have exposed…",
     "keyPoints": [
-      "Погодження між ЄП і Радою щодо CMA",
-      "Закон спрямований на зміцнення ланцюгів постачання",
-      "Затверджено у 2023 році"
+      "Домовленість досягнута між ЄП та Радою ЄС",
+      "Закон спрямований на зміцнення ланцюгів постачання критичних ліків",
+      "Публікація від EMA, джерело: EMA"
     ],
-    "practicalTakeaway": "Закон про критичні ліки фіксує оновлені показники за 2023 рік.",
+    "practicalTakeaway": "Публікація фіксує оновлені показники за вказаний період.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "законодавство",
-      "лікарські засоби",
       "ЄС",
+      "ліки",
+      "закон",
       "забезпечення",
       "постачання"
     ],
@@ -618,29 +622,29 @@
   },
   {
     "title": "Звіт засідання PRAC 4-7 травня 2026 року",
-    "abstract": "EMA провела засідання комітету з фармаковідслідковування, що охоплює управління ризиками застосування лікарських засобів.",
+    "abstract": "EMA оприлюднила підсумки роботи Комітету з фармаковійскідної безпеки (PRAC) за травень 2026 року.",
     "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-4-7-may-2026",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-05-08T10:00:00Z",
-    "updatedAt": "2026-05-15T20:02:59Z",
+    "updatedAt": "2026-05-16T04:09:42Z",
     "originalTitle": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 4-7 May 2026",
     "originalAbstract": "At its monthly meeting, EMA’s safety committee (PRAC) carried out its broad range of responsibilities, which cover all aspects of the risk management of the use of medicines:…, Agenda Agenda of the PRAC meeting 4-7 May 2026Draft Reference Number…, PRAC statistics: May 2026 , PRAC statistics: May 2026 English (EN) (104.16 KB - PDF)First published:…, Glossary Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspect of a known association between…",
     "keyPoints": [
-      "Засідання відбулося 4-7 травня 2026 року.",
-      "Обговорювалися питання управління ризиками лікарських засобів.",
-      "Опубліковано статистику PRAC за травень 2026 року."
+      "Засідання PRAC відбулося 4-7 травня 2026 року.",
+      "Обговорювалися питання управління ризиками застосування ліків.",
+      "Опубліковано статистику роботи комітету за травень 2026 року."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці та діяльності EMA щодо безпеки ліків.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці роботи EMA та PRAC.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "фармацевтика",
-      "безпека ліків",
       "EMA",
       "PRAC",
-      "статистика"
+      "фармаковійська безпека",
+      "статистика",
+      "2026"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
