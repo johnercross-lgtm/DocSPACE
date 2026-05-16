@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42139755",
-    "title": "Вплив високих температур на передчасні пологи у 13 країнах",
-    "journal": "Environment international",
-    "publishedAt": "2026-05-09T00:00:00Z",
-    "abstract": "Зміни клімату створюють ризики для здоров'я, особливо для вагітних та новонароджених. Дослідження показують зв'язок між високими температурами та ризиком передчасних пологів, проте більшість даних отримані з окремих локацій або гетерогенних аналізів, що залишає прогалини щодо регіональних особливостей та характеристик матерів і новонароджених.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139755/",
+    "pmid": "42141912",
+    "title": "Роль IGF2BP2 у регуляції аутофагії та експресії нейротрофінів у Schwannових клітинах при діабетичній периферичній невропатії",
+    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження виявило, що високий рівень глюкози підвищує рівень білка IGF2BP2 у Schwannових клітинах та сідничному нерві. IGF2BP2, що є читачем модифікації m6A, впливає на функцію Schwannових клітин, що має значення для розвитку діабетичної периферичної невропатії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141912/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "The burden of premature births attributed to heat across 13 countries.",
-    "originalAbstract": "Climate change threatens global health, particularly among vulnerable populations such as pregnant individuals and their newborns. Evidence linking heat to premature birth is largely based on single-location studies or heterogeneous meta-analyses, leaving important gaps regarding underrepresented regions, preterm subgroups, and the role of maternal and infant characteristics.",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "The m6A Reader IGF2BP2 Regulates Schwann Cell Autophagy and Neurotrophin Expression via EGR1 in Diabetic Peripheral Neuropathy.",
+    "originalAbstract": "Diabetic peripheral neuropathy (DPN) is a common chronic complication of diabetes mellitus, and Schwann cell dysfunction contributes to its pathogenesis and progression. IGF2BP2 is a single-stranded RNA-binding protein that has recently been identified as an m6A reader; however, its role and regulatory effects in Schwann cells during DPN remain largely unknown. In this study, we demonstrated that high-glucose exposure significantly increased IGF2BP2 levels in RSC96 cells and in the sciatic nerve",
     "keyPoints": [
-      "Зв'язок між високими температурами та передчасними пологами підтверджується дослідженнями.",
-      "Більшість даних отримано з окремих регіонів або гетерогенних аналізів.",
-      "Потреба у більшій кількості досліджень для визначення регіональних та індивідуальних факторів."
+      "Високий рівень глюкози підвищує IGF2BP2 у Schwannових клітинах.",
+      "IGF2BP2 регулює аутофагію та експресію нейротрофінів.",
+      "Роль IGF2BP2 важлива для розуміння патогенезу діабетичної невропатії."
     ],
-    "practicalTakeaway": "Необхідно враховувати вплив кліматичних факторів на репродуктивне здоров'я.",
-    "specialty": "акушерство і гінекологія",
+    "practicalTakeaway": "Дослідження підкреслює потенціал IGF2BP2 як мішені для терапії діабетичної периферичної невропатії.",
+    "specialty": "неврологія",
     "tags": [
-      "зміни клімату",
-      "передчасні пологи",
-      "здоров'я вагітних"
+      "діабетична невропатія",
+      "Schwannові клітини",
+      "м6A"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42139753",
-    "title": "Розгляд функціонального супрахіоїдного видалення шиї при ранньому раку нижньої губи",
-    "journal": "Oral oncology",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "У статті аналізуються питання застосування функціонального супрахіоїдного видалення шиї у пацієнтів з раннім раком нижньої губи. Обговорюються показання, техніка виконання та потенційний вплив на функціональні результати.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139753/",
+    "pmid": "42141911",
+    "title": "Трансанальна іригація для лікування синдрому низької передньої резекції: міжнародне багатоцентрове рандомізоване дослідження",
+    "journal": "BJS open",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Довгострокова дисфункція кишечника може впливати на значну кількість пацієнтів після передньої резекції. Це дослідження оцінювало ефективність трансанальної іригації для лікування синдрому низької передньої резекції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141911/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Considerations regarding functional suprahyoid neck dissection in early lower lip carcinoma.",
-    "originalAbstract": "",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Transanal irrigation for low anterior resection syndrome treatment: international multicentre randomized clinical trial.",
+    "originalAbstract": "Long-term bowel dysfunction can impact a significant proportion of patients following anterior resection. The aim of this study was to assess the efficacy of transanal irrigation (TAI) to treat low anterior resection syndrome.",
     "keyPoints": [
-      "Розглядається застосування супрахіоїдного видалення шиї при ранньому раку нижньої губи.",
-      "Обговорюються показання та техніка операції.",
-      "Аналізується вплив на функціональні результати."
+      "Дослідження вивчало застосування трансанальної іригації.",
+      "Мета — оцінити її ефективність при синдромі низької передньої резекції.",
+      "Результати допомагають визначити потенційні можливості терапії."
     ],
-    "practicalTakeaway": "При виборі методу хірургічного лікування важливо враховувати функціональні наслідки для пацієнтів.",
+    "practicalTakeaway": "Трансанальна іригація може бути розглянута як можливий метод лікування синдрому низької передньої резекції.",
     "specialty": "хірургія",
     "tags": [
-      "онкологія",
       "хірургія",
-      "доказова медицина"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42139752",
-    "title": "Підтримка імунітету при колоректальному раку: роль PTPRN2",
-    "journal": "Cancer genetics",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження виявило, що пригнічення PTPRN2 сприяє формуванню імунно-виключного мікрооточення у колоректальному раку, що може впливати на ефективність імунотерапії. Аналіз 106 протеїнфосфатаз показав, що PTPRN2 є ключовим фактором у резистентності до блокади PD-1.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139752/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "PTPRN2-mediated silencing of tumor-intrinsic MHC-II promotes immune-excluded tumor microenvironment in colorectal cancer.",
-    "originalAbstract": "Colorectal cancer (CRC) frequently exhibits an immune-excluded tumor microenvironment that limits the efficacy of PD-1 blockade. Through systematic profiling of 106 protein tyrosine phosphatases (PTPs), we identify three PTP-based molecular subtypes, among which the immune-excluded Cluster 2 is highly resistant to immunotherapy. Integrative analyses across patient cohorts highlight PTPRN2 as a prominent PTP enriched in immune-excluded tumors and strongly associated with anti-PD-1 non-response. F",
-    "keyPoints": [
-      "PTPRN2 асоціюється з імунно-виключним мікрооточенням у колоректальному раку.",
-      "Зниження активності PTPRN2 може потенційно покращити відповідь на імунотерапію.",
-      "Дослідження підкреслює важливість PTPRN2 як потенційної цілі для лікування."
-    ],
-    "practicalTakeaway": "Вивчення PTPRN2 може сприяти розробці нових стратегій для подолання резистентності до імунотерапії у колоректальному раку.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "імунна відповідь",
-      "молекулярна біологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42139751",
-    "title": "Подальший ризик розвитку раку легень у пацієнтів з позитивним скринінгом LDCT та первинно негативним біопсією легень",
-    "journal": "Lung cancer (Amsterdam, Netherlands)",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Дослідження аналізує ризик розвитку раку легень у пацієнтів, у яких після позитивного скринінгу з використанням низькодозової комп'ютерної томографії (LDCT) первинна біопсія легень була негативною. Вивчення базується на даних Національного дослідження скринінгу легень (NLST).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139751/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Subsequent risk of lung cancer in patients with positive low-dose CT screens and initial negative lung biopsy.",
-    "originalAbstract": "Lung cancer screening with low-dose CT (LDCT) has been shown to reduce lung cancer mortality. There is a paucity of literature, however, describing the relationship between negative lung biopsy in individuals following a positive screen and ultimate lung cancer incidence. To assess this question, we analyzed data from the National Lung Screening Trial (NLST).",
-    "keyPoints": [
-      "Дослідження зосереджене на ризику раку легень після негативної біопсії при позитивному скринінгу LDCT.",
-      "Аналіз базується на даних великого національного дослідження.",
-      "Результати допомагають оцінити довгострокові наслідки позитивного скринінгу з негативною біопсією."
-    ],
-    "practicalTakeaway": "Пацієнти з позитивним скринінгом LDCT і негативною біопсією потребують подальшого спостереження через потенційний ризик розвитку раку легень.",
-    "specialty": "онкологія",
-    "tags": [
-      "раку легень",
-      "скринінг",
-      "LDCT"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42139744",
-    "title": "Біль у тазовому поясі на 36 тижні вагітності та через два роки після пологів: зв'язки з біопсихосоціальними факторами",
-    "journal": "Sexual & reproductive healthcare : official journal of the Swedish Association of Midwives",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Мета дослідження — вивчити зв'язки між біопсихосоціальними факторами та болем у тазовому поясі (БТП) на 36 тижні вагітності та через два роки після пологів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139744/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Pelvic Girdle Pain at 36 Weeks of Pregnancy and Two Years Postpartum: Associations With Biopsychosocial Factors.",
-    "originalAbstract": "To examine associations between biopsychosocial factors and pelvic girdle pain (PGP) at pregnancy week 36 and two years postpartum.",
-    "keyPoints": [
-      "Дослідження аналізує зв'язки між біопсихосоціальними факторами та болем у тазовому поясі.",
-      "Розглядаються дані на 36 тижні вагітності та через два роки після пологів.",
-      "Мета — визначити потенційні фактори ризику для розвитку БТП у цей період."
-    ],
-    "practicalTakeaway": "Розуміння біопсихосоціальних факторів може допомогти у прогнозуванні та управлінні болем у тазовому поясі у вагітних та після пологів.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "вагітність",
-      "біль у тазовому поясі",
-      "біопсихосоціальні фактори"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42139741",
-    "title": "Аномальна функціональна звʼязність між гіпоталамусом і корою при травмі спинного мозку: нейровізуалізаційне та транскриптомне дослідження для прогнозування відновлення рухової функції",
-    "journal": "Journal of neurosurgery. Spine",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження виявило порушення функціональної звʼязності між гіпоталамусом і корою мозку у пацієнтів із травмою спинного мозку. Це може мати значення для прогнозування відновлення моторних функцій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139741/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Aberrant hypothalamic-cortical functional connectivity in spinal cord injury: a neuroimaging-transcriptomic study for motor recovery prognostication.",
-    "originalAbstract": "Spinal cord injury (SCI) disrupts supraspinal projections to spinal motor circuits, resulting in sensorimotor deficits. While emerging evidence implicates hypothalamic engagement in post-SCI locomotor recovery, the integrity of hypothalamic-cortical functional connectivity (FC) and its prognostic utility remain uncharacterized.",
-    "keyPoints": [
-      "Виявлено порушення звʼязності між гіпоталамусом і корою при травмі спинного мозку.",
-      "Гіпоталамічна участь може бути важливою для відновлення рухової функції.",
-      "Дослідження використовує нейровізуалізацію та транскриптоміку для аналізу."
-    ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал нейровізуалізаційних методів для прогнозування відновлення рухової функції після травми спинного мозку.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейровізуалізація",
-      "травма спинного мозку",
-      "прогнозування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42139739",
-    "title": "Від Веласко до NAUTILUS: еволюція цільового впливу на центромедіанальне ядро при епілепсії",
-    "journal": "Journal of neurosurgery",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Область нейромодуляції для ідіопатичної генералізованої епілепсії швидко розвивається. Завершене дослідження NAUTILUS, багатоцентрове рандомізоване сліпе дослідження з плацебо-контролем, оцінює стимуляцію центромедіанального ядра (ЦМ). Хоча результати ще не опубліковані, важливим залишається питання стандартизації анатомічної цільової точності при імплантації електродів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139739/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "From Velasco to NAUTILUS: an evolution of centromedian nucleus targeting in epilepsy.",
-    "originalAbstract": "The field of neuromodulation for idiopathic generalized epilepsy is rapidly evolving. The recently completed NAUTILUS trial, an industry-sponsored multicenter, randomized, sham-controlled study evaluating centromedian nucleus (CM) stimulation, represents a landmark effort to rigorously assess this approach. Although trial results are not yet available, the need to understand and standardize the anatomical targeting of the CM remains critical. The precision of electrode placement fundamentally de",
-    "keyPoints": [
-      "Дослідження NAUTILUS оцінює стимуляцію центромедіанального ядра при епілепсії.",
-      "Стандартизація анатомічної цільової точності залишається критичною.",
-      "Результати дослідження ще не опубліковані."
-    ],
-    "practicalTakeaway": "Необхідно слідкувати за розвитком досліджень щодо стимуляції ЦМ для визначення її ролі у лікуванні епілепсії.",
-    "specialty": "неврологія",
-    "tags": [
-      "епілепсія",
-      "нейромодуляція",
-      "клінічні дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42139738",
-    "title": "Вплив внутрішньоутробної хірургії при мієломінінгоцеле на анатомію мозкових структур",
-    "journal": "Journal of neurosurgery. Pediatrics",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив внутрішньоутробної хірургії при мієломінінгоцеле на анатомію задньої черепної ямки та третій шлуночок мозку. Виявлено можливість зворотного розвитку гіпертрофії заднього мозку та змін у структурі третнього шлуночка, що може впливати на результати ендоскопічної тривентрикулостомії та каутеризації хоріоїдальних сплетінь.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139738/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Impact of fetal myelomeningocele repair on the clivus-supraocciput angle and third ventricle anatomy: evaluation of the outcome of endoscopic third ventriculostomy and choroid plexus cauterization.",
-    "originalAbstract": "Fetal myelomeningocele repair (FMMR) has shown significant promise in decreasing the incidence of myelomeningocele (MMC)-associated hydrocephalus. In this study, the authors report on the reversal of hindbrain herniation via FMMR. They also describe biometric changes in third ventricle anatomy, which influences the outcome of endoscopic third ventriculostomy and choroid plexus cauterization (ETV/CPC).",
-    "keyPoints": [
-      "Внутрішньоутробна хірургія при мієломінінгоцеле може зменшити гідроцефалію.",
-      "Зміни в анатомії мозкових структур можуть впливати на результати лікування гідроцефалії.",
-      "Дослідження фокусується на біометричних змінах третнього шлуночка та задньої черепної ямки."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть впливати на підбір лікування гідроцефалії у пацієнтів з мієломінінгоцеле.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейронауки",
       "доказова медицина",
-      "педіатрія"
+      "інтерна"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42139737",
-    "title": "Занадто багато доброго? Вплив високого передопераційного лордозу L4-S1 на результати хірургії дорослого сколіозу",
-    "journal": "Journal of neurosurgery. Spine",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження аналізує звʼязок між високим передопераційним лордозом L4-S1 та ризиком механічних ускладнень, повторних операцій та результатів, оцінених пацієнтами, у пацієнтів, що проходять хірургію дорослого сколіозу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139737/",
+    "pmid": "42141910",
+    "title": "Порівняння сприйняття пацієнтами ступеня субгортальної стенозу та об'єктивних даних досліджень",
+    "journal": "Ear, nose, & throat journal",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Мета дослідження — порівняти сприйняття пацієнтами ступеня субгортальної стенозу з результатами ендоскопічних досліджень, опитувальником дихальної недостатності та пікфлоуметром. У дослідженні взяли участь 50 пацієнтів, які заповнили опитувальник та шкалу оцінки ступеня стенозу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141910/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Too much of a good thing? Association between high preoperative L4-S1 lordosis and outcomes after adult spinal deformity surgery.",
-    "originalAbstract": "The authors sought to determine the impact of preoperative and postoperative L4-S1 lordosis on 1) mechanical complications, 2) reoperations, and 3) patient-reported outcomes (PROs) using PRO metrics in patients undergoing adult spinal deformity (ASD) surgery.",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Comparison of Patient Perception of Degree of Subglottic Stenosis and Exam Findings.",
+    "originalAbstract": "ObjectivesTo compare patients' perception of their degree of subglottic stenosis to their endoscopic exam findings, Clinical Dyspnea Questionnaire, and peak flow results.Study DesignProspective Multi-Institutional.SettingTertiary Care Clinic.MethodsA study of 50 patients comparing patients' perception of their degree of subglottic stenosis to their endoscopic exam findings. All patients filled out a Clinical Dyspnea Questionnaire and a 10-point scale reflecting their perceived degree of stenosis",
     "keyPoints": [
-      "Високий передопераційний лордоз L4-S1 може бути повʼязаний з підвищеним ризиком ускладнень.",
-      "Дослідження аналізує вплив лордозу на повторні операції та результати, оцінені пацієнтами.",
-      "Результати допомагають краще розуміти вплив лордозу на результати хірургії дорослого сколіозу."
+      "Досліджено співвідношення між суб'єктивним сприйняттям ступеня стенозу та об'єктивними даними.",
+      "Використовували ендоскопію, опитувальник дихальної недостатності та пікфлоуметр.",
+      "Результати можуть допомогти у більш точній оцінці стану пацієнтів з субгортальним стенозом."
     ],
-    "practicalTakeaway": "Результати дослідження можуть впливати на планування хірургічного втручання у пацієнтів з високим лордозом L4-S1.",
-    "specialty": "хірургія",
+    "practicalTakeaway": "Результати дослідження підкреслюють важливість врахування суб'єктивних відчуттів пацієнтів при оцінці ступеня субгортальної стенозу.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "нейрохірургія",
-      "спінальна хірургія",
+      "діагностика",
+      "дихальні шляхи",
+      "пацієнтські відчуття"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42141908",
+    "title": "Нові тенденції досліджень штучного інтелекту у лімфедемі: аналіз за даними бібліометрії та альтметрики",
+    "journal": "Phlebology",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження систематично аналізує сучасний стан застосування штучного інтелекту та машинного навчання у дослідженнях лімфедеми, визначаючи основні тенденції, фокус досліджень та ключових учасників у цій швидко розвиваючійся галузі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141908/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Emerging trends in artificial intelligence research in lymphedema: An evaluation in light of bibliometric and altmetric data.",
+    "originalAbstract": "BackgroundThis study aims to systematically evaluate the current landscape of artificial intelligence (AI) and machine learning applications in lymphedema research by employing bibliometric and altmetric analyses. The goal is to identify major trends, research focuses, and influential contributors in this rapidly evolving field.MethodA total of 43 AI-related articles on lymphedema published between 1975 and 2025 were retrieved from the Web of Science Core Collection. Bibliometric indicators such",
+    "keyPoints": [
+      "Проаналізовано 43 статті про AI у лімфедемі (1975–2025).",
+      "Визначено основні напрямки досліджень та впливових авторів.",
+      "Використано бібліометричний та альтметричний аналізи для оцінки досліджень."
+    ],
+    "practicalTakeaway": "Дослідження демонструє зростаючу роль штучного інтелекту у вивченні лімфедеми, що може вплинути на майбутні підходи до діагностики та лікування.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "штучний інтелект",
+      "лімфедема",
       "дослідження"
     ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42141905",
+    "title": "Участь громадських організацій та академічних інституцій у управлінні COVID-19: дослідження шести країн",
+    "journal": "Health policy and planning",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження аналізує залучення різних груп та інституцій у процеси управління пандемією COVID-19 у шести країнах. Виявлено, що залучення різноманітних точок зору може сприяти більш справедливим та обґрунтованим політикам, але існують прогалини у залученні неурядових організацій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141905/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Participation of Civil Society Organisations and Academia in COVID-19 Governance: Insights from a Six Country Study.",
+    "originalAbstract": "This paper focuses on the engagement of persons and groups with diverse interests in the governance of the COVID-19 pandemic. During emergencies, involving diverse perspectives in governance mechanisms can contribute to more equitable and evidence-based policies that address societal needs. Previous literature shows that, even with the intent to include diverse perspectives , there can be gaps in engaging non-governmental entities in epidemic governance. This study sought to analyze participatio",
+    "keyPoints": [
+      "Дослідження фокусується на участі громадських та академічних інституцій у управлінні COVID-19.",
+      "Залучення різних груп може покращити якість політик.",
+      "Виявлено прогалини у залученні неурядових організацій."
+    ],
+    "practicalTakeaway": "Залучення широкого спектру інституцій у управління пандемією може сприяти більш інклюзивним та ефективним рішенням.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "громадське здоровʼя",
+      "управління пандемією",
+      "участь громадських організацій"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42141904",
+    "title": "Генетичний профіль спадкових пролактином та інших аденом гіпофізу",
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження аналізує генетичний фон спадкових пролактином та інших аденом гіпофізу, визначаючи відомі та нові гени, що сприяють їх розвитку. Виявлено, що у частини пацієнтів з молодим віком, сімейною історією або синдромами спостерігається генетична схильність.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141904/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "The germline landscape of pituitary adenomas: established and emerging predisposition genes.",
+    "originalAbstract": "Pituitary adenomas are increasingly recognised to have a germline genetic component in a subset of patients, particularly those with young-onset disease, familial clustering or syndromic features. The spectrum of germline variants implicated in pituitary tumorigenesis has broadened considerably, with evidence of both established predisposition genes and a growing number of emerging candidate genes. Established germline predisposition genes - namely, MEN1, PRKAR1A, AIP, CDKN1B, GPR101, SDHx and M",
+    "keyPoints": [
+      "Виявлено роль спадкових генів у розвитку пролактином та інших аденом гіпофізу.",
+      "Визначено відомі та нові гени, що сприяють генезу пухлин.",
+      "Генетичний аналіз допомагає ідентифікувати ризик для пацієнтів із сімейною історією."
+    ],
+    "practicalTakeaway": "Генетичний профіль може бути корисним для визначення ризику розвитку пролактином та інших аденом гіпофізу.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "генетика",
+      "аденоми гіпофізу",
+      "спадковість"
+    ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42139735",
-    "title": "Чи може 5-SENSE оцінка допомогти у плануванні стереоелектроенцефалографії у дітей? Перша валідація у чисто педіатричній когорті",
-    "journal": "Journal of neurosurgery. Pediatrics",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження оцінює застосовність 5-SENSE балу для визначення показань до проведення стереоелектроенцефалографії (SEEG) у дітей з епілепсією. Вперше вивчено його ефективність у педіатричній вибірці, зокрема у випадках без змін на МРТ. Результати допомагають оцінити потенціал використання цього інструменту для покращення планування хірургічного лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42139735/",
+    "pmid": "42141903",
+    "title": "Основи роботи з пропущеними даними у довгострокових кардіоваскулярних дослідженнях",
+    "journal": "European journal of cardiovascular nursing",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Пропущені дані є поширеною проблемою у кардіологічних дослідженнях, особливо у довгострокових. Вони зменшують розмір вибірки, статистичну потужність та можуть спричинити упередженість результатів. Важливо застосовувати дизайн-стратегії для мінімізації пропусків, наприклад, зменшення кількості непотрібних запитань та використання нагадувань. Розуміння типів пропущеності, таких як неповна відповідь на запитання, є ключовим для коректної оцінки даних.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141903/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T02:29:54Z",
-    "originalTitle": "Can the 5-SENSE score guide stereo-electroencephalography in children? First validation in a purely pediatric cohort.",
-    "originalAbstract": "Stereo-electroencephalography (SEEG) is increasingly being used in pediatric epilepsy surgery to delineate the epileptogenic zone (EZ) and its relationship to functional cortex, ultimately guiding resection. However, accurately identifying which children with presumed focal epilepsy will benefit from electrode implantation remains challenging, particularly in MRI-negative cases. The 5-SENSE score, developed and validated primarily in adults, integrates 5 noninvasive clinical variables to estimat",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Missing Data Essentials Part 1: Detecting and Evaluating Patterns of Missingness in Longitudinal Cardiovascular Studies.",
+    "originalAbstract": "Missing data are common in cardiovascular nursing and allied health research, especially in longitudinal studies. Common problems associated with missing data are reduced sample size, reduced statistical power and precision, and potentially biased results. There are several design strategies that can help minimize missing data including minimizing unnecessary items and incorporating reminders. It is important to understand common types of missingness, including item nonresponse, item-level missi",
     "keyPoints": [
-      "Дослідження вивчало застосовність 5-SENSE балу у дітей з епілепсією.",
-      "Перша валідація показала потенціал інструменту у педіатричній когорті.",
-      "Результати можуть допомогти у визначенні показань до SEEG у дітей."
+      "Пропущені дані знижують точність досліджень.",
+      "Стратегії дизайну допомагають зменшити пропуски.",
+      "Розпізнавання типів пропущеності важливе для аналізу."
     ],
-    "practicalTakeaway": "Валідація 5-SENSE балу у педіатричній вибірці може сприяти більш точному визначенню показань до проведення стереоелектроенцефалографії у дітей з епілепсією.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Застосовуйте дизайн-стратегії для мінімізації пропущених даних у довгострокових кардіоваскулярних дослідженнях.",
+    "specialty": "кардіологія",
     "tags": [
-      "доказова медицина",
-      "педіатрія",
-      "епілепсія"
+      "пропущені дані",
+      "дослідження",
+      "статистика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42141902",
+    "title": "Розподіл імунних клітин у артеріальній та венозній крові у здорових щурів",
+    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження аналізувало різницю у складі та транскрипційних станах імунних клітин у артеріальній і венозній крові щурів за допомогою одноклітинного РНК-секвенування, доповненого флоуцитометрією та білковою валідизацією. Виявлено збагачення Т-лімфоцитів у артеріальній крові.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141902/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Differential Immune Cell Distribution Between Arterial and Venous Blood in Healthy Rats.",
+    "originalAbstract": "We previously identified differentially expressed miRNAs between arterial and venous blood in rats; however, whether immune cell composition and transcriptional states differ along the arterial-venous axis remains unclear. Here, single-cell RNA sequencing of 119 481 PBMCs, complemented by flow cytometry and protein-level validation, was performed to characterize immune heterogeneity between arterial and venous blood. Cell composition analysis showed enrichment of T cells in arterial blood, where",
+    "keyPoints": [
+      "Виявлено різницю у складі імунних клітин між артеріальною та венозною кров'ю.",
+      "Збагачення Т-лімфоцитів у артеріальній крові.",
+      "Дослідження підтверджує імунну гетерогенність у різних типах крові."
+    ],
+    "practicalTakeaway": "Розуміння розподілу імунних клітин у крові може впливати на дослідження імунної відповіді та терапевтичні підходи.",
+    "specialty": "імунологія",
+    "tags": [
+      "імунологія",
+      "дослідження",
+      "клітинний склад"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42141901",
+    "title": "NR3C1 необхідний для нормального диференціювання соматотропів і експресії Foxo1 у гіпофізі",
+    "journal": "Endocrinology",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження показує, що глюкокортикоїди відіграють важливу роль у диференціюванні клітин гіпофізу, зокрема соматотропів. Втрата гена NR3C1 у гіпофізі порушує цей процес та знижує експресію Foxo1, що може впливати на функціональність соматотропів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141901/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "NR3C1 is required for normal somatotrope differentiation and Foxo1 expression in pituitary.",
+    "originalAbstract": "Glucocorticoids are an important signal for the differentiation of many types of cells. Consistent with this, several studies have demonstrated that glucocorticoids promote the somatotrope differentiation program and functionality. Interestingly, we previously found that loss of the forkhead factor, FOXO1, results in delayed emergence of somatotropes and prevents glucocorticoid-induced premature differentiation of somatotropes. In the current study, we find that pituitary-specific deletion of Nr",
+    "keyPoints": [
+      "NR3C1 важливий для диференціювання соматотропів.",
+      "Втрата NR3C1 порушує експресію Foxo1.",
+      "Глюкокортикоїди сприяють розвитку соматотропів."
+    ],
+    "practicalTakeaway": "Розуміння ролі NR3C1 може допомогти у дослідженнях функціональності гіпофізу.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "ендокринологія",
+      "гормони",
+      "клітинна диференція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42141899",
+    "title": "Ризик захворювань, пов'язаних із типом 2 запалення, під час лікування інтерлейкін-17 інгібіторами у пацієнтів з псоріазом: ретроспективне дослідження когорт.",
+    "journal": "The British journal of dermatology",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження аналізує можливий підвищений ризик розвитку захворювань, пов'язаних із типом 2 запалення, у пацієнтів з псоріазом, які отримують терапію інтерлейкін-17 інгібіторами. Вивчення базується на ретроспективних даних, що дозволяє оцінити безпеку даної терапії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141899/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-16T13:10:53Z",
+    "originalTitle": "Risk of type 2 inflammation-related diseases during Interleukin-17-inhibitors treatment for psoriasis patients-A retrospective cohort study.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Дослідження виявило потенційний підвищений ризик захворювань, пов'язаних із типом 2 запалення.",
+      "Ретроспективний аналіз даних пацієнтів з псоріазом.",
+      "Результати можуть впливати на клінічне прийняття рішень щодо терапії."
+    ],
+    "practicalTakeaway": "При застосуванні інтерлейкін-17 інгібіторів слід враховувати можливий ризик розвитку захворювань, пов'язаних із типом 2 запалення.",
+    "specialty": "дерматологія",
+    "tags": [
+      "псоріаз",
+      "інтерлейкін-17 інгібітори",
+      "запальні захворювання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
