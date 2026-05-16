@@ -1,25 +1,77 @@
 [
   {
+    "title": "Травма ендометрію у жінок, що проходять IVF",
+    "abstract": "Дослідження аналізує вплив навмисної травми ендометрію (подряпини) на шанси завагітніти у жінок, які проходять процедуру екстракорпорального запліднення (ЕКЗ). Процедура полягає у створенні невеликої травми слизової матки за допомогою тонкої пластикової трубки. Це оновлення попереднього аналізу 2021 року.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009517.pub5/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-15T00:00:00Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
+    "originalTitle": "Endometrial injury in women undergoing in vitro fertilisation (IVF).",
+    "originalAbstract": "Implantation of an embryo within the endometrial cavity is a critical step in the process of in vitro fertilisation (IVF). Research suggests that endometrial injury (also known as endometrial scratching), defined as intentional damage to the endometrium, can increase the chance of pregnancy in women undergoing IVF. The procedure involves placing a thin plastic tube into the uterus to create a small injury (called a 'scratch') in the lining of the womb. This is an update of a 2021 Cochrane review…",
+    "keyPoints": [
+      "Навмисна травма ендометрію може впливати на шанси вагітності при IVF.",
+      "Процедура включає створення невеликої травми слизової матки.",
+      "Дослідження оновлює попередній аналіз 2021 року."
+    ],
+    "practicalTakeaway": "Рішення щодо застосування травми ендометрію у процедурі IVF має базуватися на індивідуальній оцінці ризиків та потенційної користі.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "IVF",
+      "ендометрій",
+      "репродуктологія"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Музикотерапія для управління хронічним болем",
+    "abstract": "Цей протокол передбачає оцінку ефективності музикотерапії у зменшенні хронічного болю у дорослих, що триває понад 12 тижнів. Вивчення порівнює музикотерапію з активним лікуванням, плацебо або відсутністю лікування. Основні цілі — визначити вплив на інтенсивність болю, емоційний стан та функціональні порушення, пов’язані з болем.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016354/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-15T00:00:00Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
+    "originalTitle": "Music-based interventions for chronic pain management.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To evaluate the benefits and harms of music-based interventions (MBIs) for chronic pain management in adults with pain lasting more than 12 weeks, comparing MBIs with the following comparators: active care, placebo, or no treatment/waitlist control. Specifically, we aim to assess the effects of MBIs on critical outcomes, such as pain intensity, pain-related distress, and pain interference wi…",
+    "keyPoints": [
+      "Музикотерапія досліджується як метод управління хронічним болем.",
+      "Оцінюється вплив на інтенсивність болю та емоційний стан.",
+      "Порівнюється з активним лікуванням, плацебо або відсутністю терапії."
+    ],
+    "practicalTakeaway": "Музикотерапія може мати потенційний вплив на зменшення симптомів хронічного болю, але потребує додаткових досліджень.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "хронічний біль",
+      "музикотерапія",
+      "дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Тест на простат-специфічний антиген (PSA) для скринінгу раку простати",
-    "abstract": "Оновлений аналіз досліджень щодо скринінгу раку простати показує, що застосування тесту PSA не має значного впливу на зниження смертності від раку простати або загальної смертності. Нові великі дослідження та довгострокові дані підтверджують попередні висновки.",
+    "abstract": "Огляд досліджень показує, що скринінг раку простати за допомогою тесту PSA не має значущого впливу на зниження смертності від цього захворювання або загальної смертності. Оновлені дані з двох великих досліджень та довгострокове спостереження підтверджують попередні висновки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004720.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Prostate-specific antigen (PSA) test for prostate cancer screening.",
     "originalAbstract": "Prostate cancer screening remains controversial. A 2013 update of this Cochrane review concluded that prostate cancer screening does not significantly reduce disease-specific or overall mortality. Since then, results from two new, large trials have become available, alongside extended follow-up data from previously included trials. Thus, an update was warranted. To assess the effects of prostate cancer screening compared to no screening in men with no prior diagnosis of prostate cancer. We searc…",
     "keyPoints": [
-      "Тест PSA не довів значного зниження смертності від раку простати.",
-      "Оновлені дані підтверджують відсутність значущої користі від скринінгу.",
-      "Дослідження проводилися на чоловіках без попереднього діагнозу раку простати."
+      "Тест PSA не довів зменшення смертності від раку простати.",
+      "Дані з нових досліджень підтверджують попередні висновки.",
+      "Скринінг може не мати значущого впливу на загальну смертність."
     ],
-    "practicalTakeaway": "Застосування тесту PSA для скринінгу раку простати не довелося ефективним для зниження смертності.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Рішення щодо застосування тесту PSA для скринінгу раку простати має враховувати відсутність доказів його ефективності у зниженні смертності.",
+    "specialty": "доказова медицина",
     "tags": [
-      "ракові захворювання",
+      "рако́вий простата",
       "скринінг",
-      "простат-специфічний антиген"
+      "PSA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -27,72 +79,72 @@
   },
   {
     "title": "Фармакологічне лікування ожиріння у дітей та підлітків",
-    "abstract": "Дослідження оцінює ефективність та безпеку фармакологічних препаратів для лікування ожиріння у молодих пацієнтів. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
+    "abstract": "Дослідження аналізує ефективність та безпеку застосування фармакологічних засобів для лікування ожиріння у молодих пацієнтів. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015986/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-13T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Pharmacological interventions for the treatment of obesity in children and adolescents.",
     "originalAbstract": "Treating obesity in children and adolescents is complex, given the dynamic nature of growth and development during this life stage. The role of pharmacological treatments in the management of pediatric obesity remains uncertain, particularly with respect to outcomes beyond weight reduction, including quality of life and long-term adverse events. To assess the benefits and harms of pharmacological interventions for the treatment of obesity in children and adolescents. We searched CENTRAL, MEDLINE…",
     "keyPoints": [
-      "Фармакотерапія ожиріння у дітей та підлітків досліджується для визначення її користі та ризиків.",
-      "Результати щодо довгострокових наслідків та якості життя залишаються невизначеними.",
-      "Дослідження включає аналіз даних з різних джерел, зокрема CENTRAL та MEDLINE."
+      "Фармакологічні засоби для лікування ожиріння у дітей та підлітків досліджуються.",
+      "Вплив на зниження ваги та якість життя є ключовими показниками.",
+      "Безпека довгострокового застосування залишається невизначеною."
     ],
-    "practicalTakeaway": "Поточні дані не дають однозначної оцінки користі фармакологічного лікування ожиріння у молодих пацієнтів.",
+    "practicalTakeaway": "Потребуються додаткові дослідження для визначення користі та ризиків фармакотерапії при дитячому ожирінні.",
     "specialty": "доказова медицина",
     "tags": [
       "ожиріння",
-      "лікування",
-      "діти"
+      "діти",
+      "фармакотерапія"
     ],
-    "priorityScore": 8,
+    "priorityScore": 3,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Фармакологічне лікування при хворобі Фрідріху",
-    "abstract": "Хвороба Фрідріху є рідкісним спадковим неврологічним захворюванням, що проявляється порушеннями рівноваги та ходьби, з поступовим погіршенням до інвалідності. Часто супроводжується сколіозом, плоскостопістю та кардіоміопатією. З прогресією захворювання з'являються мови, порушення слуху, проблеми з сечовою системою, цукровий діабет, тривожність та депресія.",
+    "abstract": "Хвороба Фрідріху є рідкісним спадковим неврологічним захворюванням, що проявляється порушеннями рівноваги та ходьби, з поступовим погіршенням до інвалідності. Часто супроводжується сколіозом, плоскостопістю та кардіоміопатією. З прогресією хвороби з'являються мовні порушення, порушення слуху, проблеми з сечовивідною системою, цукровий діабет, тривожність і депресія.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007791.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Pharmacological treatments for Friedreich ataxia.",
     "originalAbstract": "Friedreich ataxia (FRDA) is a rare inherited autosomal recessive neurological disorder, characterised initially by unsteadiness in standing and walking, and slowly progressing to wheelchair dependency, usually in the late teens or early twenties. Scoliosis, pes cavus and cardiomyopathy are often present at diagnosis. As the disease progresses, individuals usually develop slurred speech, auditory impairment (especially in a noisy environment), urinary tract morbidity, diabetes, anxiety, depressio…",
     "keyPoints": [
       "Дослідження аналізує фармакологічні підходи до лікування хвороби Фрідріху.",
-      "Загальні наслідки для здоровʼя включають порушення руху, серцево-судинні та метаболічні проблеми.",
-      "Поточні дані не підтверджують ефективність будь-яких конкретних медикаментів."
+      "Результати поки що не доводять ефективність конкретних препаратів.",
+      "Потребуються додаткові дослідження для визначення оптимальної терапії."
     ],
-    "practicalTakeaway": "На даний час немає підтверджених ефективних фармакологічних засобів для лікування хвороби Фрідріху.",
+    "practicalTakeaway": "На даний час немає переконливих доказів ефективності фармакологічних засобів для лікування хвороби Фрідріху.",
     "specialty": "неврологія",
     "tags": [
       "хвороба Фрідріху",
       "лікування",
       "дослідження"
     ],
-    "priorityScore": 7,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Конвалесцентна плазма для лікування COVID-19",
-    "abstract": "Мета дослідження — оцінити ефективність та безпеку трансфузії конвалесцентної плазми у пацієнтів з COVID-19. Вивчено наявні та поточні дослідження щодо потенційних переваг і ризиків цієї терапії.",
+    "abstract": "Дослідження оцінює ефективність та безпеку трансфузії конвалесцентної плазми у пацієнтів з COVID-19. Вивчено завершені та поточні дослідження, що аналізують потенційні переваги та ризики цієї терапії.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013600.pub7/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Convalescent plasma for people with COVID-19.",
     "originalAbstract": "Convalescent plasma (CP) may reduce mortality in people with viral respiratory diseases, and is being investigated as a potential therapy for coronavirus disease 2019 (COVID-19). A thorough understanding of the current body of evidence regarding the benefits and risks of this intervention is required. To assess the effectiveness and safety of convalescent plasma transfusion in the treatment of people with COVID-19. To identify completed and ongoing studies, we searched CENTRAL, MEDLINE, Embase,…",
     "keyPoints": [
-      "Дослідження аналізує безпеку та ефективність конвалесцентної плазми у COVID-19.",
-      "Здійснено пошук даних у кількох медичних базах даних.",
-      "Результати допомагають визначити потенційні переваги цієї терапії."
+      "Оцінюється безпека та ефективність конвалесцентної плазми при COVID-19.",
+      "Вивчені завершені та поточні дослідження.",
+      "Мета — визначити потенційні переваги та ризики терапії."
     ],
-    "practicalTakeaway": "Потрібні додаткові дослідження для підтвердження безпеки та ефективності конвалесцентної плазми при COVID-19.",
+    "practicalTakeaway": "Конвалесцентна плазма досліджується як можливий метод лікування COVID-19, але потребує додаткових доказів.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "COVID-19",
@@ -104,24 +156,24 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Режими інсуліну для дорослих з цукровим діабетом типу 1",
-    "abstract": "Це протокол огляду Cochrane, мета якого — оцінити вплив різних режимів інсуліну на досягнення цільового глікемічного контролю та мінімізацію ускладнень у дорослих з цукровим діабетом типу 1. Огляд також спрямований на визначення найефективнішого та найбезпечнішого режиму інсуліну за допомогою мережевого мета-аналізу.",
+    "title": "Інсулінові режими для дорослих з цукровим діабетом типу 1",
+    "abstract": "Цей протокол досліджує вплив різних інсулінових режимів на досягнення оптимального глікемічного контролю та мінімізацію ускладнень у дорослих з цукровим діабетом типу 1. Мета — оцінити переваги та ризики кожного режиму, а також їхню ймовірну ефективність і безпеку.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016351/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Insulin regimens for adults living with type 1 diabetes mellitus.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To assess the effects of different insulin regimens in terms of their benefits and harms for achieving optimal glycaemic control while minimising complications and adverse events in adults with type 1 diabetes mellitus. Secondary objective To estimate the relative ranking of insulin regimens according to their probability of being the most effective and safest treatment using network meta-an…",
     "keyPoints": [
-      "Огляд оцінює різні режими інсуліну для дорослих з цукровим діабетом типу 1.",
-      "Мета — визначити баланс між користю та ризиками.",
-      "Результати допоможуть визначити найефективніший режим інсуліну."
+      "Досліджуються різні інсулінові режими для дорослих з цукровим діабетом типу 1.",
+      "Мета — визначити найбільш ефективний та безпечний режим.",
+      "Результати допоможуть оптимізувати лікування та зменшити ускладнення."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть у виборі оптимального режиму інсуліну для дорослих з цукровим діабетом типу 1.",
+    "practicalTakeaway": "Результати дослідження сприятимуть покращенню підходів до інсулінової терапії у дорослих з цукровим діабетом типу 1.",
     "specialty": "ендокринологія",
     "tags": [
-      "цукровий діабет",
+      "діабет",
       "інсулін",
       "лікування"
     ],
@@ -131,20 +183,20 @@
   },
   {
     "title": "Магнітно-резонансна спектроскопія для диференціації рецидиву пухлини та радіаційного некрозу у treated внутрішньочерепних пухлинах",
-    "abstract": "Це протокол для дослідження, що оцінює точність магнітно-резонансної спектроскопії (МРС) у визначенні рецидиву або прогресії внутрішньочерепних пухлин після променевої терапії. Мета — встановити, наскільки МРС може правильно діагностувати повторне зростання пухлини у пацієнтів з новими або збільшеними контрастними ураженнями, що свідчать про рецидив.",
+    "abstract": "Це протокол для дослідження з метою оцінки точності магнітно-резонансної спектроскопії (МРС) у визначенні рецидиву або прогресії внутрішньочерепних пухлин у пацієнтів, які раніше отримували радіотерапію або радіо-хірургію та мають нові або збільшені контрастно-підсилювальні ураження, що свідчать про можливий рецидив.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016353/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Magnetic resonance spectroscopy (MRS) for differentiating tumour recurrence from radiation necrosis in treated intra-axial brain tumours.",
     "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: The primary objective of this review is to determine the diagnostic accuracy of magnetic resonance spectroscopy (MRS) for detecting tumour recurrence or progression in people with primary or secondary intra-axial brain tumours who have previously undergone radiotherapy or radiosurgery and who present with new or enlarging contrast-enhancing lesions suggestive of recurrence. Secondary objectives The secondary ob…",
     "keyPoints": [
       "МРС досліджується для визначення рецидиву внутрішньочерепних пухлин.",
-      "Оцінюється точність МРС у пацієнтів після променевої терапії.",
-      "Фокус на диференціації між рецидивом і радіаційним некрозом."
+      "Обʼєкт дослідження — точність МРС у пацієнтів з ознаками рецидиву.",
+      "Дослідження фокусується на пацієнтах з попереднім радіотерапевтичним лікуванням."
     ],
-    "practicalTakeaway": "Докази щодо застосування МРС для диференціації рецидиву пухлини від радіаційного некрозу ще потребують підтвердження.",
+    "practicalTakeaway": "Магнітно-резонансна спектроскопія може допомогти у диференціації між рецидивом пухлини та радіаційним некрозом у пацієнтів з внутрішньочерепними пухлинами.",
     "specialty": "неврологія",
     "tags": [
       "діагностика",
@@ -157,105 +209,53 @@
   },
   {
     "title": "Прийом вітаміну B12 для жінок репродуктивного віку",
-    "abstract": "Цей протокол огляду Cochrane має на меті оцінити переваги та ризики перорального прийому вітаміну B12 щодо стану вітаміну B12, анемії та інших показників здоровʼя у жінок репродуктивного віку.",
+    "abstract": "Цей протокол досліджує потенційні переваги та ризики перорального прийому вітаміну B12 для покращення статусу вітаміну B12, профілактики анемії та інших показників здоровʼя у жінок репродуктивного віку.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016233/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-08T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Vitamin B12 supplementation for anaemia, vitamin B12 status, and health outcomes in women of reproductive age.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of oral vitamin B12 supplementation on vitamin B12 status, anaemia, and health outcomes in women of reproductive age.",
     "keyPoints": [
-      "Огляд досліджень щодо прийому вітаміну B12 у жінок репродуктивного віку.",
-      "Мета — оцінити вплив на рівень вітаміну B12 та анемію.",
-      "Результати допоможуть визначити ефективність суплементації."
+      "Досліджуються ефекти прийому вітаміну B12 у жінок репродуктивного віку.",
+      "Розглядаються вплив на рівень вітаміну B12 та анемію.",
+      "Мета — оцінити користь і можливий шкоду суплементації."
     ],
-    "practicalTakeaway": "Результати цього огляду допоможуть зрозуміти, чи має сенс застосовувати пероральний прийом вітаміну B12 для покращення стану здоровʼя у жінок репродуктивного віку.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність та безпечність перорального прийому вітаміну B12 у цій групі.",
     "specialty": "акушерство і гінекологія",
     "tags": [
-      "вітамін B12",
-      "анемія",
-      "жінки репродуктивного віку"
+      "доказова медицина",
+      "жінки репродуктивного віку",
+      "вітамін B12"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Заходи для запобігання незапланованих вагітностей у підлітків",
-    "abstract": "Це протокол для огляду Cochrane, мета якого — оцінити вплив первинних профілактичних заходів (шкільних, громадських/домашніх, клінічних, релігійних) на рівень незапланованих вагітностей серед підлітків.",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка впливу первинних профілактичних заходів (шкільних, громадських/домашніх, клінічних, релігійних) на рівень незапланованих вагітностей серед підлітків.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016356/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-07T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
+    "updatedAt": "2026-05-16T03:52:02Z",
     "originalTitle": "Interventions for preventing unintended pregnancies among adolescents.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the effects of primary prevention interventions (school-based, community/home-based, clinic-based, and faith-based) on unintended pregnancies among adolescents.",
     "keyPoints": [
-      "Огляд досліджень щодо профілактики незапланованих вагітностей у підлітків.",
-      "Розглядаються різні типи заходів: шкільні, громадські, клінічні, релігійні.",
-      "Мета — визначити ефективність профілактичних програм."
+      "Огляд досліджує профілактичні заходи для підлітків.",
+      "Зосереджено на впливі на незаплановані вагітності.",
+      "Враховуються різні типи інтервенцій."
     ],
-    "practicalTakeaway": "Огляд допоможе визначити найбільш ефективні стратегії профілактики незапланованих вагітностей у підлітків.",
-    "specialty": "акушерство і гінекологія",
+    "practicalTakeaway": "Огляд визначає напрямки для подальших досліджень у сфері профілактики незапланованих вагітностей серед підлітків.",
+    "specialty": "сімейна медицина",
     "tags": [
-      "профілактика",
-      "підлітки",
-      "вагітність"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Монотерапія модулятора CFTR для пацієнтів з муковісцидозом з класом II варіантів гена CFTR (найчастіше F508del)",
-    "abstract": "Муковісцидоз — поширене генетичне захворювання, спричинене варіантом у гені CFTR. Найчастотніший варіант — F508del, що зустрічається у до 90% пацієнтів з цим захворюванням у деяких популяціях. Цей варіант призводить до руйнування білка CFTR перед досягненням ним клітинної мембрани, що порушує транспорт солі. Дослідження аналізує ефективність монотерапії модуляторами CFTR у цій групі пацієнтів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016290/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-07T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
-    "originalTitle": "CFTR modulator monotherapy for people with cystic fibrosis with class II CFTR gene variants (most commonly F508del).",
-    "originalAbstract": "Cystic fibrosis (CF) is a common, life-shortening genetic condition caused by a variant in the cystic fibrosis transmembrane conductance regulator (CFTR) protein. A class II CFTR gene variant, F508del, is the commonest CF-causing variant (found in up to 90% of people with CF (pwCF) in some populations). The F508del variant lacks meaningful CFTR function: the faulty protein is degraded before reaching the cell membrane, where it would normally transport salt across the epithelial membrane. Correc…",
-    "keyPoints": [
-      "F508del — найпоширеніший варіант гена CFTR у муковісцидозі.",
-      "Монотерапія модуляторами CFTR може бути застосована для цієї групи пацієнтів.",
-      "Дослідження аналізує потенційний вплив цієї терапії."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають оцінити можливості застосування монотерапії модуляторами CFTR у пацієнтів з класом II варіантів гена CFTR.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "муковісцидоз",
-      "CFTR",
-      "генетичні варіанти"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Ольфакторна стимуляція для підтримки розвитку та зниження захворюваності у недоношених немовлят",
-    "abstract": "Дослідження аналізує ефективність ольфакторної стимуляції у недоношених немовлят для прискорення переходу до грудного вигодовування, зменшення захворюваності та підтримки розвитку. Виявлено, що така стимуляція може сприяти підвищенню апетиту та скороченню перебування у лікарні, але необхідні додаткові дослідження для підтвердження ефектів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016074.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-06T00:00:00Z",
-    "updatedAt": "2026-05-15T14:27:17Z",
-    "originalTitle": "Olfactory stimulation for promoting development and preventing morbidity in preterm infants.",
-    "originalAbstract": "Preterm infants, often gavage-fed due to immaturity, may benefit from interventions that hasten the move to breastfeeding. Olfactory stimulation may increase appetite and speed up the transition to full oral feeding, potentially shortening hospital stay and improving outcomes for both infants and families. To evaluate the benefits and harms of olfactory stimulation for reducing morbidity and promoting development in hospitalized preterm infants. We searched MEDLINE, Embase, CENTRAL, CINAHL, Epis…",
-    "keyPoints": [
-      "Ольфакторна стимуляція може сприяти швидшому переходу до грудного вигодовування у недоношених немовлят.",
-      "Може зменшити захворюваність та покращити розвиток, але потребуються додаткові дослідження.",
-      "Дослідження базується на аналізі даних з різних баз даних, включаючи MEDLINE та Embase."
-    ],
-    "practicalTakeaway": "Ольфакторна стимуляція потенційно корисна для недоношених немовлят, але її застосування потребує подальшого підтвердження.",
-    "specialty": "нефрологія",
-    "tags": [
+      "педіатрія",
       "доказова медицина",
-      "неонатологія",
-      "захворюваність"
+      "репродуктивне здоровʼя"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
