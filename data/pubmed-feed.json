@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42141912",
-    "title": "Роль IGF2BP2 у регуляції аутофагії та експресії нейротрофінів у Schwannових клітинах при діабетичній периферичній невропатії",
-    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження вивчало вплив високого рівня глюкози на рівень IGF2BP2 у Schwannових клітинах та сідничному нерві при діабетичній периферичній невропатії. Виявлено, що IGF2BP2 регулює аутофагію та експресію нейротрофінів через EGR1, що може впливати на патогенез та прогресування захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141912/",
+    "pmid": "42143567",
+    "title": "Гіпертригліцеридемія, спричинена пропофолом, у важких травматичних пацієнтів під штучним харчуванням: описове дослідження",
+    "journal": "JPEN. Journal of parenteral and enteral nutrition",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Мета дослідження — оцінити частоту виникнення та визначити фактори ризику розвитку гіпертригліцеридемії, спричиненої пропофолом, у важких травматичних пацієнтів, що потребували нутритивної терапії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143567/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "The m6A Reader IGF2BP2 Regulates Schwann Cell Autophagy and Neurotrophin Expression via EGR1 in Diabetic Peripheral Neuropathy.",
-    "originalAbstract": "Diabetic peripheral neuropathy (DPN) is a common chronic complication of diabetes mellitus, and Schwann cell dysfunction contributes to its pathogenesis and progression. IGF2BP2 is a single-stranded RNA-binding protein that has recently been identified as an m6A reader; however, its role and regulatory effects in Schwann cells during DPN remain largely unknown. In this study, we demonstrated that high-glucose exposure significantly increased IGF2BP2 levels in RSC96 cells and in the sciatic nerve",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Propofol-induced hypertriglyceridemia in critically ill trauma patients requiring nutrition therapy: A descriptive cohort study.",
+    "originalAbstract": "This study aimed to assess the incidence and identify risk factors associated with the development of propofol-induced hypertriglyceridemia in critically ill trauma patients who required nutrition therapy.",
     "keyPoints": [
-      "Високий рівень глюкози підвищує IGF2BP2 у Schwannових клітинах.",
-      "IGF2BP2 регулює аутофагію та експресію нейротрофінів через EGR1.",
-      "Ці механізми можуть впливати на розвиток діабетичної невропатії."
+      "Дослідження визначає частоту гіпертригліцеридемії у важких травматичних пацієнтів на пропофолі.",
+      "Розглядаються фактори ризику розвитку цього стану.",
+      "Результати допомагають краще розуміти безпеку застосування пропофолу у критичних умовах."
     ],
-    "practicalTakeaway": "Розуміння ролі IGF2BP2 у Schwannових клітинах може сприяти розробці нових терапевтичних стратегій для діабетичної периферичної невропатії.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Уважно моніторуйте рівень тригліцеридів у пацієнтів, що отримують пропофол для зниження ризику гіпертригліцеридемії.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "діабетична невропатія",
-      "Schwannові клітини",
-      "IGF2BP2"
+      "інтенсивна терапія",
+      "анестезіологія",
+      "лікування у критичних станах"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42143561",
+    "title": "Захворювання дихальної системи, пов’язані з асбестом, у Іспанії: дані реєстру",
+    "journal": "American journal of industrial medicine",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Незважаючи на значну кількість іспанських працівників, які зазнали впливу асбесту, захворювання, пов’язані з цим матеріалом, рідко повідомляються. Мета дослідження — аналіз даних іспанського реєстру захворювань, викликаних асбестом.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143561/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Asbestos-Related Respiratory Diseases in Spain: Insights From the Spanish Registry.",
+    "originalAbstract": "Although many Spanish workers have been exposed to asbestos, asbestos-related diseases (ARD) have not been widely reported in this country. The aim of the present study was to analyze the data recorded in the Spanish Registry of asbestos-derived diseases.",
+    "keyPoints": [
+      "Дослідження аналізує дані реєстру захворювань, пов’язаних з асбестом у Іспанії.",
+      "Захворювання, пов’язані з асбестом, рідко повідомляються у країні.",
+      "Мета — підвищити обізнаність та покращити реєстрацію таких випадків."
+    ],
+    "practicalTakeaway": "Необхідно покращити реєстрацію та обізнаність щодо захворювань, викликаних асбестом.",
+    "specialty": "пульмонологія",
+    "tags": [
+      "захворювання дихальної системи",
+      "асбест",
+      "реєстр"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42141911",
-    "title": "Трансанальна іригація для лікування синдрому низької передньої резекції: міжнародне багатоцентрове рандомізоване дослідження",
-    "journal": "BJS open",
+    "pmid": "42143560",
+    "title": "Коментарі щодо імунних контрольних точок у ад'ювантній терапії гепатоцелюлярної карциноми",
+    "journal": "Journal of gastroenterology and hepatology",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Це дослідження аналізує ефективність і безпеку імунних контрольних точок у порівнянні з спостереженням у пацієнтів з гепатоцелюлярною карціномою, які пройшли курсове лікування. Аналіз включає систематичний огляд та мета-аналіз доступних досліджень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143560/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Comments on \"Immune Checkpoint Inhibitor-Based Adjuvant Treatment Versus Surveillance in Curatively Treated Hepatocellular Carcinoma: A Systematic Review and meta-Analysis\".",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Дослідження порівнює імунну терапію з спостереженням у лікуванні гепатоцелюлярної карциноми.",
+      "Результати вказують на потенційні переваги імунної терапії у запобіганні рецидиву.",
+      "Безпека і профіль побічних ефектів потребують подальшого вивчення."
+    ],
+    "practicalTakeaway": "Результати дослідження підкреслюють важливість подальшого вивчення імунної терапії у лікуванні гепатоцелюлярної карциноми.",
+    "specialty": "гематологія",
+    "tags": [
+      "онкологія",
+      "імунологія",
+      "доказова медицина"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42143558",
+    "title": "Лікогалкон А активує ADRB2 для підсилення антилейкемічної активності CD8+ T-клітин через регуляцію AKT2/FOXO1/GLUT2",
+    "journal": "Pathology, research and practice",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Дослідження оцінює ефективність трансанальної іригації у лікуванні синдрому низької передньої резекції, який може спричиняти довгострокові порушення функцій кишечника у пацієнтів після передньої резекції.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141911/",
+    "abstract": "Дослідження вивчало вплив Лікогалкон А на функцію CD8+ T-клітин у мікросередовищі пухлини та його механізм дії. Аналіз показав потенціал Лікогалкон А у підвищенні протипухлинної активності цих клітин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143558/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Transanal irrigation for low anterior resection syndrome treatment: international multicentre randomized clinical trial.",
-    "originalAbstract": "Long-term bowel dysfunction can impact a significant proportion of patients following anterior resection. The aim of this study was to assess the efficacy of transanal irrigation (TAI) to treat low anterior resection syndrome.",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Licochalcone A targets ADRB2 to enhance CD8+ T cell anti-leukemia activity via regulation involving the AKT2/FOXO1/GLUT2 axis.",
+    "originalAbstract": "To investigate the effect of Licochalcone A (Lico A) on the function of CD8+ T cells in the tumor microenvironment and its underlying mechanism, and to evaluate its role in enhancing the anti-tumor activity of CD8+ T cells.",
     "keyPoints": [
-      "Дослідження вивчає застосування трансанальної іригації для синдрому низької передньої резекції.",
-      "Мета — оцінити ефективність цієї методики у полегшенні симптомів.",
-      "Результати можуть вплинути на підходи до лікування післяопераційних порушень кишечника."
+      "Лікогалкон А впливає на функцію CD8+ T-клітин.",
+      "Механізм дії пов'язаний з регуляцією AKT2/FOXO1/GLUT2.",
+      "Мета дослідження — підсилити антипухлинну активність T-клітин."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити роль трансанальної іригації у лікуванні синдрому низької передньої резекції.",
-    "specialty": "громадське здоровʼя",
-    "tags": [
-      "інформація про дослідження",
-      "лікування порушень кишечника",
-      "міжнародне дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141910",
-    "title": "Порівняння сприйняття ступеня субгортальної стенозу пацієнтами та об'єктивних досліджень",
-    "journal": "Ear, nose, & throat journal",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Мета дослідження — порівняти сприйняття пацієнтами ступеня субгортальної стенозу з результатами ендоскопічних досліджень, опитувальником клінічної задухи та пікфлоуметром. Вивчено 50 пацієнтів, які заповнили опитувальник задухи та шкалу оцінки стенозу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141910/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Comparison of Patient Perception of Degree of Subglottic Stenosis and Exam Findings.",
-    "originalAbstract": "ObjectivesTo compare patients' perception of their degree of subglottic stenosis to their endoscopic exam findings, Clinical Dyspnea Questionnaire, and peak flow results.Study DesignProspective Multi-Institutional.SettingTertiary Care Clinic.MethodsA study of 50 patients comparing patients' perception of their degree of subglottic stenosis to their endoscopic exam findings. All patients filled out a Clinical Dyspnea Questionnaire and a 10-point scale reflecting their perceived degree of stenosis",
-    "keyPoints": [
-      "Пацієнти оцінювали ступінь стенозу за шкалою до 10.",
-      "Результати порівнювали з ендоскопічними даними та пікфлоуметром.",
-      "Дослідження показало рівень відповідності між сприйняттям та об'єктивними показниками."
-    ],
-    "practicalTakeaway": "Сприйняття пацієнтами ступеня субгортальної стенозу може частково відповідати об'єктивним дослідженням, що важливо враховувати при оцінці стану.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "діагностика",
-      "задуха",
-      "ендоскопія"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141908",
-    "title": "Нові тенденції в дослідженнях штучного інтелекту у лімфедемі: бібліометричний та альтметричний аналіз",
-    "journal": "Phlebology",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження систематично аналізує сучасний стан застосування штучного інтелекту та машинного навчання у дослідженнях лімфедеми, використовуючи бібліометричні та альтметричні дані. Мета — визначити основні тенденції, напрямки досліджень та ключових учасників у цій швидко зростаючій галузі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141908/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Emerging trends in artificial intelligence research in lymphedema: An evaluation in light of bibliometric and altmetric data.",
-    "originalAbstract": "BackgroundThis study aims to systematically evaluate the current landscape of artificial intelligence (AI) and machine learning applications in lymphedema research by employing bibliometric and altmetric analyses. The goal is to identify major trends, research focuses, and influential contributors in this rapidly evolving field.MethodA total of 43 AI-related articles on lymphedema published between 1975 and 2025 were retrieved from the Web of Science Core Collection. Bibliometric indicators such",
-    "keyPoints": [
-      "Проаналізовано 43 статті з 1975 по 2025 рік.",
-      "Виявлено основні напрямки досліджень у сфері AI і лімфедеми.",
-      "Визначено ключових дослідників і впливові публікації."
-    ],
-    "practicalTakeaway": "Дослідження демонструє зростаючу роль штучного інтелекту у лімфедемі, що може вплинути на майбутні підходи до діагностики та лікування.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "штучний інтелект",
-      "лімфедема",
-      "бібліометрія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141905",
-    "title": "Участь громадських організацій та академічних інституцій у управлінні COVID-19: дослідження шести країн",
-    "journal": "Health policy and planning",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Ця публікація аналізує залучення різних груп та інституцій у процес управління пандемією COVID-19. Вона підкреслює важливість врахування різноманітних точок зору для формування більш справедливих та обґрунтованих політик, що відповідають суспільним потребам. Виявлено, що існують прогалини у залученні неурядових організацій у процеси управління епідемією.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141905/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Participation of Civil Society Organisations and Academia in COVID-19 Governance: Insights from a Six Country Study.",
-    "originalAbstract": "This paper focuses on the engagement of persons and groups with diverse interests in the governance of the COVID-19 pandemic. During emergencies, involving diverse perspectives in governance mechanisms can contribute to more equitable and evidence-based policies that address societal needs. Previous literature shows that, even with the intent to include diverse perspectives , there can be gaps in engaging non-governmental entities in epidemic governance. This study sought to analyze participatio",
-    "keyPoints": [
-      "Досліджено участь громадських та академічних інституцій у управлінні COVID-19.",
-      "Виявлено прогалини у залученні неурядових організацій.",
-      "Підкреслено важливість різноманітності у процесах управління пандемією."
-    ],
-    "practicalTakeaway": "Залучення різних груп у процес управління пандемією може сприяти більш справедливим та ефективним політикам.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "COVID-19",
-      "управління здоровʼям",
-      "громадські організації"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141904",
-    "title": "Генетичний профіль спадкових пролактином та інших аденом гіпофізу",
-    "journal": "The Journal of clinical endocrinology and metabolism",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження аналізує генетичний ландшафт спадкових пролактином та інших аденом гіпофізу, визначаючи відомі та нові кандидатні гени, що сприяють розвитку пухлин. Виявлено, що у частини пацієнтів з молодим віком, сімейною історією або синдромами спостерігається спадкова схильність.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141904/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "The germline landscape of pituitary adenomas: established and emerging predisposition genes.",
-    "originalAbstract": "Pituitary adenomas are increasingly recognised to have a germline genetic component in a subset of patients, particularly those with young-onset disease, familial clustering or syndromic features. The spectrum of germline variants implicated in pituitary tumorigenesis has broadened considerably, with evidence of both established predisposition genes and a growing number of emerging candidate genes. Established germline predisposition genes - namely, MEN1, PRKAR1A, AIP, CDKN1B, GPR101, SDHx and M",
-    "keyPoints": [
-      "Виявлено кілька відомих генів, пов’язаних із спадковою схильністю до аденом гіпофізу.",
-      "Дослідження розширює список потенційних генів, що сприяють розвитку пухлин.",
-      "Спадкові фактори відіграють важливу роль у частини випадків аденом гіпофізу."
-    ],
-    "practicalTakeaway": "Розуміння генетичних факторів може допомогти у діагностиці та управлінні спадкових форм аденом гіпофізу.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "генетика",
-      "аденоми гіпофізу",
-      "спадковість"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141903",
-    "title": "Основи роботи з пропущеними даними у довгострокових кардіоваскулярних дослідженнях",
-    "journal": "European journal of cardiovascular nursing",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Пропущені дані є поширеною проблемою у кардіологічних дослідженнях, особливо у довгострокових. Вони зменшують обсяг даних, статистичну потужність і можуть спричинити упередженість результатів. Важливо застосовувати дизайн-стратегії для мінімізації пропусків, наприклад, зменшення непотрібних запитань та використання нагадувань. Розуміння типів пропущеності, таких як неповна відповідь на питання або пропуски на рівні елементів, є ключовим для правильного аналізу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141903/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Missing Data Essentials Part 1: Detecting and Evaluating Patterns of Missingness in Longitudinal Cardiovascular Studies.",
-    "originalAbstract": "Missing data are common in cardiovascular nursing and allied health research, especially in longitudinal studies. Common problems associated with missing data are reduced sample size, reduced statistical power and precision, and potentially biased results. There are several design strategies that can help minimize missing data including minimizing unnecessary items and incorporating reminders. It is important to understand common types of missingness, including item nonresponse, item-level missi",
-    "keyPoints": [
-      "Пропущені дані знижують точність досліджень.",
-      "Стратегії дизайну допомагають зменшити пропуски.",
-      "Розпізнавання типів пропущеності важливе для аналізу."
-    ],
-    "practicalTakeaway": "Застосовуйте дизайн-стратегії для мінімізації пропущених даних у довгострокових кардіоваскулярних дослідженнях.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "кардіологія",
-      "дослідження",
-      "статистика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141902",
-    "title": "Розподіл імунних клітин у артеріальній та венозній крові у здорових щурів",
-    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізувало різницю у складі імунних клітин та їх транскрипційних станів у артеріальній і венозній крові у щурів за допомогою одноклітинної РНК-секвенції, флоуцитометрії та валідації на білковому рівні. Виявлено збагачення Т-клітин у артеріальній крові.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141902/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Differential Immune Cell Distribution Between Arterial and Venous Blood in Healthy Rats.",
-    "originalAbstract": "We previously identified differentially expressed miRNAs between arterial and venous blood in rats; however, whether immune cell composition and transcriptional states differ along the arterial-venous axis remains unclear. Here, single-cell RNA sequencing of 119 481 PBMCs, complemented by flow cytometry and protein-level validation, was performed to characterize immune heterogeneity between arterial and venous blood. Cell composition analysis showed enrichment of T cells in arterial blood, where",
-    "keyPoints": [
-      "Виявлено різний розподіл імунних клітин у артеріальній та венозній крові.",
-      "Збільшення кількості Т-клітин у артеріальній крові.",
-      "Дослідження підкреслює імунну гетерогенність у крові здорових щурів."
-    ],
-    "practicalTakeaway": "Розуміння розподілу імунних клітин у крові може допомогти у дослідженнях імунної відповіді та патологій.",
+    "practicalTakeaway": "Дослідження вказує на потенціал Лікогалкон А у підвищенні ефективності імунної відповіді проти пухлин.",
     "specialty": "імунологія",
     "tags": [
       "імунологія",
-      "дослідження",
-      "клітинний склад"
+      "онкологія",
+      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42141901",
-    "title": "NR3C1 необхідний для нормального диференціювання соматотропів і експресії Foxo1 у гіпофізі",
-    "journal": "Endocrinology",
+    "pmid": "42143557",
+    "title": "Транскриптомний аналіз виявляє регуляторну роль LIPE у ліпідному обміні та поляризації макрофагів у звʼязку з пухлиною при раку молочної залози",
+    "journal": "Pathology, research and practice",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження показує, що глюкокортикоїди відіграють важливу роль у диференціюванні клітин гіпофізу, зокрема соматотропів. Втрата гена NR3C1 у гіпофізі порушує нормальне формування соматотропів і знижує експресію Foxo1, що може впливати на функціональність цієї клітинної лінії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141901/",
+    "abstract": "Дослідження аналізує роль LIPE у регуляції ліпідного обміну та імунного мікрооточення у раку молочної залози. Виявлено потенційний вплив LIPE на прогресію пухлини та імунну відповідь.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143557/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "NR3C1 is required for normal somatotrope differentiation and Foxo1 expression in pituitary.",
-    "originalAbstract": "Glucocorticoids are an important signal for the differentiation of many types of cells. Consistent with this, several studies have demonstrated that glucocorticoids promote the somatotrope differentiation program and functionality. Interestingly, we previously found that loss of the forkhead factor, FOXO1, results in delayed emergence of somatotropes and prevents glucocorticoid-induced premature differentiation of somatotropes. In the current study, we find that pituitary-specific deletion of Nr",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Transcriptomic analysis reveals the regulatory role of LIPE in lipid metabolism and tumor-associated macrophage polarization in breast cancer.",
+    "originalAbstract": "Breast cancer (BC) is one of the most common malignancies in women. Lipase E, hormone-sensitive type (LIPE), is a key lipase with potential regulatory roles in tumor lipid metabolism and the immune microenvironment. However, the molecular mechanisms by which LIPE regulates BC progression remain unclear.",
     "keyPoints": [
-      "NR3C1 важливий для диференціювання соматотропів.",
-      "Втрата NR3C1 порушує експресію Foxo1.",
-      "Глюкокортикоїди сприяють розвитку соматотропів."
+      "LIPE може регулювати ліпідний обмін у ракових клітинах молочної залози.",
+      "LIPE впливає на поляризацію макрофагів у пухлинному мікрооточенні.",
+      "Молекулярні механізми дії LIPE у раку молочної залози потребують подальших досліджень."
     ],
-    "practicalTakeaway": "Розуміння ролі NR3C1 може допомогти у дослідженнях функціонування гіпофізу.",
-    "specialty": "ендокринологія",
+    "practicalTakeaway": "Дослідження підкреслює потенціал LIPE як мішені для подальших досліджень у терапії раку молочної залози.",
+    "specialty": "онкологія",
     "tags": [
-      "гіпофіз",
-      "глюкокортикоїди",
-      "соматотропи"
+      "ракові захворювання",
+      "ліпідний обмін",
+      "імунна система"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42143551",
+    "title": "Управління багаторазовими та одноразовими катетерами для інтермітентного катетеризації: дослідження",
+    "journal": "International journal of nursing studies",
+    "publishedAt": "2026-04-13T00:00:00Z",
+    "abstract": "Мета дослідження — визначити безпечність повторного використання інтермітентних катетерів для довгострокового опорожнення сечового міхура. Учасники порівнювали застосування комбінації багаторазових та одноразових катетерів із стандартною практикою використання лише одноразових катетерів, зосереджуючись на частоті інфекцій сечовивідних шляхів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143551/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Mixed (reusable/single-use) catheter management versus single-use catheter management for intermittent catheter users (MultICath): A non-inferiority randomised controlled trial.",
+    "originalAbstract": "To determine if reuse of intermittent catheters is safe for the community management of long-term bladder emptying problems, this trial compared using a combination of reusable and single-use catheters (Mixed-use), to standard practice of single-use catheters only and examined the incidence of urinary tract infections (UTI).",
+    "keyPoints": [
+      "Дослідження порівнювало два підходи до управління катетерами.",
+      "Мета — оцінити безпечність повторного використання.",
+      "Результати стосуються ризику інфекцій сечовивідних шляхів."
+    ],
+    "practicalTakeaway": "Повторне використання інтермітентних катетерів може бути безпечним альтернативним підходом, але потребує додаткових досліджень.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "катетеризація",
+      "дослідження"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42143550",
+    "title": "Довіра у медичній комунікації з маргіналізованою молоддю: мета-етнографічний огляд",
+    "journal": "International journal of nursing studies",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження підкреслює важливість довірливої комунікації між медичними працівниками та маргіналізованою молоддю для забезпечення рівного доступу до медичних послуг. Аналіз вказує на існуючі моделі догляду, що зосереджені на дорослих та біомедичних нормах, ігноруючи різноманіття соціокультурних та розвиткувих особливостей цієї групи.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143550/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Trust-based healthcare communication with marginalized youth: A meta-ethnographic synthesis.",
+    "originalAbstract": "Effective communication between healthcare providers and marginalized youth and adolescents is essential for promoting equitable care. However, existing models of care reinforce adult-centric and biomedical norms that overlook the diverse developmental and sociocultural realities faced by these youth.",
+    "keyPoints": [
+      "Підтримка довіри важлива для рівного доступу до медичних послуг.",
+      "Існуючі моделі часто ігнорують соціокультурні особливості молоді.",
+      "Необхідність врахування різноманіття розвитку та культури у медичній комунікації."
+    ],
+    "practicalTakeaway": "Медичним працівникам слід враховувати соціокультурний контекст та індивідуальні особливості молоді для покращення довіри та якості догляду.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "комунікація",
+      "молодь",
+      "рівність"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42143549",
+    "title": "Фінансова токсичність при неінвазивному раку сечового міхура: дослідження у міській багатонаціональній популяції",
+    "journal": "Clinical genitourinary cancer",
+    "publishedAt": "2026-04-14T00:00:00Z",
+    "abstract": "Мета дослідження — визначити рівень фінансової токсичності, пов'язаної з неінвазивним раком сечового міхура, у різноманітній міській популяції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143549/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Beyond the Tumor: Exploring the Financial Toxicity of Non-Muscle Invasive Bladder Cancer in a Diverse, Urban Population.",
+    "originalAbstract": "To characterize financial toxicity (FT) of non-muscle invasive bladder cancer (NMIBC) among our uniquely diverse and urban population.",
+    "keyPoints": [
+      "Дослідження фокусується на фінансових наслідках лікування NMIBC.",
+      "Розглядається вплив фінансової токсичності на пацієнтів у міському середовищі.",
+      "Значущість врахування економічних аспектів у менеджменті NMIBC."
+    ],
+    "practicalTakeaway": "Врахування фінансових аспектів є важливим для комплексного підходу до лікування NMIBC.",
+    "specialty": "онкологія",
+    "tags": [
+      "фінансова токсичність",
+      "неінвазивний рак сечового міхура",
+      "міська популяція"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42141899",
-    "title": "Ризик розвитку захворювань, пов'язаних із типом 2 запалення, під час лікування інтерлейкін-17 інгібіторами у пацієнтів з псоріазом: ретроспективне дослідження.",
-    "journal": "The British journal of dermatology",
+    "pmid": "42143547",
+    "title": "Порівняльна ефективність EBUS-крайобсісу та EBUS-TBNA у діагностиці медіастинальних лімфаденопатій",
+    "journal": "Respiratory investigation",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження аналізує можливий зв'язок між застосуванням інтерлейкін-17 інгібіторів у пацієнтів з псоріазом та ризиком розвитку захворювань, пов'язаних із типом 2 запалення. Виявлено, що лікування може бути асоційоване з підвищеним ризиком певних захворювань, що вимагає подальшого вивчення.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141899/",
+    "abstract": "Дослідження оцінює діагностичну ефективність та безпеку EBUS-крайобсісу порівняно з EBUS-TBNA при випадках з невизначеними результатами або атиповими клітинами на швидкому внутрішньоопераційному дослідженні. Вивчено результати за 4 роки у одному центрі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143547/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-17T02:37:45Z",
-    "originalTitle": "Risk of type 2 inflammation-related diseases during Interleukin-17-inhibitors treatment for psoriasis patients-A retrospective cohort study.",
-    "originalAbstract": "",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Clinical performance of EBUS-guided mediastinal lymph node cryobiopsy versus EBUS-TBNA for diagnosing mediastinal lymphadenopathy: Results from the largest single centre observational study over 4 years.",
+    "originalAbstract": "While EBUS-TBNA is the first-line modality for sampling mediastinal lymphadenopathy, its diagnostic yield is variable, and sample often inadequate for advanced molecular testing. EBUS-guided mediastinal cryobiopsy (EBUS-MCB) enables acquisition of larger, intact tissue specimens. This study assesses the diagnostic yield and safety of EBUS-MCB in cases with inconclusive smear, or atypical cells on rapid on-site evaluation (ROSE).",
     "keyPoints": [
-      "Дослідження виявило потенційний зв'язок між інгібіторами IL-17 і ризиком захворювань типу 2.",
-      "Аналіз проведено на ретроспективній когорті пацієнтів із псоріазом.",
-      "Результати підкреслюють важливість моніторингу пацієнтів під час терапії."
+      "EBUS-крайобсіс дозволяє отримати більші та цілісні тканинні зразки.",
+      "Дослідження фокусується на випадках з невизначеними або атиповими результатами.",
+      "Оцінюється діагностична ефективність та безпека методів."
     ],
-    "practicalTakeaway": "Медики повинні враховувати можливий підвищений ризик захворювань типу 2 у пацієнтів, що отримують інгібітори IL-17, і здійснювати відповідний нагляд.",
-    "specialty": "дерматологія",
+    "practicalTakeaway": "EBUS-крайобсіс може бути корисним у випадках невизначеності результатів EBUS-TBNA.",
+    "specialty": "пульмонологія",
     "tags": [
-      "інфекційні хвороби",
-      "доказова медицина",
-      "псоріаз"
+      "діагностика",
+      "медіастинальні лімфаденопатії",
+      "EBUS"
     ],
     "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42143546",
+    "title": "Реакція мозку на похвалу та критику у підлітків і дорослих: вікові зміни у нейронних відповідях на соціальну оцінку",
+    "journal": "Developmental cognitive neuroscience",
+    "publishedAt": "2026-05-07T00:00:00Z",
+    "abstract": "Дослідження вивчає вікові зміни у нейронних відповідях на соціальну оцінку, зосереджуючись на підлітках та дорослих. Виявлено, що підлітки мають підвищену чутливість до критики через незрілість регуляції емоцій та соціальної когніції. Відмінності у взаємодії між мозковими регіонами вказують на різні механізми обробки соціальних оцінок залежно від віку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42143546/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T13:07:59Z",
+    "originalTitle": "Being praised and criticized in adolescents and adults: Age-related changes in neural responses to social evaluations.",
+    "originalAbstract": "Adolescence is a developmental period marked by heightened sensitivity to social evaluation due to the ongoing maturation of brain regions involved in emotion regulation and social cognition. Adolescents may be more vulnerable to socially evaluative feedback, particularly criticism, than adults. Although previous studies have documented age-related differences in neural responses to social evaluation, it remains unclear how the dynamic interactions among brain regions differ between these two ag",
+    "keyPoints": [
+      "Підлітки більш чутливі до критики через розвиток мозкових регіонів.",
+      "Вікові відмінності у нейронних відповідях на соціальну оцінку.",
+      "Різні механізми обробки похвали і критики у підлітків і дорослих."
+    ],
+    "practicalTakeaway": "Розуміння вікових відмінностей у нейронних відповідях може допомогти у формуванні більш ефективних стратегій соціальної підтримки.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "соціальна психологія",
+      "нейронаука",
+      "вікові дослідження"
+    ],
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
