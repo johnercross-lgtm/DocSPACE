@@ -4,26 +4,26 @@
     "title": "Роль IGF2BP2 у регуляції аутофагії та експресії нейротрофінів у Schwannових клітинах при діабетичній периферичній невропатії",
     "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження виявило, що високий рівень глюкози підвищує рівень білка IGF2BP2 у Schwannових клітинах та сідничному нерві. IGF2BP2, що є читачем модифікації m6A, впливає на функцію Schwannових клітин, що має значення для розвитку діабетичної периферичної невропатії.",
+    "abstract": "Дослідження вивчало вплив високого рівня глюкози на рівень IGF2BP2 у Schwannових клітинах та сідничному нерві при діабетичній периферичній невропатії. Виявлено, що IGF2BP2 регулює аутофагію та експресію нейротрофінів через EGR1, що може впливати на патогенез та прогресування захворювання.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141912/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "The m6A Reader IGF2BP2 Regulates Schwann Cell Autophagy and Neurotrophin Expression via EGR1 in Diabetic Peripheral Neuropathy.",
     "originalAbstract": "Diabetic peripheral neuropathy (DPN) is a common chronic complication of diabetes mellitus, and Schwann cell dysfunction contributes to its pathogenesis and progression. IGF2BP2 is a single-stranded RNA-binding protein that has recently been identified as an m6A reader; however, its role and regulatory effects in Schwann cells during DPN remain largely unknown. In this study, we demonstrated that high-glucose exposure significantly increased IGF2BP2 levels in RSC96 cells and in the sciatic nerve",
     "keyPoints": [
       "Високий рівень глюкози підвищує IGF2BP2 у Schwannових клітинах.",
-      "IGF2BP2 регулює аутофагію та експресію нейротрофінів.",
-      "Роль IGF2BP2 важлива для розуміння патогенезу діабетичної невропатії."
+      "IGF2BP2 регулює аутофагію та експресію нейротрофінів через EGR1.",
+      "Ці механізми можуть впливати на розвиток діабетичної невропатії."
     ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал IGF2BP2 як мішені для терапії діабетичної периферичної невропатії.",
+    "practicalTakeaway": "Розуміння ролі IGF2BP2 у Schwannових клітинах може сприяти розробці нових терапевтичних стратегій для діабетичної периферичної невропатії.",
     "specialty": "неврологія",
     "tags": [
       "діабетична невропатія",
       "Schwannові клітини",
-      "м6A"
+      "IGF2BP2"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -32,82 +32,82 @@
     "title": "Трансанальна іригація для лікування синдрому низької передньої резекції: міжнародне багатоцентрове рандомізоване дослідження",
     "journal": "BJS open",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Довгострокова дисфункція кишечника може впливати на значну кількість пацієнтів після передньої резекції. Це дослідження оцінювало ефективність трансанальної іригації для лікування синдрому низької передньої резекції.",
+    "abstract": "Дослідження оцінює ефективність трансанальної іригації у лікуванні синдрому низької передньої резекції, який може спричиняти довгострокові порушення функцій кишечника у пацієнтів після передньої резекції.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141911/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "Transanal irrigation for low anterior resection syndrome treatment: international multicentre randomized clinical trial.",
     "originalAbstract": "Long-term bowel dysfunction can impact a significant proportion of patients following anterior resection. The aim of this study was to assess the efficacy of transanal irrigation (TAI) to treat low anterior resection syndrome.",
     "keyPoints": [
-      "Дослідження вивчало застосування трансанальної іригації.",
-      "Мета — оцінити її ефективність при синдромі низької передньої резекції.",
-      "Результати допомагають визначити потенційні можливості терапії."
+      "Дослідження вивчає застосування трансанальної іригації для синдрому низької передньої резекції.",
+      "Мета — оцінити ефективність цієї методики у полегшенні симптомів.",
+      "Результати можуть вплинути на підходи до лікування післяопераційних порушень кишечника."
     ],
-    "practicalTakeaway": "Трансанальна іригація може бути розглянута як можливий метод лікування синдрому низької передньої резекції.",
-    "specialty": "хірургія",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити роль трансанальної іригації у лікуванні синдрому низької передньої резекції.",
+    "specialty": "громадське здоровʼя",
     "tags": [
-      "хірургія",
-      "доказова медицина",
-      "інтерна"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42141910",
-    "title": "Порівняння сприйняття пацієнтами ступеня субгортальної стенозу та об'єктивних даних досліджень",
-    "journal": "Ear, nose, & throat journal",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Мета дослідження — порівняти сприйняття пацієнтами ступеня субгортальної стенозу з результатами ендоскопічних досліджень, опитувальником дихальної недостатності та пікфлоуметром. У дослідженні взяли участь 50 пацієнтів, які заповнили опитувальник та шкалу оцінки ступеня стенозу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42141910/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
-    "originalTitle": "Comparison of Patient Perception of Degree of Subglottic Stenosis and Exam Findings.",
-    "originalAbstract": "ObjectivesTo compare patients' perception of their degree of subglottic stenosis to their endoscopic exam findings, Clinical Dyspnea Questionnaire, and peak flow results.Study DesignProspective Multi-Institutional.SettingTertiary Care Clinic.MethodsA study of 50 patients comparing patients' perception of their degree of subglottic stenosis to their endoscopic exam findings. All patients filled out a Clinical Dyspnea Questionnaire and a 10-point scale reflecting their perceived degree of stenosis",
-    "keyPoints": [
-      "Досліджено співвідношення між суб'єктивним сприйняттям ступеня стенозу та об'єктивними даними.",
-      "Використовували ендоскопію, опитувальник дихальної недостатності та пікфлоуметр.",
-      "Результати можуть допомогти у більш точній оцінці стану пацієнтів з субгортальним стенозом."
-    ],
-    "practicalTakeaway": "Результати дослідження підкреслюють важливість врахування суб'єктивних відчуттів пацієнтів при оцінці ступеня субгортальної стенозу.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "діагностика",
-      "дихальні шляхи",
-      "пацієнтські відчуття"
+      "інформація про дослідження",
+      "лікування порушень кишечника",
+      "міжнародне дослідження"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "pmid": "42141910",
+    "title": "Порівняння сприйняття ступеня субгортальної стенозу пацієнтами та об'єктивних досліджень",
+    "journal": "Ear, nose, & throat journal",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Мета дослідження — порівняти сприйняття пацієнтами ступеня субгортальної стенозу з результатами ендоскопічних досліджень, опитувальником клінічної задухи та пікфлоуметром. Вивчено 50 пацієнтів, які заповнили опитувальник задухи та шкалу оцінки стенозу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42141910/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-17T02:37:45Z",
+    "originalTitle": "Comparison of Patient Perception of Degree of Subglottic Stenosis and Exam Findings.",
+    "originalAbstract": "ObjectivesTo compare patients' perception of their degree of subglottic stenosis to their endoscopic exam findings, Clinical Dyspnea Questionnaire, and peak flow results.Study DesignProspective Multi-Institutional.SettingTertiary Care Clinic.MethodsA study of 50 patients comparing patients' perception of their degree of subglottic stenosis to their endoscopic exam findings. All patients filled out a Clinical Dyspnea Questionnaire and a 10-point scale reflecting their perceived degree of stenosis",
+    "keyPoints": [
+      "Пацієнти оцінювали ступінь стенозу за шкалою до 10.",
+      "Результати порівнювали з ендоскопічними даними та пікфлоуметром.",
+      "Дослідження показало рівень відповідності між сприйняттям та об'єктивними показниками."
+    ],
+    "practicalTakeaway": "Сприйняття пацієнтами ступеня субгортальної стенозу може частково відповідати об'єктивним дослідженням, що важливо враховувати при оцінці стану.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "діагностика",
+      "задуха",
+      "ендоскопія"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42141908",
-    "title": "Нові тенденції досліджень штучного інтелекту у лімфедемі: аналіз за даними бібліометрії та альтметрики",
+    "title": "Нові тенденції в дослідженнях штучного інтелекту у лімфедемі: бібліометричний та альтметричний аналіз",
     "journal": "Phlebology",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження систематично аналізує сучасний стан застосування штучного інтелекту та машинного навчання у дослідженнях лімфедеми, визначаючи основні тенденції, фокус досліджень та ключових учасників у цій швидко розвиваючійся галузі.",
+    "abstract": "Дослідження систематично аналізує сучасний стан застосування штучного інтелекту та машинного навчання у дослідженнях лімфедеми, використовуючи бібліометричні та альтметричні дані. Мета — визначити основні тенденції, напрямки досліджень та ключових учасників у цій швидко зростаючій галузі.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141908/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "Emerging trends in artificial intelligence research in lymphedema: An evaluation in light of bibliometric and altmetric data.",
     "originalAbstract": "BackgroundThis study aims to systematically evaluate the current landscape of artificial intelligence (AI) and machine learning applications in lymphedema research by employing bibliometric and altmetric analyses. The goal is to identify major trends, research focuses, and influential contributors in this rapidly evolving field.MethodA total of 43 AI-related articles on lymphedema published between 1975 and 2025 were retrieved from the Web of Science Core Collection. Bibliometric indicators such",
     "keyPoints": [
-      "Проаналізовано 43 статті про AI у лімфедемі (1975–2025).",
-      "Визначено основні напрямки досліджень та впливових авторів.",
-      "Використано бібліометричний та альтметричний аналізи для оцінки досліджень."
+      "Проаналізовано 43 статті з 1975 по 2025 рік.",
+      "Виявлено основні напрямки досліджень у сфері AI і лімфедеми.",
+      "Визначено ключових дослідників і впливові публікації."
     ],
-    "practicalTakeaway": "Дослідження демонструє зростаючу роль штучного інтелекту у вивченні лімфедеми, що може вплинути на майбутні підходи до діагностики та лікування.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Дослідження демонструє зростаючу роль штучного інтелекту у лімфедемі, що може вплинути на майбутні підходи до діагностики та лікування.",
+    "specialty": "доказова медицина",
     "tags": [
       "штучний інтелект",
       "лімфедема",
-      "дослідження"
+      "бібліометрія"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -116,26 +116,26 @@
     "title": "Участь громадських організацій та академічних інституцій у управлінні COVID-19: дослідження шести країн",
     "journal": "Health policy and planning",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження аналізує залучення різних груп та інституцій у процеси управління пандемією COVID-19 у шести країнах. Виявлено, що залучення різноманітних точок зору може сприяти більш справедливим та обґрунтованим політикам, але існують прогалини у залученні неурядових організацій.",
+    "abstract": "Ця публікація аналізує залучення різних груп та інституцій у процес управління пандемією COVID-19. Вона підкреслює важливість врахування різноманітних точок зору для формування більш справедливих та обґрунтованих політик, що відповідають суспільним потребам. Виявлено, що існують прогалини у залученні неурядових організацій у процеси управління епідемією.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141905/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "Participation of Civil Society Organisations and Academia in COVID-19 Governance: Insights from a Six Country Study.",
     "originalAbstract": "This paper focuses on the engagement of persons and groups with diverse interests in the governance of the COVID-19 pandemic. During emergencies, involving diverse perspectives in governance mechanisms can contribute to more equitable and evidence-based policies that address societal needs. Previous literature shows that, even with the intent to include diverse perspectives , there can be gaps in engaging non-governmental entities in epidemic governance. This study sought to analyze participatio",
     "keyPoints": [
-      "Дослідження фокусується на участі громадських та академічних інституцій у управлінні COVID-19.",
-      "Залучення різних груп може покращити якість політик.",
-      "Виявлено прогалини у залученні неурядових організацій."
+      "Досліджено участь громадських та академічних інституцій у управлінні COVID-19.",
+      "Виявлено прогалини у залученні неурядових організацій.",
+      "Підкреслено важливість різноманітності у процесах управління пандемією."
     ],
-    "practicalTakeaway": "Залучення широкого спектру інституцій у управління пандемією може сприяти більш інклюзивним та ефективним рішенням.",
-    "specialty": "сімейна медицина",
+    "practicalTakeaway": "Залучення різних груп у процес управління пандемією може сприяти більш справедливим та ефективним політикам.",
+    "specialty": "доказова медицина",
     "tags": [
-      "громадське здоровʼя",
-      "управління пандемією",
-      "участь громадських організацій"
+      "COVID-19",
+      "управління здоровʼям",
+      "громадські організації"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -144,20 +144,20 @@
     "title": "Генетичний профіль спадкових пролактином та інших аденом гіпофізу",
     "journal": "The Journal of clinical endocrinology and metabolism",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження аналізує генетичний фон спадкових пролактином та інших аденом гіпофізу, визначаючи відомі та нові гени, що сприяють їх розвитку. Виявлено, що у частини пацієнтів з молодим віком, сімейною історією або синдромами спостерігається генетична схильність.",
+    "abstract": "Дослідження аналізує генетичний ландшафт спадкових пролактином та інших аденом гіпофізу, визначаючи відомі та нові кандидатні гени, що сприяють розвитку пухлин. Виявлено, що у частини пацієнтів з молодим віком, сімейною історією або синдромами спостерігається спадкова схильність.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141904/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "The germline landscape of pituitary adenomas: established and emerging predisposition genes.",
     "originalAbstract": "Pituitary adenomas are increasingly recognised to have a germline genetic component in a subset of patients, particularly those with young-onset disease, familial clustering or syndromic features. The spectrum of germline variants implicated in pituitary tumorigenesis has broadened considerably, with evidence of both established predisposition genes and a growing number of emerging candidate genes. Established germline predisposition genes - namely, MEN1, PRKAR1A, AIP, CDKN1B, GPR101, SDHx and M",
     "keyPoints": [
-      "Виявлено роль спадкових генів у розвитку пролактином та інших аденом гіпофізу.",
-      "Визначено відомі та нові гени, що сприяють генезу пухлин.",
-      "Генетичний аналіз допомагає ідентифікувати ризик для пацієнтів із сімейною історією."
+      "Виявлено кілька відомих генів, пов’язаних із спадковою схильністю до аденом гіпофізу.",
+      "Дослідження розширює список потенційних генів, що сприяють розвитку пухлин.",
+      "Спадкові фактори відіграють важливу роль у частини випадків аденом гіпофізу."
     ],
-    "practicalTakeaway": "Генетичний профіль може бути корисним для визначення ризику розвитку пролактином та інших аденом гіпофізу.",
-    "specialty": "ендокринологія",
+    "practicalTakeaway": "Розуміння генетичних факторів може допомогти у діагностиці та управлінні спадкових форм аденом гіпофізу.",
+    "specialty": "доказова медицина",
     "tags": [
       "генетика",
       "аденоми гіпофізу",
@@ -172,11 +172,11 @@
     "title": "Основи роботи з пропущеними даними у довгострокових кардіоваскулярних дослідженнях",
     "journal": "European journal of cardiovascular nursing",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Пропущені дані є поширеною проблемою у кардіологічних дослідженнях, особливо у довгострокових. Вони зменшують розмір вибірки, статистичну потужність та можуть спричинити упередженість результатів. Важливо застосовувати дизайн-стратегії для мінімізації пропусків, наприклад, зменшення кількості непотрібних запитань та використання нагадувань. Розуміння типів пропущеності, таких як неповна відповідь на запитання, є ключовим для коректної оцінки даних.",
+    "abstract": "Пропущені дані є поширеною проблемою у кардіологічних дослідженнях, особливо у довгострокових. Вони зменшують обсяг даних, статистичну потужність і можуть спричинити упередженість результатів. Важливо застосовувати дизайн-стратегії для мінімізації пропусків, наприклад, зменшення непотрібних запитань та використання нагадувань. Розуміння типів пропущеності, таких як неповна відповідь на питання або пропуски на рівні елементів, є ключовим для правильного аналізу.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141903/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "Missing Data Essentials Part 1: Detecting and Evaluating Patterns of Missingness in Longitudinal Cardiovascular Studies.",
     "originalAbstract": "Missing data are common in cardiovascular nursing and allied health research, especially in longitudinal studies. Common problems associated with missing data are reduced sample size, reduced statistical power and precision, and potentially biased results. There are several design strategies that can help minimize missing data including minimizing unnecessary items and incorporating reminders. It is important to understand common types of missingness, including item nonresponse, item-level missi",
     "keyPoints": [
@@ -185,9 +185,9 @@
       "Розпізнавання типів пропущеності важливе для аналізу."
     ],
     "practicalTakeaway": "Застосовуйте дизайн-стратегії для мінімізації пропущених даних у довгострокових кардіоваскулярних дослідженнях.",
-    "specialty": "кардіологія",
+    "specialty": "доказова медицина",
     "tags": [
-      "пропущені дані",
+      "кардіологія",
       "дослідження",
       "статистика"
     ],
@@ -200,19 +200,19 @@
     "title": "Розподіл імунних клітин у артеріальній та венозній крові у здорових щурів",
     "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізувало різницю у складі та транскрипційних станах імунних клітин у артеріальній і венозній крові щурів за допомогою одноклітинного РНК-секвенування, доповненого флоуцитометрією та білковою валідизацією. Виявлено збагачення Т-лімфоцитів у артеріальній крові.",
+    "abstract": "Дослідження аналізувало різницю у складі імунних клітин та їх транскрипційних станів у артеріальній і венозній крові у щурів за допомогою одноклітинної РНК-секвенції, флоуцитометрії та валідації на білковому рівні. Виявлено збагачення Т-клітин у артеріальній крові.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141902/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "Differential Immune Cell Distribution Between Arterial and Venous Blood in Healthy Rats.",
     "originalAbstract": "We previously identified differentially expressed miRNAs between arterial and venous blood in rats; however, whether immune cell composition and transcriptional states differ along the arterial-venous axis remains unclear. Here, single-cell RNA sequencing of 119 481 PBMCs, complemented by flow cytometry and protein-level validation, was performed to characterize immune heterogeneity between arterial and venous blood. Cell composition analysis showed enrichment of T cells in arterial blood, where",
     "keyPoints": [
-      "Виявлено різницю у складі імунних клітин між артеріальною та венозною кров'ю.",
-      "Збагачення Т-лімфоцитів у артеріальній крові.",
-      "Дослідження підтверджує імунну гетерогенність у різних типах крові."
+      "Виявлено різний розподіл імунних клітин у артеріальній та венозній крові.",
+      "Збільшення кількості Т-клітин у артеріальній крові.",
+      "Дослідження підкреслює імунну гетерогенність у крові здорових щурів."
     ],
-    "practicalTakeaway": "Розуміння розподілу імунних клітин у крові може впливати на дослідження імунної відповіді та терапевтичні підходи.",
+    "practicalTakeaway": "Розуміння розподілу імунних клітин у крові може допомогти у дослідженнях імунної відповіді та патологій.",
     "specialty": "імунологія",
     "tags": [
       "імунологія",
@@ -228,11 +228,11 @@
     "title": "NR3C1 необхідний для нормального диференціювання соматотропів і експресії Foxo1 у гіпофізі",
     "journal": "Endocrinology",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження показує, що глюкокортикоїди відіграють важливу роль у диференціюванні клітин гіпофізу, зокрема соматотропів. Втрата гена NR3C1 у гіпофізі порушує цей процес та знижує експресію Foxo1, що може впливати на функціональність соматотропів.",
+    "abstract": "Дослідження показує, що глюкокортикоїди відіграють важливу роль у диференціюванні клітин гіпофізу, зокрема соматотропів. Втрата гена NR3C1 у гіпофізі порушує нормальне формування соматотропів і знижує експресію Foxo1, що може впливати на функціональність цієї клітинної лінії.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141901/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "NR3C1 is required for normal somatotrope differentiation and Foxo1 expression in pituitary.",
     "originalAbstract": "Glucocorticoids are an important signal for the differentiation of many types of cells. Consistent with this, several studies have demonstrated that glucocorticoids promote the somatotrope differentiation program and functionality. Interestingly, we previously found that loss of the forkhead factor, FOXO1, results in delayed emergence of somatotropes and prevents glucocorticoid-induced premature differentiation of somatotropes. In the current study, we find that pituitary-specific deletion of Nr",
     "keyPoints": [
@@ -240,40 +240,40 @@
       "Втрата NR3C1 порушує експресію Foxo1.",
       "Глюкокортикоїди сприяють розвитку соматотропів."
     ],
-    "practicalTakeaway": "Розуміння ролі NR3C1 може допомогти у дослідженнях функціональності гіпофізу.",
+    "practicalTakeaway": "Розуміння ролі NR3C1 може допомогти у дослідженнях функціонування гіпофізу.",
     "specialty": "ендокринологія",
     "tags": [
-      "ендокринологія",
-      "гормони",
-      "клітинна диференція"
+      "гіпофіз",
+      "глюкокортикоїди",
+      "соматотропи"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "pmid": "42141899",
-    "title": "Ризик захворювань, пов'язаних із типом 2 запалення, під час лікування інтерлейкін-17 інгібіторами у пацієнтів з псоріазом: ретроспективне дослідження когорт.",
+    "title": "Ризик розвитку захворювань, пов'язаних із типом 2 запалення, під час лікування інтерлейкін-17 інгібіторами у пацієнтів з псоріазом: ретроспективне дослідження.",
     "journal": "The British journal of dermatology",
     "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження аналізує можливий підвищений ризик розвитку захворювань, пов'язаних із типом 2 запалення, у пацієнтів з псоріазом, які отримують терапію інтерлейкін-17 інгібіторами. Вивчення базується на ретроспективних даних, що дозволяє оцінити безпеку даної терапії.",
+    "abstract": "Дослідження аналізує можливий зв'язок між застосуванням інтерлейкін-17 інгібіторів у пацієнтів з псоріазом та ризиком розвитку захворювань, пов'язаних із типом 2 запалення. Виявлено, що лікування може бути асоційоване з підвищеним ризиком певних захворювань, що вимагає подальшого вивчення.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42141899/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-16T13:10:53Z",
+    "updatedAt": "2026-05-17T02:37:45Z",
     "originalTitle": "Risk of type 2 inflammation-related diseases during Interleukin-17-inhibitors treatment for psoriasis patients-A retrospective cohort study.",
     "originalAbstract": "",
     "keyPoints": [
-      "Дослідження виявило потенційний підвищений ризик захворювань, пов'язаних із типом 2 запалення.",
-      "Ретроспективний аналіз даних пацієнтів з псоріазом.",
-      "Результати можуть впливати на клінічне прийняття рішень щодо терапії."
+      "Дослідження виявило потенційний зв'язок між інгібіторами IL-17 і ризиком захворювань типу 2.",
+      "Аналіз проведено на ретроспективній когорті пацієнтів із псоріазом.",
+      "Результати підкреслюють важливість моніторингу пацієнтів під час терапії."
     ],
-    "practicalTakeaway": "При застосуванні інтерлейкін-17 інгібіторів слід враховувати можливий ризик розвитку захворювань, пов'язаних із типом 2 запалення.",
+    "practicalTakeaway": "Медики повинні враховувати можливий підвищений ризик захворювань типу 2 у пацієнтів, що отримують інгібітори IL-17, і здійснювати відповідний нагляд.",
     "specialty": "дерматологія",
     "tags": [
-      "псоріаз",
-      "інтерлейкін-17 інгібітори",
-      "запальні захворювання"
+      "інфекційні хвороби",
+      "доказова медицина",
+      "псоріаз"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
