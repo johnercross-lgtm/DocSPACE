@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42143827",
-    "title": "Візуалізація розладів центральної нервової системи, пов’язаних із згортанням білків",
-    "journal": "Seminars in roentgenology",
-    "publishedAt": "2026-05-17T00:00:00Z",
-    "abstract": "Нейродегенеративні захворювання традиційно класифікували за клінічними синдромами або патернами нейровізуалізації. Однак зростає кількість даних, що свідчать про різноманітність молекулярних патологій при схожих клінічних проявах, а один білковий патоген може проявлятися різними клінічними та зображальними ознаками. Це сприяло формуванню парадигми білкової патології, яка розглядає нейродегенерацію як порушення згортання білків.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143827/",
+    "pmid": "42145214",
+    "title": "Вплив раси та етнічної приналежності на діагностику та лікування вестибулярної шванноми",
+    "journal": "The Annals of otology, rhinology, and laryngology",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження аналізує, чи впливають раса та етнічна приналежність на вибір лікування та післяопераційне управління вестибулярною шванномою. Попередні дані свідчать, що пацієнти з нижчим соціоекономічним статусом мають більші пухлини та гірші результати, але вплив раси та етнічної приналежності залишався недостатньо дослідженим.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145214/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Imaging of Central Nervous System Disorders of Protein Folding.",
-    "originalAbstract": "Neurodegenerative disorders have traditionally been classified according to clinical syndromes or patterns of anatomical involvement on neuroimaging. However, growing evidence demonstrates that similar clinical phenotypes may arise from distinct molecular pathologies, while a single pathogenic protein may manifest with diverse clinical and imaging presentations. This has led to the emergence of the proteinopathy paradigm, which conceptualizes neurodegeneration as a disorder of protein misfolding",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Determining the Impact of Race and Ethnicity on Diagnosis and Management of Vestibular Schwannoma.",
+    "originalAbstract": "While prior literature has demonstrated that patients of lower socioeconomic groups may have larger tumors on presentation and poorer outcomes, there is limited literature on the impact of race and ethnicity on management of vestibular schwannoma (VS). The objective of this study was to determine whether race and ethnicity impacted treatment choice and postoperative management of VS.",
     "keyPoints": [
-      "Молекулярні патології можуть викликати схожі клінічні прояви.",
-      "Один білковий патоген може мати різні прояви.",
-      "Концепція білкової патології пояснює різноманітність нейродегенеративних захворювань."
+      "Дослідження аналізує вплив раси та етнічної приналежності на лікування вестибулярної шванноми.",
+      "Раніше відомо, що соціально-економічний статус впливає на розмір пухлини та результати.",
+      "Вплив раси та етнічної приналежності на менеджмент залишається недостатньо вивченим."
     ],
-    "practicalTakeaway": "Розуміння молекулярних механізмів нейродегенеративних захворювань важливе для розвитку діагностичних та терапевтичних підходів.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Дослідження підкреслює необхідність врахування расових та етнічних факторів у підходах до лікування вестибулярної шванноми.",
+    "specialty": "онкологія",
     "tags": [
-      "нейронаука",
-      "молекулярна біологія",
-      "нейродегенеративні захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143826",
-    "title": "Клінічна цінність міжприступних короткочасних мультиканальних спалахів у локалізації епіілептогенної зони",
-    "journal": "Epilepsy research",
-    "publishedAt": "2026-05-09T00:00:00Z",
-    "abstract": "Дослідження оцінює можливість використання міжприступних короткочасних мультиканальних спалахів (IMSBs) як додаткового біомаркера для локалізації епіілептогенної зони (EZ). Це може допомогти зменшити залежність від ресурсомістких і часто недіагностичних іктальних внутрішньочерепних ЕЕГ-даних.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143826/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "The clinical utility of interictal multi-channel short-duration bursts: A supplemental biomarker for epileptogenic zone localization.",
-    "originalAbstract": "Precise localization of the epileptogenic zone (EZ) is crucial for epilepsy surgery but often relies on ictal intracranial EEG (iEEG), which is resource-intensive and may yield non-diagnostic recordings. We investigated whether interictal multi-channel short-duration bursts (IMSBs) - a less studied, brief rhythmic activity - could serve as a complementary biomarker for EZ localization, with a specific focus on the spatiotemporal stability of their onset channels.",
-    "keyPoints": [
-      "IMSBs можуть слугувати додатковим біомаркером для локалізації EZ.",
-      "Дослідження фокусується на стабільності каналів початку IMSBs.",
-      "Використання IMSBs може покращити точність локалізації EZ."
-    ],
-    "practicalTakeaway": "Дослідження вказує на потенціал IMSBs як додаткового інструменту для локалізації епіілептогенної зони.",
-    "specialty": "неврологія",
-    "tags": [
-      "епілепсія",
-      "біомаркери",
-      "нейронаука"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143825",
-    "title": "МР-аналіз експресії caspase-3 та нейрофіламенту світлового у синдромі Леннокса-Гасту",
-    "journal": "Epilepsy research",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Дослідження аналізує рівень мРНК caspase-3 та нейрофіламенту світлового у пацієнтів із синдромом Леннокса-Гасту та їх зв’язок із частотою нападів, МРТ-змінами та ЕЕГ. Виявлено можливий зв’язок між експресією цих біомаркерів та тяжкістю захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143825/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "mRNA profiling of caspase-3 and neurofilament light chain in Lennox-Gastaut Syndrome.",
-    "originalAbstract": "Lennox-Gastaut Syndrome (LGS) is characterized by multiple refractory seizures. Higher seizure burden in LGS may be associated with higher expression of neurofilament light chain (NfL) and caspase-3, but such studies are very few. We report mRNA profiling of NfL and caspase-3 in LGS and their association with seizure burden, MRI abnormalities, and electroencephalography (EEG) findings.",
-    "keyPoints": [
-      "Дослідження фокусується на рівнях мРНК caspase-3 та нейрофіламенту світлового у синдромі Леннокса-Гасту.",
-      "Виявлено потенційний зв’язок між експресією біомаркерів та частотою нападів.",
-      "Результати можуть допомогти у розумінні патогенезу та моніторингу захворювання."
-    ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал біомаркерів для оцінки тяжкості та прогресу синдрому Леннокса-Гасту.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейронаука",
-      "біомаркери",
-      "епілепсія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143824",
-    "title": "Нейроендокринні та нейроінфламаторні механізми у післяпологовій депресії",
-    "journal": "Journal of psychiatric research",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Післяпологова депресія (ППД) вражає 10-15% нових матерів і має значні наслідки для дитини та партнера. Традиційна гіпотеза передбачає роль різкого зниження рівнів естрогену, прогестерону та кортизолу після пологів. Нові дослідження вказують на те, що ці гормональні зміни поєднуються з порушеннями нейроімунних шляхів, що є ключовими у патофізіології ППД. Стаття аналізує механізми та потенційні терапевтичні цілі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143824/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Neuroendocrine and neuroinflammatory mechanisms in postpartum depression: From hormonal withdrawal to central immune dysregulation and emerging therapeutic targets.",
-    "originalAbstract": "Postpartum depression (PPD) affects approximately 10-15% of new mothers worldwide with profound consequences extending to offspring and partners. While the classical \"hormonal withdrawal hypothesis\" has long emphasized the abrupt decline in estradiol, progesterone, and cortisol following childbirth, emerging evidence demonstrates that these endocrine perturbations converge with dysregulated neuroimmune pathways as central drivers of PPD pathophysiology. This narrative review integrates mechanist",
-    "keyPoints": [
-      "ППД впливає на 10-15% нових матерів.",
-      "Гормональні зміни поєднуються з нейроімунними порушеннями.",
-      "Досліджуються нові терапевтичні підходи."
-    ],
-    "practicalTakeaway": "Розуміння нейроендокринних та імунних механізмів у ППД може сприяти розвитку нових терапевтичних стратегій.",
-    "specialty": "психіатрія",
-    "tags": [
-      "нейроендокринологія",
-      "нейроінфламаторні механізми",
-      "післяпологова депресія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143823",
-    "title": "Вплив мотиваційних факторів та механізмів відмови на функціональні порушення",
-    "journal": "Journal of psychiatric research",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "abstract": "Дослідження аналізує незалежний вплив мотиваційних механізмів (напрямок і уникнення) та механізмів відмови (анхедонія і соціальна тривога) на функціональні порушення. Виявлено, що ці фактори мають окремий вплив, але їх взаємодія залишається недостатньо вивченою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143823/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Examining the independent effects of motivational factors and withdrawal mechanisms on functional impairment.",
-    "originalAbstract": "Motivational factors representing approach and avoidance mechanisms (i.e., behavioral inhibition system, behavioral activation system) have been implicated with depression and anxiety, and have a negative impact on functional outcomes. The independent effects of withdrawal mechanisms, anhedonia and social anxiety, have been established, but are often examined in isolation of one another. The potential modulating or additive relationship between these motivational factors and withdrawal mechanism",
-    "keyPoints": [
-      "Мотиваційні фактори впливають на функціональні результати.",
-      "Механізми відмови також мають незалежний вплив.",
-      "Взаємовплив між цими факторами потребує додаткового дослідження."
-    ],
-    "practicalTakeaway": "Розуміння ролі мотиваційних та відмовних механізмів може сприяти покращенню терапевтичних підходів.",
-    "specialty": "психіатрія",
-    "tags": [
+      "онкологія",
       "доказова медицина",
-      "психіатрія",
-      "загальне здоровʼя"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143817",
-    "title": "Аналіз прямого та опосередкованого впливу антимікробної фотодинамічної терапії",
-    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Огляд оновлює знання про механізми дії антимікробної фотодинамічної терапії (aPDT), яка активується світлом і спричиняє утворення реактивних кисневих сполук, що пошкоджують мікробні структури. Окрім прямого антимікробного ефекту, можливі інші біологічні події, що впливають на мікробіологічну фізіологію, відповідь госпіталю або ефективність лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143817/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Shedding light on direct and indirect effects of antimicrobial photodynamic therapy: A review update.",
-    "originalAbstract": "Antimicrobial photodynamic therapy (aPDT) operates through the light-activated excitation of photosensitizers, generating reactive oxygen species that simultaneously damage multiple essential microbial structures. This broad-spectrum, multi-target mechanism holds strong promise for combating antimicrobial-resistant microorganisms. Beyond these direct effects, other biological events can occur, potentially influencing microbial physiology, host responses, or overall treatment efficacy. These inte",
-    "keyPoints": [
-      "aPDT активується світлом і пошкоджує мікроби",
-      "Механізм має широкий спектр дії та потенціал для боротьби з резистентністю",
-      "Можливі додаткові біологічні ефекти, що впливають на терапію"
-    ],
-    "practicalTakeaway": "Розуміння механізмів дії aPDT може сприяти її більш ефективному застосуванню у боротьбі з резистентними мікроорганізмами.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "антибактеріальна терапія",
-      "фотодинамічна терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143816",
-    "title": "Довгострокове якість життя у дорослих, які втратили брата або сестру через рак: дослідження",
-    "journal": "European journal of oncology nursing : the official journal of European Oncology Nursing Society",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Це дослідження аналізує звʼязки між стійкістю, підтримкою від медичних працівників та самозвітною якістю життя у молодих дорослих, що втратили брата або сестру через рак 2-10 років тому. Також вивчалися гендерні відмінності у цих показниках.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143816/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Long-term health-related quality of life in bereaved siblings of children with cancer: A cross-sectional study.",
-    "originalAbstract": "Research on bereavement has mainly focused on risk factors linked to negative outcomes, while protective factors have been less evaluated. This study investigated the associations of resilience and perceived support from healthcare professionals with self-reported health-related quality of life (HRQoL) in young adults who had lost a sibling to cancer 2-10 years earlier. Additionally, the study explored gender differences in HRQoL, resilience, and perceived social support from healthcare professi",
-    "keyPoints": [
-      "Дослідження фокусується на довгострокових наслідках втрати близьких через рак.",
-      "Розглядаються фактори захисту, такі як стійкість та підтримка від медичних працівників.",
-      "Вивчаються гендерні відмінності у якості життя та соціальній підтримці."
-    ],
-    "practicalTakeaway": "Розуміння ролі підтримки та стійкості може допомогти у наданні психологічної допомоги сімʼям, що пережили втрату через рак.",
-    "specialty": "психіатрія",
-    "tags": [
-      "психіатрія",
-      "доказова медицина",
-      "загальне здоровʼя"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42143815",
-    "title": "Заморожування прискорює трансформацію сульфаметоксазолу за участю MnO₂",
-    "journal": "Journal of hazardous materials",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Дослідження показало, що процес заморожування значно прискорює трансформацію сульфаметоксазолу (SMX), зокрема у присутності MnO₂ у слабко кислих умовах. Вивчено вплив заморожування та сірингової кислоти (SYA) на цей процес, що має важливе значення для розуміння поведінки забруднювачів у криосфері.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143815/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Freezing enhanced transformation of sulfamethoxazole by MnO2.",
-    "originalAbstract": "The cryosphere plays a critical role in global biogeochemical cycles, however, the kinetic behavior and environmental fate of pollutants in ice remain insufficiently understood. In this study, we investigated for the first time the effect of freezing and syringic acid (SYA) on the transformation of sulfamethoxazole (SMX) mediated by manganese dioxide (MnO2) under slightly acidic conditions. Freezing significantly accelerated SMX removal, reached 23.1% within 4 h in the absence of SYA, whereas th",
-    "keyPoints": [
-      "Заморожування значно прискорює трансформацію SMX.",
-      "Вплив сірингової кислоти на процес вивчено вперше.",
-      "Результати важливі для розуміння поведінки забруднювачів у криосфері."
-    ],
-    "practicalTakeaway": "Розуміння впливу заморожування на трансформацію забруднювачів може покращити оцінку їхнього розподілу та перетворення у криосфері.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "екологія",
-      "забруднення",
-      "криосфера"
+      "загальні наслідки для здоровʼя"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42143806",
-    "title": "Два різні вентрикуло-атриальні відношення при вузькому комплексному тахікардії: механізми",
-    "journal": "Journal of electrocardiology",
-    "publishedAt": "2026-05-14T00:00:00Z",
-    "abstract": "У 65-річної жінки після абляції вузькокомпонентної тахікардії з коротким RP виявлено дві різні вентрикуло-атриальні взаємозв'язки. Електрофізіологічне дослідження показало дуальне явище AV-вузла та дві індуковані тахікардії з 1:1 VA, однаковою активацією передсердь, але різними інтервалами H-A. Внутрішньовенне переривання тахікардії та додаткові передсердні скорочення допомогли виключити AV-ретроградну тахікардію.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143806/",
+    "pmid": "42145209",
+    "title": "Освіта щодо харчування та її вплив на здоровʼя матерів під час вагітності: огляд досліджень",
+    "journal": "Nutrition research reviews",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Цей огляд підсумовує програми та втручання з харчової освіти, спрямовані на покращення здоровʼя матерів під час вагітності. Вагітність часто вважається",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145209/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Two distinct ventriculo-atrial relationships during narrow QRS complex tachycardia: What is the mechanism?",
-    "originalAbstract": "A 65-year-old woman underwent ablation for a short RP narrow complex tachycardia (NCT). EP study showed dual AVN phenomenon and two inducible narrow complex tachycardias showing 1:1 VA relationship, concentric atrial activation but different H-A intervals. RV overdrive pacing failed to entrain the first long RP tachycardia (NCT1) but transformed it to another A-on-V tachycardia (NCT2), excluding the diagnosis of AVRT. Premature atrial contractions (PACs) were delivered for further differential d",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Nutrition education and common maternal health and dietary outcomes during pregnancy: A scoping review.",
+    "originalAbstract": "This review aimed to summarise the nutrition education programs and interventions that have sought to improve maternal health outcomes. Pregnancy is often considered a \"teachable moment\" when mothers may be motivated to adopt positive behavioural changes, including improving their nutrition habits. Pregnancy nutrition education is the provision of information and guidance on optimal nutritional practices that aim to support a healthy pregnancy. This scoping review followed the Preferred Reportin",
     "keyPoints": [
-      "Виявлено дві різні вентрикуло-атриальні взаємозв'язки при вузькому комплексному тахікардії.",
-      "Дослідження показало, що тахікардії мають однакову VA-реальність, але різні інтервали H-A.",
-      "Результати допомагають диференціювати механізми тахікардії у пацієнтів після абляції."
+      "Програми харчової освіти мають потенціал впливу на поведінкові зміни у майбутніх матерів.",
+      "Під час вагітності важливо надавати інформацію щодо оптимальних харчових практик.",
+      "Дослідження зосереджені на впливі харчової освіти на здоровʼя матері та харчові звички."
     ],
-    "practicalTakeaway": "Дослідження підкреслює важливість детальної електрофізіологічної діагностики для визначення механізмів тахікардії.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Застосування програм харчової освіти під час вагітності може підтримати здоровʼя матері та формування корисних харчових звичок.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
-      "тахікардія",
-      "електрофізіологія",
-      "діагностика"
+      "харчування",
+      "вагітність",
+      "здоровʼя матері"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145208",
+    "title": "Фази II та III клінічних досліджень системного склерозу: від нових схвалень FDA до перспективних застосувань клітинних терапій",
+    "journal": "Expert opinion on emerging drugs",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Огляд сучасних клінічних досліджень фаз II та III у лікуванні системного склерозу, зосереджений на нових затвердженнях FDA та потенційних застосуваннях клітинних терапій для покращення результатів лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145208/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Phase ii and iii trials in systemic sclerosis: from recent FDA approvals to emerging applications of cellular therapies.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Розглядаються клінічні дослідження фаз II та III системного склерозу.",
+      "Обговорюються нові схвалення FDA та перспективи клітинних терапій.",
+      "Зазначаються потенційні переваги та виклики нових підходів."
+    ],
+    "practicalTakeaway": "Клітинні терапії мають потенціал для покращення лікування системного склерозу, але потребують подальших досліджень.",
+    "specialty": "ревматологія",
+    "tags": [
+      "клінічні дослідження",
+      "системний склероз",
+      "клітинні терапії"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42143805",
-    "title": "Чи може періодичне виражене переднє відчуття бути ознакою блока фасцікулів міжшлуночкової перегородки?",
-    "journal": "Journal of electrocardiology",
-    "publishedAt": "2026-05-09T00:00:00Z",
-    "abstract": "Фасцікул перегородки міжшлуночкової гілки лівого пучка є анатомічною варіацією, поширеною у людських серцях. Однак електрокардіографічні ознаки його блока залишаються предметом дискусій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42143805/",
+    "pmid": "42145204",
+    "title": "Важливість компонентів індексу здорового харчування-2015 у зв'язку з негативними наслідками вагітності",
+    "journal": "The British journal of nutrition",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження аналізує, наскільки компоненти індексу здорового харчування-2015 впливають на ризик негативних наслідків вагітності. Вивчено дані з американської когортної дослідження, що включає 7882 жінки без попередніх вагітностей понад 20 тижнів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145204/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T02:48:08Z",
-    "originalTitle": "Could this intermittent prominent anterior force be a septal fascicle block?",
-    "originalAbstract": "A septal fascicle of the left bundle branch is an anatomical variant present in a substantial number of human hearts. However, the electrocardiographic features of its block remain controversial.",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "From Single Conventional Regression to Ensemble Modeling: Relative Importance of the Healthy Eating Index-2015 Components in Relation to Adverse Pregnancy Outcomes.",
+    "originalAbstract": "The Healthy Eating Index (HEI) is widely used to assess diet quality, but certain contexts (e.g., pregnancy) may benefit from tailored versions. We evaluated whether the HEI's current approach of assigning approximately equal weights to all components to compute the total score is appropriate when studying diet quality around conception. Data were from a U.S. prospective cohort of individuals who had not delivered a previous pregnancy past 20 weeks' gestation (2010-2013, n=7882). Usual dietary i",
     "keyPoints": [
-      "Фасцікул перегородки є поширеною анатомічною варіацією.",
-      "Електрокардіографічні ознаки його блока залишаються суперечливими.",
-      "Дослідження вивчає можливі прояви цього стану на ЕКГ."
+      "Аналізовано вагомість компонентів індексу здорового харчування-2015.",
+      "Вивчено зв'язок між харчовими факторами та негативними наслідками вагітності.",
+      "Результати допомагають уточнити вагу окремих компонентів у контексті планування вагітності."
     ],
-    "practicalTakeaway": "Розпізнавання ознак блока фасцікулів міжшлуночкової перегородки потребує подальших досліджень.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Розуміння вагомості компонентів індексу здорового харчування-2015 може покращити підходи до оцінки дієти перед вагітністю.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
-      "екокардіологія",
-      "анатомія серця",
-      "електрокардіографія"
+      "харчування",
+      "вагітність",
+      "здоровʼя"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145203",
+    "title": "Безмийний флуоресцентний зонд з синергетичним посиленням сигналу для оцінки мікросередовища сперматозоїдів та виявлення астенозооспермії",
+    "journal": "Analytical chemistry",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження присвячене розробці нових флуоресцентних зондових засобів для оцінки внутрішньоклітинного мікросередовища сперматозоїдів у реальному часі. Вони дозволяють підвищити чутливість та специфічність визначення функціональної здатності сперматозоїдів у складних умовах. Це має потенціал для покращення діагностики чоловічого безпліддя.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145203/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "A Wash-Free Fluorescent Probe with Synergistic Signal Amplification for Sperm Microenvironment Evaluation and Asthenospermia Detection.",
+    "originalAbstract": "Sperm quality assessment is critical for the diagnosis of male infertility. However, conventional methods mainly focus on kinematic parameters and fail to real-time monitor the dynamic intracellular microenvironment of sperm. Single-parameter detection also suffers from insufficient sensitivity and specificity under complex interference, making it difficult to accurately identify functionally impaired sperm. Herein, we designed and synthesized two near-infrared fluorescent probes, QSi-BA and QSi",
+    "keyPoints": [
+      "Розроблено нові флуоресцентні зони для оцінки сперматозоїдів.",
+      "Зони дозволяють реальне часове моніторинг мікросередовища.",
+      "Можливе застосування для діагностики астенозооспермії."
+    ],
+    "practicalTakeaway": "Використання нових флуоресцентних зон може покращити точність діагностики чоловічого безпліддя.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "діагностика",
+      "сперматозоїди",
+      "флуоресцентні зони"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145202",
+    "title": "Некоректна класифікація фертильних днів у додатках для відстеження менструального циклу та пов'язані з цим ризики вагітності",
+    "journal": "The European journal of contraception & reproductive health care : the official journal of the European Society of Contraception",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження аналізує точність визначення фертильних днів у популярних додатках для відстеження циклу, порівнюючи їх з FDA-схваленим цифровим контрацептивом. Виявлено можливі помилки у класифікації фертильних днів, що може впливати на ризик завагітніти.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145202/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Fertile-window misclassification in period-tracking applications and associated pregnancy risk: a large observational analysis.",
+    "originalAbstract": "Given the widespread contraceptive use of period-tracking applications, we aimed to quantify misclassification of biologically fertile days and associated pregnancy risk by calendar-based and BBT-supported period-tracking applications and compare it with an FDA-cleared and CE-marked digital contraceptive.",
+    "keyPoints": [
+      "Додатки для відстеження циклу можуть неправильно класифікувати фертильні дні.",
+      "Помилки у класифікації пов'язані з підвищеним ризиком несподіваної вагітності.",
+      "Порівняння з FDA-схваленим контрацептивом показало різницю у точності."
+    ],
+    "practicalTakeaway": "Використання додатків для відстеження циклу потребує обережності через можливі помилки у визначенні фертильних днів.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "репродуктивне здоровʼя",
+      "контрацепція",
+      "цикл"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145201",
+    "title": "Генетична архітектура поведінки, пов'язаної з залежністю, у щурах Sprague-Dawley",
+    "journal": "Genes, brain, and behavior",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження виявили, що генетичні варіації у щурах Sprague-Dawley пояснюють різницю у поведінкових ознаках, таких як тривожність і чутливість до болю, що мають зв'язок із ризиком розвитку залежності. Аналіз включав оцінку спадковості за допомогою однонуклеотидних поліморфізмів та геномні асоціаційні дослідження.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145201/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Genetic Architecture of Addiction-Relevant Behaviors in Outbred Sprague-Dawley Rats Reveals Loci for Anxiety-Like and Nociceptive Traits.",
+    "originalAbstract": "Studies have shown that substance use liability is associated with novelty seeking, anxiety-like behavior, and pain sensitivity. We examined whether common genetic variation in outbred Sprague-Dawley rats explained variation in behavioral measures from three assays with established links to substance use: locomotor response to a novel environment, elevated plus maze, and tail flick. We estimated single-nucleotide polymorphism heritability and performed genome-wide association analyses using perm",
+    "keyPoints": [
+      "Генетичні варіації пояснюють поведінкові ознаки, пов'язані з залежністю.",
+      "Дослідження проводилось на щурах Sprague-Dawley.",
+      "Виявлено локації, що асоціюються з тривожністю та чутливістю до болю."
+    ],
+    "practicalTakeaway": "Генетичні дослідження поведінкових ознак у моделях тварин можуть допомогти у розумінні біологічних механізмів залежності.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "генетика",
+      "поведінка",
+      "залежність"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145200",
+    "title": "Вікові особливості дерматоскопічних ознак меланом у високоризикових пацієнтів",
+    "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження аналізує вікові характеристики дерматоскопічних ознак меланом та невусів у 832 пацієнтів із високим ризиком. Виявлено, що у різних вікових групах спостерігаються характерні статичні та динамічні дерматоскопічні патерни меланом.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145200/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Age-related dermatoscopic features of excised melanomas versus nevi in 832 high risk patients.",
+    "originalAbstract": "Melanocytic nevi show distinct age-related dermoscopic patterns. However, data on age-related patterns of melanomas are lacking. This study aimed to identify age-related static and dynamic dermoscopic patterns of melanomas.",
+    "keyPoints": [
+      "Меланомі дерматоскопічні ознаки змінюються з віком.",
+      "Дані про вікові патерни меланом обмежені.",
+      "Дослідження спрямоване на визначення вікових дерматоскопічних характеристик."
+    ],
+    "practicalTakeaway": "Врахування вікових особливостей дерматоскопічних ознак може покращити ранню діагностику меланом.",
+    "specialty": "дерматологія",
+    "tags": [
+      "дерматоскопія",
+      "меланома",
+      "вікові особливості"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145195",
+    "title": "Генетичний поліморфізм та мутаційний аналіз 81 аутосомного STR-локусу у північному ханському китайському населенні",
+    "journal": "Yi chuan = Hereditas",
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "abstract": "Дослідження аналізує генетичний поліморфізм, звʼязки між локусами та мутаційні частоти 81 аутосомного STR-локусу у північному ханському китайському населенні. Виявлено структуру повторів та оцінено застосовність для судових експертиз.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145195/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Genetic polymorphism and mutation analysis of 81 autosomal STR loci in the Northern Han Chinese population.",
+    "originalAbstract": "Examining a greater number of short tandem repeats (STRs) is essential for cases involving mutations, consanguinity, and complex kinship testing. However, previous population studies were mostly limited to fewer than 40 STRs. Therefore, this study investigated the genetic polymorphism, linkage disequilibrium, and mutation rates of 81 autosomal STR loci in the Han Chinese population of northern China. We confirmed the core repeat structure of STR loci, and focused on evaluating the forensic appli",
+    "keyPoints": [
+      "Проаналізовано 81 аутосомний STR-локус у північному ханському населенні.",
+      "Визначено структуру повторів та мутаційні частоти.",
+      "Результати мають значення для судової генетики та ідентифікаційних досліджень."
+    ],
+    "practicalTakeaway": "Результати дослідження підвищують точність генетичних ідентифікацій у судових справах.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "генетика",
+      "судова експертиза",
+      "поліморфізм"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42145192",
+    "title": "Механізм активації імунного рецептора CCG10-NLR у пшениці",
+    "journal": "Yi chuan = Hereditas",
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "abstract": "Дослідження спрямоване на розкриття механізмів активації імунних рецепторів CCG10-NLR у пшениці, які є частиною системи розпізнавання ефекторів для запуску імунних відповідей. Враховуючи структурні дані різних рослинських NLR-резистосом, дослідження зосереджене на визначенні особливостей активації цієї древньої та поширеної філогенетичної групи.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42145192/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-18T15:18:18Z",
+    "originalTitle": "Activation mechanism of the wheat CCG10-NLR immune receptor.",
+    "originalAbstract": "Plants rely on nucleotide-binding, leucine-rich repeat (NLR) receptors to recognize effector proteins, activating immune responses. In recent years, researchers have elucidated the structures of various plant NLR resistosomes. However, the activation mechanism of the evolutionarily ancient and widely distributed CCG10-NLR phylogenetic clade has remained elusive. To investigate this scientific question, the research group led by Zhiyong Liu from Institute of Genetics and Developmental Biology, Ch",
+    "keyPoints": [
+      "Вивчено структури рослинських NLR-резистосом.",
+      "Розкрито механізми активації CCG10-NLR у пшениці.",
+      "Допомагає зрозуміти імунні відповіді рослин."
+    ],
+    "practicalTakeaway": "Розуміння механізмів активації CCG10-NLR може сприяти розвитку стійких сортів пшениці.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "рослинна імунологія",
+      "генетика рослин",
+      "сільське господарство"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
