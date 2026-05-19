@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42145214",
-    "title": "Вплив раси та етнічної приналежності на діагностику та лікування вестибулярної шванноми",
-    "journal": "The Annals of otology, rhinology, and laryngology",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Дослідження аналізує, чи впливають раса та етнічна приналежність на вибір лікування та післяопераційне управління вестибулярною шванномою. Попередні дані свідчать, що пацієнти з нижчим соціоекономічним статусом мають більші пухлини та гірші результати, але вплив раси та етнічної приналежності залишався недостатньо дослідженим.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145214/",
+    "pmid": "42150247",
+    "title": "Мультицільові гібриди тріазолу-бензопірону для модулювання хвороби Альцгеймера",
+    "journal": "European journal of medicinal chemistry",
+    "publishedAt": "2026-05-13T00:00:00Z",
+    "abstract": "Дослідження оцінює вплив синтезованих сполук на оксидативний стрес, нейровоспалення, когнітивні функції та поведінкові показники у моделях хвороби Альцгеймера, викликаної LPS. Сполуки демонстрували активність щодо інгібування ацетилхолінестерази.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150247/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Determining the Impact of Race and Ethnicity on Diagnosis and Management of Vestibular Schwannoma.",
-    "originalAbstract": "While prior literature has demonstrated that patients of lower socioeconomic groups may have larger tumors on presentation and poorer outcomes, there is limited literature on the impact of race and ethnicity on management of vestibular schwannoma (VS). The objective of this study was to determine whether race and ethnicity impacted treatment choice and postoperative management of VS.",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Multi-target Triazole-Benzopyrone hybrids modulating cholinergic dysfunction, oxidative stress, and neuroinflammation through GFAP/NF-κB/APOE/NLRP3 axis in Alzheimer's disease.",
+    "originalAbstract": "Alzheimer's disease (AD) is a degenerative neurological disorder characterized by a deterioration in cognitive abilities, especially memory and learning. The main aim of this study is to evaluate the effects of our agents on oxidative stress, neuroinflammation, cognitive function, and behavioral performance in an LPS-induced AD animal model and comprehensive in vitro and in vivo assays. The synthesized compounds, namely 4b, 5b, 6, 8a-d, and 11a-c, revealed acetylcholinesterase inhibitory activit",
     "keyPoints": [
-      "Дослідження аналізує вплив раси та етнічної приналежності на лікування вестибулярної шванноми.",
-      "Раніше відомо, що соціально-економічний статус впливає на розмір пухлини та результати.",
-      "Вплив раси та етнічної приналежності на менеджмент залишається недостатньо вивченим."
+      "Вивчено ефекти нових гібридних сполук у моделях хвороби Альцгеймера.",
+      "Сполуки впливають на оксидативний стрес та нейровоспалення.",
+      "Дослідження включає in vitro та in vivo аналізи."
     ],
-    "practicalTakeaway": "Дослідження підкреслює необхідність врахування расових та етнічних факторів у підходах до лікування вестибулярної шванноми.",
+    "practicalTakeaway": "Дослідження демонструє потенціал нових молекул для подальшого розвитку препаратів при хворобі Альцгеймера.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейронаука",
+      "лікування Альцгеймера",
+      "біохімія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42150246",
+    "title": "Відкриття NTQ2494 — потужного перорального інгібітора AXL-кінази для лікування пухлин",
+    "journal": "European journal of medicinal chemistry",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Дослідження присвячене пошуку нових малих молекул, здатних блокувати активність AXL-кінази, що є перспективною ціллю для подолання терапевтичної резистентності у різних пухлинах. Представлено новий інгібітор NTQ2494 з високою біодоступністю, який потенційно може покращити ефективність лікування онкологічних захворювань.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150246/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Discovery of NTQ2494, a potent and orally bioavailable inhibitor of AXL kinase for the treatment of human tumors.",
+    "originalAbstract": "The receptor tyrosine kinase AXL has emerged as a promising target for overcoming therapeutic resistance in both solid and haematological tumors. Currently, multiple strategies have been established to block AXL activity in tumor cells. Among these, Small-molecule inhibitors exert a more potent inhibitory effect. Although a number of small-molecule compounds have been reported, their ADME profiles and inhibitory efficacy still have considerable potential for further optimization. In this paper, ",
+    "keyPoints": [
+      "Виявлено новий інгібітор AXL-кінази NTQ2494.",
+      "NTQ2494 має високу пероральну біодоступність.",
+      "Можливе застосування для лікування різних пухлин."
+    ],
+    "practicalTakeaway": "Розробка пероральних інгібіторів AXL-кінази може сприяти подоланню терапевтичної резистентності у онкології.",
     "specialty": "онкологія",
     "tags": [
-      "онкологія",
+      "інгібітори AXL-кінази",
+      "онкологічні дослідження",
+      "лікування пухлин"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42150245",
+    "title": "Нові можливості у пригніченні AKR1B10 та перспективи досліджень",
+    "journal": "European journal of medicinal chemistry",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Огляд аналізує роль ферменту AKR1B10 у розвитку раку, запалень та метаболічних порушень. Розглядаються структура, функції та підходи до створення інгібіторів AKR1B10, а також сучасний стан досліджень у цій галузі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150245/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Unlocking new frontiers in AKR1B10 inhibition and future opportunities.",
+    "originalAbstract": "Numerous illnesses, including cancer, inflammation, and metabolic disorders, have been linked to the enzyme aldo-keto reductase family 1 member B10 (AKR1B10). The pathogenic consequences of AKR1B10, its structural and functional characteristics, and the rationale behind concentrating on it during drug discovery are examined in this review. The classification, structure-activity relationships, and computational design of AKR1B10 inhibitors are discussed, along with the current status of their stu",
+    "keyPoints": [
+      "AKR1B10 пов'язаний з раком, запаленнями та метаболічними порушеннями.",
+      "Обговорюються структура, взаємозв'язки та дизайн інгібіторів AKR1B10.",
+      "Розглядаються сучасні підходи до розробки інгібіторів та їх потенційне застосування."
+    ],
+    "practicalTakeaway": "Дослідження в галузі інгібіторів AKR1B10 відкривають нові можливості для терапевтичних стратегій.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "фармакотерапія",
       "доказова медицина",
-      "загальні наслідки для здоровʼя"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42145209",
-    "title": "Освіта щодо харчування та її вплив на здоровʼя матерів під час вагітності: огляд досліджень",
-    "journal": "Nutrition research reviews",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Цей огляд підсумовує програми та втручання з харчової освіти, спрямовані на покращення здоровʼя матерів під час вагітності. Вагітність часто вважається",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145209/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Nutrition education and common maternal health and dietary outcomes during pregnancy: A scoping review.",
-    "originalAbstract": "This review aimed to summarise the nutrition education programs and interventions that have sought to improve maternal health outcomes. Pregnancy is often considered a \"teachable moment\" when mothers may be motivated to adopt positive behavioural changes, including improving their nutrition habits. Pregnancy nutrition education is the provision of information and guidance on optimal nutritional practices that aim to support a healthy pregnancy. This scoping review followed the Preferred Reportin",
-    "keyPoints": [
-      "Програми харчової освіти мають потенціал впливу на поведінкові зміни у майбутніх матерів.",
-      "Під час вагітності важливо надавати інформацію щодо оптимальних харчових практик.",
-      "Дослідження зосереджені на впливі харчової освіти на здоровʼя матері та харчові звички."
-    ],
-    "practicalTakeaway": "Застосування програм харчової освіти під час вагітності може підтримати здоровʼя матері та формування корисних харчових звичок.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "харчування",
-      "вагітність",
-      "здоровʼя матері"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42145208",
-    "title": "Фази II та III клінічних досліджень системного склерозу: від нових схвалень FDA до перспективних застосувань клітинних терапій",
-    "journal": "Expert opinion on emerging drugs",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Огляд сучасних клінічних досліджень фаз II та III у лікуванні системного склерозу, зосереджений на нових затвердженнях FDA та потенційних застосуваннях клітинних терапій для покращення результатів лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145208/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Phase ii and iii trials in systemic sclerosis: from recent FDA approvals to emerging applications of cellular therapies.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Розглядаються клінічні дослідження фаз II та III системного склерозу.",
-      "Обговорюються нові схвалення FDA та перспективи клітинних терапій.",
-      "Зазначаються потенційні переваги та виклики нових підходів."
-    ],
-    "practicalTakeaway": "Клітинні терапії мають потенціал для покращення лікування системного склерозу, але потребують подальших досліджень.",
-    "specialty": "ревматологія",
-    "tags": [
-      "клінічні дослідження",
-      "системний склероз",
-      "клітинні терапії"
+      "біохімія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42145204",
-    "title": "Важливість компонентів індексу здорового харчування-2015 у зв'язку з негативними наслідками вагітності",
-    "journal": "The British journal of nutrition",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Дослідження аналізує, наскільки компоненти індексу здорового харчування-2015 впливають на ризик негативних наслідків вагітності. Вивчено дані з американської когортної дослідження, що включає 7882 жінки без попередніх вагітностей понад 20 тижнів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145204/",
+    "pmid": "42150244",
+    "title": "Переслідування кінематичних характеристик коліна після одночасної реконструкції передньої хрестоподібної зв'язки та передньої латеральної зв'язки під час ходьби — аналіз за допомогою біпланарної флюороскопії",
+    "journal": "Clinical biomechanics (Bristol, Avon)",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Дослідження аналізує вивчення кінематичних характеристик коліна у реальному часі після одночасної реконструкції передньої хрестоподібної та передньої латеральної зв'язки під час ходьби. Мета — оцінити відновлення нормальної функції коліна та залишкову нестабільність.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150244/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "From Single Conventional Regression to Ensemble Modeling: Relative Importance of the Healthy Eating Index-2015 Components in Relation to Adverse Pregnancy Outcomes.",
-    "originalAbstract": "The Healthy Eating Index (HEI) is widely used to assess diet quality, but certain contexts (e.g., pregnancy) may benefit from tailored versions. We evaluated whether the HEI's current approach of assigning approximately equal weights to all components to compute the total score is appropriate when studying diet quality around conception. Data were from a U.S. prospective cohort of individuals who had not delivered a previous pregnancy past 20 weeks' gestation (2010-2013, n=7882). Usual dietary i",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "ISB clinical biomechanics award winner 2025: Residual translational and rotational kinematics after combined anterior cruciate ligament and anterolateral ligament reconstruction during walking - A biplanar fluoroscopy analysis.",
+    "originalAbstract": "Rupture of the anterior cruciate ligament is a well-known cause of knee instability. However, even after reconstruction, some patients continue to experience residual instability, which has raised interest in the anterolateral ligament as a secondary stabilizer of the knee. This study aimed to investigate in-vivo knee kinematics during level walking after combined single-bundle anterior cruciate and anterolateral ligament reconstruction to assess restoration of normal knee kinematics.",
     "keyPoints": [
-      "Аналізовано вагомість компонентів індексу здорового харчування-2015.",
-      "Вивчено зв'язок між харчовими факторами та негативними наслідками вагітності.",
-      "Результати допомагають уточнити вагу окремих компонентів у контексті планування вагітності."
+      "Дослідження фокусується на кінематичних характеристиках коліна після реконструкції.",
+      "Використовується біпланарна флюороскопія для аналізу рухів.",
+      "Мета — оцінити відновлення нормальної функції коліна."
     ],
-    "practicalTakeaway": "Розуміння вагомості компонентів індексу здорового харчування-2015 може покращити підходи до оцінки дієти перед вагітністю.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "харчування",
-      "вагітність",
-      "здоровʼя"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42145203",
-    "title": "Безмийний флуоресцентний зонд з синергетичним посиленням сигналу для оцінки мікросередовища сперматозоїдів та виявлення астенозооспермії",
-    "journal": "Analytical chemistry",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Дослідження присвячене розробці нових флуоресцентних зондових засобів для оцінки внутрішньоклітинного мікросередовища сперматозоїдів у реальному часі. Вони дозволяють підвищити чутливість та специфічність визначення функціональної здатності сперматозоїдів у складних умовах. Це має потенціал для покращення діагностики чоловічого безпліддя.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145203/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "A Wash-Free Fluorescent Probe with Synergistic Signal Amplification for Sperm Microenvironment Evaluation and Asthenospermia Detection.",
-    "originalAbstract": "Sperm quality assessment is critical for the diagnosis of male infertility. However, conventional methods mainly focus on kinematic parameters and fail to real-time monitor the dynamic intracellular microenvironment of sperm. Single-parameter detection also suffers from insufficient sensitivity and specificity under complex interference, making it difficult to accurately identify functionally impaired sperm. Herein, we designed and synthesized two near-infrared fluorescent probes, QSi-BA and QSi",
-    "keyPoints": [
-      "Розроблено нові флуоресцентні зони для оцінки сперматозоїдів.",
-      "Зони дозволяють реальне часове моніторинг мікросередовища.",
-      "Можливе застосування для діагностики астенозооспермії."
-    ],
-    "practicalTakeaway": "Використання нових флуоресцентних зон може покращити точність діагностики чоловічого безпліддя.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "діагностика",
-      "сперматозоїди",
-      "флуоресцентні зони"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42145202",
-    "title": "Некоректна класифікація фертильних днів у додатках для відстеження менструального циклу та пов'язані з цим ризики вагітності",
-    "journal": "The European journal of contraception & reproductive health care : the official journal of the European Society of Contraception",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Дослідження аналізує точність визначення фертильних днів у популярних додатках для відстеження циклу, порівнюючи їх з FDA-схваленим цифровим контрацептивом. Виявлено можливі помилки у класифікації фертильних днів, що може впливати на ризик завагітніти.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145202/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Fertile-window misclassification in period-tracking applications and associated pregnancy risk: a large observational analysis.",
-    "originalAbstract": "Given the widespread contraceptive use of period-tracking applications, we aimed to quantify misclassification of biologically fertile days and associated pregnancy risk by calendar-based and BBT-supported period-tracking applications and compare it with an FDA-cleared and CE-marked digital contraceptive.",
-    "keyPoints": [
-      "Додатки для відстеження циклу можуть неправильно класифікувати фертильні дні.",
-      "Помилки у класифікації пов'язані з підвищеним ризиком несподіваної вагітності.",
-      "Порівняння з FDA-схваленим контрацептивом показало різницю у точності."
-    ],
-    "practicalTakeaway": "Використання додатків для відстеження циклу потребує обережності через можливі помилки у визначенні фертильних днів.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "репродуктивне здоровʼя",
-      "контрацепція",
-      "цикл"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42145201",
-    "title": "Генетична архітектура поведінки, пов'язаної з залежністю, у щурах Sprague-Dawley",
-    "journal": "Genes, brain, and behavior",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження виявили, що генетичні варіації у щурах Sprague-Dawley пояснюють різницю у поведінкових ознаках, таких як тривожність і чутливість до болю, що мають зв'язок із ризиком розвитку залежності. Аналіз включав оцінку спадковості за допомогою однонуклеотидних поліморфізмів та геномні асоціаційні дослідження.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145201/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Genetic Architecture of Addiction-Relevant Behaviors in Outbred Sprague-Dawley Rats Reveals Loci for Anxiety-Like and Nociceptive Traits.",
-    "originalAbstract": "Studies have shown that substance use liability is associated with novelty seeking, anxiety-like behavior, and pain sensitivity. We examined whether common genetic variation in outbred Sprague-Dawley rats explained variation in behavioral measures from three assays with established links to substance use: locomotor response to a novel environment, elevated plus maze, and tail flick. We estimated single-nucleotide polymorphism heritability and performed genome-wide association analyses using perm",
-    "keyPoints": [
-      "Генетичні варіації пояснюють поведінкові ознаки, пов'язані з залежністю.",
-      "Дослідження проводилось на щурах Sprague-Dawley.",
-      "Виявлено локації, що асоціюються з тривожністю та чутливістю до болю."
-    ],
-    "practicalTakeaway": "Генетичні дослідження поведінкових ознак у моделях тварин можуть допомогти у розумінні біологічних механізмів залежності.",
+    "practicalTakeaway": "Результати дослідження допомагають краще розуміти механізми стабілізації коліна після реконструктивних втручань.",
     "specialty": "доказова медицина",
     "tags": [
-      "генетика",
-      "поведінка",
-      "залежність"
+      "ортопедія",
+      "флюороскопія",
+      "кінетика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42150240",
+    "title": "М'яка підготовка субстрату зменшує фібротичну механічну пам'ять у мезенхімальних стромальних клітинах через деградацію YAP у лізосомах для покращення терапевтичної ефективності при пошкодженні спинного мозку",
+    "journal": "Biomaterials",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Дослідження виявляє, що патологічне ущільнення фіброзної тканини навколо пошкодженого спинного мозку спричиняє зміну механосприйнятливості мезенхімальних стромальних клітин (МСК), що знижує їх терапевтичну ефективність. М'яка підготовка субстрату може скасувати цю механічну пам'ять шляхом деградації YAP у лізосомах, що потенційно покращує результати лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150240/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Soft substrate priming erases fibrotic mechanical memory in mesenchymal stromal cells via YAP lysosomal degradation to improve therapeutic efficacy for spinal cord injury.",
+    "originalAbstract": "Mesenchymal stromal cells (MSCs) hold great promise for spinal cord injury (SCI) repair owing to their potent immunomodulatory and neuroprotective properties, yet their therapeutic efficacy collapses in the chronic phase. We identify a critical, overlooked barrier: the pathological stiffening of the fibrotic scar microenvironment hijacks the mechanotransduction machinery of transplanted MSCs, driving them toward a maladaptive fibroblast-like phenotype that compromises their immunomodulatory and ",
+    "keyPoints": [
+      "Механічна зміна фіброзної тканини впливає на функцію МСК.",
+      "М'яка підготовка субстрату може скасувати фібротичну пам'ять МСК.",
+      "Деградація YAP у лізосомах є ключовим механізмом."
+    ],
+    "practicalTakeaway": "М'яка підготовка субстрату може покращити терапевтичну ефективність МСК при пошкодженні спинного мозку.",
+    "specialty": "неврологія",
+    "tags": [
+      "інноваційні методи терапії",
+      "механосприйнятливість клітин",
+      "спинномозкові пошкодження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42150239",
+    "title": "Мезенхімальні стовбурові клітини пуповини у поєднанні з колагеновими каркасами для регенерації шийки матки",
+    "journal": "Biomaterials",
+    "publishedAt": "2026-05-06T00:00:00Z",
+    "abstract": "Дослідження розробило композитний трансплантат, що поєднує мезенхімальні стовбурові клітини пуповини та біоміметичний колагеновий каркас для відновлення структури шийки матки. Це має потенціал для лікування вроджених або набутних дефектів шийки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150239/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Umbilical cord-derived mesenchymal stem cells synergize with biomimetic collagen scaffolds to drive structural cervical regeneration.",
+    "originalAbstract": "The regeneration of functional cervical tissue for congenital or acquired defects remains an unmet clinical challenge. While decellularized extracellular matrix scaffolds offer structural support, their regenerative capacity is inherently limited for critical-sized, full-thickness cervical defects. Here, we developed a composite graft by seeding human umbilical cord-derived mesenchymal stem cells (UC-MSCs) onto a biomimetic, bilayer collagen scaffold (CS). In a rabbit model of complete ectocervi",
+    "keyPoints": [
+      "Комбінований трансплантат поєднує стовбурові клітини та колагеновий каркас.",
+      "Модель дослідження — у кроликів з повною відсутністю шийки матки.",
+      "Мета — покращити регенерацію тканин шийки матки."
+    ],
+    "practicalTakeaway": "Розробка біоматеріалів з клітинними компонентами може сприяти відновленню тканин шийки матки.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "регенерація тканин",
+      "стовбурові клітини",
+      "біоматеріали"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42150234",
+    "title": "Комбінований підхід для корекції перекриття фокусів у визначенні ДНК-двохломкових розривів, спричинених карбоновим іоном",
+    "journal": "Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Дослідження поєднує моделювання Монте-Карло та біологічні експерименти для аналізу просторового розподілу та складності ДНК-двохломкових розривів, спричинених радіацією карбонових іонів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150234/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "A combined Monte Carlo and experimental approach to correct foci overlap in quantifying carbon-ion-induced DNA double-strand breaks.",
+    "originalAbstract": "Based on Monte Carlo simulations and biological experiments, this study aimed to quantitatively analyze the spatial distribution and complexity of DNA double-strand breaks (DSBs) induced by carbon-ion radiation.",
+    "keyPoints": [
+      "Використано моделювання Монте-Карло та експерименти.",
+      "Аналізується просторовий розподіл ДНК-розривів.",
+      "Зосереджено на корекції перекриття фокусів."
+    ],
+    "practicalTakeaway": "Комбінований підхід може покращити точність кількісної оцінки ДНК-розривів у радіаційній біології.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "радіаційна біологія",
+      "моделювання",
+      "генетика"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42145200",
-    "title": "Вікові особливості дерматоскопічних ознак меланом у високоризикових пацієнтів",
-    "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
-    "publishedAt": "2026-05-18T00:00:00Z",
-    "abstract": "Дослідження аналізує вікові характеристики дерматоскопічних ознак меланом та невусів у 832 пацієнтів із високим ризиком. Виявлено, що у різних вікових групах спостерігаються характерні статичні та динамічні дерматоскопічні патерни меланом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145200/",
+    "pmid": "42150233",
+    "title": "Просторова кут між QRS та T хвилями та її звʼязок із ступенем ішемії при ІНОКА",
+    "journal": "Journal of electrocardiology",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження аналізує потенціал просторового кута між QRS та T хвилями для оцінки ішемічного навантаження у пацієнтів з ішемією без обструктивних коронарних артерій. Просторова кутова характеристика може краще відображати ступінь ішемії, ніж традиційні електрокардіографічні маркери.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150233/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Age-related dermatoscopic features of excised melanomas versus nevi in 832 high risk patients.",
-    "originalAbstract": "Melanocytic nevi show distinct age-related dermoscopic patterns. However, data on age-related patterns of melanomas are lacking. This study aimed to identify age-related static and dynamic dermoscopic patterns of melanomas.",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Spatial QRS-T angle and quantified ischemia burden in ischemia with nonobstructive coronary arteries.",
+    "originalAbstract": "Ischemia with non-obstructive coronary arteries (INOCA) is increasingly recognized as a clinically relevant entity, yet effective risk stratification remains limited. The spatial QRS-T (sQRS-T) angle integrates global depolarization-repolarization heterogeneity and may reflect ischemic burden more accurately than conventional ECG markers.",
     "keyPoints": [
-      "Меланомі дерматоскопічні ознаки змінюються з віком.",
-      "Дані про вікові патерни меланом обмежені.",
-      "Дослідження спрямоване на визначення вікових дерматоскопічних характеристик."
+      "Просторова кут між QRS та T хвилями може бути корисною для оцінки ішемії при ІНОКА.",
+      "Цей показник відображає гетерогенність деполяризації та реполяризації серця.",
+      "Дослідження спрямоване на покращення ризик-стратифікації у пацієнтів з ІНОКА."
     ],
-    "practicalTakeaway": "Врахування вікових особливостей дерматоскопічних ознак може покращити ранню діагностику меланом.",
-    "specialty": "дерматологія",
+    "practicalTakeaway": "Використання просторового кута між QRS та T хвилями може покращити оцінку ішемічного навантаження у пацієнтів з ІНОКА.",
+    "specialty": "кардіологія",
     "tags": [
-      "дерматоскопія",
-      "меланома",
-      "вікові особливості"
+      "інфаркт міокарда",
+      "електрокардіографія",
+      "ішемія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42145195",
-    "title": "Генетичний поліморфізм та мутаційний аналіз 81 аутосомного STR-локусу у північному ханському китайському населенні",
-    "journal": "Yi chuan = Hereditas",
-    "publishedAt": "2026-05-01T00:00:00Z",
-    "abstract": "Дослідження аналізує генетичний поліморфізм, звʼязки між локусами та мутаційні частоти 81 аутосомного STR-локусу у північному ханському китайському населенні. Виявлено структуру повторів та оцінено застосовність для судових експертиз.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145195/",
+    "pmid": "42150232",
+    "title": "Сон у носіїв гена хвороби Гантінгтона: систематичний огляд",
+    "journal": "Sleep medicine",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Хвороба Гантінгтона є прогресуючим нейродегенеративним захворюванням, що викликає моторні, когнітивні та психіатричні порушення через повтори CAG у гені huntingtin. У носіїв гена та пацієнтів із проявами хвороби часто спостерігаються порушення сну, що мають потенційне значення як ранні маркери захворювання та впливають на якість життя. Вивчення цих змін є важливим для клінічної практики.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150232/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Genetic polymorphism and mutation analysis of 81 autosomal STR loci in the Northern Han Chinese population.",
-    "originalAbstract": "Examining a greater number of short tandem repeats (STRs) is essential for cases involving mutations, consanguinity, and complex kinship testing. However, previous population studies were mostly limited to fewer than 40 STRs. Therefore, this study investigated the genetic polymorphism, linkage disequilibrium, and mutation rates of 81 autosomal STR loci in the Han Chinese population of northern China. We confirmed the core repeat structure of STR loci, and focused on evaluating the forensic appli",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Sleep in Huntington's disease gene expansion carriers: A systematic review.",
+    "originalAbstract": "Huntington's disease (HD) is a progressive neurodegenerative disorder characterized by an abnormal CAG repeat expansion in the huntingtin gene, resulting in motor, cognitive, and psychiatric impairments. Sleep disturbances are a prevalent yet underexplored feature in both premanifest gene carriers and individuals with manifest disease. Given their potential as early disease markers and their significant impact on quality of life, understanding these sleep alterations is clinically critical. This",
     "keyPoints": [
-      "Проаналізовано 81 аутосомний STR-локус у північному ханському населенні.",
-      "Визначено структуру повторів та мутаційні частоти.",
-      "Результати мають значення для судової генетики та ідентифікаційних досліджень."
+      "Порушення сну поширені у носіїв гена хвороби Гантінгтона.",
+      "Ці порушення можуть слугувати ранніми маркерами захворювання.",
+      "Розуміння змін сну важливе для покращення якості життя"
     ],
-    "practicalTakeaway": "Результати дослідження підвищують точність генетичних ідентифікацій у судових справах.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Врахування порушень сну у носіїв гена може сприяти ранній діагностиці та покращенню якості життя.",
+    "specialty": "неврологія",
     "tags": [
-      "генетика",
-      "судова експертиза",
-      "поліморфізм"
+      "сон",
+      "хвороба Гантінгтона",
+      "ранні маркери"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42145192",
-    "title": "Механізм активації імунного рецептора CCG10-NLR у пшениці",
-    "journal": "Yi chuan = Hereditas",
-    "publishedAt": "2026-05-01T00:00:00Z",
-    "abstract": "Дослідження спрямоване на розкриття механізмів активації імунних рецепторів CCG10-NLR у пшениці, які є частиною системи розпізнавання ефекторів для запуску імунних відповідей. Враховуючи структурні дані різних рослинських NLR-резистосом, дослідження зосереджене на визначенні особливостей активації цієї древньої та поширеної філогенетичної групи.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42145192/",
+    "pmid": "42150231",
+    "title": "Вибіркова уразливість макулярного шару ганглійних клітин до нічної гіпоксії при обструктивному апное сну: 3-річне дослідження",
+    "journal": "Sleep medicine",
+    "publishedAt": "2026-05-07T00:00:00Z",
+    "abstract": "Мета дослідження — оцінити зв’язок між показниками нічної гіпоксії у хворих на обструктивне апное сну та субклінічними структурними змінами ретинальних нейронів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42150231/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-18T15:18:18Z",
-    "originalTitle": "Activation mechanism of the wheat CCG10-NLR immune receptor.",
-    "originalAbstract": "Plants rely on nucleotide-binding, leucine-rich repeat (NLR) receptors to recognize effector proteins, activating immune responses. In recent years, researchers have elucidated the structures of various plant NLR resistosomes. However, the activation mechanism of the evolutionarily ancient and widely distributed CCG10-NLR phylogenetic clade has remained elusive. To investigate this scientific question, the research group led by Zhiyong Liu from Institute of Genetics and Developmental Biology, Ch",
+    "updatedAt": "2026-05-19T02:45:04Z",
+    "originalTitle": "Selective vulnerability of the macular ganglion cell layer to nocturnal hypoxia in obstructive sleep apnea: A 3-year longitudinal study.",
+    "originalAbstract": "To evaluate the association between nocturnal hypoxemia metrics in obstructive sleep apnea (OSA) and subclinical structural alterations of retinal neurons.",
     "keyPoints": [
-      "Вивчено структури рослинських NLR-резистосом.",
-      "Розкрито механізми активації CCG10-NLR у пшениці.",
-      "Допомагає зрозуміти імунні відповіді рослин."
+      "Дослідження виявило зв’язок між нічною гіпоксією та змінами у макулярному шарі ганглійних клітин.",
+      "Зміни спостерігалися у пацієнтів з більшою тяжкістю гіпоксії.",
+      "Результати свідчать про потенційний вплив нічної гіпоксії на структуру сітківки."
     ],
-    "practicalTakeaway": "Розуміння механізмів активації CCG10-NLR може сприяти розвитку стійких сортів пшениці.",
-    "specialty": "сімейна медицина",
+    "practicalTakeaway": "Контроль за рівнем нічної гіпоксії у хворих на обструктивне апное сну може мати значення для збереження структурної цілісності сітківки.",
+    "specialty": "неврологія",
     "tags": [
-      "рослинна імунологія",
-      "генетика рослин",
-      "сільське господарство"
+      "зір",
+      "гіпоксія",
+      "обструктивне апное сну"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
