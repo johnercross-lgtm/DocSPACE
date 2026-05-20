@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42155177",
-    "title": "Роль білка S100-A11, що походить від ракових фібробластів, у відповіді на терапію HER2 у HER2-позитивному раку молочної залози.",
-    "journal": "Neoplasia (New York, N.Y.)",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив білка S100-A11, що виробляється раковими фібробластами, на ефективність анти-HER2 терапії у HER2-позитивному раку молочної залози. Виявлено, що мікрооточення пухлини, зокрема ракові фібробласти, може сприяти резистентності до терапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155177/",
+    "pmid": "42159053",
+    "title": "Моніторинг імунітету до краснухи та передачі вірусу в центральній Індії під час зусиль з елімінації",
+    "journal": "Microbiology and immunology",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження оцінює рівень антитіл IgM та IgG до краснухи в центральній Індії у контексті національних зусиль з елімінації захворювання до 2026 року. Аналіз показує виклики, пов'язані з спорадичними випадками та спалахами, що ускладнюють досягнення мети.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159053/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Cancer-associated fibroblast-derived protein S100-A11 influences the response to anti-HER2 therapies in HER2-positive breast cancer.",
-    "originalAbstract": "Breast cancer is the most commonly diagnosed cancer worldwide and includes the HER2-positive (HER2+) subtype, characterised by HER2 overexpression. HER2+ breast cancer is treated with neoadjuvant anti-HER2 therapy combined with taxane-based chemotherapy, yet a substantial proportion of patients fail to achieve pathological complete response. Increasing evidence indicates that the tumour microenvironment (TME), particularly cancer-associated fibroblasts (CAFs), contributes to therapy resistance t",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Monitoring Rubella Immunity and Transmission in Central India Amidst Elimination Efforts.",
+    "originalAbstract": "India along with other countries in the World Health Organization (WHO) Southeast Asia region has set a goal to eliminate rubella by December 2026 through active tracking and vaccination program. However, the incidence of sporadic events and outbreaks in recent years has posed a significant challenge to this goal. To access the ongoing infections and the effectiveness of immunization efforts, we evaluated the presence of anti-rubella IgM and IgG antibodies, which serve as indicators of ongoing i",
     "keyPoints": [
-      "Білок S100-A11, вироблений раковими фібробластами, може впливати на відповідь на терапію HER2.",
-      "Мікрооточення пухлини відіграє роль у резистентності до лікування HER2-позитивного раку.",
-      "Дослідження підкреслює важливість вивчення мікрооточення для покращення терапевтичних стратегій."
+      "Оцінка імунітету до краснухи в центральній Індії.",
+      "Виявлення викликів у зусиллях з елімінації.",
+      "Роль антитіл IgM та IgG у моніторингу передачі вірусу."
     ],
-    "practicalTakeaway": "Врахування ролі ракових фібробластів і білка S100-A11 може допомогти у розробці більш ефективних підходів до лікування HER2-позитивного раку молочної залози.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові фібробласти",
-      "HER2-позитивний рак молочної залози",
-      "терапевтична резистентність"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155174",
-    "title": "Дисплей пептидів на малих позаклітинних везикулах для цілеспрямованої доставки генетичного редагування",
-    "journal": "Biomaterials",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження демонструє, що інженерія малих позаклітинних везикул (EVs) з дисплеєм пептидів на їхній поверхні дозволяє спрямовувати їхню доставку до конкретних тканин у мишачих моделях. Це досягається шляхом звʼязування бібліотеки пептидів з баркодованими гіда-РНК, що дозволяє системну ін'єкцію EVs та оцінку їхнього внутрішнього ураження клітин.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155174/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Peptide display on small extracellular vesicles directs tissue-specific tropism and delivery of gene editing machinery.",
-    "originalAbstract": "Small extracellular vesicles (EVs) deliver nucleic acid and protein therapeutics that promote tissue repair, however, there are few approaches to direct the tropism of EVs to specific tissues. Here, we address this challenge by engineering EVs to display a peptide library on the surface of EVs that is linked to barcoded guide RNA payloads (gRNAs). We show how these EVs can be administered systemically into mouse models and the cellular uptake of these gRNA-bearing EVs assessed by recovery of the",
-    "keyPoints": [
-      "Інженерія EVs з дисплеєм пептидів дозволяє цілеспрямовану доставку.",
-      "Звʼязування пептидів з гіда-РНК забезпечує контроль за цільовими тканинами.",
-      "Модель дослідження проведена на мишах."
-    ],
-    "practicalTakeaway": "Технологія дисплею пептидів на EVs може потенційно використовуватися для цілеспрямованої доставки генетичних інструментів.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "біомедичні технології",
-      "генна терапія",
-      "целева доставка"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155173",
-    "title": "Реакція коротких волокон на запалення для лікування гіперплазії ендометрію",
-    "journal": "Biomaterials",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Дослідження описує створення розумної тканинної платформи, яка за допомогою коротких волокон залучає запальний ексудат і реагує на кислотність середовища, що сприяє подоланню резистентності до прогестерону при гіперплазії ендометрію. Це досягається за допомогою кон'югації левоноргестрелу до полімерних нановолокон, що може покращити терапевтичні підходи.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155173/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Short fibers recruiting inflammatory exudate via smart-responsive estrogen antagonism for endometrial hyperplasia.",
-    "originalAbstract": "Inflammation-mediated progesterone resistance, driven by the sustained acidification of the inflammatory microenvironment from V-type H+-ATPase overexpression in inflammatory cells, critically impedes the treatment of endometrial hyperplasia (EH). Herein, a smart short-fiber scaffold (PGCL) was innovatively fabricated by covalently conjugating levonorgestrel (LNG) to poly (lactic acid)/gelatin nanofibers via a two-step click chemistry approach. The fibers recruit inflammatory fluid and respond i",
-    "keyPoints": [
-      "Розроблено новий біоматеріал для лікування гіперплазії ендометрію.",
-      "Волокна залучають запальний ексудат і реагують на кислотність.",
-      "Можливе покращення терапії за рахунок локальної доставки лікарських засобів."
-    ],
-    "practicalTakeaway": "Ця технологія може потенційно підвищити ефективність лікування гіперплазії ендометрію за рахунок цілеспрямованої доставки лікарських засобів у запальний мікрооточок.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "гормональна терапія",
-      "біоматеріали",
-      "ендометріоз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155165",
-    "title": "Плазмовий метаболічний підпис хронічної втоми та ризику пізнього початку шизофренії: проспективне дослідження",
-    "journal": "Schizophrenia research",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження вивчало звʼязок між станом хронічної втоми та ризиком розвитку пізньої шизофренії, а також можливу роль метаболічних механізмів у цьому процесі. Враховуючи старіння населення, пізній початок шизофренії привертає дедалі більше уваги, але механізми цієї асоціації залишаються недостатньо з’ясованими.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155165/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Plasma metabolomic signature of frailty and risk of late-onset schizophrenia: A prospective cohort study.",
-    "originalAbstract": "With population aging, late-onset schizophrenia is attracting increasing attention. The prospective association between frailty and late-onset schizophrenia, along with its underlying mechanisms, remains unclear. This study aimed to investigate the relationship between frailty and late-onset schizophrenia, and assess the potential role of metabolic mechanisms on this association.",
-    "keyPoints": [
-      "Дослідження вивчало звʼязок між хронічною втомою та пізнім початком шизофренії.",
-      "Роль метаболічних механізмів у цій асоціації досліджувалась.",
-      "Враховується старіння населення та його вплив на психічне здоровʼя."
-    ],
-    "practicalTakeaway": "Розуміння метаболічних змін може допомогти у ранній діагностиці та профілактиці пізнього початку шизофренії.",
-    "specialty": "психіатрія",
-    "tags": [
-      "метаболізм",
-      "шизофренія",
-      "старіння"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155157",
-    "title": "Порівняння титрів гематоглютинінінг-інгібування грипу з капілярної крові та венозної крові",
-    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження оцінює відповідність титрів гематоглютинінінг-інгібування грипу, отриманих з капілярної крові за допомогою пристрою для самостійного збору та венозної крові, з метою визначення можливості використання менш інвазивних методів у амбулаторних та віддалених умовах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155157/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Comparison of influenza hemagglutination inhibition titers from capillary blood versus venipuncture.",
-    "originalAbstract": "Capillary blood self-collection devices offer a minimally invasive alternative to venipuncture, potentially expanding access to serologic studies in outpatient and remote settings. We aimed to evaluate the concordance of influenza HAI titers between capillary blood collected using a minimally invasive device and venous blood collected via standard venipuncture.",
-    "keyPoints": [
-      "Дослідження порівнює титри грипу з капілярної та венозної крові.",
-      "Вивчається можливість застосування пристроїв для самостійного збору крові.",
-      "Результати можуть вплинути на розширення доступу до серологічних досліджень."
-    ],
-    "practicalTakeaway": "Використання пристроїв для самостійного збору капілярної крові може бути перспективним для проведення серологічних досліджень грипу.",
+    "practicalTakeaway": "Регулярний моніторинг антитіл до краснухи важливий для оцінки ефективності вакцинації та контролю поширення вірусу.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "грип",
-      "серологічні дослідження",
-      "методи збору крові"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155154",
-    "title": "Взаємодія між вірусною онколізою та імунною відповіддю організму у терапії раку на основі Newcastle disease virus",
-    "journal": "Seminars in immunology",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження аналізує роль Newcastle disease virus (NDV) як онколітичного агента та його здатність стимулювати імунну відповідь у терапії раку. NDV демонструє селективність до пухлин, широку трофіку та відсутність попереднього імунітету у людей, що робить його перспективним для імунної терапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155154/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Interplay between viral oncolysis and host immunity in Newcastle disease virus-based cancer therapy.",
-    "originalAbstract": "Oncolytic virotherapy emerged as a revolutionary approach to immunotherapy in cancer treatment. Newcastle disease virus (NDV), a promising oncolytic agent of the Paramyxoviridae family, has gained considerable attention as an immunotherapeutic agent against cancer mainly due to its inherent tumor selectivity, broad tropism, convenient propagation, and lack of pre-existing immunity in humans. Its selective tropism is primarily mediated by an impaired type I interferon signalling pathway in cancer",
-    "keyPoints": [
-      "NDV має селективність до пухлинних клітин через порушення сигналізації інтерферону типу I.",
-      "Вірус проявляє широкий спектр трофіки та зручний для виробництва.",
-      "NDV може стимулювати імунну відповідь у контексті онкологічної терапії."
-    ],
-    "practicalTakeaway": "NDV є перспективним агентом для імунної терапії раку завдяки своїй селективності та здатності активувати імунну відповідь.",
-    "specialty": "онкологія",
-    "tags": [
-      "вірусна терапія",
-      "онколіз",
-      "імунна відповідь"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155153",
-    "title": "NRF2 як охоронець здоровʼя: від давнього механізму виживання до сучасної терапевтичної цілі",
-    "journal": "Redox biology",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження розглядає роль NRF2 як системного регулятора, що підтримує баланс редокс, метаболізму, протеостазу та запалення. Виявлено його еволюційно збережену функцію захисту здоровʼя від різних стресових факторів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155153/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "NRF2 as a guardian of health: from an ancient survival pathway to a modern therapeutic target.",
-    "originalAbstract": "NRF2 (Nuclear Factor Erythroid 2-Related Factor 2) has traditionally been viewed as a master regulator of the antioxidant response. However, emerging evidence redefines NRF2 as a pleiotropic and evolutionarily conserved systems-level integrator of redox, metabolic, proteostatic, and inflammatory homeostasis, i.e., an evolutionarily conserved guardian of health. From its origins as an adaptive response to rising atmospheric oxygen in early metazoans to its role in orchestrating complex cytoprotec",
-    "keyPoints": [
-      "NRF2 регулює антиоксидантний відповідь та інші системи гомеостазу.",
-      "Роль NRF2 еволюційно збережена та охоплює широкий спектр функцій.",
-      "Можливість використання NRF2 як терапевтичної цілі для підтримки здоровʼя."
-    ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал NRF2 як цілі для розробки нових терапевтичних стратегій.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "біомедицина",
-      "захист здоровʼя",
-      "редокс"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155152",
-    "title": "Взаємодія системи тіоредоксину та запрограмованої клітинної смерті: від патофізіології до нових терапій",
-    "journal": "Redox biology",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Дослідження аналізує роль системи тіоредоксину у регуляції клітинного окислювального стану та її вплив на процеси проліферації, апоптозу та сигналізації. Виявлено, що у онкології ця система має двоякі функції: її надмірна активність може сприяти росту пухлини, тоді як порушення функцій може ініціювати запрограмовану смерть клітин. Це відкриває потенціал для розробки нових терапевтичних підходів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155152/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Crosstalk of thioredoxin system and programmed cell death: from pathophysiology to novel therapy.",
-    "originalAbstract": "The thioredoxin (Trx) system, an integral component of cellular redox regulation, preserves protein dithiol-disulfide equilibrium through its conserved Cys-Gly-Pro-Cys active site and is involved in key cellular functions, including cell proliferation, apoptosis, and signal transduction. In cancer biology, the thioredoxin system plays dual roles: overexpression can suppress oxidative stress and promote tumor growth, whereas dysfunction can trigger programmed cell death (PCD). However, a critical",
-    "keyPoints": [
-      "Система тіоредоксину регулює окислювальний стан клітин.",
-      "Вона має двоякі ролі у розвитку раку.",
-      "Можливе застосування для нових терапій раку."
-    ],
-    "practicalTakeaway": "Дослідження відкриває перспективи для розробки терапій, що цілеспрямовано впливають на систему тіоредоксину у ракових захворюваннях.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "доказова медицина",
-      "клітинна біологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155150",
-    "title": "Використання та моніторинг нейром'язової блокади у амбулаторних хірургіях: звіт анестезіологів",
-    "journal": "Anesthesia and analgesia",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізує практики застосування та моніторингу нейром'язової блокади серед анестезіологів у амбулаторних хірургічних закладах. Виявлено різноманіття підходів до застосування препаратів та методів моніторингу, що може впливати на безпеку та ефективність анестезії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155150/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Neuromuscular Blockade Use and Monitoring Practices Reported by Anesthesiology Providers Practicing in Ambulatory Surgery Settings.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Практики застосування нейром'язової блокади різняться серед анестезіологів.",
-      "Використання моніторингу нейром'язової функції є поширеним, але не універсальним.",
-      "Результати підкреслюють потребу у стандартизації підходів до застосування нейром'язових блокаторів."
-    ],
-    "practicalTakeaway": "Необхідно підвищувати рівень стандартів застосування та моніторингу нейром'язової блокади у амбулаторних хірургіях.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "анестезіологія",
-      "амбулаторна хірургія",
-      "нейром'язова блокада"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42155149",
-    "title": "Вплив порушення нюху перед серцевою хірургією на ризики для здоров'я",
-    "journal": "Anesthesia and analgesia",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізує, як порушення нюху перед серцевою операцією може бути пов'язане з ризиком смертності, когнітивних порушень у періопераційний період, якості життя та поведінкових змін.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42155149/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-20T02:45:32Z",
-    "originalTitle": "Influence of Impaired Olfaction Before Cardiac Surgery on Identifying Risk for Mortality, Perioperative Neurocognitive Dysfunction, Quality of Life, or Adverse Behavioral Outcomes.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Порушення нюху перед операцією може бути пов'язане з підвищеним ризиком смертності.",
-      "Дослідження вказує на можливий зв'язок між нюховими порушеннями та когнітивними порушеннями у періопераційний період.",
-      "Результати підкреслюють важливість оцінки нюху перед серцевою хірургією для прогнозування ризиків."
-    ],
-    "practicalTakeaway": "Оцінка нюху перед серцевою операцією може допомогти у визначенні пацієнтів з підвищеним ризиком у періопераційний період.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцева хірургія",
-      "когнітивні порушення",
-      "ризики для здоров'я"
+      "інфекційні хвороби",
+      "вірусні інфекції",
+      "імунологія"
     ],
     "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159051",
+    "title": "Заходи для зменшення навантаження неформальних опікунів хворих на хронічну хворобу нирок: систематичний огляд та мета-аналіз",
+    "journal": "Journal of renal care",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Неформальні опікуни все частіше підтримують пацієнтів із хронічною хворобою нирок, проте цей процес може спричиняти значне фізичне, емоційне та фінансове навантаження.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159051/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Interventions to Reduce Burden Among Informal Caregivers of People With Chronic Kidney Disease: Systematic Review and Meta-Analysis.",
+    "originalAbstract": "Informal caregivers increasingly support people with chronic kidney disease, yet caregiving is often associated with substantial physical, emotional, and financial burden.",
+    "keyPoints": [
+      "Розглянуто заходи для зменшення навантаження опікунів.",
+      "Опікування хворих на хронічну хворобу нирок пов'язане з високим навантаженням.",
+      "Потреба у подальших дослідженнях ефективності підтримуючих заходів."
+    ],
+    "practicalTakeaway": "Необхідно враховувати фізичні, емоційні та фінансові аспекти підтримки неформальних опікунів.",
+    "specialty": "нефрологія",
+    "tags": [
+      "доказова медицина",
+      "педіатрія",
+      "громадське здоровʼя"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159047",
+    "title": "Сучасний стан терапії Трег у трансплантації та аутоімунних захворюваннях",
+    "journal": "Immunology",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Регуляторні Т-лімфоцити (Трег) є важливою підмножиною Т-лімфоцитів, що забезпечують підтримання імунної гомеостазу. Вони мають здатність пригнічувати імунну відповідь через різні молекулярні механізми, сприяючи саморегуляції та запобіганню аутоімунних процесів. Порушення функції або кількості Трег повʼязане з розвитком різних імунних захворювань, що стимулює дослідження та клінічні випробування терапевтичних підходів із застосуванням Трег.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159047/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Current Status of Treg Therapy in Transplantation and Autoimmune Disease.",
+    "originalAbstract": "Regulatory T cells (Tregs) represent a critical subset of T lymphocytes essential for maintaining immune homeostasis. Through diverse molecular mechanisms, Tregs exert potent immunosuppressive effects that preserve self-tolerance and mitigate aberrant immune activation. Dysregulation in Treg frequency or function is closely associated with the development of various immune-mediated disorders. This has prompted extensive preclinical investigations and clinical trials evaluating the therapeutic po",
+    "keyPoints": [
+      "Трег відіграють ключову роль у підтриманні імунної рівноваги.",
+      "Порушення функції Трег повʼязане з аутоімунними та імунодефіцитними станами.",
+      "Клінічні дослідження вивчають потенціал Трег у терапії трансплантації та аутоімунних захворювань."
+    ],
+    "practicalTakeaway": "Дослідження Трег спрямовані на розвиток нових імунотерапевтичних стратегій для лікування аутоімунних та імунодефіцитних станів.",
+    "specialty": "імунологія",
+    "tags": [
+      "імунологія",
+      "терапія",
+      "аутоімунні захворювання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159046",
+    "title": "Асиметрично координований нанозімей з атомами міді для прискорення запалення та регулювання імунного гомеостазу при гострому інфаркті міокарда",
+    "journal": "ACS nano",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження присвячене розробці нанозімей з атомами міді, що мають асиметричну координацію, для застосування при гострому інфаркті міокарда. Вони демонструють потенціал у прискоренні запалення та регулюванні імунної відповіді, що може сприяти відновленню серцевої функції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159046/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Asymmetrically Coordinated Cu Single-Atom Nanozyme to Accelerate Inflammation and Immune Homeostasis Modulation in Acute Myocardial Infarction.",
+    "originalAbstract": "Single-atom nanozymes (SANs), characterized by tunable electronic properties and optimized atomic utilization efficiency, have attracted considerable attention for biomedical applications. Despite significant progress, their catalytic performance remains inferior to that of natural enzymes, largely attributable to symmetric coordination and an electronic structure. Herein, we successfully engineer a bromine (Br) doping copper (Cu)-based SAN with asymmetric coordination (Cu-BrN3/SAN@M), which exh",
+    "keyPoints": [
+      "Розроблено нанозімей з асиметричною координацією атомів міді.",
+      "Можливе застосування для регулювання запалення при гострому інфаркті.",
+      "Потенціал для покращення імунного гомеостазу та відновлення серцевої функції."
+    ],
+    "practicalTakeaway": "Дослідження демонструє потенціал нанозімей з атомами міді для терапевтичних цілей при гострому інфаркті міокарда.",
+    "specialty": "кардіологія",
+    "tags": [
+      "інноваційні терапії",
+      "серцево-судинні захворювання",
+      "біомедичні технології"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159044",
+    "title": "Вплив мовної узгодженості пацієнта та онколога на якість паліативної допомоги наприкінці життя",
+    "journal": "Journal of palliative medicine",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження порівнює показники якості паліативної допомоги для пацієнтів з гінекологічними злоякісними новоутвореннями, чиї основні онкологи говорили їхньою мовою (узгоджена мова), з тими, хто не говорив (неузгоджена мова).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159044/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Impact of Patient-Oncologist Language Concordance on the Quality of End-of-Life Care.",
+    "originalAbstract": "To compare end-of-life (EOL) care quality indicators for patients with gynecologic malignancies whose primary oncologist spoke their preferred language (language-concordant care) versus those who did not (language-discordant care).",
+    "keyPoints": [
+      "Мовна узгодженість може впливати на якість паліативної допомоги.",
+      "Дослідження порівнює два типи мовної взаємодії між пацієнтами та онкологами.",
+      "Результати можуть мати значення для покращення комунікації у паліативній допомозі."
+    ],
+    "practicalTakeaway": "Урахування мовних потреб пацієнтів може покращити якість паліативної допомоги.",
+    "specialty": "онкологія",
+    "tags": [
+      "якість допомоги",
+      "мовна узгодженість",
+      "паліативна допомога"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159043",
+    "title": "Асоціація поліморфізму гена AT1R A1166C із есенціальною гіпертензією у китайській популяції: мета-аналіз",
+    "journal": "Blood pressure",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження аналізує звʼязок між поліморфізмом гена AT1R A1166C та ризиком розвитку есенціальної гіпертензії у китайській популяції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159043/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Association of the Angiotensin II Type 1 Receptor A1166C Polymorphism with Essential Hypertension in the Chinese Population: A Meta-Analysis with Ethnic and Geographic Subgroup Analyses.",
+    "originalAbstract": "This study aims to explore the association between the angiotensin II type 1 receptor (AT1R) A1166C gene polymorphism and susceptibility to essential hypertension (EH) within the Chinese population.",
+    "keyPoints": [
+      "Проаналізовано звʼязок поліморфізму AT1R A1166C із гіпертензією.",
+      "Застосовано мета-аналіз із підгруповим аналізом за етнічністю та географією.",
+      "Результати мають значення для розуміння генетичних факторів гіпертензії."
+    ],
+    "practicalTakeaway": "Дослідження підкреслює важливість генетичних факторів у розвитку гіпертензії.",
+    "specialty": "кардіологія",
+    "tags": [
+      "генетика",
+      "гіпертензія",
+      "мета-аналіз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159042",
+    "title": "Поточні концепції та нові технології оцінки естетичних результатів реконструкції грудей",
+    "journal": "Aesthetic surgery journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Естетичні результати є важливим показником успіху реконструкції грудей. Останнім часом методи оцінки естетики перейшли від суб'єктивних вражень до більш кількісних підходів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159042/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Current Concepts and Emerging Technologies in Aesthetic Outcome Assessment of Breast Reconstruction.",
+    "originalAbstract": "Aesthetic outcomes are a crucial determinant of the overall success of breast reconstruction. Recently, aesthetic assessment has evolved from relying mainly on subjective impressions to incorporating more quantitative methods.",
+    "keyPoints": [
+      "Естетична оцінка є ключовим фактором успіху реконструкції грудей.",
+      "Зміни в методах оцінки: від суб'єктивних до кількісних.",
+      "Впровадження нових технологій для покращення оцінки результатів."
+    ],
+    "practicalTakeaway": "Використання кількісних методів оцінки може підвищити об'єктивність та точність аналізу естетичних результатів реконструкції грудей.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "естетична хірургія",
+      "технології",
+      "оцінка результатів"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159041",
+    "title": "Інсулін/IGF-сигналізація у біології острівців та її терапевтичні перспективи",
+    "journal": "Endocrine reviews",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Острівці Лангерганса є унікальним ендокринним органом, що регулює енергетичний обмін через секрецію гормонів. Регуляція маси функціональних клітин острівця здійснюється за допомогою факторів росту, зокрема інсуліну та IGFs, що мають ключову роль у підтриманні глюкозного гомеостазу. Дослідження показують важливість цих факторів у біології клітин острівця та їх потенційний терапевтичний вплив.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159041/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Insulin/IGF signaling in islet biology and its therapeutic implications.",
+    "originalAbstract": "The islet of Langerhans (or pancreatic islet) is a unique endocrine organ that secretes multiple hormones that in turn orchestrate energy metabolism in humans. As in other metabolic organs, growth factor(s) regulate functional islet mass to maintain whole-body glucose homeostasis. Over the past decades, a large body of evidence has pointed to insulin and insulin-like growth factors (IGFs) as playing central roles in modulating diverse aspects of islet cell biology and a dysregulated insulin/IGF ",
+    "keyPoints": [
+      "Інсулін і IGF відіграють центральну роль у біології клітин острівця.",
+      "Регуляція маси клітин острівця важлива для глюкозного гомеостазу.",
+      "Дослідження вказують на потенціал терапевтичного використання факторів росту."
+    ],
+    "practicalTakeaway": "Розуміння ролі інсуліну та IGF у біології острівців може сприяти розвитку нових терапевтичних стратегій для цукрового діабету.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "інсулін",
+      "IGF",
+      "біологія острівця"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159040",
+    "title": "Клінічне дослідження CBL-514 для зменшення підшкірного жиру живота",
+    "journal": "Aesthetic surgery journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження фази 2b оцінює безпечність та ефективність ін'єкцій CBL-514, що сприяє апоптозу жирових клітин, у зменшенні підшкірного жиру живота. Попередні дослідження показали клінічно значущі результати без пошкоджень нервів або некрозу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159040/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Randomized Phase 2b Trial of CBL-514 Injection for Abdominal Subcutaneous Fat Reduction With Clinician- and Patient-reported Outcomes and MRI Assessment.",
+    "originalAbstract": "CBL-514, a small-molecule injectable lipolysis agent that induces adipocyte apoptosis, demonstrated clinically meaningful reductions in abdominal subcutaneous fat by ultrasound in previous Phase 2 studies, with no observed necrosis or nerve injury.",
+    "keyPoints": [
+      "Дослідження оцінює ін'єкції CBL-514 для зменшення жирової тканини живота.",
+      "Попередні дані свідчать про безпечність та ефективність.",
+      "Вивчаються результати з урахуванням думки пацієнтів і лікарів, а також MRI."
+    ],
+    "practicalTakeaway": "Дослідження вказує на потенціал CBL-514 для неінвазивного зменшення жирової тканини живота.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "ліполіз",
+      "ін'єкційна терапія",
+      "жирові відкладення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42159039",
+    "title": "Фенотипи запальних захворювань кишечника у різних популяціях: глобальний порівняльний аналіз",
+    "journal": "Journal of Crohn's & colitis",
+    "publishedAt": "2026-05-08T00:00:00Z",
+    "abstract": "Мета дослідження — визначити, чи проявляються хвороба Крона (ХК) та неспецифічний виразковий коліт (НВК) подібно в різних регіонах світу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42159039/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T14:49:57Z",
+    "originalTitle": "Inflammatory bowel disease phenotypes in diverse populations: a global comparative analysis.",
+    "originalAbstract": "The aim of this study was to determine if Crohn's disease (CD) and ulcerative colitis (UC) manifest similarly in different parts of the world.",
+    "keyPoints": [
+      "Дослідження порівнює прояви ХК та НВК у різних популяціях.",
+      "Мета — виявити можливі відмінності у фенотипах захворювань.",
+      "Збір даних з глобальних джерел для аналізу проявів захворювань."
+    ],
+    "practicalTakeaway": "Глобальний аналіз фенотипів запальних захворювань кишечника допомагає краще розуміти їх різноманітність.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "гастроентерологія",
+      "глобальні дослідження",
+      "запальні захворювання кишечника"
+    ],
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
