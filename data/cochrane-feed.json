@@ -1,20 +1,20 @@
 [
   {
-    "title": "Топічні імуносупресанти при блефариті у дорослих",
-    "abstract": "Блефарит — поширене захворювання очей, що характеризується запаленням країв повік, викликаючи дискомфорт та пошкодження рогівки. Зазвичай застосовують гігієну повік та штучні сльози. Для зниження запалення часто призначають топічні кортикостероїди з або без антибіотиків, проте довготривале використання обмежене побічними ефектами, такими як підвищення внутрішньоочного тиску, глаукома або катаракта. Новіші засоби без стероїдів досліджуються для зменшення ризиків.",
+    "title": "Місцеві імуносупресанти при блефариті у дорослих",
+    "abstract": "Блефарит — поширене захворювання очей, що характеризується запаленням країв повік, спричиняючи дискомфорт та пошкодження очної поверхні. Зазвичай застосовують гігієну повік та штучні сльози. Для зниження запалення часто призначають місцеві кортикостероїди з або без антибіотиків, проте довготривале використання обмежене побічними ефектами, такими як підвищення внутрішньоочного тиску, глаукома або катаракта. Новіші стероїдні альтернативи без побічних ефектів досліджуються.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013550.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-19T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Topical immunosuppressants for blepharitis in adults.",
     "originalAbstract": "Blepharitis is a common ocular condition characterized by inflammation of the eyelid margins, which can cause irritating symptoms and ocular surface damage. Conventional treatment of blepharitis consists of eyelid hygiene and artificial tears. To suppress inflammation, topical corticosteroids, with or without antibiotics, are frequently prescribed. However, long-term use is limited by side effects such as increased intraocular pressure, glaucoma and/or cataract formation. Newer steroid-sparing t…",
     "keyPoints": [
       "Блефарит викликає запалення країв повік.",
-      "Застосовують гігієну та штучні сльози.",
-      "Досліджуються нові засоби без стероїдів."
+      "Застосовують гігієну повік та штучні сльози.",
+      "Місцеві кортикостероїди використовуються для зниження запалення."
     ],
-    "practicalTakeaway": "При лікуванні блефариту враховуйте ризики довготривалого застосування кортикостероїдів.",
+    "practicalTakeaway": "При лікуванні блефариту враховуйте можливі побічні ефекти довготривалого застосування кортикостероїдів.",
     "specialty": "онкологія",
     "tags": [
       "очні захворювання",
@@ -27,46 +27,46 @@
   },
   {
     "title": "Тромбоеластографія (ТЕГ) або тромбоеластометрія (ROTEM) для моніторингу гемостатичного лікування у дорослих та дітей з кровотечею",
-    "abstract": "Дослідження аналізує роль тромбоеластографії (ТЕГ) та тромбоеластометрії (ROTEM) у керуванні трансфузіями при кровотечах у дорослих і дітей. Вони все частіше застосовуються для визначення тактики лікування, але їх ефективність залишається предметом дискусій. Оновлення огляду з 2011 року оцінює можливі переваги та ризики використання цих методів.",
+    "abstract": "Дослідження аналізує роль тромбоеластографії (ТЕГ) та тромбоеластометрії (ROTEM) у керуванні трансфузіями при кровотечах у дорослих і дітей. Вони застосовуються для визначення стратегій трансфузії, але їх ефективність залишається предметом дискусій. Оновлення огляду з 2011 року оцінює потенційні переваги та ризики використання цих методів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007871.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-18T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Thromboelastography (TEG) or thromboelastometry (ROTEM) to monitor haemostatic treatment versus usual care in adults or children with bleeding.",
     "originalAbstract": "Severe bleeding and coagulopathy are serious clinical conditions that are associated with high mortality. Thromboelastography (TEG) and thromboelastometry (ROTEM) are increasingly used to guide transfusion strategy, but their roles remain disputed. This is an update of a review that was first published in 2011 and updated in January 2016. The objective was to evaluate the benefits and harms of TEG-/ROTEM-guided transfusion strategies for bleeding in adults and children by comparing TEG-ROTEM-gui…",
     "keyPoints": [
-      "Дослідження аналізує застосування ТЕГ/ROTEM у кровотечах.",
-      "Роль цих методів у керуванні трансфузіями залишається дискусійною.",
-      "Оновлений огляд оцінює їх потенційні переваги та ризики."
+      "ТЕГ і ROTEM використовуються для керування трансфузіями при кровотечах.",
+      "Роль цих методів у клінічній практиці залишається дискусійною.",
+      "Дослідження оновлює оцінку їх ефективності та безпеки."
     ],
-    "practicalTakeaway": "Застосування ТЕГ/ROTEM у кровотечах потребує подальших досліджень для визначення їхньої ролі у клінічній практиці.",
+    "practicalTakeaway": "Враховуючи дискусії щодо ролі ТЕГ і ROTEM, їх застосування слід базувати на клінічних обставинах та наявних доказах.",
     "specialty": "доказова медицина",
     "tags": [
-      "кровотечі",
       "гемостаз",
-      "тромбоеластографія"
+      "кровотечі",
+      "трансфузії"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Заходи для лікування COVID-19 у пацієнтів із хронічною хворобою нирок",
-    "abstract": "Це протокол огляду Cochrane, метою якого є оцінка переваг і ризиків застосування різних лікувальних заходів для пацієнтів із усіма стадіями хронічної хвороби нирок, включаючи тих, хто отримує діаліз або має трансплантацію нирки.",
+    "title": "Заходи для лікування COVID-19 у пацієнтів з хронічною хворобою нирок",
+    "abstract": "Це протокол для огляду Cochrane, мета якого — оцінити переваги та ризики застосування різних лікувальних заходів для пацієнтів з усіма стадіями хронічної хвороби нирок, включаючи тих, хто отримує діаліз або має трансплантацію нирки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016350/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-18T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Interventions for treating COVID-19 in people with chronic kidney disease.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of interventions for treating coronavirus disease 2019 (COVID-19) in people with all chronic kidney disease (CKD) stages, including those undergoing dialysis and kidney transplant recipients.",
     "keyPoints": [
-      "Огляд оцінює лікувальні заходи для пацієнтів із хронічною хворобою нирок та COVID-19.",
-      "Розглядаються всі стадії хронічної хвороби нирок, включаючи діаліз та трансплантацію.",
-      "Мета — визначити баланс користі та ризиків лікування."
+      "Огляд оцінює лікування COVID-19 у пацієнтів з хронічною хворобою нирок.",
+      "Розглядаються всі стадії хвороби, включаючи діаліз та трансплантацію.",
+      "Мета — визначити баланс користі та ризиків лікувальних заходів."
     ],
-    "practicalTakeaway": "Дослідження спрямовані на визначення ефективності та безпеки лікувальних заходів для пацієнтів із хронічною хворобою нирок, хворих на COVID-19.",
+    "practicalTakeaway": "Огляд допоможе визначити ефективність та безпечність лікування COVID-19 у пацієнтів з хронічною хворобою нирок.",
     "specialty": "нефрологія",
     "tags": [
       "COVID-19",
@@ -79,20 +79,20 @@
   },
   {
     "title": "Травма ендометрію у жінок, що проходять ВРТ",
-    "abstract": "Дослідження аналізує вплив навмисної травми ендометрію (подряпини) на ймовірність вагітності у жінок, які проходять внутрішньоматкову запліднення (ВРТ). Процедура полягає у створенні невеликого пошкодження слизової матки за допомогою пластикової трубки. Це оновлення попереднього огляду 2021 року.",
+    "abstract": "Дослідження вивчає вплив навмисної травми ендометрію (подряпини) на ймовірність вагітності у жінок, які проходять внутрішньоматкову запліднення (ВРТ). Процедура полягає у створенні невеликої травми слизової матки за допомогою тонкої пластикової трубки. Це оновлення попереднього огляду 2021 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009517.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Endometrial injury in women undergoing in vitro fertilisation (IVF).",
     "originalAbstract": "Implantation of an embryo within the endometrial cavity is a critical step in the process of in vitro fertilisation (IVF). Research suggests that endometrial injury (also known as endometrial scratching), defined as intentional damage to the endometrium, can increase the chance of pregnancy in women undergoing IVF. The procedure involves placing a thin plastic tube into the uterus to create a small injury (called a 'scratch') in the lining of the womb. This is an update of a 2021 Cochrane review…",
     "keyPoints": [
-      "Навмисне пошкодження ендометрію може підвищити ймовірність вагітності при ВРТ.",
+      "Дослідження аналізує вплив травми ендометрію на ймовірність вагітності при ВРТ.",
       "Процедура включає створення невеликої травми слизової матки.",
-      "Дослідження оновлює попередній аналіз 2021 року."
+      "Результати досліджень потребують подальшого вивчення."
     ],
-    "practicalTakeaway": "Обговорювати можливий вплив травми ендометрію з фахівцем перед процедурою ВРТ.",
+    "practicalTakeaway": "Результати досліджень щодо ефективності травми ендометрію для підвищення шансів на вагітність при ВРТ залишаються неоднозначними.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "ВРТ",
@@ -105,72 +105,72 @@
   },
   {
     "title": "Музикотерапія для лікування хронічного болю",
-    "abstract": "Цей протокол досліджує ефективність музикотерапії для управління хронічним болем у дорослих, тривалістю понад 12 тижнів. Вивчаються її впливи на інтенсивність болю, емоційний стан та функціональні порушення, а також можливі побічні ефекти у порівнянні з активним лікуванням, плацебо або відсутністю терапії.",
+    "abstract": "Цей протокол передбачає оцінку ефективності музикотерапії у зменшенні болю у дорослих з хронічним болем тривалістю понад 12 тижнів. Аналіз порівнює музикотерапію з активним лікуванням, плацебо або відсутністю лікування. Основна увага приділяється впливу на інтенсивність болю, емоційний стан та рівень порушень, пов’язаних із болем.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016354/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Music-based interventions for chronic pain management.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To evaluate the benefits and harms of music-based interventions (MBIs) for chronic pain management in adults with pain lasting more than 12 weeks, comparing MBIs with the following comparators: active care, placebo, or no treatment/waitlist control. Specifically, we aim to assess the effects of MBIs on critical outcomes, such as pain intensity, pain-related distress, and pain interference wi…",
     "keyPoints": [
-      "Музикотерапія може впливати на рівень болю у дорослих із хронічним болем.",
-      "Дослідження порівнює музикотерапію з плацебо, активним лікуванням та відсутністю терапії.",
-      "Очікується оцінка впливу на інтенсивність болю та емоційний стан."
+      "Музикотерапія може зменшувати інтенсивність хронічного болю.",
+      "Дослідження порівнює музикотерапію з плацебо та активним лікуванням.",
+      "Оцінюється вплив на емоційний стан та рівень порушень від болю."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити роль музикотерапії у комплексному управлінні хронічним болем.",
+    "practicalTakeaway": "Музикотерапія може бути корисною додатковою опцією для управління хронічним болем.",
     "specialty": "доказова медицина",
     "tags": [
       "хронічний біль",
       "музикотерапія",
-      "дослідження"
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Тест на простат-специфічний антиген (PSA) для скринінгу раку простати",
-    "abstract": "Скринінг раку простати залишається дискусійним. Оновлений аналіз 2013 року показав, що цей метод не знижує смертність від раку простати або загальну смертність. Нові великі дослідження та довгострокові дані з попередніх досліджень підтверджують необхідність подальшого аналізу.",
+    "title": "Тест на простат-специфічний антиген (ПСА) для скринінгу раку простати",
+    "abstract": "Оновлений аналіз досліджень щодо скринінгу раку простати показує, що застосування тесту на ПСА не має значного впливу на зниження смертності від раку простати або загальної смертності. Нові великі дослідження та довгострокові дані підтверджують попередні висновки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004720.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Prostate-specific antigen (PSA) test for prostate cancer screening.",
     "originalAbstract": "Prostate cancer screening remains controversial. A 2013 update of this Cochrane review concluded that prostate cancer screening does not significantly reduce disease-specific or overall mortality. Since then, results from two new, large trials have become available, alongside extended follow-up data from previously included trials. Thus, an update was warranted. To assess the effects of prostate cancer screening compared to no screening in men with no prior diagnosis of prostate cancer. We searc…",
     "keyPoints": [
-      "Сучасні дослідження не довели зниження смертності при скринінгу PSA.",
-      "Обґрунтованість скринінгу залишається предметом дискусій.",
-      "Додаткові дослідження потрібні для визначення ефективності."
+      "Тест на ПСА не знижує ризик смерті від раку простати.",
+      "Дослідження показують відсутність значущого впливу на загальну смертність.",
+      "Оновлення аналізу враховує нові великі дослідження та довгострокові дані."
     ],
-    "practicalTakeaway": "Результати досліджень не підтверджують значущу користь від масового скринінгу PSA для раку простати.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Результати досліджень свідчать про відсутність доказів ефективності скринінгу раку простати за допомогою тесту на ПСА.",
+    "specialty": "онкологія",
     "tags": [
-      "ракові захворювання",
+      "простат-специфічний антиген",
       "скринінг",
-      "простат-специфічний антиген"
+      "ракові захворювання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Фармакологічне лікування ожиріння у дітей та підлітків",
-    "abstract": "Дослідження оцінює ефективність та безпеку фармакологічних засобів для лікування ожиріння у молодих пацієнтів. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
+    "title": "Фармакологічні підходи до лікування ожиріння у дітей та підлітків",
+    "abstract": "Дослідження аналізує ефективність та потенційні ризики застосування фармакологічних засобів для лікування ожиріння у дітей і підлітків. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015986/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-13T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Pharmacological interventions for the treatment of obesity in children and adolescents.",
     "originalAbstract": "Treating obesity in children and adolescents is complex, given the dynamic nature of growth and development during this life stage. The role of pharmacological treatments in the management of pediatric obesity remains uncertain, particularly with respect to outcomes beyond weight reduction, including quality of life and long-term adverse events. To assess the benefits and harms of pharmacological interventions for the treatment of obesity in children and adolescents. We searched CENTRAL, MEDLINE…",
     "keyPoints": [
-      "Фармакологічні засоби для лікування ожиріння у дітей та підлітків досліджуються для визначення їхньої ефективності та безпеки.",
-      "Значна увага приділяється не лише зниженню ваги, а й впливу на якість життя та можливі довгострокові побічні ефекти.",
-      "Результати досліджень поки що не дають однозначної відповіді щодо користі та ризиків таких препаратів."
+      "Фармакотерапія може знижувати вагу у молодих пацієнтів.",
+      "Вплив на якість життя та довгострокові наслідки залишається невизначеним.",
+      "Потреба у додаткових дослідженнях для оцінки безпеки та ефективності."
     ],
-    "practicalTakeaway": "Фармакологічне лікування ожиріння у молодих пацієнтів потребує подальшого дослідження для визначення його ролі у комплексній терапії.",
+    "practicalTakeaway": "Необхідно враховувати обмежену доказову базу при застосуванні фармакологічних засобів для лікування ожиріння у дітей та підлітків.",
     "specialty": "доказова медицина",
     "tags": [
       "ожиріння",
@@ -183,72 +183,72 @@
   },
   {
     "title": "Фармакологічне лікування при хворобі Фрідріху",
-    "abstract": "Хвороба Фрідріху — рідке спадкове неврологічне захворювання, що починається з порушень рівноваги та ходьби, поступово прогресуючи до залежності від інвалідного візка. Часто супроводжується сколіозом, плоскостопістю та кардіоміопатією. З прогресією хвороби у пацієнтів з'являються порушення мови, слуху, сечовивідних шляхів, цукровий діабет, тривожність і депресія.",
+    "abstract": "Хвороба Фрідріху є рідкісним спадковим неврологічним захворюванням, що проявляється порушеннями рівноваги та ходьби, з поступовим погіршенням до інвалідності. Часто супроводжується сколіозом, плоскостопістю та кардіоміопатією. З прогресією хвороби з'являються мови, порушення слуху, проблеми з сечовим міхуром, цукровий діабет, тривожність і депресія.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007791.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Pharmacological treatments for Friedreich ataxia.",
     "originalAbstract": "Friedreich ataxia (FRDA) is a rare inherited autosomal recessive neurological disorder, characterised initially by unsteadiness in standing and walking, and slowly progressing to wheelchair dependency, usually in the late teens or early twenties. Scoliosis, pes cavus and cardiomyopathy are often present at diagnosis. As the disease progresses, individuals usually develop slurred speech, auditory impairment (especially in a noisy environment), urinary tract morbidity, diabetes, anxiety, depressio…",
     "keyPoints": [
-      "Дослідження аналізує фармакологічне лікування хвороби Фрідріху.",
-      "Значущі симптоми включають порушення рівноваги, сколіоз і кардіоміопатію.",
-      "Результати досліджень поки що не доводять ефективність конкретних препаратів."
+      "Дослідження аналізує фармакологічні підходи до лікування хвороби Фрідріху.",
+      "Загалом, ефективність препаратів залишається недостатньо доведеною.",
+      "Потребуються додаткові дослідження для визначення оптимальної терапії."
     ],
-    "practicalTakeaway": "На даний час немає переконливих доказів ефективності фармакологічних засобів для лікування хвороби Фрідріху.",
+    "practicalTakeaway": "На даний час немає достатніх доказів для рекомендацій щодо фармакологічного лікування хвороби Фрідріху.",
     "specialty": "неврологія",
     "tags": [
       "хвороба Фрідріху",
       "лікування",
       "доказова медицина"
     ],
-    "priorityScore": 7,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Конвалесцентна плазма для лікування COVID-19",
-    "abstract": "Дослідження оцінює ефективність та безпеку трансфузії конвалесцентної плазми у пацієнтів з COVID-19. Вивчено завершені та поточні дослідження, що аналізують потенційні переваги та ризики цієї терапії.",
+    "abstract": "Дослідження оцінює ефективність та безпеку трансфузії конвалесцентної плазми у пацієнтів з COVID-19. Пошук охоплював наявні та поточні дослідження у кількох базах даних.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013600.pub7/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Convalescent plasma for people with COVID-19.",
     "originalAbstract": "Convalescent plasma (CP) may reduce mortality in people with viral respiratory diseases, and is being investigated as a potential therapy for coronavirus disease 2019 (COVID-19). A thorough understanding of the current body of evidence regarding the benefits and risks of this intervention is required. To assess the effectiveness and safety of convalescent plasma transfusion in the treatment of people with COVID-19. To identify completed and ongoing studies, we searched CENTRAL, MEDLINE, Embase,…",
     "keyPoints": [
-      "Оцінюється безпека та ефективність конвалесцентної плазми при COVID-19.",
-      "Вивчені завершені та поточні дослідження.",
-      "Мета — визначити потенційні переваги та ризики терапії."
+      "Оцінюється роль конвалесцентної плазми у лікуванні COVID-19.",
+      "Досліджуються її потенційні переваги та ризики.",
+      "Збір даних з різних джерел для аналізу ефективності."
     ],
-    "practicalTakeaway": "Дослідження зосереджені на визначенні ролі конвалесцентної плазми у лікуванні COVID-19.",
+    "practicalTakeaway": "Потрібні додаткові дослідження для визначення ролі конвалесцентної плазми у лікуванні COVID-19.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "COVID-19",
       "терапія",
-      "конвалесцентна плазма"
+      "дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Інсулінові режими для дорослих з цукровим діабетом типу 1",
-    "abstract": "Цей протокол досліджує вплив різних інсулінових режимів на досягнення оптимального глікемічного контролю та мінімізацію ускладнень у дорослих з цукровим діабетом типу 1. Мета — оцінити переваги та ризики кожного режиму, а також визначити їхню ймовірну ефективність і безпеку.",
+    "title": "Режими інсуліну для дорослих з цукровим діабетом типу 1",
+    "abstract": "Це протокол для аналізу, що має оцінити вплив різних режимів інсуліну на досягнення оптимального глікемічного контролю у дорослих з цукровим діабетом типу 1, з урахуванням потенційних переваг і ризиків. Мета — визначити найефективніші та найбезпечніші режими інсуліну за допомогою мережевого мета-аналізу.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016351/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-12T00:00:00Z",
-    "updatedAt": "2026-05-20T04:19:27Z",
+    "updatedAt": "2026-05-20T15:49:45Z",
     "originalTitle": "Insulin regimens for adults living with type 1 diabetes mellitus.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To assess the effects of different insulin regimens in terms of their benefits and harms for achieving optimal glycaemic control while minimising complications and adverse events in adults with type 1 diabetes mellitus. Secondary objective To estimate the relative ranking of insulin regimens according to their probability of being the most effective and safest treatment using network meta-an…",
     "keyPoints": [
-      "Досліджуються різні інсулінові режими для дорослих з цукровим діабетом типу 1.",
-      "Мета — оцінити їхню ефективність у контролі глікемії та безпеці.",
-      "Результати допоможуть визначити найбільш ефективний та безпечний режим."
+      "Оцінка впливу різних режимів інсуліну на глікемічний контроль.",
+      "Порівняння ефективності та безпеки режимів інсуліну.",
+      "Використання мережевого мета-аналізу для ранжування режимів."
     ],
-    "practicalTakeaway": "Результати дослідження сприятимуть вибору оптимальних інсулінових режимів для дорослих з цукровим діабетом типу 1.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективні та безпечні режими інсуліну для дорослих з цукровим діабетом типу 1.",
     "specialty": "ендокринологія",
     "tags": [
       "діабет",
