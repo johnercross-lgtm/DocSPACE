@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42153369",
-    "title": "Генетичні знахідки та використання медичних послуг у рамках масового геномного скринінгу для спадкових захворювань",
-    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+    "pmid": "42155177",
+    "title": "Роль білка S100-A11, що походить від ракових фібробластів, у відповіді на терапію HER2 у HER2-позитивному раку молочної залози.",
+    "journal": "Neoplasia (New York, N.Y.)",
     "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження аналізує результати генетичного скринінгу для виявлення ризику спадкових захворювань та їх вплив на використання медичних послуг у реальних умовах. Виявлення патогенних варіантів у здорових осіб може сприяти ранньому виявленню та профілактиці захворювань.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153369/",
+    "abstract": "Дослідження аналізує вплив білка S100-A11, що виробляється раковими фібробластами, на ефективність анти-HER2 терапії у HER2-позитивному раку молочної залози. Виявлено, що мікрооточення пухлини, зокрема ракові фібробласти, може сприяти резистентності до терапії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155177/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Genetic findings and healthcare utilization among individuals undergoing population genomic screening for actionable hereditary disorders.",
-    "originalAbstract": "Genomic screening (GS) can identify risk for medically actionable, monogenic conditions in individuals who would otherwise not be considered for genetic testing. Pathogenic variant yield and associated healthcare utilization among at-risk individuals has not been well-studied in real-world settings.",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Cancer-associated fibroblast-derived protein S100-A11 influences the response to anti-HER2 therapies in HER2-positive breast cancer.",
+    "originalAbstract": "Breast cancer is the most commonly diagnosed cancer worldwide and includes the HER2-positive (HER2+) subtype, characterised by HER2 overexpression. HER2+ breast cancer is treated with neoadjuvant anti-HER2 therapy combined with taxane-based chemotherapy, yet a substantial proportion of patients fail to achieve pathological complete response. Increasing evidence indicates that the tumour microenvironment (TME), particularly cancer-associated fibroblasts (CAFs), contributes to therapy resistance t",
     "keyPoints": [
-      "Дослідження фокусується на генетичних результатах масового скринінгу.",
-      "Вивчається зв'язок між виявленими генетичними варіантами та використанням медичних послуг.",
-      "Результати допомагають оцінити потенційний вплив генетичного скринінгу на охорону здоров'я."
+      "Білок S100-A11, вироблений раковими фібробластами, може впливати на відповідь на терапію HER2.",
+      "Мікрооточення пухлини відіграє роль у резистентності до лікування HER2-позитивного раку.",
+      "Дослідження підкреслює важливість вивчення мікрооточення для покращення терапевтичних стратегій."
     ],
-    "practicalTakeaway": "Масовий генетичний скринінг може виявляти ризики спадкових захворювань у осіб без попередніх ознак, що потенційно впливає на їх медичне обслуговування.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "генетика",
-      "масовий скринінг",
-      "охорона здоровʼя"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153367",
-    "title": "Інструменти оцінки та планування резерву госпіталів для реагування на надзвичайні ситуації: систематичний огляд та мета-аналіз",
-    "journal": "Disaster medicine and public health preparedness",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Резерв госпіталів є ключовим для реагування на надзвичайні ситуації, проте ефективність інструментів їх оцінки та планування залишається недостатньо дослідженою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153367/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Hospital Medical Surge Capacity Assessment and Planning Tools for Disaster Response: A Systematic Review and Meta-analysis.",
-    "originalAbstract": "Hospital surge capacity is pivotal for disaster response, yet the effectiveness of assessment and planning tools remains underexplored.",
-    "keyPoints": [
-      "Резерв госпіталів важливий для реагування на надзвичайні ситуації.",
-      "Ефективність інструментів оцінки та планування резерву недостатньо вивчена.",
-      "Потреба у подальших дослідженнях для покращення інструментів."
-    ],
-    "practicalTakeaway": "Необхідно розвивати та впроваджувати ефективні інструменти для оцінки та планування резерву госпіталів.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "надзвичайні ситуації",
-      "госпітальна допомога",
-      "планування"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153360",
-    "title": "CTSS як новий біомаркер ремоделювання тканин при хронічному риносинуситі з поліпами",
-    "journal": "Rhinology",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження з використанням мультиоміки спрямоване на виявлення нових цілей та біомаркерів для хронічного риносинуситу з поліпами (CRSwNP), що характеризується рецидивуючим запаленням верхніх дихальних шляхів та значним ремоделюванням тканин. Поточні терапевтичні підходи залишаються недостатньо ефективними.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153360/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "CTSS as a novel biomarker for tissue remodeling in CRSwNP: insights from multi-omics research.",
-    "originalAbstract": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is a refractory, relapsing upper airway inflammatory disorder cha-racterized by prominent tissue remodeling. Current therapeutic options remain suboptimal. We aimed to identify novel potential targets and biomarkers using integrative multi-omics.",
-    "keyPoints": [
-      "Виявлено потенційний біомаркер CTSS для CRSwNP.",
-      "Мультиоміка використана для пошуку нових терапевтичних цілей.",
-      "CRSwNP характеризується рецидивуючим запаленням та ремоделюванням тканин."
-    ],
-    "practicalTakeaway": "Мультиоміка може допомогти у пошуку нових біомаркерів для CRSwNP.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "біомаркери",
-      "ремоделювання тканин",
-      "CRSwNP"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153357",
-    "title": "Амбулаторна парацентез при синдромі гіперстимуляції яєчників: дослідження можливостей та короткий огляд рандомізованого дослідження",
-    "journal": "Health technology assessment (Winchester, England)",
-    "publishedAt": "2026-05-01T00:00:00Z",
-    "abstract": "Дослідження оцінює можливість застосування амбулаторної парацентезу для запобігання госпіталізації у випадках синдрому гіперстимуляції яєчників, що є потенційно серйозним ускладненням при лікуванні безпліддя. Відсутні достатньо потужні рандомізовані дослідження для підтвердження ефективності цієї методики.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153357/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Outpatient paracentesis for Ovarian Hyperstimulation Syndrome: STOP-OHSS feasibility study and RCT Synopsis.",
-    "originalAbstract": "Ovarian hyperstimulation syndrome is a potentially serious complication of fertility treatments. Standard care often involves monitoring, then hospitalisation for severe cases. Some evidence suggests early outpatient paracentesis may prevent hospitalisation, but adequately powered randomised trials are lacking.",
-    "keyPoints": [
-      "Дослідження фокусується на застосуванні амбулаторної парацентезу при синдромі гіперстимуляції яєчників.",
-      "Поточні дані вказують на потенціал запобігання госпіталізації.",
-      "Потребуються додаткові рандомізовані дослідження для підтвердження ефективності."
-    ],
-    "practicalTakeaway": "Поточні дані свідчать про можливість використання амбулаторної парацентезу для запобігання госпіталізації при синдромі гіперстимуляції яєчників, але потрібні додаткові дослідження.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "гінекологія",
-      "фертильність",
-      "дослідження"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153356",
-    "title": "Карцинома серця у педіатрії: роль мультимодальної візуалізації та терапевтичної катетеризації",
-    "journal": "Cardiology in the young",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Представлено випадок 14-річного хлопчика з випадковим виявленням серцевого шуму, спочатку діагностованого як асиметрична гіпертрофічна кардіоміопатія. При погіршенні функціонального стану було виявлено гіперехогенну масу в міжшлуночковій перегородці, що мала центральну васкуляризацію та значний обструктивний градієнт.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153356/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Cardiac tumour in paediatrics: the role of multimodal imaging and therapeutic catheterisation.",
-    "originalAbstract": "We present the case of a 14-year-old male patient referred to paediatric cardiology for the incidental finding of a cardiac murmur and initially diagnosed with asymmetric septal hypertrophic cardiomyopathy. Due to deterioration in his functional class (NYHA II/IV), he was admitted to our institution for further evaluation. A hyperechoic mass measuring 35.7 mm × 39.4 mm was identified in the interventricular septum, with central vascularisation and a significant obstructive gradient in the right ",
-    "keyPoints": [
-      "Випадок педіатричної карциноми серця з масою в міжшлуночковій перегородці.",
-      "Мультимодальна візуалізація важлива для діагностики та планування лікування.",
-      "Терапевтична катетеризація може бути застосована для управління обструктивними симптомами."
-    ],
-    "practicalTakeaway": "Мультимодальна візуалізація та терапевтична катетеризація є ключовими у діагностиці та лікуванні рідкісних серцевих пухлин у дітей.",
-    "specialty": "кардіологія",
-    "tags": [
-      "кардіологія",
-      "діти",
-      "діагностика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153353",
-    "title": "Згода між автоматичним та розрахунковим механічним енергетичним навантаженням у педіатричній штучній вентиляції легень",
-    "journal": "Respiratory care",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження оцінює точність автоматичних вимірювань механічної енергії (MPauto), отриманих на вентиляторі Mindray SV-600, порівняно з розрахунковими значеннями (MPcalc) у дітей різного віку та режимів вентиляції. Аналіз проведено для двох обсягів дихання та визначених вікових груп.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153353/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Agreement Between Automated and Equation-Derived Mechanical Power in Pediatric Mechanical Ventilation.",
-    "originalAbstract": "Newer ventilators provide automated real-time mechanical power (MPauto) measurements, but their accuracy in children across ventilation modes remains uncertain. We aimed to evaluate the agreement between the MPauto measured on the Mindray SV-600 ventilator and the equation-derived MP (MPcalc) across two tidal volume (VT) settings, ventilation modes, and predefined age groups in ventilated children.",
-    "keyPoints": [
-      "Автоматичні вимірювання MPauto використовуються у сучасних вентиляторах.",
-      "Дослідження порівнює MPauto з розрахунковими значеннями MP.",
-      "Результати допомагають оцінити точність автоматичних вимірювань у педіатрії."
-    ],
-    "practicalTakeaway": "Результати дослідження сприяють визначенню надійності автоматичних вимірювань механічної енергії у педіатричній вентиляції.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "педіатрія",
-      "інтенсивна терапія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153351",
-    "title": "Вивільнення штучної вентиляції після дитячої кардіохірургії: баланс між потребами легень і серця",
-    "journal": "Respiratory care",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження аналізує процес вивільнення від штучної вентиляції у пацієнтів після дитячої кардіохірургії, підкреслюючи важливість балансування між потребами легень і серця для оптимального відновлення.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153351/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Letter: Ventilator Liberation after Pediatric Cardiac Surgery: Balancing the Competing Interests of the Lungs and the Heart.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Розглядається процес вивільнення від ШВЛ у дітей після кардіохірургії.",
-      "Підкреслюється важливість балансування між функціями легень і серця.",
-      "Обговорюються фактори, що впливають на успішність відмови від вентиляції."
-    ],
-    "practicalTakeaway": "Успішне вивільнення від штучної вентиляції у дітей після кардіохірургії вимагає врахування стану легень і серця.",
-    "specialty": "педіатрія",
-    "tags": [
-      "педіатрія",
-      "інтенсивна терапія",
-      "кардіологія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42153350",
-    "title": "Цитогематохімічний аналіз p63 та щільних зʼєднань у терапії раку слинних залоз",
-    "journal": "The journal of histochemistry and cytochemistry : official journal of the Histochemistry Society",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження вивчає потенціал цільової терапії у раку слинних залоз, зосереджуючись на білках p63 та цингулярних щільних зʼєднаннях. Виявлено, що пухлини мають позитивний статус для p63 і негативний для цингуляра, що може впливати на розвиток нових терапевтичних стратегій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153350/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "P63 and Tight Junctions Targeted for Therapy in Human Salivary Duct Adenocarcinoma Cells.",
-    "originalAbstract": "Salivary gland cancer is a rare heterogeneous group of neoplasms with complex histopathologic patterns, including carcinoma with squamous differentiation, for which surgery is the standard treatment. However, further research is essential for developing new therapies. Head and neck squamous cell carcinoma is positive for p63 and negative for the bicellular tight junction protein cingulin (CGN). p63 plays a key role in cancer progression such as cell proliferation, migration, apoptosis, and squam",
-    "keyPoints": [
-      "Рак слинних залоз має складну гістологію та потребує нових терапевтичних підходів.",
-      "p63 є потенційною мішенню для терапії через його роль у прогресії раку.",
-      "Виявлення статусу p63 та цингуляра може допомогти у розробці цільових лікувань."
-    ],
-    "practicalTakeaway": "Дослідження підкреслює важливість визначення білкових маркерів у раку слинних залоз для розвитку нових терапевтичних стратегій.",
+    "practicalTakeaway": "Врахування ролі ракових фібробластів і білка S100-A11 може допомогти у розробці більш ефективних підходів до лікування HER2-позитивного раку молочної залози.",
     "specialty": "онкологія",
     "tags": [
-      "онкологія",
-      "цитохімія",
-      "щільні зʼєднання"
+      "ракові фібробласти",
+      "HER2-позитивний рак молочної залози",
+      "терапевтична резистентність"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42153347",
-    "title": "Тяжкий ранній внутрішньоутробний затримка росту плода: результати генетичного тестування",
-    "journal": "Prenatal diagnosis",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження оцінює ефективність кариотипу та хромосомної мікромасивної аналізу у випадках із ізольованою важкою внутрішньоутробною затримкою росту, діагностованою до 32 тижнів вагітності. У підмножині досліджень доступні дані щодо секвенування екзомів та геномів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153347/",
+    "pmid": "42155174",
+    "title": "Дисплей пептидів на малих позаклітинних везикулах для цілеспрямованої доставки генетичного редагування",
+    "journal": "Biomaterials",
+    "publishedAt": "2026-05-15T00:00:00Z",
+    "abstract": "Дослідження демонструє, що інженерія малих позаклітинних везикул (EVs) з дисплеєм пептидів на їхній поверхні дозволяє спрямовувати їхню доставку до конкретних тканин у мишачих моделях. Це досягається шляхом звʼязування бібліотеки пептидів з баркодованими гіда-РНК, що дозволяє системну ін'єкцію EVs та оцінку їхнього внутрішнього ураження клітин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155174/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "Severe Early-Onset Fetal Growth Restriction: The Yield of Antenatal and Postnatal Genetic Testing.",
-    "originalAbstract": "We evaluated the diagnostic yield of karyotype (KT) and chromosomal microarray (CMA) with isolated severe FGR diagnosed before 32 weeks' gestation. Exome and genome sequencing (ES/GS) level data were available in a subset of this population.",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Peptide display on small extracellular vesicles directs tissue-specific tropism and delivery of gene editing machinery.",
+    "originalAbstract": "Small extracellular vesicles (EVs) deliver nucleic acid and protein therapeutics that promote tissue repair, however, there are few approaches to direct the tropism of EVs to specific tissues. Here, we address this challenge by engineering EVs to display a peptide library on the surface of EVs that is linked to barcoded guide RNA payloads (gRNAs). We show how these EVs can be administered systemically into mouse models and the cellular uptake of these gRNA-bearing EVs assessed by recovery of the",
     "keyPoints": [
-      "Дослідження фокусується на генетичному тестуванні при важкій внутрішньоутробній затримці росту.",
-      "Використовуються кариотип та хромосомна мікромасивна діагностика.",
-      "Дані про секвенування геномів та екзомів доступні лише для частини випадків."
+      "Інженерія EVs з дисплеєм пептидів дозволяє цілеспрямовану доставку.",
+      "Звʼязування пептидів з гіда-РНК забезпечує контроль за цільовими тканинами.",
+      "Модель дослідження проведена на мишах."
     ],
-    "practicalTakeaway": "Генетичне тестування може мати важливе значення у діагностиці важкої внутрішньоутробної затримки росту.",
+    "practicalTakeaway": "Технологія дисплею пептидів на EVs може потенційно використовуватися для цілеспрямованої доставки генетичних інструментів.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "біомедичні технології",
+      "генна терапія",
+      "целева доставка"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155173",
+    "title": "Реакція коротких волокон на запалення для лікування гіперплазії ендометрію",
+    "journal": "Biomaterials",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Дослідження описує створення розумної тканинної платформи, яка за допомогою коротких волокон залучає запальний ексудат і реагує на кислотність середовища, що сприяє подоланню резистентності до прогестерону при гіперплазії ендометрію. Це досягається за допомогою кон'югації левоноргестрелу до полімерних нановолокон, що може покращити терапевтичні підходи.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155173/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Short fibers recruiting inflammatory exudate via smart-responsive estrogen antagonism for endometrial hyperplasia.",
+    "originalAbstract": "Inflammation-mediated progesterone resistance, driven by the sustained acidification of the inflammatory microenvironment from V-type H+-ATPase overexpression in inflammatory cells, critically impedes the treatment of endometrial hyperplasia (EH). Herein, a smart short-fiber scaffold (PGCL) was innovatively fabricated by covalently conjugating levonorgestrel (LNG) to poly (lactic acid)/gelatin nanofibers via a two-step click chemistry approach. The fibers recruit inflammatory fluid and respond i",
+    "keyPoints": [
+      "Розроблено новий біоматеріал для лікування гіперплазії ендометрію.",
+      "Волокна залучають запальний ексудат і реагують на кислотність.",
+      "Можливе покращення терапії за рахунок локальної доставки лікарських засобів."
+    ],
+    "practicalTakeaway": "Ця технологія може потенційно підвищити ефективність лікування гіперплазії ендометрію за рахунок цілеспрямованої доставки лікарських засобів у запальний мікрооточок.",
     "specialty": "акушерство і гінекологія",
     "tags": [
-      "генетика",
-      "вагітність",
-      "діагностика"
+      "гормональна терапія",
+      "біоматеріали",
+      "ендометріоз"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42153345",
-    "title": "TEITbase: база даних транслокацій, ініційованих транспозонами у людських раках",
-    "journal": "Database : the journal of biological databases and curation",
-    "publishedAt": "2026-01-15T00:00:00Z",
-    "abstract": "TEITbase є базою даних, що систематизує інформацію про транслокації, ініційовані транспозонами (ТЕ), у людських ракових клітинах. Транслокації ТЕ можуть регулювати експресію онкогенів і сприяти утворенню нових пухлинних антигенів, що потенційно може впливати на імунну відповідь. Відсутність комплексних ресурсів у цій галузі ускладнює дослідження ролі ТЕ у ракових процесах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42153345/",
+    "pmid": "42155165",
+    "title": "Плазмовий метаболічний підпис хронічної втоми та ризику пізнього початку шизофренії: проспективне дослідження",
+    "journal": "Schizophrenia research",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Дослідження вивчало звʼязок між станом хронічної втоми та ризиком розвитку пізньої шизофренії, а також можливу роль метаболічних механізмів у цьому процесі. Враховуючи старіння населення, пізній початок шизофренії привертає дедалі більше уваги, але механізми цієї асоціації залишаються недостатньо з’ясованими.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155165/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-19T14:49:02Z",
-    "originalTitle": "TEITbase: a database for transposable element (TE)-initiated transcripts in human cancers.",
-    "originalAbstract": "Transposable elements (TEs) are abundant and play a crucial regulatory role in the human genome. Functioning as alternative promoters, TEs can be reactivated to produce TE-initiated transcripts. In cancer, TE-initiated transcription may upregulate oncogene expression and generate novel tumour-specific antigens, which could serve as potential targets for immunotherapy. However, there remains a lack of comprehensive databases that systematically investigate TE-initiated transcription in cancer. To",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Plasma metabolomic signature of frailty and risk of late-onset schizophrenia: A prospective cohort study.",
+    "originalAbstract": "With population aging, late-onset schizophrenia is attracting increasing attention. The prospective association between frailty and late-onset schizophrenia, along with its underlying mechanisms, remains unclear. This study aimed to investigate the relationship between frailty and late-onset schizophrenia, and assess the potential role of metabolic mechanisms on this association.",
     "keyPoints": [
-      "База даних TEITbase систематизує інформацію про ТЕ-ініційовані транскрипти у раках.",
-      "ТЕ можуть регулювати експресію онкогенів і сприяти утворенню пухлинних антигенів.",
-      "Дослідження ролі ТЕ важливі для розуміння ракових механізмів і потенційних терапевтичних цілей."
+      "Дослідження вивчало звʼязок між хронічною втомою та пізнім початком шизофренії.",
+      "Роль метаболічних механізмів у цій асоціації досліджувалась.",
+      "Враховується старіння населення та його вплив на психічне здоровʼя."
     ],
-    "practicalTakeaway": "TEITbase є цінним ресурсом для досліджень у галузі ракових механізмів, пов'язаних із транспозонами.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Розуміння метаболічних змін може допомогти у ранній діагностиці та профілактиці пізнього початку шизофренії.",
+    "specialty": "психіатрія",
     "tags": [
-      "онкологія",
-      "геноміка",
-      "транспозони"
+      "метаболізм",
+      "шизофренія",
+      "старіння"
     ],
     "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155157",
+    "title": "Порівняння титрів гематоглютинінінг-інгібування грипу з капілярної крові та венозної крові",
+    "journal": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Дослідження оцінює відповідність титрів гематоглютинінінг-інгібування грипу, отриманих з капілярної крові за допомогою пристрою для самостійного збору та венозної крові, з метою визначення можливості використання менш інвазивних методів у амбулаторних та віддалених умовах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155157/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Comparison of influenza hemagglutination inhibition titers from capillary blood versus venipuncture.",
+    "originalAbstract": "Capillary blood self-collection devices offer a minimally invasive alternative to venipuncture, potentially expanding access to serologic studies in outpatient and remote settings. We aimed to evaluate the concordance of influenza HAI titers between capillary blood collected using a minimally invasive device and venous blood collected via standard venipuncture.",
+    "keyPoints": [
+      "Дослідження порівнює титри грипу з капілярної та венозної крові.",
+      "Вивчається можливість застосування пристроїв для самостійного збору крові.",
+      "Результати можуть вплинути на розширення доступу до серологічних досліджень."
+    ],
+    "practicalTakeaway": "Використання пристроїв для самостійного збору капілярної крові може бути перспективним для проведення серологічних досліджень грипу.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "грип",
+      "серологічні дослідження",
+      "методи збору крові"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155154",
+    "title": "Взаємодія між вірусною онколізою та імунною відповіддю організму у терапії раку на основі Newcastle disease virus",
+    "journal": "Seminars in immunology",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Дослідження аналізує роль Newcastle disease virus (NDV) як онколітичного агента та його здатність стимулювати імунну відповідь у терапії раку. NDV демонструє селективність до пухлин, широку трофіку та відсутність попереднього імунітету у людей, що робить його перспективним для імунної терапії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155154/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Interplay between viral oncolysis and host immunity in Newcastle disease virus-based cancer therapy.",
+    "originalAbstract": "Oncolytic virotherapy emerged as a revolutionary approach to immunotherapy in cancer treatment. Newcastle disease virus (NDV), a promising oncolytic agent of the Paramyxoviridae family, has gained considerable attention as an immunotherapeutic agent against cancer mainly due to its inherent tumor selectivity, broad tropism, convenient propagation, and lack of pre-existing immunity in humans. Its selective tropism is primarily mediated by an impaired type I interferon signalling pathway in cancer",
+    "keyPoints": [
+      "NDV має селективність до пухлинних клітин через порушення сигналізації інтерферону типу I.",
+      "Вірус проявляє широкий спектр трофіки та зручний для виробництва.",
+      "NDV може стимулювати імунну відповідь у контексті онкологічної терапії."
+    ],
+    "practicalTakeaway": "NDV є перспективним агентом для імунної терапії раку завдяки своїй селективності та здатності активувати імунну відповідь.",
+    "specialty": "онкологія",
+    "tags": [
+      "вірусна терапія",
+      "онколіз",
+      "імунна відповідь"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155153",
+    "title": "NRF2 як охоронець здоровʼя: від давнього механізму виживання до сучасної терапевтичної цілі",
+    "journal": "Redox biology",
+    "publishedAt": "2026-05-15T00:00:00Z",
+    "abstract": "Дослідження розглядає роль NRF2 як системного регулятора, що підтримує баланс редокс, метаболізму, протеостазу та запалення. Виявлено його еволюційно збережену функцію захисту здоровʼя від різних стресових факторів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155153/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "NRF2 as a guardian of health: from an ancient survival pathway to a modern therapeutic target.",
+    "originalAbstract": "NRF2 (Nuclear Factor Erythroid 2-Related Factor 2) has traditionally been viewed as a master regulator of the antioxidant response. However, emerging evidence redefines NRF2 as a pleiotropic and evolutionarily conserved systems-level integrator of redox, metabolic, proteostatic, and inflammatory homeostasis, i.e., an evolutionarily conserved guardian of health. From its origins as an adaptive response to rising atmospheric oxygen in early metazoans to its role in orchestrating complex cytoprotec",
+    "keyPoints": [
+      "NRF2 регулює антиоксидантний відповідь та інші системи гомеостазу.",
+      "Роль NRF2 еволюційно збережена та охоплює широкий спектр функцій.",
+      "Можливість використання NRF2 як терапевтичної цілі для підтримки здоровʼя."
+    ],
+    "practicalTakeaway": "Дослідження підкреслює потенціал NRF2 як цілі для розробки нових терапевтичних стратегій.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "біомедицина",
+      "захист здоровʼя",
+      "редокс"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155152",
+    "title": "Взаємодія системи тіоредоксину та запрограмованої клітинної смерті: від патофізіології до нових терапій",
+    "journal": "Redox biology",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Дослідження аналізує роль системи тіоредоксину у регуляції клітинного окислювального стану та її вплив на процеси проліферації, апоптозу та сигналізації. Виявлено, що у онкології ця система має двоякі функції: її надмірна активність може сприяти росту пухлини, тоді як порушення функцій може ініціювати запрограмовану смерть клітин. Це відкриває потенціал для розробки нових терапевтичних підходів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155152/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Crosstalk of thioredoxin system and programmed cell death: from pathophysiology to novel therapy.",
+    "originalAbstract": "The thioredoxin (Trx) system, an integral component of cellular redox regulation, preserves protein dithiol-disulfide equilibrium through its conserved Cys-Gly-Pro-Cys active site and is involved in key cellular functions, including cell proliferation, apoptosis, and signal transduction. In cancer biology, the thioredoxin system plays dual roles: overexpression can suppress oxidative stress and promote tumor growth, whereas dysfunction can trigger programmed cell death (PCD). However, a critical",
+    "keyPoints": [
+      "Система тіоредоксину регулює окислювальний стан клітин.",
+      "Вона має двоякі ролі у розвитку раку.",
+      "Можливе застосування для нових терапій раку."
+    ],
+    "practicalTakeaway": "Дослідження відкриває перспективи для розробки терапій, що цілеспрямовано впливають на систему тіоредоксину у ракових захворюваннях.",
+    "specialty": "онкологія",
+    "tags": [
+      "онкологія",
+      "доказова медицина",
+      "клітинна біологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155150",
+    "title": "Використання та моніторинг нейром'язової блокади у амбулаторних хірургіях: звіт анестезіологів",
+    "journal": "Anesthesia and analgesia",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження аналізує практики застосування та моніторингу нейром'язової блокади серед анестезіологів у амбулаторних хірургічних закладах. Виявлено різноманіття підходів до застосування препаратів та методів моніторингу, що може впливати на безпеку та ефективність анестезії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155150/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Neuromuscular Blockade Use and Monitoring Practices Reported by Anesthesiology Providers Practicing in Ambulatory Surgery Settings.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Практики застосування нейром'язової блокади різняться серед анестезіологів.",
+      "Використання моніторингу нейром'язової функції є поширеним, але не універсальним.",
+      "Результати підкреслюють потребу у стандартизації підходів до застосування нейром'язових блокаторів."
+    ],
+    "practicalTakeaway": "Необхідно підвищувати рівень стандартів застосування та моніторингу нейром'язової блокади у амбулаторних хірургіях.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "анестезіологія",
+      "амбулаторна хірургія",
+      "нейром'язова блокада"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42155149",
+    "title": "Вплив порушення нюху перед серцевою хірургією на ризики для здоров'я",
+    "journal": "Anesthesia and analgesia",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження аналізує, як порушення нюху перед серцевою операцією може бути пов'язане з ризиком смертності, когнітивних порушень у періопераційний період, якості життя та поведінкових змін.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42155149/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-20T02:45:32Z",
+    "originalTitle": "Influence of Impaired Olfaction Before Cardiac Surgery on Identifying Risk for Mortality, Perioperative Neurocognitive Dysfunction, Quality of Life, or Adverse Behavioral Outcomes.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Порушення нюху перед операцією може бути пов'язане з підвищеним ризиком смертності.",
+      "Дослідження вказує на можливий зв'язок між нюховими порушеннями та когнітивними порушеннями у періопераційний період.",
+      "Результати підкреслюють важливість оцінки нюху перед серцевою хірургією для прогнозування ризиків."
+    ],
+    "practicalTakeaway": "Оцінка нюху перед серцевою операцією може допомогти у визначенні пацієнтів з підвищеним ризиком у періопераційний період.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцева хірургія",
+      "когнітивні порушення",
+      "ризики для здоров'я"
+    ],
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
