@@ -1,20 +1,46 @@
 [
   {
+    "title": "Плановий ранній політ до 37 тижнів проти очікуваного ведення при гіпертензивних розладах вагітності",
+    "abstract": "Гіпертензивні розлади вагітності, включаючи хронічну гіпертензію, гестаційну гіпертензію та прееклампсію, є важливими факторами материнської та перинатальної захворюваності і смертності. Основне лікування цих станів — плановий ранній політ, тоді як альтернативою є очікуване ведення з ретельним спостереженням при відсутності важких ускладнень. Вибір оптимальної тактики вимагає оцінки переваг і ризиків кожної з них.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009273.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
+    "originalTitle": "Planned early birth versus expectant management for hypertensive disorders from 34 weeks' gestation to term.",
+    "originalAbstract": "Hypertensive disorders in pregnancy are significant contributors to maternal and perinatal morbidity and mortality. They include chronic hypertension, gestational hypertension and pre-eclampsia. Definitive management of these disorders is planned early birth. The alternative is expectant management with close monitoring, if severe complications are not present. There are benefits and risks associated with both policies, so it is important to establish the safest option. To assess the benefits an…",
+    "keyPoints": [
+      "Обговорюється порівняння раннього планового політ з очікуваним веденням при гіпертензивних розладах вагітності.",
+      "Розглядаються переваги та ризики обох підходів.",
+      "Дослідження спрямоване на визначення безпечнішого варіанту для матері та дитини."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбезпечніший підхід у веденні гіпертензивних розладів вагітності з 34 тижнів до пологів.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "вагітність",
+      "гіпертензія",
+      "перинатальні ризики"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Використання DMARDs перед операцією у пацієнтів з запальним артритом",
-    "abstract": "Дослідження аналізує рекомендації щодо перорального застосування препаратів, що модифікують хворобу (DMARDs), у пацієнтів з запальним артритом перед хірургічними втручаннями. Враховується баланс між ризиком інфекцій та погіршенням симптомів при припиненні лікування.",
+    "abstract": "Дослідження аналізує рекомендації щодо перорального прийому препаратів, що модифікують хворобу (DMARDs), у пацієнтів з запальним артритом перед хірургічними втручаннями. Враховується баланс між ризиком інфекцій та загостренням симптомів при припиненні або продовженні терапії.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015096.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-20T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Perioperative use of disease-modifying anti-rheumatic drugs (DMARDs) in people with inflammatory arthritis.",
     "originalAbstract": "Disease-modifying anti-rheumatic drugs (DMARDs) are the cornerstone of pharmacologic treatment for inflammatory arthritis (rheumatoid arthritis, psoriatic arthritis and axial spondyloarthritis). DMARDs are immunomodulatory drugs which may increase the risk of infection, including surgical site infections; thus, some surgery guidelines recommend continuing some DMARDs and withholding others prior to surgery. On the other hand, discontinuation may result in worsening of the symptoms of the underly…",
     "keyPoints": [
-      "DMARDs є ключовими препаратами для лікування запального артриту.",
-      "Припинення DMARDs перед операцією може знизити ризик інфекцій.",
-      "Рішення щодо припинення або продовження DMARDs має базуватись на індивідуальній оцінці ризиків."
+      "Дослідження розглядає рекомендації щодо застосування DMARDs перед операцією.",
+      "Обговорюється ризик інфекцій при продовженні терапії.",
+      "Розглядається вплив припинення або продовження DMARDs на симптоми."
     ],
-    "practicalTakeaway": "Лікарям слід враховувати баланс ризиків і користі при прийнятті рішення про застосування DMARDs перед операцією.",
+    "practicalTakeaway": "Рішення щодо застосування DMARDs перед операцією має базуватись на індивідуальній оцінці ризиків та користі.",
     "specialty": "ревматологія",
     "tags": [
       "ревматологія",
@@ -26,103 +52,103 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Гастростомія з фундоплікацією або гастро-джуїналльною трубкою для лікування гастроезофагеальної рефлюксії у дітей з неврологічними порушеннями",
-    "abstract": "Дослідження аналізує ефективність різних хірургічних підходів для лікування гастроезофагеальної рефлюксії у дітей та підлітків з неврологічними порушеннями. Виявлено значну варіативність у застосуванні методів та обмежену кількість досліджень у цій сфері.",
+    "title": "Гастростомія з фундоплікацією або гастро-джуноїльною трубкою для лікування гастроезофагеальної рефлюксії у дітей з неврологічними порушеннями",
+    "abstract": "Діти з неврологічними порушеннями є вразливою групою, у яких часто спостерігаються хронічні супутні стани, зокрема гастроезофагеальна рефлюксія (ГЕР) та дисфагія. Вони сприяють підвищенню ризику ускладнень і смертності. Існує значна варіабельність у підходах до лікування ГЕР, але досліджень у цій сфері небагато.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015007.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-20T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Gastrostomy plus fundoplication or gastro-jejunal tube or gastrostomy alone for treating or preventing gastro-esophageal reflux in children and adolescents with neurological impairment.",
     "originalAbstract": "Children with neurological impairment (NI) represent a vulnerable pediatric population who often experience multiple co-occurring chronic conditions and may develop worsening comorbidities over time due to primary dysfunctions of the nervous system. Among the most significant of these are gastro-esophageal reflux (GER) and dysphagia, which likely account for much of the associated morbidity and mortality. There is substantial variation in the management of GER, and few studies have been conducte…",
     "keyPoints": [
-      "Розглядаються хірургічні методи для лікування гастроезофагеальної рефлюксії у дітей з неврологічними порушеннями.",
-      "Виявлено значну варіативність у підходах до лікування.",
-      "Обмежена кількість досліджень у цій галузі."
+      "Діти з неврологічними порушеннями мають високий ризик ГЕР.",
+      "Вибір лікування варіює, включаючи гастростомію з фундоплікацією або гастро-джуноїльною трубкою.",
+      "Дослідження щодо ефективності різних методів обмежені."
     ],
-    "practicalTakeaway": "Необхідні додаткові дослідження для визначення оптимальної тактики лікування гастроезофагеальної рефлюксії у цій групі пацієнтів.",
+    "practicalTakeaway": "Необхідні додаткові дослідження для визначення оптимальної тактики лікування ГЕР у дітей з неврологічними порушеннями.",
     "specialty": "педіатрія",
     "tags": [
-      "гастроентерологія",
-      "хірургія",
-      "доказова медицина"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Зниження дози та припинення застосування не-ТНФ біологічних та цільових синтетичних DMARDs при ревматоїдному артриті у стані ремісії або з низькою активністю хвороби",
-    "abstract": "Цей протокол досліджує переваги та ризики зменшення дози або припинення застосування не-ТНФ біологічних та цільових синтетичних DMARDs у пацієнтів з ревматоїдним артритом у стані ремісії або з низькою активністю хвороби.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014173/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
-    "originalTitle": "Dose reduction and discontinuation of non-tumor necrosis factor (TNF) biologic and targeted synthetic disease-modifying antirheumatic drugs (DMARDs) for people with rheumatoid arthritis in remission or low disease activity.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To determine the benefits and harms of dose reduction or discontinuation of non-TNF biologic or targeted synthetic DMARDs in people with rheumatoid arthritis who are in remission or have low disease activity.",
-    "keyPoints": [
-      "Досліджується безпека та ефективність зменшення дози або припинення не-ТНФ біологічних та цільових синтетичних DMARDs.",
-      "Фокус на пацієнтах з ревматоїдним артритом у ремісії або з низькою активністю хвороби.",
-      "Мета — визначити баланс між перевагами та ризиками таких підходів."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити, чи можливо безпечно зменшити або припинити застосування певних препаратів у пацієнтів з ревматоїдним артритом у стані ремісії або з низькою активністю хвороби.",
-    "specialty": "ревматологія",
-    "tags": [
-      "ревматологія",
-      "лікування",
-      "доказова медицина"
+      "доказова медицина",
+      "неврологія",
+      "гастроентерологія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Топічні імуносупресанти при блефариті у дорослих",
-    "abstract": "Блефарит — поширене захворювання очей, що характеризується запаленням країв повік і може спричиняти дискомфорт та пошкодження очної поверхні. Зазвичай лікують гігієною повік та штучними сльозами. Для зниження запалення часто застосовують топічні кортикостероїди з або без антибіотиків, проте довготривале використання обмежене побічними ефектами, такими як підвищення внутрішньоочного тиску, глаукома та катаракта. Новіші засоби без стероїдів досліджуються як альтернатива.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013550.pub3/full",
+    "title": "Зниження дози та припинення застосування не-ТНФ біологічних та цільових синтетичних DMARDs при ревматоїдному артриті в ремісії або з низькою активністю хвороби",
+    "abstract": "Це протокол для огляду Cochrane, що досліджує переваги та ризики зниження дози або припинення застосування не-ТНФ біологічних та цільових синтетичних DMARDs у пацієнтів з ревматоїдним артритом, які перебувають у ремісії або мають низьку активність хвороби.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014173/full",
     "source": "Cochrane",
     "category": "evidence_review",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
-    "originalTitle": "Topical immunosuppressants for blepharitis in adults.",
-    "originalAbstract": "Blepharitis is a common ocular condition characterized by inflammation of the eyelid margins, which can cause irritating symptoms and ocular surface damage. Conventional treatment of blepharitis consists of eyelid hygiene and artificial tears. To suppress inflammation, topical corticosteroids, with or without antibiotics, are frequently prescribed. However, long-term use is limited by side effects such as increased intraocular pressure, glaucoma and/or cataract formation. Newer steroid-sparing t…",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
+    "originalTitle": "Dose reduction and discontinuation of non-tumor necrosis factor (TNF) biologic and targeted synthetic disease-modifying antirheumatic drugs (DMARDs) for people with rheumatoid arthritis in remission or low disease activity.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To determine the benefits and harms of dose reduction or discontinuation of non-TNF biologic or targeted synthetic DMARDs in people with rheumatoid arthritis who are in remission or have low disease activity.",
     "keyPoints": [
-      "Блефарит викликає запалення країв повік.",
-      "Звичайне лікування — гігієна та штучні сльози.",
-      "Топічні кортикостероїди застосовують для зниження запалення, але з ризиком побічних ефектів."
+      "Досліджується ефективність зниження дози або припинення не-ТНФ біологічних та цільових синтетичних DMARDs.",
+      "Мета — визначити переваги та ризики для пацієнтів у ремісії або з низькою активністю.",
+      "Результати допоможуть оцінити можливість зменшення терапії без втрати контролю над захворюванням."
     ],
-    "practicalTakeaway": "При лікуванні блефариту слід враховувати ризики довготривалого застосування кортикостероїдів.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Результати дослідження можуть вплинути на рішення щодо зменшення або припинення застосування певних препаратів у пацієнтів з ревматоїдним артритом у ремісії.",
+    "specialty": "ревматологія",
     "tags": [
-      "очні захворювання",
-      "запалення",
-      "лікування"
+      "ревматоїдний артрит",
+      "лікування",
+      "дослідження"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Тромбоеластографія (ТЕГ) або тромбоеластометрія (ROTEM) для моніторингу гемостатичного лікування у дорослих та дітей із кровотечею",
-    "abstract": "Це дослідження оцінює ефективність та можливі ризики застосування ТЕГ/ROTEM для керування трансфузіями у пацієнтів із кровотечею. Аналіз порівнює результати лікування, керованого цими методами, з традиційним підходом.",
+    "title": "Місцеві імуносупресанти при блефариті у дорослих",
+    "abstract": "Блефарит — поширене запальне захворювання країв повік, що спричиняє дискомфорт та пошкодження очної поверхні. Зазвичай застосовують гігієну повік та штучні сльози. Для зниження запалення часто призначають місцеві кортикостероїди з або без антибіотиків, проте тривале застосування обмежене побічними ефектами, такими як підвищення внутрішньоочного тиску, глаукома та катаракта. Новіші стероїдні препарати без побічних ефектів наразі досліджуються.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013550.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
+    "originalTitle": "Topical immunosuppressants for blepharitis in adults.",
+    "originalAbstract": "Blepharitis is a common ocular condition characterized by inflammation of the eyelid margins, which can cause irritating symptoms and ocular surface damage. Conventional treatment of blepharitis consists of eyelid hygiene and artificial tears. To suppress inflammation, topical corticosteroids, with or without antibiotics, are frequently prescribed. However, long-term use is limited by side effects such as increased intraocular pressure, glaucoma and/or cataract formation. Newer steroid-sparing t…",
+    "keyPoints": [
+      "Застосування місцевих імуносупресантів при блефариті досліджується.",
+      "Тривале використання кортикостероїдів має побічні ефекти.",
+      "Нові стероїдні препарати розглядаються як альтернативи."
+    ],
+    "practicalTakeaway": "Поточні дослідження вивчають можливість застосування місцевих імуносупресантів для лікування блефариту у дорослих.",
+    "specialty": "онкологія",
+    "tags": [
+      "очні захворювання",
+      "запальні процеси",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Тромбоеластографія (ТЕГ) або тромбоеластометрія (ROTEM) для моніторингу гемостатичного лікування у дорослих та дітей з кровотечею",
+    "abstract": "Дослідження аналізує ефективність та можливі ризики застосування ТЕГ/ROTEM для керування трансфузіями у пацієнтів з кровотечею, порівнюючи їх з традиційним підходом. Це оновлення огляду, перше опубліковане у 2011 році, з метою визначити роль цих методів у клінічній практиці.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007871.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-18T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Thromboelastography (TEG) or thromboelastometry (ROTEM) to monitor haemostatic treatment versus usual care in adults or children with bleeding.",
     "originalAbstract": "Severe bleeding and coagulopathy are serious clinical conditions that are associated with high mortality. Thromboelastography (TEG) and thromboelastometry (ROTEM) are increasingly used to guide transfusion strategy, but their roles remain disputed. This is an update of a review that was first published in 2011 and updated in January 2016. The objective was to evaluate the benefits and harms of TEG-/ROTEM-guided transfusion strategies for bleeding in adults and children by comparing TEG-ROTEM-gui…",
     "keyPoints": [
-      "Дослідження аналізує роль ТЕГ/ROTEM у керуванні кровотечею.",
-      "Результати допомагають визначити потенційні переваги та ризики застосування.",
-      "Оновлення огляду з 2016 року враховує нові дані."
+      "ТЕГ/ROTEM використовуються для керування трансфузіями при кровотечах.",
+      "Докази щодо їхньої переваги залишаються суперечливими.",
+      "Оновлений аналіз включає дані з дорослих та дітей."
     ],
-    "practicalTakeaway": "Застосування ТЕГ/ROTEM може впливати на стратегію трансфузій у пацієнтів із кровотечею, але потребує подальшого дослідження.",
+    "practicalTakeaway": "Використання ТЕГ/ROTEM може допомогти у прийнятті рішень щодо трансфузій, але їхня роль потребує подальшого дослідження.",
     "specialty": "доказова медицина",
     "tags": [
-      "кровотеча",
       "гемостаз",
+      "кровотечі",
       "тромбоеластографія"
     ],
     "priorityScore": 7,
@@ -131,20 +157,20 @@
   },
   {
     "title": "Заходи для лікування COVID-19 у пацієнтів із хронічною хворобою нирок",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг і ризиків застосування різних лікувальних заходів для пацієнтів із усіма стадіями хронічної хвороби нирок, включаючи тих, хто отримує діаліз або має трансплантацію нирки.",
+    "abstract": "Це протокол для огляду Cochrane, мета якого — оцінити переваги та ризики застосування різних лікувальних заходів для пацієнтів із усіма стадіями хронічної хвороби нирок, включаючи тих, хто отримує діаліз або має трансплантацію нирки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016350/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-18T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Interventions for treating COVID-19 in people with chronic kidney disease.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of interventions for treating coronavirus disease 2019 (COVID-19) in people with all chronic kidney disease (CKD) stages, including those undergoing dialysis and kidney transplant recipients.",
     "keyPoints": [
       "Огляд оцінює лікування COVID-19 у пацієнтів із хронічною хворобою нирок.",
-      "Розглядаються всі стадії хвороби, включаючи діаліз та трансплантацію.",
-      "Мета — визначити баланс користі і ризиків лікувальних заходів."
+      "Розглядаються всі стадії хвороби, включно з діалізом і трансплантацією.",
+      "Мета — визначити баланс користі та ризиків лікувальних заходів."
     ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення ефективності та безпеки лікувальних стратегій COVID-19 у пацієнтів із хронічною хворобою нирок.",
+    "practicalTakeaway": "Дослідження спрямоване на визначення ефективності та безпеки лікувальних заходів для пацієнтів із хронічною хворобою нирок, хворих на COVID-19.",
     "specialty": "нефрологія",
     "tags": [
       "COVID-19",
@@ -157,25 +183,25 @@
   },
   {
     "title": "Травма ендометрію у жінок, що проходять ВРТ",
-    "abstract": "Дослідження вивчали вплив навмисного пошкодження ендометрію (травми або подряпини) на ймовірність вагітності у жінок, які проходять внутрішньоматкову запліднення (ВРТ). Процедура полягає у створенні невеликої травми ендометрію за допомогою тонкої пластикової трубки. Це оновлення попереднього аналізу 2021 року.",
+    "abstract": "Дослідження аналізує вплив навмисної травми ендометрію (подряпини) на шанси вагітності у жінок, які проходять внутрішньоматкову запліднення (ВРТ). Процедура передбачає створення невеликої травми слизової оболонки матки за допомогою пластикової трубки. Це оновлення попереднього аналізу 2021 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009517.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Endometrial injury in women undergoing in vitro fertilisation (IVF).",
     "originalAbstract": "Implantation of an embryo within the endometrial cavity is a critical step in the process of in vitro fertilisation (IVF). Research suggests that endometrial injury (also known as endometrial scratching), defined as intentional damage to the endometrium, can increase the chance of pregnancy in women undergoing IVF. The procedure involves placing a thin plastic tube into the uterus to create a small injury (called a 'scratch') in the lining of the womb. This is an update of a 2021 Cochrane review…",
     "keyPoints": [
-      "Дослідження аналізує вплив травми ендометрію на ймовірність вагітності при ВРТ.",
-      "Процедура включає створення невеликої травми ендометрію за допомогою пластикової трубки.",
-      "Результати дослідження оновлюють попередні дані 2021 року."
+      "Навмисна травма ендометрію може впливати на ймовірність вагітності при ВРТ.",
+      "Процедура включає створення невеликої травми слизової матки.",
+      "Дослідження оновлює попередні висновки 2021 року."
     ],
-    "practicalTakeaway": "Інформація про ефективність травми ендометрію для підвищення шансів на вагітність при ВРТ потребує подальших досліджень.",
+    "practicalTakeaway": "Обговорювати можливий вплив травми ендометрію з фахівцем перед ВРТ.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "репродуктологія",
       "вагітність",
-      "інсемінація"
+      "ендометрій"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
@@ -183,12 +209,12 @@
   },
   {
     "title": "Музикотерапія для лікування хронічного болю",
-    "abstract": "Цей протокол досліджує ефективність музикотерапії у зменшенні хронічного болю у дорослих, що триває понад 12 тижнів. Аналіз порівнює музикотерапію з активним лікуванням, плацебо або відсутністю терапії. Основна увага приділяється впливу на інтенсивність болю, емоційний стан і функціональні порушення, пов'язані з болем.",
+    "abstract": "Цей протокол досліджує ефективність музикотерапії для зменшення хронічного болю у дорослих, що триває понад 12 тижнів. Аналіз порівнює музикотерапію з активним лікуванням, плацебо або відсутністю терапії, зосереджуючись на впливі на інтенсивність болю, емоційний стан і функціональні порушення, пов’язані з болем.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016354/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Music-based interventions for chronic pain management.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To evaluate the benefits and harms of music-based interventions (MBIs) for chronic pain management in adults with pain lasting more than 12 weeks, comparing MBIs with the following comparators: active care, placebo, or no treatment/waitlist control. Specifically, we aim to assess the effects of MBIs on critical outcomes, such as pain intensity, pain-related distress, and pain interference wi…",
     "keyPoints": [
@@ -196,64 +222,38 @@
       "Дослідження порівнює музикотерапію з плацебо та активним лікуванням.",
       "Результати допомагають оцінити потенційні переваги та ризики застосування музикотерапії."
     ],
-    "practicalTakeaway": "Музикотерапія може бути розглянута як додатковий підхід у менеджменті хронічного болю.",
+    "practicalTakeaway": "Музикотерапія може бути корисною додатковою опцією для управління хронічним болем.",
     "specialty": "доказова медицина",
     "tags": [
       "хронічний біль",
       "музикотерапія",
-      "аналіз"
+      "лікування"
     ],
-    "priorityScore": 3,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Тест на простат-специфічний антиген (PSA) для скринінгу раку простати",
-    "abstract": "Скринінг раку простати залишається предметом дискусій. Оновлений аналіз 2013 року показав, що цей метод не знижує смертність, повʼязану з раком простати або загальну смертність. Нові великі дослідження та довгострокові дані з попередніх досліджень підтверджують цю тенденцію. Тому проведено оновлення аналізу для оцінки впливу скринінгу PSA порівняно з відсутністю скринінгу у чоловіків без попереднього діагнозу раку простати.",
+    "title": "Тест на простатспецифічний антиген (ПСА) для скринінгу раку простати",
+    "abstract": "Оновлений аналіз досліджень щодо скринінгу раку простати показує, що застосування тесту на ПСА не має значного впливу на зниження смертності від раку простати або загальної смертності. Нові великі дослідження та довгострокові дані підтверджують відсутність доказів ефективності такого скринінгу.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004720.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-15T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
+    "updatedAt": "2026-05-21T15:47:02Z",
     "originalTitle": "Prostate-specific antigen (PSA) test for prostate cancer screening.",
     "originalAbstract": "Prostate cancer screening remains controversial. A 2013 update of this Cochrane review concluded that prostate cancer screening does not significantly reduce disease-specific or overall mortality. Since then, results from two new, large trials have become available, alongside extended follow-up data from previously included trials. Thus, an update was warranted. To assess the effects of prostate cancer screening compared to no screening in men with no prior diagnosis of prostate cancer. We searc…",
     "keyPoints": [
-      "Сучасні дослідження не виявили зниження смертності від раку простати при скринінгу PSA.",
-      "Оновлені дані підтверджують відсутність значущого ефекту скринінгу.",
-      "Обґрунтованість масового застосування скринінгу залишається під питанням."
+      "Тест на ПСА не знижує смертність від раку простати.",
+      "Докази не підтверджують користь скринінгу для загального здоровʼя.",
+      "Оновлення базується на нових великих дослідженнях та довгострокових даних."
     ],
-    "practicalTakeaway": "Рішення щодо застосування тесту PSA для скринінгу раку простати має враховувати відсутність доказів його ефективності у зниженні смертності.",
+    "practicalTakeaway": "Результати досліджень не підтверджують ефективність скринінгу на ПСА для зниження смертності від раку простати.",
     "specialty": "онкологія",
     "tags": [
       "ракові захворювання",
       "скринінг",
-      "простат-специфічний антиген"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Фармакологічне лікування ожиріння у дітей та підлітків",
-    "abstract": "Це дослідження оцінює ефективність та безпеку фармакологічних методів для лікування ожиріння у дітей і підлітків. Враховується вплив на зниження ваги, якість життя та довгострокові побічні ефекти.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015986/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-13T00:00:00Z",
-    "updatedAt": "2026-05-21T04:27:31Z",
-    "originalTitle": "Pharmacological interventions for the treatment of obesity in children and adolescents.",
-    "originalAbstract": "Treating obesity in children and adolescents is complex, given the dynamic nature of growth and development during this life stage. The role of pharmacological treatments in the management of pediatric obesity remains uncertain, particularly with respect to outcomes beyond weight reduction, including quality of life and long-term adverse events. To assess the benefits and harms of pharmacological interventions for the treatment of obesity in children and adolescents. We searched CENTRAL, MEDLINE…",
-    "keyPoints": [
-      "Фармакологічні засоби використовуються для лікування ожиріння у молодих пацієнтів.",
-      "Докази щодо довгострокової безпеки та ефективності обмежені.",
-      "Рішення про застосування препаратів повинно враховувати потенційні ризики і користь."
-    ],
-    "practicalTakeaway": "Потрібні додаткові дослідження для визначення ролі фармакотерапії у лікуванні дитячого ожиріння.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "ожиріння",
-      "лікування",
-      "діти"
+      "простатспецифічний антиген"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
