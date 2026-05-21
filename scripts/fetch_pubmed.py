@@ -22,7 +22,14 @@ SEARCH_TERMS = {
 }
 
 OUT_PATH = Path("data/pubmed-feed.json")
+
+# Сколько статей должно попасть в итоговый фид
 MAX_RESULTS = 10
+
+# Сколько статей забираем из PubMed с запасом,
+# потому что часть может быть без abstract
+FETCH_RESULTS = 30
+
 ABSTRACT_LIMIT = 500
 
 
@@ -44,6 +51,21 @@ def get_text(element):
     return "".join(element.itertext()).strip()
 
 
+def get_abstract(article):
+    """
+    PubMed иногда хранит abstract несколькими блоками AbstractText.
+    Собираем все части в один текст.
+    """
+    abstract_parts = []
+
+    for abstract_element in article.findall(".//Abstract/AbstractText"):
+        text = get_text(abstract_element)
+        if text:
+            abstract_parts.append(text)
+
+    return " ".join(abstract_parts).strip()
+
+
 def fetch_pmids(term):
     encoded = urllib.parse.quote(term)
 
@@ -51,7 +73,7 @@ def fetch_pmids(term):
         "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
         f"?db=pubmed"
         f"&term={encoded}"
-        f"&retmax={MAX_RESULTS}"
+        f"&retmax={FETCH_RESULTS}"
         f"&sort=date"
         f"&retmode=json"
     )
@@ -154,10 +176,14 @@ def fetch_articles(pmids, category):
         pmid = get_text(article.find(".//PMID"))
         title = get_text(article.find(".//ArticleTitle"))
         journal = get_text(article.find(".//Journal/Title"))
-        abstract = get_text(article.find(".//Abstract/AbstractText"))
+        abstract = get_abstract(article)
         published_at = parse_published_at(article)
 
         if not pmid or not title:
+            continue
+
+        if not abstract.strip():
+            print(f"Skipped PubMed article without abstract: {pmid or title}")
             continue
 
         articles.append({
@@ -172,6 +198,9 @@ def fetch_articles(pmids, category):
             "updatedAt": updated_at
         })
 
+        if len(articles) >= MAX_RESULTS:
+            break
+
     return articles
 
 
@@ -180,7 +209,20 @@ def process_items_with_ai(items):
 
     for index, item in enumerate(items, start=1):
         print(f"AI processing PubMed item {index}/{len(items)}: {item.get('title', '')[:80]}")
-        processed_items.append(process_article_with_ai(item))
+
+        processed_item = process_article_with_ai(item)
+
+        abstract = str(processed_item.get("abstract", "")).strip()
+
+        if not abstract:
+            print(
+                "Skipped AI-processed PubMed item without abstract: "
+                f"{processed_item.get('pmid') or processed_item.get('title')}"
+            )
+            continue
+
+        processed_item["abstract"] = abstract[:ABSTRACT_LIMIT]
+        processed_items.append(processed_item)
 
     return processed_items
 
