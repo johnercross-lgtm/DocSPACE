@@ -1,282 +1,281 @@
 [
   {
-    "pmid": "42166828",
-    "title": "Клінічні передбачення інтубації та тривалого вентиляційного підтримання у педіатричних випадках синдрому Гілен-Бара (GBS)",
-    "journal": "Brain & development",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження аналізує фактори, що сприяють необхідності механічної вентиляції та тривалого її застосування у дітей з синдромом Гілен-Бара, а також вплив часу проведення трахеостомії на результати лікування. Вивчено 75 пацієнтів, госпіталізованих у нейро-інтенсивну терапію протягом 2008-2018 років.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166828/",
+    "pmid": "42170804",
+    "title": "Розробка поліфенотипічних балів для виявлення носіїв G6PD rs1050828 у афроамериканців",
+    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+    "publishedAt": "2027-01-22T00:00:00Z",
+    "abstract": "Дослідження зосереджене на варіанті G6PD rs1050828, поширеному серед афроамериканців, що знижує рівень HbA1c незалежно від глікемії, що може спричинити недіагностику або затримку діагнозу цукрового діабету. Мета — створити поліфенотипічні бали (ППБ) на основі routinely collected phenotypes для ідентифікації ймовірних носіїв. Аналіз проведено на даних 31 083 учасників програми All of Us.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170804/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Clinical predictors of intubation and prolonged ventilation in pediatric Guillain-Barré syndrome requiring intensive care: A retrospective observational study.",
-    "originalAbstract": "Pediatric Guillain-Barré syndrome (GBS) may progress to respiratory failure requiring mechanical ventilation (MV), yet predictors of intubation, prolonged MV (PMV), and tracheostomy remain poorly defined. We aimed to identify factors associated with intubation and PMV and evaluate the impact of early versus late tracheostomy (>14 days) on outcomes. We retrospectively reviewed 75 children with GBS admitted to a Neuro-ICU (2008-2018). Demographic, clinical, electrophysiological, and cerebrospinal ",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Development of polyphenotypic scores to prioritize detection of G6PD rs1050828 carriers in African and African American populations.",
+    "originalAbstract": "The G6PD missense variant rs1050828 (NP_000393.4:p.Val98Met) is common in African and African American populations. It lowers HbA1c levels independent of glycemia, increasing the risk of underdiagnosis or delayed diagnosis of diabetes. We aimed to develop polyphenotypic scores (PPS) using routinely collected phenotypes to identify likely carriers. Using data from 31,083 African or African American participants in the All of Us Research Program (AoU), we developed sex-specific PPS through multi-s",
     "keyPoints": [
-      "Визначено фактори, що асоціюються з потребою інтубації у дітей з GBS.",
-      "Обговорюється вплив ранньої та пізньої трахеостомії на результати.",
-      "Дослідження базується на ретроспективному аналізі 75 випадків."
+      "Розроблено поліфенотипічні бали для виявлення носіїв G6PD rs1050828.",
+      "Бал використовують для підвищення точності діагностики цукрового діабету.",
+      "Дослідження базується на даних афроамериканської та африканської популяцій."
     ],
-    "practicalTakeaway": "Раннє визначення ризику потреби у механічній вентиляції може покращити управління пацієнтами з GBS.",
-    "specialty": "неврологія",
-    "tags": [
-      "доказова медицина",
-      "педіатрія",
-      "нейрологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42166826",
-    "title": "Оцінка практик біобезпеки у різних типах виробництва бичачого скотарства в Іллінойсі, США",
-    "journal": "Preventive veterinary medicine",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Дослідження аналізує практики біобезпеки у фермерів бичачого скотарства в Іллінойсі та їх різноманіття залежно від типу виробництва. Проведено опитування 537 фермерів у 2022 році з використанням аналізу множинної відповідності для виявлення зв’язків між практиками біобезпеки та типами виробництва.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166826/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Evaluating biosecurity practices across beef cattle production types in Illinois, USA: Differences in disease prevention and preparedness.",
-    "originalAbstract": "Assessing beef cattle farmers' on-farm biosecurity practices and understanding differences across various production types is essential for implementing effective disease prevention and preparedness plans. A stratified random survey of beef cattle producers in Illinois was conducted between June and August 2022, with 537 producers responding to all or some of the survey questions. Multiple Correspondence Analysis (MCA) was used to explore associations between biosecurity practices and production",
-    "keyPoints": [
-      "Дослідження фокусується на практиках біобезпеки у виробництві бичачого скотарства.",
-      "Використано опитування та аналіз множинної відповідності для виявлення зв’язків.",
-      "Результати допомагають розробляти ефективні плани профілактики захворювань."
-    ],
-    "practicalTakeaway": "Розуміння різноманіття практик біобезпеки сприяє покращенню профілактичних заходів у скотарстві.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "загальнонаціональний",
-      "захворювання тварин",
-      "профілактика"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42166825",
-    "title": "Порівняльна ефективність відлову та контролю народжуваності у управлінні безпритульними тваринами: систематичний огляд",
-    "journal": "Preventive veterinary medicine",
-    "publishedAt": "2026-05-17T00:00:00Z",
-    "abstract": "Цей огляд аналізує ефективність заходів з відлову та контролю народжуваності для управління безпритульними собаками та котами по всьому світу. Огляд охоплює показники чисельності, поширення зоонозних захворювань, стан притулків, громадські показники, благополуччя тварин, екологічні наслідки та економічну ефективність, а також визначає умови, що впливають на результативність цих заходів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166825/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Comparative effectiveness of culling and birth control in free-roaming animal management: A systematic review.",
-    "originalAbstract": "This review evaluates the effectiveness of culling and birth control interventions for managing free-roaming dogs (FRD) and cats (FRC) worldwide across key outcome domains-population metrics, zoonotic disease indicators, shelter indicators, public metrics, animal welfare, ecological externalities, and cost-effectiveness-and identifies contextual conditions determining intervention effectiveness. Following PRISMA, we conducted three separate systematic searches in PubMed, Web of Science, and Scop",
-    "keyPoints": [
-      "Огляд порівнює відлов та контроль народжуваності у управлінні безпритульними тваринами.",
-      "Розглядаються показники чисельності, захворювань та екологічних наслідків.",
-      "Визначаються умови, що впливають на ефективність заходів."
-    ],
-    "practicalTakeaway": "Результати огляду допомагають визначити найбільш ефективні стратегії управління безпритульними тваринами залежно від контексту.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "зооінфекції",
-      "громадське здоровʼя",
-      "екологія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42166824",
-    "title": "Іммерсивна симуляція та віртуальна реальність для виявлення дитячого насильства: дослідження",
-    "journal": "Child abuse & neglect",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження оцінювало можливості та короткостроковий вплив навчальної програми з використанням імерсивної симуляції та віртуальної реальності для підвищення здатності розпізнавати дитяче насильство у відділеннях швидкої допомоги. Традиційна освіта з цього питання часто недостатньо враховує емоційні та міжособистісні виклики у реальних ситуаціях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166824/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "An immersive simulation and virtual reality-enhanced course for the recognition of pediatric Non-Accidental Trauma (NAT) and abuse: A proof-of-concept study.",
-    "originalAbstract": "Non-accidental trauma (NAT) remains a leading cause of child morbidity and mortality, yet recognition of NAT in pediatric emergency departments is frequently delayed. Traditional NAT education emphasizes factual knowledge and inadequately addresses emotional, cognitive, and interpersonal challenges influencing real-world decision-making. This study aimed to evaluate feasibility and short-term educational impact of an immersive multimodal simulation curriculum designed to improve pediatric emerge",
-    "keyPoints": [
-      "Дослідження оцінювало короткостроковий вплив навчальної програми.",
-      "Використання віртуальної реальності для підвищення навичок розпізнавання дитячого насильства.",
-      "Навчання спрямоване на покращення швидкості та точності діагностики у дитячих швидких допомогах."
-    ],
-    "practicalTakeaway": "Використання імерсивних технологій може покращити навички розпізнавання дитячого насильства у медичних працівників.",
-    "specialty": "педіатрія",
-    "tags": [
-      "педіатрія",
-      "медична освіта",
-      "віртуальна реальність"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42166821",
-    "title": "Емоційне зловживання у дитинстві та його вплив на психосоціальне функціонування у дорослому віці",
-    "journal": "Child abuse & neglect",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження виявило, що емоційне зловживання у дитинстві має довгостроковий вплив на міжособистісну довіру, задоволення життям та психічне здоров'я дорослих. Виявлено зв'язки між дитячими формами психологічного насильства та низькою соціальною довірою, меншою задоволеністю життям і вищим рівнем психіатричних симптомів у дорослому віці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166821/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Childhood emotional maltreatment and psychosocial functioning in adulthood: Associations with generalized interpersonal trust, life satisfaction, and self-reported psychiatric morbidity in a representative German sample.",
-    "originalAbstract": "Child maltreatment represents a major risk factor for psychological, physical, and social impairment across the lifespan. While the consequences of physical and sexual abuse are well documented, the impact of emotional abuse and neglect has long been underestimated. Recent evidence suggests that these forms of psychological maltreatment exert particularly far-reaching effects on social functioning and overall well-being. This study aimed to examine the long-term associations between different fo",
-    "keyPoints": [
-      "Емоційне зловживання у дитинстві пов'язане з довгостроковими наслідками для психосоціального функціонування.",
-      "Дослідження показало зниження міжособистісної довіри та задоволення життям у дорослих, які зазнали емоційного насильства у дитинстві.",
-      "Зв'язки між психологічним зловживанням і психічним здоров'ям зберігаються у репрезентативній вибірці з Німеччини."
-    ],
-    "practicalTakeaway": "Важливо враховувати довгострокові наслідки емоційного зловживання у дитинстві для психосоціального здоров'я дорослих.",
-    "specialty": "психіатрія",
-    "tags": [
-      "доказова медицина",
-      "психічне здоров'я",
-      "дитинство"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42166820",
-    "title": "Нові халькоген-оптимізовані 1,3,5-триазини як мультифункціональні модулятори 5-HT6R/FAAH для нейродегенеративних захворювань",
-    "journal": "European journal of medicinal chemistry",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження присвячене розробці нових молекул, здатних одночасно впливати на рецептор 5-HT6 та фермент FAAH, що має потенціал для лікування нейродегенеративних захворювань. Виявлено нові з'єднання на основі триазинової структури, що демонструють перспективність у мультицільовій терапії. Це підкреслює важливість розробки препаратів із багатофункціональним механізмом дії для ускладнених захворювань мозку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166820/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "New chalcogen-optimized 1,3,5-triazines as dual 5-HT6R/FAAH modulators: A versatile approach to neurodegenerative disorders.",
-    "originalAbstract": "The clinical failure of selective serotonin 5-HT6 receptor (5-HT6R) antagonists in Alzheimer's disease (AD) highlights the need for multitarget therapeutic strategies addressing the multifactorial nature of neurodegeneration. Building upon our pioneering discovery of the first-in-class dual 5-HT6R/FAAH (fatty acid amide hydrolase) modulators among O-ether triazine compounds, we here report a comprehensive lead-optimization campaign centered on the triazine-based compound MR3b, identified as a pr",
-    "keyPoints": [
-      "Розроблено нові молекули для лікування нейродегенеративних захворювань.",
-      "Молекули мають здатність одночасно впливати на 5-HT6R та FAAH.",
-      "Це підкреслює потенціал мультифункціональної терапії в неврології."
-    ],
-    "practicalTakeaway": "Розробка мультифункціональних препаратів може сприяти більш ефективному лікуванню нейродегенеративних захворювань.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейродегенеративні захворювання",
-      "мультифункціональні молекули",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42166818",
-    "title": "Натуральні інгібітори PDE4 з рослин: огляд відкриттів та потенціалу клінічного застосування",
-    "journal": "European journal of medicinal chemistry",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Огляд присвячений природним інгібіторам фосфодіестерази 4 (PDE4), що мають потенціал для лікування хронічних запальних захворювань. Відзначено, що існуючі інгібітори PDE4 мають побічні ефекти через низьку селективність. Рослинні природні продукти пропонують нові можливості для розробки препаратів із покращеною селективністю та новими механізмами дії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166818/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Natural PDE4 inhibitors from plants: A comprehensive review of discovery, structure-activity relationships, and clinical translation potential.",
-    "originalAbstract": "Phosphodiesterase 4 (PDE4) is a validated target for chronic inflammatory diseases such as COPD, asthma, and psoriasis. Although four PDE4 inhibitors have received FDA approval (roflumilast, apremilast, crisaborole, and ensifentrine), all suffer dose-limiting gastrointestinal side effects due to insufficient PDE4B/PDE4D selectivity. Plant-derived natural products offer complementary chemical space for discovering inhibitors with novel binding modes and improved isoform selectivity. This review s",
-    "keyPoints": [
-      "Обговорюються природні інгібітори PDE4 з рослин.",
-      "Відзначається потенціал для покращення селективності препаратів.",
-      "Зосереджено на можливостях клінічного застосування."
-    ],
-    "practicalTakeaway": "Дослідження природних інгібіторів PDE4 може сприяти створенню нових препаратів для лікування запальних захворювань.",
+    "practicalTakeaway": "Використання поліфенотипічних балів може допомогти у більш точному виявленні носіїв G6PD rs1050828, що важливо для діагностики цукрового діабету.",
     "specialty": "доказова медицина",
     "tags": [
-      "фармакотерапія",
-      "інгібітори PDE4",
-      "природні продукти"
+      "генетика",
+      "діагностика",
+      "афроамериканці"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42166814",
-    "title": "Роль матеріалів та технологій 4D друку у персоналізованій онкології",
-    "journal": "Translational oncology",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження аналізує потенціал 4D друку для покращення персоналізованого підходу в онкології. Технологія дозволяє створювати динамічні моделі та пристрої, що враховують змінювані характеристики пухлин та лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166814/",
+    "pmid": "42170802",
+    "title": "Магнітне керування наночастинками Fe₃O₄@ZIF-8 для зменшення остеоартриту через антиоксидантний ефект",
+    "journal": "Advanced healthcare materials",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Дослідження розробило наночастинки Fe₃O₄@ZIF-8, що мають властивості, подібні до ферментів супероксиддисмутази та каталази. Ці наночастинки ефективно нейтралізують активні форми кисню та зменшують оксидативний стрес і запалення у тканинах, що може сприяти зменшенню симптомів остеоартриту.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170802/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Exploring the role of 4D printing materials, techniques, and characteristics for personalized oncology.",
-    "originalAbstract": "Cancer is still a global concern. Cancer management is intricate in all fields, from diagnosing or defining prognosis to selecting appropriate treatment and managing its adverse effects. In recent years, three-dimensional printing (3DP) innovations have emerged as a ground-breaking technology, offering new possibilities for cancer management. 3DP has advanced further with the addition of a fourth dimension, time, resulting in the concept of four-dimensional printing (4DP), ultimately revolutioni",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Magnetic Field-Actuated ZIF-8-Encapsulated Fe3O4 Nanoparticles Attenuate Osteoarthritis via Antioxidant Effects.",
+    "originalAbstract": "Osteoarthritis (OA), characterized by oxidative stress and inflammatory damage, poses significant challenges in achieving effective local drug concentrations and sustaining reactive oxygen species (ROS) clearance. This study developed a nanoparticle, Fe3O4@ZIF-8, endowed with superoxide dismutase (SOD)- and catalase (CAT)-like enzyme-mimetic activities. The nanocomposite not only synergistically neutralizes key ROS but also significantly alleviates oxidative stress and inflammatory responses in ",
     "keyPoints": [
-      "4D друк відкриває нові можливості для персоналізованої онкології.",
-      "Технологія дозволяє створювати динамічні моделі для лікування.",
-      "Дослідження фокусується на матеріалах та характеристиках 4D друку."
+      "Розроблено наночастинки з ферментоподібною активністю.",
+      "Намічено зменшення оксидативного стресу та запалення.",
+      "Можливе застосування для лікування остеоартриту."
     ],
-    "practicalTakeaway": "Перспективи застосування 4D друку у онкології потребують подальших досліджень.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Магнітне керування наночастинками з антиоксидантними властивостями може потенційно зменшити запальні процеси при остеоартриті.",
+    "specialty": "ревматологія",
     "tags": [
-      "онкологія",
-      "технології",
-      "персоналізація"
+      "остеоартрит",
+      "нанотехнології",
+      "антиоксиданти"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42166813",
-    "title": "Збір даних про вагітність у нагляді за туберкульозом: практики та перспективи в регіонах Відповідального Туберкульозу в Тихоокеанському регіоні та Південно-Східній Азії",
-    "journal": "Public health",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження аналізує практики та пріоритети щодо збору даних про вагітність у національних програмах боротьби з туберкульозом у регіонах Відповідального Туберкульозу в Тихоокеанському регіоні та Південно-Східній Азії. Враховуючи високий рівень смертності від туберкульозу та його вплив на материнське та неонатальне здоровʼя, відсутня єдина практика щодо систематичного збору вагітних у рамках нагляду за цим захворюванням.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166813/",
+    "pmid": "42170801",
+    "title": "Небезпечна нейротоксичність після самостійного застосування івермектину при метастатичному раку молочної залози",
+    "journal": "Postgraduate medicine",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "У США FDA заборонила використання івермектину для лікування раку поза клінічними дослідженнями. Однак, пацієнти продовжують застосовувати препарат самостійно, часто під впливом інформації з інтернету. У цьому випадку описано важку нейротоксичність, що виникла після випадкового високого дозування івермектину.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170801/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Pregnancy data in tuberculosis surveillance: Practices, priorities and perspectives from national TB programs in the Western Pacific and South-East Asia.",
-    "originalAbstract": "Tuberculosis (TB) is the leading cause of death from an infectious disease, with the Western Pacific (WPR) and South-East Asia (SEAR) regions accounting for almost two-thirds of the global burden. Despite TB being a major cause of maternal mortality and adverse neonatal outcomes, no consensus exists on routine pregnancy-related data collection in national TB programmes (NTPs). This study aimed to map current practices, priorities, and perspectives regarding pregnancy data collection in TB survei",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Life-threatening neurotoxicity following off-label ivermectin use in metastatic breast cancer: a case report.",
+    "originalAbstract": "The United States Food and Drug Administration (FDA) has explicitly discouraged the use of ivermectin for the treatment of cancer outside of clinical trials. Nevertheless, patient self-administration persists, frequently influenced by information encountered online. Cases of ivermectin neurotoxicity in the oncology setting remain underreported despite growing off-label use driven by online misinformation. We present a case of severe neurotoxicity following unintentional high-dose self-administra",
     "keyPoints": [
-      "Вагітність є важливим аспектом у нагляді за туберкульозом.",
-      "Практики збору даних про вагітних різняться між країнами.",
-      "Потреба у стандартизації підходів для покращення здоровʼя матерів і новонароджених."
+      "Самостійне застосування івермектину може спричинити важку нейротоксичність.",
+      "Використання поза клінічними дослідженнями є ризикованим та не рекомендоване FDA.",
+      "Інформація з інтернету може впливати на рішення пацієнтів щодо застосування препаратів."
     ],
-    "practicalTakeaway": "Необхідно розробити стандартизовані протоколи збору даних про вагітних у програмах боротьби з туберкульозом.",
+    "practicalTakeaway": "Медичні працівники мають інформувати пацієнтів про ризики самостійного застосування препаратів, зокрема івермектину.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "збір даних",
-      "вагітність",
-      "туберкульоз"
+      "нейротоксичність",
+      "івермектин",
+      "самолікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42170800",
+    "title": "Гіпопаратиреоз після тиреоїдектомії: профілактика, діагностика та лікування",
+    "journal": "Thyroid : official journal of the American Thyroid Association",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Гіпопаратиреоз, що виникає після хірургічного втручання на щитоподібній залозі, становить близько 75% усіх випадків цього стану. Його можна запобігти за допомогою сучасних рекомендацій, що базуються на доказах. У статті розглядаються фактори ризику, стратегії профілактики, діагностики та лікування постхірургічного гіпопаратиреозу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170800/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Hypoparathyroidism Post Thyroidectomy: Prevention, Evaluation, Management, and Application of Recent Guidelines.",
+    "originalAbstract": "Postsurgical hypoparathyroidism (HypoPT) accounts for ∼75% of all HypoPT cases. It is recognized that this condition is largely preventable. Several studies have identified risk factors increasing the risk of developing postsurgical HypoPT, including patient-related factors, surgical factors, and, in some studies, presurgical factors. This narrative review highlights evidence-based guidelines for postsurgical HypoPT and provides strategies for its prevention, diagnosis, and management. We search",
+    "keyPoints": [
+      "Більшість випадків гіпопаратиреозу після тиреоїдектомії є запобіжними.",
+      "Ризики розвитку залежать від пацієнта, хірургічних факторів та передопераційних умов.",
+      "Розроблені рекомендації допомагають у профілактиці та управлінні станом."
+    ],
+    "practicalTakeaway": "Застосування сучасних доказових рекомендацій може знизити ризик розвитку гіпопаратиреозу після тиреоїдектомії.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "гіпопаратиреоз",
+      "тиреоїдектомія",
+      "профілактика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42170795",
+    "title": "Модель фармакокінетики елеклафактору/тезаклафтору/івакафтору у немовлят з муковісцидозом",
+    "journal": "CPT: pharmacometrics & systems pharmacology",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження спрямоване на прогнозування фармакокінетики комбінації препаратів елеклафактору, тезаклафтору та івакафтору у немовлят віком від 1 місяця до менше 2 років з муковісцидозом за допомогою фізіологічних моделей.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170795/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Physiologically Based Pharmacokinetic Modeling of Elexacaftor/Tezacaftor/Ivacaftor in Infants With Cystic Fibrosis.",
+    "originalAbstract": "Ivacaftor is the only cystic fibrosis transmembrane conductance regulator modulator approved for infants ≥ 1 month. The elexacaftor/tezacaftor/ivacaftor combination, approved for children aged ≥ 2 years, has been shown to significantly slow CF progression. Expanding elexacaftor/tezacaftor/ivacaftor use to infants may offer additional therapeutic benefits. This study aims to predict elexacaftor/tezacaftor/ivacaftor pharmacokinetics in infants aged 1 month to < 2 years using physiologically based ",
+    "keyPoints": [
+      "Модель прогнозує фармакокінетику комбінації препаратів у немовлят.",
+      "Розширення застосування може мати терапевтичний потенціал.",
+      "Дослідження базується на фізіологічних моделях."
+    ],
+    "practicalTakeaway": "Модель може допомогти у визначенні оптимальних доз препаратів для немовлят з муковісцидозом.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "фармакокінетика",
+      "муковісцидоз",
+      "немовлята"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42170791",
+    "title": "Фактори ризику стресу на роботі серед старших корейських охоронців з гіпертонією: багаторівневий аналіз",
+    "journal": "Workplace health & safety",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Дослідження виявило, що у старших корейських охоронців з гіпертонією високий рівень стресу на роботі пов'язаний із індивідуальними та робочими факторами. Враховуючи довгі години роботи та змінний графік, ці фактори можуть підвищувати ризик серцево-судинних захворювань.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170791/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Risk Factors for Job Stress Among Older Korean Security Workers With Hypertension: A Multilevel Analysis.",
+    "originalAbstract": "In South Korea, apartment security jobs are commonly held by older men. The high prevalence of chronic conditions in this population, combined with the job's long hours and shift work, may increase risks of job stress and cardiovascular disease. This study aimed to identify individual and work environment factors that influence job stress among middle-aged and older security workers with hypertension. A cross-sectional study used self-reported questionnaires to collect data from 146 security wor",
+    "keyPoints": [
+      "Вік та хронічні захворювання впливають на рівень стресу на роботі.",
+      "Довгі години роботи та зміни збільшують ризик стресу.",
+      "Індивідуальні та робочі фактори мають важливе значення для управління стресом."
+    ],
+    "practicalTakeaway": "Управління робочим навантаженням та врахування індивідуальних особливостей можуть знизити рівень стресу у старших охоронців з гіпертонією.",
+    "specialty": "неврологія",
+    "tags": [
+      "робота",
+      "стрес",
+      "гіпертонія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42166809",
-    "title": "Мітохондрії як ціль для наноматеріалів: від механізмів токсичності до терапевтичних стратегій",
-    "journal": "Biochemical and biophysical research communications",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Мітохондрії відіграють ключову роль у регуляції метаболічних процесів, окислювального стресу та апоптозу клітин. Цей огляд аналізує сучасне розуміння взаємодії наноматеріалів із мітохондріями, зосереджуючись на механізмах їх токсичної дії та можливостях розробки терапевтичних підходів, спрямованих на цільові впливи на мітохондрії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42166809/",
+    "pmid": "42170790",
+    "title": "Епідеміологічний нагляд за вірусом Андес: чи навчилися ми чогось після COVID-19?",
+    "journal": "Revista espanola de salud publica",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Останні спалахи вірусу Андес викликали міжнародний дискурс щодо готовності систем охорони здоров'я до hantaviruses, здатних до міжособистісної передачі. На відміну від інших ортоhantaviruses, вірус Андес демонструє передачу між людьми у певних епідеміологічних умовах, зокрема в домашніх та госпітальних середовищах. Виникнення нових випадків у рамках багатонаціональних спалахів сприяло перегляду рекомендацій та оцінок міжнародних організацій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170790/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-22T02:49:15Z",
-    "originalTitle": "Mitochondria as a target for nanomaterials: from molecular mechanisms of toxicity to therapeutic strategies.",
-    "originalAbstract": "Mitochondria, functioning as central integrators of metabolic signals, redox homeostasis, and programmed cell death, represent a critical intracellular compartment that dictates the biological response to engineered nanomaterials (NMs). This review provides a comprehensive analysis of the current understanding of the dualistic nature of nano-mitochondrial interactions - from the fundamental mechanisms of nanotoxicology to the principles of rational design for mitochondria-targeted therapeutic sy",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "[Epidemiological surveillance of Andes virus: have we really learned anything after COVID-19?].",
+    "originalAbstract": "Recent Andes virus outbreaks have reignited international debate regarding Public Health preparedness for hantaviruses with documented interpersonal transmission capacity. Unlike other orthohantaviruses, Andes virus has demonstrated person-to-person transmission in specific epidemiological settings, including household and nosocomial environments. The recent emergence of cases linked to multinational outbreaks has prompted renewed assessments and recommendations from international public health ",
     "keyPoints": [
-      "Мітохондрії є важливим внутрішньоклітинним компонентом, що визначає біологічну відповідь на наноматеріали.",
-      "Взаємодія наноматеріалів із мітохондріями має двоїстий характер: токсичний та потенційно терапевтичний.",
-      "Розуміння механізмів токсичності та принципів дизайну наноматеріалів може сприяти розвитку цільових терапевтичних стратегій."
+      "Вірус Андес здатний до міжособистісної передачі.",
+      "Спалахи викликають занепокоєння щодо готовності систем охорони здоров'я.",
+      "Необхідність оновлення міжнародних рекомендацій."
     ],
-    "practicalTakeaway": "Дослідження взаємодії наноматеріалів із мітохондріями може сприяти створенню нових терапевтичних підходів та зменшенню їх токсичних ефектів.",
+    "practicalTakeaway": "Підвищення уваги до міжособистісної передачі hantaviruses важливе для підвищення готовності систем охорони здоров'я.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "епідеміологія",
+      "інфекційні хвороби",
+      "глобальна охорона здоров'я"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42170788",
+    "title": "Як забезпечити безперервність хірургічної допомоги під час глобальних заходів у сфері охорони здоровʼя?",
+    "journal": "Developing world bioethics",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Стаття аналізує роль Міністерства оборони у глобальній охороні здоровʼя, зокрема у хірургічних та медичних місіях. Вона розглядає історію та сучасні практики залучення військових ресурсів для реагування на природні катастрофи та короткострокові медичні операції. Вказано на важливість стратегій для підтримки безперервності хірургічної допомоги під час таких заходів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170788/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "How Should Ongoing Surgical Care Needs be Met During Global Health Engagements?",
+    "originalAbstract": "The Department of Defense has a long history of Global Health Engagement, beginning with identifying and developing vaccines for yellow fever, influenzae, and malaria. Contemporary examples of global health engagement include the worldwide deployment of military assets to aid in natural disasters, and deployment of ship and land based medical teams for short-term medical and surgical engagements. In 2017, the Department of Defense Instruction on Global Health Engagement was published to help gui",
+    "keyPoints": [
+      "Міністерство оборони має довгу історію участі у глобальній охороні здоровʼя.",
+      "Залучення військових ресурсів включає медичні та хірургічні місії.",
+      "Стратегії для підтримки безперервної хірургічної допомоги є важливими під час глобальних заходів."
+    ],
+    "practicalTakeaway": "Необхідно розробляти та впроваджувати стратегії для забезпечення безперервності хірургічної допомоги під час глобальних заходів у сфері охорони здоровʼя.",
     "specialty": "доказова медицина",
     "tags": [
-      "мітохондрії",
-      "наноматеріали",
-      "токсичність",
-      "терапія"
+      "глобальне здоровʼя",
+      "хірургія",
+      "медичні місії"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42170787",
+    "title": "Сесамінол покращує метаболічні та алкогольні ураження печінки через активацію PPARα/Slc27a5-опосередкованого жирового обміну",
+    "journal": "Molecular nutrition & food research",
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "abstract": "Дослідження показало, що сесамінол, природний компонент насіння сезаму з антиоксидантними та протизапальними властивостями, може сприяти зменшенню уражень печінки, пов’язаних із метаболічними порушеннями та алкоголем. У експериментах на мишах, що отримували високожирову дієту або алкоголь, пероральний прийом сесамінолу сприяв покращенню функції печінки через активацію шляхів, що стимулюють жировий обмін.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170787/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Sesaminol Ameliorates Metabolic and Alcohol-Related Liver Injury by Activating the PPARα/Slc27a5 Axis-Driven Hepatic Fatty Acid β-Oxidation.",
+    "originalAbstract": "Hepatic diseases pose a major and life-threatening global health challenge. Sesaminol, a sesame-seed lignan with antioxidant and anti-inflammatory properties, was investigated for its ability to combat metabolic dysfunction-associated fatty liver disease (MAFLD) and alcohol-related liver injury. Mice fed a high-fat diet (HFD) or subjected to binge alcohol injury received oral sesaminol to evaluate its protective effects against hepatic dysfunction. Complementary in vitro studies used HepG2 cells",
+    "keyPoints": [
+      "Сесамінол може мати захисний ефект при ураженнях печінки, пов’язаних із метаболічними порушеннями та алкоголем.",
+      "Механізм дії пов’язаний із активацією PPARα/Slc27a5-опосередкованого жирового обміну.",
+      "Дослідження проводилися на моделях тварин та клітинних культурах."
+    ],
+    "practicalTakeaway": "Пероральний прийом сесамінолу може потенційно зменшити ураження печінки, пов’язані з метаболічними порушеннями та алкоголем, через стимуляцію жирового обміну.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "печінка",
+      "жировий обмін",
+      "алкоголь"
     ],
     "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42170786",
+    "title": "Розширення генетичного та клінічного спектру GZF1-специфічного фенотипу: окрема очна та скелетна патологія відрізняється від синдрому Ларсена",
+    "journal": "American journal of medical genetics. Part A",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Дослідження аналізує рідкісний генетичний фенотип, пов'язаний з варіантами гена GZF1, що проявляється коротким зростом, дисплазією суглобів та короткозорістю. Вперше описано три нові випадки з тяжкими очними проявами, що свідчить про можливу специфіку цього фенотипу, відмінного від синдрому Ларсена.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42170786/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T14:30:58Z",
+    "originalTitle": "Expanding the Genetic and Clinical Spectrum of GZF1-Related Phenotype: A Specific Ocular and Skeletal Disorder Distinguishable From Larsen Syndrome.",
+    "originalAbstract": "GZF1-related phenotype (GZF1RP) has been referred to by different names, including autosomal recessive Larsen syndrome (LRS) and \"joint laxity, short stature, and myopia\". Only ten patients from five families have been reported, all of whom carry biallelic variants of GZF1. They share short stature and joint dislocation with LRS; however, they present with severe ocular manifestations, suggesting that GZF1RP may be specific. In this study, we described three new patients with severe ophthalmolog",
+    "keyPoints": [
+      "Виявлено нові випадки GZF1-специфічного фенотипу.",
+      "Фенотип має характерні очні та скелетні прояви.",
+      "Можлива відмінність від синдрому Ларсена."
+    ],
+    "practicalTakeaway": "Розпізнавання GZF1-специфічного фенотипу важливе для диференційної діагностики та генетичного консультування.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "генетика",
+      "офтальмологія",
+      "скелетні порушення"
+    ],
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
