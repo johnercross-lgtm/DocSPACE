@@ -1,281 +1,282 @@
 [
   {
-    "pmid": "42165222",
-    "title": "Розробка та характеристика Procizumab — антитіла, що нейтралізує циркулюючий DPP3",
-    "journal": "mAbs",
-    "publishedAt": "2026-12-01T00:00:00Z",
-    "abstract": "Ця публікація описує створення та попередню характеристику Procizumab (PCZ), людського моноклонального антитіла, спрямованого на нейтралізацію циркулюючого DPP3 — внутрішньоклітинного білка, що бере участь у реакціях антиоксидантного захисту. Під час гострих стресів і пошкоджень тканин DPP3 потрапляє у кровотік, спричиняючи порушення судинної, серцевої та імунної систем. Підвищені рівні cDPP3 пов’язані з багатьма органними дисфункціями при циркуляторній недостатності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165222/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Development and non-clinical characterization of Procizumab (invobenitug): a humanized antibody neutralizing circulating DPP3.",
-    "originalAbstract": "Dipeptidyl peptidase 3 (DPP3) is an intracellular protein involved in cellular antioxidant responses. Upon acute stress and tissue damage, DPP3 is released into the circulation (circulating DPP3, cDPP3), where it induces vascular, cardiac, and immune dysregulation. Elevated cDPP3 levels have been implicated in multiple organ dysfunction during circulatory failure. Here, we describe the development and characterization of Procizumab (PCZ), a human immunoglobulin (Ig) G1 kappa monoclonal antibody ",
-    "keyPoints": [
-      "Procizumab — людське моноклональне антитіло, що нейтралізує циркулюючий DPP3.",
-      "DPP3 бере участь у реакціях антиоксидантного захисту та може викликати системні порушення.",
-      "Публікація присвячена розробці та характеристиці нового антитіла."
-    ],
-    "practicalTakeaway": "Розробка антитіла Procizumab може сприяти лікуванню станів, пов’язаних із підвищеним рівнем циркулюючого DPP3.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "імунологія",
-      "інноваційні терапії",
-      "біомаркери"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42165221",
-    "title": "Новий етап і класифікація остеонекрозу головки стегнової кістки на основі МРТ з патофізіологічною інтерпретацією",
-    "journal": "Orthopaedic surgery",
+    "pmid": "42166828",
+    "title": "Клінічні передбачення інтубації та тривалого вентиляційного підтримання у педіатричних випадках синдрому Гілен-Бара (GBS)",
+    "journal": "Brain & development",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити вплив нової системи класифікації остеонекрозу головки стегнової кістки, заснованої на кореляції між МРТ та патологічними ознаками, на ймовірність руйнування, симптоми та функцію. Існуючі системи оцінки здебільшого фокусуються на структурних змінах та морфології уражень, але мають обмежену інформацію про біологічну активність у кістці та гетерогенність патології. Виявлено, що пацієнти з однаковим ступенем за ARCO можуть мати різні симптоми та клінічний перебіг.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165221/",
+    "abstract": "Дослідження аналізує фактори, що сприяють необхідності механічної вентиляції та тривалого її застосування у дітей з синдромом Гілен-Бара, а також вплив часу проведення трахеостомії на результати лікування. Вивчено 75 пацієнтів, госпіталізованих у нейро-інтенсивну терапію протягом 2008-2018 років.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166828/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "A New Stage and Classification of Osteonecrosis of the Femoral Head Based on MRI With Pathophysiological Interpretation.",
-    "originalAbstract": "To explore the influence of the new stage and classification system based on the correlation between MRI and pathological features on the collapse, symptoms, and function of femoral head necrosis. Existing radiographic staging systems primarily evaluate structural changes and lesion morphology but provide limited information regarding intraosseous biological activity and pathological heterogeneity. Clinically, patients within the same ARCO stage often demonstrate markedly different symptoms, col",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Clinical predictors of intubation and prolonged ventilation in pediatric Guillain-Barré syndrome requiring intensive care: A retrospective observational study.",
+    "originalAbstract": "Pediatric Guillain-Barré syndrome (GBS) may progress to respiratory failure requiring mechanical ventilation (MV), yet predictors of intubation, prolonged MV (PMV), and tracheostomy remain poorly defined. We aimed to identify factors associated with intubation and PMV and evaluate the impact of early versus late tracheostomy (>14 days) on outcomes. We retrospectively reviewed 75 children with GBS admitted to a Neuro-ICU (2008-2018). Demographic, clinical, electrophysiological, and cerebrospinal ",
     "keyPoints": [
-      "Нова класифікація базується на МРТ та патофізіології.",
-      "Поточні системи оцінки обмежені у відображенні біологічних процесів.",
-      "Різниця у симптомах навіть при однаковому ARCO-ступені."
+      "Визначено фактори, що асоціюються з потребою інтубації у дітей з GBS.",
+      "Обговорюється вплив ранньої та пізньої трахеостомії на результати.",
+      "Дослідження базується на ретроспективному аналізі 75 випадків."
     ],
-    "practicalTakeaway": "Впровадження нової системи класифікації може покращити прогнозування та лікування остеонекрозу головки стегнової кістки.",
-    "specialty": "хірургія",
-    "tags": [
-      "остеонекроз",
-      "МРТ",
-      "класифікація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42165220",
-    "title": "Визначення ролі медсестер у генній терапії гемофілії",
-    "journal": "Haemophilia : the official journal of the World Federation of Hemophilia",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Гемофілія — рідкісне кровотечне захворювання, яке зазнає значних змін у лікуванні завдяки генній терапії, що дозволяє дорослим з гемофілією А або В припинити профілактичне лікування з мінімальним кровотечею. У країнах Європи ця терапія стає стандартною опцією, і медсестри відіграють ключову роль у навчанні пацієнтів, координації мультидисциплінарної допомоги, управлінні кровотечами та довгостроковому спостереженні, що вимагає постійного професійного розвитку та можливої адаптації до нових вимог.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165220/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Defining the Role of Nurses in Gene Therapy for Haemophilia.",
-    "originalAbstract": "Haemophilia is a rare bleeding disorder now undergoing a major shift in care as gene therapy (GT), delivered through viral‑vector in vivo gene transfer, has enabled adults with haemophilia A or B to stop prophylaxis with minimal bleeding. As this treatment becomes a standard option in several European countries, nurses play an essential role in education, multidisciplinary care coordination, bleed management, and long‑term follow‑up, requiring ongoing professional development and potentially new",
-    "keyPoints": [
-      "Медсестри відіграють важливу роль у підтримці пацієнтів з гемофілією під час генної терапії.",
-      "Зміни у лікуванні вимагають від медсестер постійного навчання та розвитку.",
-      "Генна терапія дозволяє зменшити або припинити профілактичне лікування кровотеч."
-    ],
-    "practicalTakeaway": "Медсестри повинні бути готові до нових ролей у догляді за пацієнтами з гемофілією, що отримують генну терапію.",
-    "specialty": "гематологія",
-    "tags": [
-      "гемофілія",
-      "генна терапія",
-      "медсестринство"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42165218",
-    "title": "Вплив складу тіла на запалення дихальних шляхів у дітей шкільного віку без астми",
-    "journal": "European annals of allergy and clinical immunology",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив жирової маси на запалення дихальних шляхів у дітей шкільного віку без астми, використовуючи показники FeNO та моделювання GAMLSS. Виявлено, що рівень жиру може впливати на рівень запалення, що має значення для розуміння механізмів та потенційних інтервенцій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165218/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Impact of body composition on airway inflammation: analyzing FeNO z-scores in non-asthmatic school-aged children using GAMLSS modeling.",
-    "originalAbstract": "Background. Obesity is associated with worse asthma outcomes, partly due to inflammasome-mediated neutrophilic Type IVc immunity. However, the impact of adiposity on Type IVb airway inflammation remains poorly understood. This study aimed to evaluate the effect of body fat on Type 2 (T2) airway inflammation, measured using fractional exhaled nitric oxide (FeNO). Methods. This community-based cross-sectional study included 726 children aged 7-12 years (48.9% female) from 71 classrooms in 20 publi",
-    "keyPoints": [
-      "Обʼєм жирової маси може впливати на запалення дихальних шляхів у дітей.",
-      "FeNO використовується для оцінки типу запалення у дихальних шляхах.",
-      "Дослідження проводилось у громадському середовищі серед дітей шкільного віку."
-    ],
-    "practicalTakeaway": "Розуміння впливу жирової маси на запалення дихальних шляхів може допомогти у розробці профілактичних стратегій.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Раннє визначення ризику потреби у механічній вентиляції може покращити управління пацієнтами з GBS.",
+    "specialty": "неврологія",
     "tags": [
       "доказова медицина",
-      "запалення дихальних шляхів",
-      "жирова маса"
+      "педіатрія",
+      "нейрологія"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42165214",
-    "title": "Досвід студентів та медичних працівників щодо міжпрофесійного навчального тренінгу з ВІЛ: змішане дослідження",
-    "journal": "Journal of interprofessional care",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження оцінює вплив двотижневого міжпрофесійного навчального тренінгу з ВІЛ для студентів та медичних працівників у країнах з низьким та середнім рівнем доходу. Виявлено, що тренінг сприяє покращенню колаборативних навичок та підвищенню готовності до командної роботи у сфері охорони здоров'я.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165214/",
+    "pmid": "42166826",
+    "title": "Оцінка практик біобезпеки у різних типах виробництва бичачого скотарства в Іллінойсі, США",
+    "journal": "Preventive veterinary medicine",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Дослідження аналізує практики біобезпеки у фермерів бичачого скотарства в Іллінойсі та їх різноманіття залежно від типу виробництва. Проведено опитування 537 фермерів у 2022 році з використанням аналізу множинної відповідності для виявлення зв’язків між практиками біобезпеки та типами виробництва.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166826/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Experiences of students and health care professionals from an interprofessional HIV training workshop: a mixed-method study.",
-    "originalAbstract": "In the context of sub-Saharan Africa's ongoing HIV epidemic and the growing burden of chronic comorbidities, healthcare delivery increasingly requires coordinated, interprofessional care. However, fragmented service provision, especially in low- and middle-income countries (LMICs), affects patient outcomes. This study evaluates the implementation of a two-day Interprofessional Education (IPE) intervention aimed at enhancing collaborative competencies among final-year health professions education",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Evaluating biosecurity practices across beef cattle production types in Illinois, USA: Differences in disease prevention and preparedness.",
+    "originalAbstract": "Assessing beef cattle farmers' on-farm biosecurity practices and understanding differences across various production types is essential for implementing effective disease prevention and preparedness plans. A stratified random survey of beef cattle producers in Illinois was conducted between June and August 2022, with 537 producers responding to all or some of the survey questions. Multiple Correspondence Analysis (MCA) was used to explore associations between biosecurity practices and production",
     "keyPoints": [
-      "Тренінг покращує навички міжпрофесійної співпраці.",
-      "Застосування тренінгу сприяє підвищенню якості надання допомоги.",
-      "Дослідження проводилось у країнах з низьким та середнім рівнем доходу."
+      "Дослідження фокусується на практиках біобезпеки у виробництві бичачого скотарства.",
+      "Використано опитування та аналіз множинної відповідності для виявлення зв’язків.",
+      "Результати допомагають розробляти ефективні плани профілактики захворювань."
     ],
-    "practicalTakeaway": "Міжпрофесійне навчання може сприяти покращенню командної роботи у сфері охорони здоров'я.",
+    "practicalTakeaway": "Розуміння різноманіття практик біобезпеки сприяє покращенню профілактичних заходів у скотарстві.",
     "specialty": "сімейна медицина",
     "tags": [
-      "міжпрофесійна освіта",
-      "охорона здоров'я",
-      "ВІЛ"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42165211",
-    "title": "Виживаність та рецидив у данських пацієнтів з тимічними епітеліальними пухлинами",
-    "journal": "Acta oncologica (Stockholm, Sweden)",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити виживаність, рецидиви, супутні захворювання та прогностичні фактори у пацієнтів з тимічними епітеліальними пухлинами (ТЕТ), щоб покращити ризик-стратифікацію та підтримати обґрунтовані стратегії спостереження і лікування. У дослідження включено пацієнтів із Данії, діагностованих з тимомою, тимічною карциномою або нейроендокринною пухлиною між 2015 та 2020 роками.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165211/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Survival and relapse of Danish patients with thymic epithelial tumors.",
-    "originalAbstract": "This study aims to evaluate survival, relapse, comorbidities, and prognostic factors in patients with thymic epithelial tumours (TETs) to improve risk stratification for TET-related mortality and relapse and support evidence-based follow-up and treatment strategies. Patient/material and methods: The cohort consists of consecutive Danish patients diagnosed with thymoma, thymic carcinoma (TC), or thymic neuroendocrine tumor (NET) between January 1st, 2015 and December 31st, 2020, with follow-up da",
-    "keyPoints": [
-      "Дослідження аналізує виживаність і рецидиви у пацієнтів з ТЕТ.",
-      "Враховуються прогностичні фактори та супутні захворювання.",
-      "Результати спрямовані на покращення стратегій спостереження та лікування."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть допомогти у формуванні більш обґрунтованих підходів до спостереження та лікування пацієнтів з ТЕТ.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "прогностичні фактори",
-      "спостереження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42165208",
-    "title": "Рівень клonalної гемопоезу у пацієнтів з рецидивуючою венозною тромбозою: перспективне дослідження",
-    "journal": "Clinical and applied thrombosis/hemostasis : official journal of the International Academy of Clinical and Applied Thrombosis/Hemostasis",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження вивчало частоту клonalної гемопоезу (КГ) у пацієнтів з венозною тромбозою, що повторюється, та її можливий зв'язок з ризиком рецидиву. Виявлено, що КГ може бути асоційована з підвищеним ризиком повторної тромбозної події.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165208/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Clonal Hematopoiesis Rates in a Recurrent Venous Thrombosis Population: A Prospective Pilot Study.",
-    "originalAbstract": "BackgroundApproximately 50% of venous thromboembolism (VTE) are unprovoked, and 30% recur, leading to significant patient morbidity. Clonal hematopoiesis (CH) are acquired hematopoietic mutations that increase the risk of cardiovascular disease and myeloid neoplasms. CH may be associated with VTE and/or a predictive risk factor for recurrent VTE.MethodsWe conducted the first prospective pilot single-center study for patients with VTE to assess rate of CH, VTE recurrence rate, and clinical outcom",
-    "keyPoints": [
-      "Клonalна гемопоез може бути пов'язана з венозною тромбозою.",
-      "Дослідження оцінювало частоту КГ у пацієнтів з рецидивуючою тромбозою.",
-      "Результати можуть мати значення для прогнозування ризику повторних тромбозів."
-    ],
-    "practicalTakeaway": "Врахування наявності клonalної гемопоезу може бути корисним у прогнозуванні ризику рецидиву венозної тромбозу.",
-    "specialty": "гематологія",
-    "tags": [
-      "венозна тромбоз",
-      "клonalна гемопоез",
-      "рецидив"
+      "загальнонаціональний",
+      "захворювання тварин",
+      "профілактика"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42165206",
-    "title": "Швидка адаптація навчальної програми з громадського здоровʼя під час пандемії COVID-19 у Penn State University",
-    "journal": "Disaster medicine and public health preparedness",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "У звʼязку з пандемією COVID-19 університет Penn State швидко переглянув навчальні програми з громадського здоровʼя, зокрема створив онлайн-гібридний курс щодо розробки та поширення вакцин проти SARS-CoV-2. Курс був запроваджений навесні 2021 року та охоплював лабораторні, публічні та екстрені заходи у реальному часі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165206/",
+    "pmid": "42166825",
+    "title": "Порівняльна ефективність відлову та контролю народжуваності у управлінні безпритульними тваринами: систематичний огляд",
+    "journal": "Preventive veterinary medicine",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Цей огляд аналізує ефективність заходів з відлову та контролю народжуваності для управління безпритульними собаками та котами по всьому світу. Огляд охоплює показники чисельності, поширення зоонозних захворювань, стан притулків, громадські показники, благополуччя тварин, екологічні наслідки та економічну ефективність, а також визначає умови, що впливають на результативність цих заходів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166825/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Rapid Response in Graduate Training in Public Health Preparedness to the COVID-19 Pandemic: The Experience of Penn State University.",
-    "originalAbstract": "The COVID-19 pandemic disrupted education and training which led academia to revise well-established instructional content and strategies. This report described and evaluated the curricular response of public health preparedness at Penn State to the COVID-19 pandemic. We describe an online, hybrid course focused on the development, approval, and dissemination of the SARS-CoV-2 vaccines. The course was offered in the spring of 2021 and covered real-time laboratory, public health, emergency manage",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Comparative effectiveness of culling and birth control in free-roaming animal management: A systematic review.",
+    "originalAbstract": "This review evaluates the effectiveness of culling and birth control interventions for managing free-roaming dogs (FRD) and cats (FRC) worldwide across key outcome domains-population metrics, zoonotic disease indicators, shelter indicators, public metrics, animal welfare, ecological externalities, and cost-effectiveness-and identifies contextual conditions determining intervention effectiveness. Following PRISMA, we conducted three separate systematic searches in PubMed, Web of Science, and Scop",
     "keyPoints": [
-      "Університет Penn State швидко адаптував навчальні програми через пандемію.",
-      "Створено онлайн-гібридний курс щодо вакцин SARS-CoV-2.",
-      "Курс охоплював лабораторні, публічні та екстрені заходи в реальному часі."
+      "Огляд порівнює відлов та контроль народжуваності у управлінні безпритульними тваринами.",
+      "Розглядаються показники чисельності, захворювань та екологічних наслідків.",
+      "Визначаються умови, що впливають на ефективність заходів."
     ],
-    "practicalTakeaway": "Адаптація освітніх програм до кризових ситуацій може забезпечити актуальність та ефективність навчання.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Результати огляду допомагають визначити найбільш ефективні стратегії управління безпритульними тваринами залежно від контексту.",
+    "specialty": "сімейна медицина",
     "tags": [
-      "публічне здоровʼя",
-      "освіта",
-      "COVID-19"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42165204",
-    "title": "Функціональна характеристика розщеплення ліпопротеїнової ліпази фурином",
-    "journal": "Disease models & mechanisms",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження аналізує роль фурину у процесі розщеплення ліпопротеїнової ліпази (LPL) у живому організмі. LPL є ключовим ферментом у метаболізмі тригліцеридів, і його дисфункція спричиняє сімейну недостатність LPL, що підвищує ризик панкреатиту. Виявлено, що фурин може в інактувати LPL через розщеплення, але його фізіологічна роль залишається невизначеною.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165204/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Functional characterization of Furin-mediated lipoprotein lipase cleavage.",
-    "originalAbstract": "Lipoprotein lipase (LPL) is the rate-limiting enzyme that hydrolyzes triglycerides within circulating lipoproteins. LPL dysfunction leads to familial LPL deficiency, which is characterized by chylomicronemia and high risk for acute pancreatitis. Although cell culture studies indicate that the protease furin inactivates LPL by cleavage, the physiological relevance of this process remains unclear. In this study, we investigated the impact of furin-mediated LPL cleavage in vivo using inducible knoc",
-    "keyPoints": [
-      "Фурин може розщеплювати LPL у живому організмі.",
-      "Розщеплення LPL може впливати на метаболізм тригліцеридів.",
-      "Роль фурину у регуляції LPL потребує додаткових досліджень."
-    ],
-    "practicalTakeaway": "Розуміння регуляції LPL фурином може сприяти розвитку нових підходів до лікування порушень ліпідного обміну.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "ліпідний обмін",
-      "ферменти",
-      "фурин"
+      "зооінфекції",
+      "громадське здоровʼя",
+      "екологія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42165191",
-    "title": "Можливості протисудомної дії та аналіз мережевої фармакології Pimenta dioica (L.) Merr.",
-    "journal": "Chemistry & biodiversity",
-    "publishedAt": "2026-05-01T00:00:00Z",
-    "abstract": "Дослідження оцінювало протисудомний потенціал водно-спиртового екстракту листя Pimenta dioica (L.) Merr. (гвоздика), рослини з відомими біологічними властивостями. Аналіз хімічного складу підтвердив присутність флавоноїдів, танінів, фенольних сполук та вуглеводів. Випробування на токсичність показали відсутність токсичних ефектів при дозі 2000 мг/кг, що свідчить про безпечність екстракту.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42165191/",
+    "pmid": "42166824",
+    "title": "Іммерсивна симуляція та віртуальна реальність для виявлення дитячого насильства: дослідження",
+    "journal": "Child abuse & neglect",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження оцінювало можливості та короткостроковий вплив навчальної програми з використанням імерсивної симуляції та віртуальної реальності для підвищення здатності розпізнавати дитяче насильство у відділеннях швидкої допомоги. Традиційна освіта з цього питання часто недостатньо враховує емоційні та міжособистісні виклики у реальних ситуаціях.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166824/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-21T14:54:21Z",
-    "originalTitle": "Anticonvulsant Potential and Network Pharmacology Analysis of Pimenta dioica (L.) Merr.",
-    "originalAbstract": "The present study evaluated the anticonvulsant property of hydro-alcoholic leaf extract of Pimenta dioica (L.) Merr. (Allspice), a plant known for its diverse biological properties. Phytochemical screening and ATR-IR spectral analysis confirmed the presence of various metabolites, including flavonoids, tannins, phenolic compounds, and carbohydrates. The acute toxicity study revealed no toxic effects and/or mortality at 2000 mg/kg, suggesting a favorable safety profile of the extract. The extract",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "An immersive simulation and virtual reality-enhanced course for the recognition of pediatric Non-Accidental Trauma (NAT) and abuse: A proof-of-concept study.",
+    "originalAbstract": "Non-accidental trauma (NAT) remains a leading cause of child morbidity and mortality, yet recognition of NAT in pediatric emergency departments is frequently delayed. Traditional NAT education emphasizes factual knowledge and inadequately addresses emotional, cognitive, and interpersonal challenges influencing real-world decision-making. This study aimed to evaluate feasibility and short-term educational impact of an immersive multimodal simulation curriculum designed to improve pediatric emerge",
     "keyPoints": [
-      "Досліджено протисудомний потенціал екстракту Pimenta dioica.",
-      "Аналіз показав наявність біологічно активних метаболітів.",
-      "Екстракт безпечний при високих дозах."
+      "Дослідження оцінювало короткостроковий вплив навчальної програми.",
+      "Використання віртуальної реальності для підвищення навичок розпізнавання дитячого насильства.",
+      "Навчання спрямоване на покращення швидкості та точності діагностики у дитячих швидких допомогах."
     ],
-    "practicalTakeaway": "Дослідження підтверджує потенціал Pimenta dioica для подальшого вивчення у контексті протисудомної терапії.",
+    "practicalTakeaway": "Використання імерсивних технологій може покращити навички розпізнавання дитячого насильства у медичних працівників.",
+    "specialty": "педіатрія",
+    "tags": [
+      "педіатрія",
+      "медична освіта",
+      "віртуальна реальність"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42166821",
+    "title": "Емоційне зловживання у дитинстві та його вплив на психосоціальне функціонування у дорослому віці",
+    "journal": "Child abuse & neglect",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження виявило, що емоційне зловживання у дитинстві має довгостроковий вплив на міжособистісну довіру, задоволення життям та психічне здоров'я дорослих. Виявлено зв'язки між дитячими формами психологічного насильства та низькою соціальною довірою, меншою задоволеністю життям і вищим рівнем психіатричних симптомів у дорослому віці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166821/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Childhood emotional maltreatment and psychosocial functioning in adulthood: Associations with generalized interpersonal trust, life satisfaction, and self-reported psychiatric morbidity in a representative German sample.",
+    "originalAbstract": "Child maltreatment represents a major risk factor for psychological, physical, and social impairment across the lifespan. While the consequences of physical and sexual abuse are well documented, the impact of emotional abuse and neglect has long been underestimated. Recent evidence suggests that these forms of psychological maltreatment exert particularly far-reaching effects on social functioning and overall well-being. This study aimed to examine the long-term associations between different fo",
+    "keyPoints": [
+      "Емоційне зловживання у дитинстві пов'язане з довгостроковими наслідками для психосоціального функціонування.",
+      "Дослідження показало зниження міжособистісної довіри та задоволення життям у дорослих, які зазнали емоційного насильства у дитинстві.",
+      "Зв'язки між психологічним зловживанням і психічним здоров'ям зберігаються у репрезентативній вибірці з Німеччини."
+    ],
+    "practicalTakeaway": "Важливо враховувати довгострокові наслідки емоційного зловживання у дитинстві для психосоціального здоров'я дорослих.",
+    "specialty": "психіатрія",
+    "tags": [
+      "доказова медицина",
+      "психічне здоров'я",
+      "дитинство"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42166820",
+    "title": "Нові халькоген-оптимізовані 1,3,5-триазини як мультифункціональні модулятори 5-HT6R/FAAH для нейродегенеративних захворювань",
+    "journal": "European journal of medicinal chemistry",
+    "publishedAt": "2026-05-15T00:00:00Z",
+    "abstract": "Дослідження присвячене розробці нових молекул, здатних одночасно впливати на рецептор 5-HT6 та фермент FAAH, що має потенціал для лікування нейродегенеративних захворювань. Виявлено нові з'єднання на основі триазинової структури, що демонструють перспективність у мультицільовій терапії. Це підкреслює важливість розробки препаратів із багатофункціональним механізмом дії для ускладнених захворювань мозку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166820/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "New chalcogen-optimized 1,3,5-triazines as dual 5-HT6R/FAAH modulators: A versatile approach to neurodegenerative disorders.",
+    "originalAbstract": "The clinical failure of selective serotonin 5-HT6 receptor (5-HT6R) antagonists in Alzheimer's disease (AD) highlights the need for multitarget therapeutic strategies addressing the multifactorial nature of neurodegeneration. Building upon our pioneering discovery of the first-in-class dual 5-HT6R/FAAH (fatty acid amide hydrolase) modulators among O-ether triazine compounds, we here report a comprehensive lead-optimization campaign centered on the triazine-based compound MR3b, identified as a pr",
+    "keyPoints": [
+      "Розроблено нові молекули для лікування нейродегенеративних захворювань.",
+      "Молекули мають здатність одночасно впливати на 5-HT6R та FAAH.",
+      "Це підкреслює потенціал мультифункціональної терапії в неврології."
+    ],
+    "practicalTakeaway": "Розробка мультифункціональних препаратів може сприяти більш ефективному лікуванню нейродегенеративних захворювань.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейродегенеративні захворювання",
+      "мультифункціональні молекули",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42166818",
+    "title": "Натуральні інгібітори PDE4 з рослин: огляд відкриттів та потенціалу клінічного застосування",
+    "journal": "European journal of medicinal chemistry",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Огляд присвячений природним інгібіторам фосфодіестерази 4 (PDE4), що мають потенціал для лікування хронічних запальних захворювань. Відзначено, що існуючі інгібітори PDE4 мають побічні ефекти через низьку селективність. Рослинні природні продукти пропонують нові можливості для розробки препаратів із покращеною селективністю та новими механізмами дії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166818/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Natural PDE4 inhibitors from plants: A comprehensive review of discovery, structure-activity relationships, and clinical translation potential.",
+    "originalAbstract": "Phosphodiesterase 4 (PDE4) is a validated target for chronic inflammatory diseases such as COPD, asthma, and psoriasis. Although four PDE4 inhibitors have received FDA approval (roflumilast, apremilast, crisaborole, and ensifentrine), all suffer dose-limiting gastrointestinal side effects due to insufficient PDE4B/PDE4D selectivity. Plant-derived natural products offer complementary chemical space for discovering inhibitors with novel binding modes and improved isoform selectivity. This review s",
+    "keyPoints": [
+      "Обговорюються природні інгібітори PDE4 з рослин.",
+      "Відзначається потенціал для покращення селективності препаратів.",
+      "Зосереджено на можливостях клінічного застосування."
+    ],
+    "practicalTakeaway": "Дослідження природних інгібіторів PDE4 може сприяти створенню нових препаратів для лікування запальних захворювань.",
     "specialty": "доказова медицина",
     "tags": [
       "фармакотерапія",
-      "нейрологія",
-      "доказова медицина"
+      "інгібітори PDE4",
+      "природні продукти"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42166814",
+    "title": "Роль матеріалів та технологій 4D друку у персоналізованій онкології",
+    "journal": "Translational oncology",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження аналізує потенціал 4D друку для покращення персоналізованого підходу в онкології. Технологія дозволяє створювати динамічні моделі та пристрої, що враховують змінювані характеристики пухлин та лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166814/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Exploring the role of 4D printing materials, techniques, and characteristics for personalized oncology.",
+    "originalAbstract": "Cancer is still a global concern. Cancer management is intricate in all fields, from diagnosing or defining prognosis to selecting appropriate treatment and managing its adverse effects. In recent years, three-dimensional printing (3DP) innovations have emerged as a ground-breaking technology, offering new possibilities for cancer management. 3DP has advanced further with the addition of a fourth dimension, time, resulting in the concept of four-dimensional printing (4DP), ultimately revolutioni",
+    "keyPoints": [
+      "4D друк відкриває нові можливості для персоналізованої онкології.",
+      "Технологія дозволяє створювати динамічні моделі для лікування.",
+      "Дослідження фокусується на матеріалах та характеристиках 4D друку."
+    ],
+    "practicalTakeaway": "Перспективи застосування 4D друку у онкології потребують подальших досліджень.",
+    "specialty": "онкологія",
+    "tags": [
+      "онкологія",
+      "технології",
+      "персоналізація"
     ],
     "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42166813",
+    "title": "Збір даних про вагітність у нагляді за туберкульозом: практики та перспективи в регіонах Відповідального Туберкульозу в Тихоокеанському регіоні та Південно-Східній Азії",
+    "journal": "Public health",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження аналізує практики та пріоритети щодо збору даних про вагітність у національних програмах боротьби з туберкульозом у регіонах Відповідального Туберкульозу в Тихоокеанському регіоні та Південно-Східній Азії. Враховуючи високий рівень смертності від туберкульозу та його вплив на материнське та неонатальне здоровʼя, відсутня єдина практика щодо систематичного збору вагітних у рамках нагляду за цим захворюванням.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166813/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Pregnancy data in tuberculosis surveillance: Practices, priorities and perspectives from national TB programs in the Western Pacific and South-East Asia.",
+    "originalAbstract": "Tuberculosis (TB) is the leading cause of death from an infectious disease, with the Western Pacific (WPR) and South-East Asia (SEAR) regions accounting for almost two-thirds of the global burden. Despite TB being a major cause of maternal mortality and adverse neonatal outcomes, no consensus exists on routine pregnancy-related data collection in national TB programmes (NTPs). This study aimed to map current practices, priorities, and perspectives regarding pregnancy data collection in TB survei",
+    "keyPoints": [
+      "Вагітність є важливим аспектом у нагляді за туберкульозом.",
+      "Практики збору даних про вагітних різняться між країнами.",
+      "Потреба у стандартизації підходів для покращення здоровʼя матерів і новонароджених."
+    ],
+    "practicalTakeaway": "Необхідно розробити стандартизовані протоколи збору даних про вагітних у програмах боротьби з туберкульозом.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "збір даних",
+      "вагітність",
+      "туберкульоз"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42166809",
+    "title": "Мітохондрії як ціль для наноматеріалів: від механізмів токсичності до терапевтичних стратегій",
+    "journal": "Biochemical and biophysical research communications",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Мітохондрії відіграють ключову роль у регуляції метаболічних процесів, окислювального стресу та апоптозу клітин. Цей огляд аналізує сучасне розуміння взаємодії наноматеріалів із мітохондріями, зосереджуючись на механізмах їх токсичної дії та можливостях розробки терапевтичних підходів, спрямованих на цільові впливи на мітохондрії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42166809/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-22T02:49:15Z",
+    "originalTitle": "Mitochondria as a target for nanomaterials: from molecular mechanisms of toxicity to therapeutic strategies.",
+    "originalAbstract": "Mitochondria, functioning as central integrators of metabolic signals, redox homeostasis, and programmed cell death, represent a critical intracellular compartment that dictates the biological response to engineered nanomaterials (NMs). This review provides a comprehensive analysis of the current understanding of the dualistic nature of nano-mitochondrial interactions - from the fundamental mechanisms of nanotoxicology to the principles of rational design for mitochondria-targeted therapeutic sy",
+    "keyPoints": [
+      "Мітохондрії є важливим внутрішньоклітинним компонентом, що визначає біологічну відповідь на наноматеріали.",
+      "Взаємодія наноматеріалів із мітохондріями має двоїстий характер: токсичний та потенційно терапевтичний.",
+      "Розуміння механізмів токсичності та принципів дизайну наноматеріалів може сприяти розвитку цільових терапевтичних стратегій."
+    ],
+    "practicalTakeaway": "Дослідження взаємодії наноматеріалів із мітохондріями може сприяти створенню нових терапевтичних підходів та зменшенню їх токсичних ефектів.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "мітохондрії",
+      "наноматеріали",
+      "токсичність",
+      "терапія"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
