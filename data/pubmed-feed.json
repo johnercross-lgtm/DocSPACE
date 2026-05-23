@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42172727",
-    "title": "Розробка та валідація інтерпретованої моделі машинного навчання для раннього прогнозування гострого інфаркту міокарда",
-    "journal": "International journal of medical informatics",
-    "publishedAt": "2026-05-14T00:00:00Z",
-    "abstract": "Дослідження спрямоване на створення інтерпретованої моделі машинного навчання для передбачення ризику гострого інфаркту міокарда (ГІМ) на ранніх стадіях. Враховувалися багатовимірні клінічні дані у ретроспективному когортному дослідженні з 7939 пацієнтів. Модель має потенціал покращити ранню діагностику та інтервенції.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172727/",
+    "pmid": "42175758",
+    "title": "Функціональна візуалізація для регенеративної медицини: відстеження васкуляризації кишкових скелетів",
+    "journal": "Tissue engineering. Part A",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження розглядає методи неінвазивного моніторингу розвитку кровопостачання у тканинних конструкціях для відновлення кишечника. Традиційно для васкуляризації використовують імплантацію у сальник, що вимагає двох операцій. Наразі відсутні добре валідовані методи для неінвазивного контролю зрілості судинної мережі у таких конструкціях.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175758/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Development and validation of an interpretable machine learning model for early risk prediction of acute myocardial infarction.",
-    "originalAbstract": "Acute myocardial infarction (AMI) remains a leading cause of global morbidity and mortality, with early prediction critical for timely intervention. Traditional risk assessment tools are limited because of their reliance on limited variables and static thresholds. This study aims to develop an interpretable machine learning (ML) model using multidimensional clinical data for early AMI risk prediction. We performed a retrospective cohort study of 7939 patients enrolled from the second hospital of",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Functional Imaging for Regenerative Medicine: Tracking Vascularization of Intestinal Scaffolds.",
+    "originalAbstract": "Traditional approaches to tissue-engineered small intestine (TESI) require implanting a construct in the omentum of the abdominal cavity to allow for vascularization of the construct and tissue maturation. A second operation is then needed to implant the construct in continuity with the intestine. The timing of the second operation has historically been chosen based on predetermined biological endpoints. Currently, no well-validated method has been used to noninvasively monitor for vascular matu",
     "keyPoints": [
-      "Розроблено модель машинного навчання для прогнозування ГІМ.",
-      "Використано багатовимірні клінічні дані у ретроспективному дослідженні.",
-      "Модель має потенціал покращити ранню діагностику ГІМ."
+      "Розглядається використання функціональної візуалізації для моніторингу васкуляризації тканинних конструкцій.",
+      "Традиційний підхід передбачає дві операції з імплантацією у сальник та подальше підключення до кишечника.",
+      "Потреба у валідованих неінвазивних методах для визначення зрілості судинної мережі."
     ],
-    "practicalTakeaway": "Інтерпретована модель машинного навчання може допомогти у ранньому визначенні ризику гострого інфаркту міокарда.",
-    "specialty": "кардіологія",
-    "tags": [
-      "машинне навчання",
-      "інфаркт міокарда",
-      "прогнозування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172726",
-    "title": "Розробка та валідація послідовнісної моделі глибокого навчання для прогнозування ризику інфекцій у домашній опіці",
-    "journal": "International journal of medical informatics",
-    "publishedAt": "2026-05-22T00:00:00Z",
-    "abstract": "Дослідження спрямоване на створення та перевірку моделі глибокого навчання, яка використовує послідовні структуровані дані електронних медичних записів та текстові нотатки для прогнозування госпіталізацій або звернень до швидкої допомоги через інфекційні ускладнення у пацієнтів домашньої опіки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172726/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Developing and validating a sequence-aware deep learning model for infection risk prediction in home care.",
-    "originalAbstract": "Infections are a leading cause of hospitalizations and emergency department (ED) visits in home care. Existing prediction tools often underutilize longitudinal patterns of home care electronic health record (EHR) and narrative clinical notes. To evaluate a sequence-aware deep learning approach that integrates longitudinal structured EHR data with Natural Language Processing (NLP)-derived features from clinical notes to predict infection-related hospitalizations or ED visits, derive a three-tier ",
-    "keyPoints": [
-      "Модель поєднує структуровані дані та текстові нотатки для прогнозування ризику інфекцій.",
-      "Використання послідовних даних дозволяє враховувати динаміку стану пацієнта.",
-      "Дослідження має потенціал покращити раннє виявлення ускладнень у домашніх пацієнтів."
-    ],
-    "practicalTakeaway": "Інтеграція структурованих та текстових даних у моделях глибокого навчання може покращити прогнозування інфекційних ускладнень у домашніх пацієнтів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "прогнозування",
-      "глибоке навчання",
-      "електронні медичні записи"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172723",
-    "title": "Запалення спричиняє дисфункцію мітохондрій та накопичення ROS у розвитку пульмональної фіброзної ремоделювання при сепсисі",
-    "journal": "Redox biology",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження виявило, що запалення сприяє розвитку необоротної пульмональної фібрози через посилене імунне реагування та порушення функції мітохондрій, що веде до накопичення реактивних форм кисню. Це сприяє ремоделюванню тканин легень у контексті сепсису.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172723/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Inflammation-driven mitochondrial dysfunction and ROS accumulation orchestrate pulmonary fibrotic remodeling in sepsis.",
-    "originalAbstract": "Inflammation-induced pulmonary fibrosis is an irreversible and severe complication that leads to persistent decline in lung function and increased mortality; however, its early pathogenesis is still unclear. This study aimed to systematically elucidate the initiation mechanism of pulmonary fibrosis in the early stages of inflammation. By integrating multi-omics data and animal models, we found that lung exhibits stronger immune amplification and more severe mitochondrial dysfunction in compariso",
-    "keyPoints": [
-      "Запалення активує імунну відповідь і порушує функцію мітохондрій у легень.",
-      "Накопичення ROS сприяє розвитку фіброзу.",
-      "Механізми раннього розвитку пульмональної фібрози при сепсисі пов'язані з мітохондріальним дисфункцією."
-    ],
-    "practicalTakeaway": "Розуміння ролі мітохондріальної дисфункції та ROS у розвитку пульмональної фібрози може допомогти у пошуку нових терапевтичних стратегій.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "запалення",
-      "мітохондрії",
-      "пульмональна фіброза"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172722",
-    "title": "Концепція м'якотканинного діаманта (ST-Diamond): трансляційна рамка для регенерації сухожиль і зв'язок.",
-    "journal": "Injury",
-    "publishedAt": "2026-05-19T00:00:00Z",
-    "abstract": "Концепція діаманта, спочатку розроблена для загоєння кісткових переломів, визначає п’ять ключових елементів для успішного ремонту: фактори росту, остеокондуктивний каркас, мезенхімальні клітини-пр progenitors, оптимальне механічне середовище та належне кровопостачання. Сухожилля та зв'язки — щільні, гіповаскулярні колагенові тканини з обмеженою здатністю до регенерації. При ушкодженнях вони загоюються за рахунок фіброзної рубцевої тканини, а не регенерації.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172722/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "The soft tissue healing diamond (ST-Diamond) concept: A translational framework for tendon and ligament regeneration.",
-    "originalAbstract": "The diamond concept, originally articulated for bone fracture healing, defines five essential and interdependent elements for successful repair: growth factors, an osteoconductive scaffold, mesenchymal progenitor cells, an optimal mechanical environment, and adequate vascularisation. Tendons and ligaments are dense, hypovascular collagenous tissues with limited intrinsic regenerative capacity. When injured, they heal by biomechanically inferior fibrotic scarring rather than by regeneration. No u",
-    "keyPoints": [
-      "Концепція діаманта визначає п’ять ключових елементів для загоєння.",
-      "Сухожилля і зв'язки мають обмежену здатність до регенерації.",
-      "При ушкодженнях вони загоюються переважно через фіброзний рубець."
-    ],
-    "practicalTakeaway": "Розуміння ключових компонентів для регенерації сухожиль і зв'язок може сприяти розвитку нових стратегій лікування.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "травматологія",
-      "регенерація",
-      "м'які тканини"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172715",
-    "title": "Імуно-модулюючий та протираковий потенціал фітохімічних речовин: огляд",
-    "journal": "Pharmacological reviews",
-    "publishedAt": "2026-04-01T00:00:00Z",
-    "abstract": "Огляд присвячений дослідженню здатності природних сполук, отриманих із рослин, впливати на імунну систему у контексті лікування раку. Аналіз зосереджений на їхній здатності модулювати імунні контрольні точки, такі як PD-1, PD-L1 і CTLA-4, що мають ключове значення у імунотерапії раку. Вивчення базується на передклінічних та ранніх трансляційних дослідженнях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172715/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Immunomodulatory and anticancer effects of phytochemicals: A comprehensive analysis.",
-    "originalAbstract": "Natural compounds have been a part of traditional medicine for generations, and recent studies are now recognizing their potential to influence the immune system in cancer treatment. This review focuses on how specific plant-derived chemicals can modulate immune checkpoints such as PD-1, PD-L1, and CTLA-4, which play a central role in cancer immunotherapy, mainly in preclinical and early translational studies. Compounds including curcumin, isothiocyanates, apigenin, luteolin, and berberine demon",
-    "keyPoints": [
-      "Природні сполуки мають потенціал для імунотерапії раку.",
-      "Досліджуються рослинні компоненти, що впливають на імунні контрольні точки.",
-      "Значний інтерес викликають куркумін, ізотіоціанати, апігенін, лютеолін і берберин."
-    ],
-    "practicalTakeaway": "Дослідження природних сполук у контексті імунотерапії раку тривають, але їхній клінічний застосунок потребує додаткових доказів.",
-    "specialty": "онкологія",
-    "tags": [
-      "імунологія",
-      "природні сполуки",
-      "ракові захворювання"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172713",
-    "title": "Наногелі як інноваційні носії для терапії раку шкіри на основі РНК",
-    "journal": "Current research in translational medicine",
-    "publishedAt": "2026-05-10T00:00:00Z",
-    "abstract": "Огляд досліджує можливості застосування наногелів як нових носіїв для терапії раку шкіри з використанням РНК. Наногелі мають переваги у покращенні проникнення через шкіру, зменшенні раптового вивільнення та мінімізації системних побічних ефектів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172713/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Nanogels as innovative drug carriers for RNA-based skin cancer therapy: mechanistic insights and RNA encapsulation.",
-    "originalAbstract": "This review examines the potential application of nanogels as novel drug carriers for RNA-based therapy in the treatment of skin cancer. Relevant information was obtained from reputable scientific databases, including peer-reviewed articles. Nanogels, characterized by their nanoscale size and three-dimensional network structure, offer superior pharmacokinetic properties for drug delivery, including enhanced skin permeation, reduced burst release, and minimized systemic side effects. RNA molecule",
-    "keyPoints": [
-      "Наногелі мають унікальні властивості для доставки РНК.",
-      "Вони покращують проникнення через шкіру та зменшують побічні ефекти.",
-      "Дослідження зосереджені на потенціалі наногелів у терапії раку шкіри."
-    ],
-    "practicalTakeaway": "Наногелі можуть стати перспективним засобом для доставки РНК у терапії раку шкіри.",
+    "practicalTakeaway": "Розвиток неінвазивних методів моніторингу васкуляризації може покращити планування операцій у регенеративній медицині кишечника.",
     "specialty": "доказова медицина",
     "tags": [
-      "онкологія",
-      "фармацевтика",
-      "доказова медицина"
+      "регенеративна медицина",
+      "васкуляризація",
+      "неінвазивна візуалізація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42172712",
-    "title": "ISG15 сприяє прогресуванню раку шийки матки через гіперактивацію сигнального шляху NOD-подібних рецепторів",
-    "journal": "Cancer genetics",
-    "publishedAt": "2026-05-15T00:00:00Z",
-    "abstract": "Дослідження показало, що ген ISG15 значно переекспресований у тканинах раку шийки матки. Високий рівень ISG15 був пов'язаний із кращою загальною виживаністю пацієнтів. Вивчення функції гену у клітинних моделях та у тварин підтвердило його роль у активуванні сигнального шляху NOD-подібних рецепторів, що сприяє прогресуванню захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172712/",
+    "pmid": "42175756",
+    "title": "Застосування системи класифікації Робсона для порівняння рівнів кесаревого розтину в пакистанській лікарні за 3 роки",
+    "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Мета дослідження — оцінити зміни у рівнях кесаревого розтину за 3 роки у державній лікарні, використовуючи систему класифікації Робсона. Аналіз охоплював розподіл пацієнток за групами, рівень кесаревих розтинів у цілому та окремих групах, а також якість та повноту даних.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175756/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "ISG15 drives cervical cancer progression by hyperactivating the NOD-like receptor signaling pathway.",
-    "originalAbstract": "The function of the interferon-stimulated gene ISG15 in cervical cancer (CC) is complex and remains unclear. We analyzed the expression and clinical significance of ISG15 in the TCGA-CESC cohort. Its function was investigated in Caski cells using RNA-seq, siRNA, and pharmacological inhibition methods, and validated in vivo in a xenograft model. ISG15 was significantly overexpressed in cervical cancer tissues (P < 0.001). However, high ISG15 expression was associated with better overall survival ",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Implementing Robson's classification to compare Cesarean section rates over time at a public tertiary care hospital in Pakistan: An eye-opener.",
+    "originalAbstract": "The aim of the present study was to assess changes in cesarean section (CS) rates over 3 years at a public tertiary care hospital using the Robson Ten Group Classification System (RTGCS). The specific objectives were to compare population distribution across Robson groups, evaluate overall, group-specific, absolute and relative CS rates and assess data quality and completeness. This analytical cross-sectional study was conducted at a public tertiary care hospital in Rawalpindi, Pakistan and span",
     "keyPoints": [
-      "ISG15 переекспресований у ракових тканинах шийки матки.",
-      "Високий рівень ISG15 асоціюється з кращою виживаністю.",
-      "ISG15 активує шлях NOD-подібних рецепторів, сприяючи прогресу раку."
+      "Дослідження аналізує зміни у рівнях кесаревого розтину за 3 роки.",
+      "Використано систему класифікації Робсона для порівняння груп.",
+      "Оцінюється якість та повнота медичних даних."
     ],
-    "practicalTakeaway": "Дослідження вказують на потенціал ISG15 як біомаркера та цілі для терапії раку шийки матки.",
+    "practicalTakeaway": "Застосування системи Робсона допомагає аналізувати тенденції у рівнях кесаревого розтину та покращувати якість медичних даних.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "кесарів розтин",
+      "класифікація Робсона",
+      "медичні дані"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175755",
+    "title": "Вплив часу, потоку та гіпоксії на формування капілярних трубок у біоштучних матрицях із фібрину",
+    "journal": "Tissue engineering. Part A",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження аналізує вплив часу, кровотоку та гіпоксії на формування капілярних трубок у тривимірних біоінженерних матрицях із фібрину. Визначено, що ці фактори мають значний вплив на процес капілярогенезу, що є важливим для тканинної інженерії та розвитку штучних органів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175755/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Timing Matters: Impact of Flow and Hypoxia on Capillary Tube Formation in Bioartificial Fibrin-Based Matrices.",
+    "originalAbstract": "Vascularization and perfusion are essential for tissue engineering of large-scale bioartificial tissues and organs. Both fluid flow and hypoxia have been shown to influence capillary tube formation in bioartificial matrices. However, the ideal timing and combination of these two factors for optimizing capillary tube formation in tissue engineering approaches still remains unclear to date. Capillary tube formation was evaluated in 3D flow chamber wells, in which human microvascular endothelial ce",
+    "keyPoints": [
+      "Вивчено вплив гіпоксії та кровотоку на формування капілярних трубок.",
+      "Час впливу цих факторів є ключовим для оптимізації процесу.",
+      "Результати мають значення для розвитку тканинної інженерії."
+    ],
+    "practicalTakeaway": "Оптимізація часу та умов впливу кровотоку і гіпоксії може покращити формування капілярних структур у біоінженерних тканинах.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "тканинна інженерія",
+      "капіллярогенез",
+      "гіпоксія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175753",
+    "title": "Втрата рибосомального білка RPL22 обмежує реплікацію вірусу африканської чуми свиней через індукцію ER-стресу, залежного від PERK",
+    "journal": "Emerging microbes & infections",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження показало, що зниження рівня рибосомального білка RPL22 у клітинах сприяє зменшенню реплікації вірусу африканської чуми свиней (ASFV). Це відбувається через індукцію ER-стресу, залежного від PERK, що може впливати на життєвий цикл вірусу. Результати відкривають потенційні шляхи для розробки нових антивірусних стратегій проти ASFV.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175753/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Loss of Ribosomal Protein RPL22 Restricts African Swine Fever Virus Replication by Inducing PERK-Dependent ER Stress.",
+    "originalAbstract": "African swine fever virus (ASFV) is a large DNA virus that causes highly lethal disease in domestic pigs and wild boars, posing a significant threat to the global swine industry. The development of effective antivirals and vaccines is hindered by the complex structure of the virus and its sophisticated manipulation of host cellular processes. The inner envelope protein p54 is essential for multiple stages of the viral life cycle, including attachment, entry, and replication. In this study, we em",
+    "keyPoints": [
+      "Зниження RPL22 обмежує реплікацію ASFV.",
+      "Індукція ER-стресу є ключовим механізмом.",
+      "Можливе використання для розробки нових терапій."
+    ],
+    "practicalTakeaway": "Модуляція білка RPL22 та ER-стресу може стати перспективним напрямком у боротьбі з ASFV.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "вірусні інфекції",
+      "ASFV",
+      "імунологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175751",
+    "title": "Теплова залежність госпіталізацій з психічних причин в Італії: аналіз чутливості моделей",
+    "journal": "Risk analysis : an official publication of the Society for Risk Analysis",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження аналізує короткостроковий зв'язок між високими температурами та госпіталізаціями з психічних причин у 21 італійському місті (2005–2023). Використано модель Distributed Lag Nonlinear Model для оцінки впливу температури, зосереджуючись на структурних припущеннях моделей.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175751/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Heat-Related Mental Health Hospitalizations in Italy:A Global Sensitivity Analysis Approach to Evaluate Generalized Additive Model Assumptions.",
+    "originalAbstract": "High temperatures are increasingly associated with adverse mental health outcomes, yet the influence of structural modeling assumptions on these estimates remains underexplored. This study examined the short-term association between high temperatures and mental health-related-hospitalizations in 21 major Italian cities from 2005 to 2023, using national hospital discharge data. Exposure-lag-response relationships were modeled through a Distributed Lag Nonlinear Model (DLNM) framework estimated wi",
+    "keyPoints": [
+      "Вивчено вплив високих температур на психічне здоров'я.",
+      "Застосовано модель DLNM для аналізу даних.",
+      "Результати допомагають краще розуміти ризики теплових хвиль."
+    ],
+    "practicalTakeaway": "Розуміння структурних припущень моделей важливе для точнішої оцінки впливу температури на психічне здоров'я.",
+    "specialty": "психіатрія",
+    "tags": [
+      "загальне здоров'я",
+      "кліматичні зміни",
+      "медична статистика"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175749",
+    "title": "Грудне вигодовування може забезпечити довготривалий імунітет проти нових інфекційних збудників",
+    "journal": "Breastfeeding medicine : the official journal of the Academy of Breastfeeding Medicine",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження на основі даних з 159 округів штату Джорджія, США, показало, що у громадах з високим рівнем грудного вигодовування спостерігалося менше випадків захворювання на COVID-19 та смертей від нього протягом двох років епідемії. Це свідчить про потенційний довготривалий імунітет, який може передаватися через грудне молоко.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175749/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Breastfeeding May Confer Long-Term Immunity Against Emerging Infectious Pathogens-Ecological Evidence over 2 Full Years of the COVID-19 Epidemic in Georgia, United States.",
+    "originalAbstract": "Long-term immunity acquired maternally against infectious pathogens has been reported in animal studies, but epidemiological evidence remains lacking. To assess long-term maternal immunity in humans against infectious pathogens, we examined COVID-19 disease burden in communities with varying breastfeeding practices. Using data from 159 counties in Georgia, the United States, from March 1, 2020, through February 28, 2022, we calculated the daily incidence, mortality, and fatality rates of COVID-1",
+    "keyPoints": [
+      "Високий рівень грудного вигодовування асоціюється з меншим рівнем захворюваності COVID-19.",
+      "Дослідження базується на аналізі даних за два роки у штаті Джорджія.",
+      "Можливий довготривалий імунітет через грудне молоко."
+    ],
+    "practicalTakeaway": "Заохочення грудного вигодовування може мати довготривалі позитивні наслідки для імунітету дітей.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "COVID-19",
+      "грудне вигодовування",
+      "імунітет"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175747",
+    "title": "Лікування міжміхурової цистити DMSO та його вплив на грудне молоко",
+    "journal": "Breastfeeding medicine : the official journal of the Academy of Breastfeeding Medicine",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження вперше кількісно визначило концентрацію диметилсульфоїду (DMSO) у грудному молоці після прийому матерю препарату Rimso-50. Визначено максимальну концентрацію DMSO у молоці та оцінено потенційний ризик для немовлят.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175747/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Bladder to Breast Milk-DMSO Treatment of Interstitial Cystitis.",
+    "originalAbstract": "This study aimed to be the first to quantify dimethyl sulfoxide (DMSO) concentrations in human milk after the maternal dosing and estimate the relative infant dose (RID) to assess potential safety concerns. Human milk samples were obtained at different time points after the mother had received one Rimso-50 treatment. The concentrations of DMSO were then quantified at each time interval by a liquid chromatography-mass spectrometry. The maximum concentration (Cmax) was observed to be 34.5 μg/mL at",
+    "keyPoints": [
+      "Визначено концентрацію DMSO у грудному молоці після лікування.",
+      "Максимальна концентрація становила 34,5 мкг/мл.",
+      "Оцінено потенційний ризик для немовлят при пероральному прийомі DMSO."
+    ],
+    "practicalTakeaway": "При застосуванні DMSO у матерів, що годують, слід враховувати можливий рівень його у грудному молоці.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "інфекційні хвороби",
+      "доказова медицина",
+      "жінки і репродуктивне здоровʼя"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175746",
+    "title": "Важливість коливань у виконавчих функціях для щоденної діяльності у літніх людей",
+    "journal": "The Clinical neuropsychologist",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження виявило, що внутрішньоіндивідуальні коливання у виконавчих функціях (ВФ), оцінені як поведінково, так і через самозвіт, можуть передбачати здатність виконувати інструментальні щоденні завдання. Водночас середні рівні самозвіту про ВФ зазвичай не мають такої прогностичної цінності.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175746/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "The ups and downs matter: Magnitudes of fluctuations in executive functions predict daily functioning in older adults.",
+    "originalAbstract": "Objective: Intra-individual variability in executive functions (EF), assessed both behaviorally and via self-report, may serve as a predictor of instrumental activities of daily living (IADLs), whereas mean self-reported EF levels typically do not. No prior research has simultaneously examined associations among (a) day-to-day mean levels and fluctuations of EF self-report, (b) day-to-day mean levels and fluctuations of EF performance, and (c) performance of IADL tasks at home. This study examin",
+    "keyPoints": [
+      "Коливання у виконавчих функціях можуть передбачати щоденну здатність до виконання завдань.",
+      "Середні рівні самозвіту про ВФ не мають високої прогностичної цінності.",
+      "Дослідження підкреслює важливість аналізу динаміки ВФ у літніх людей."
+    ],
+    "practicalTakeaway": "Врахування коливань у виконавчих функціях може допомогти у прогнозуванні здатності літніх людей виконувати щоденні завдання.",
+    "specialty": "неврологія",
+    "tags": [
+      "доказова медицина",
+      "старіння",
+      "когнітивні функції"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42175743",
+    "title": "Глюкагоноподібний пептид-1 рецепторні агонисти можуть запобігати метастазуванню",
+    "journal": "Cancer discovery",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Нові дослідження вказують, що початок прийому глюкагоноподібного пептиду-1 рецепторних агонистів після діагностики певних раків, пов’язаних з ожирінням, таких як рак легень, молочної залози, товстої кишки або печінки на стадіях I-III, може запобігти їх переходу до стадії IV. Однак експерти поки не рекомендують призначати ці препарати пацієнтам із ранніми стадіями раку без додаткових досліджень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175743/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "GLP-1 RAs May Prevent Metastatic Progression.",
+    "originalAbstract": "New research suggests that starting a glucagon-like-peptide (GLP)-1 receptor agonist following a diagnosis of certain obesity-related cancers-namely stage I, II, or III lung, breast, colorectal, or liver cancers-may prevent them from advancing to stage IV. However, experts aren't ready to prescribe them to patients with newly diagnosed earlier stage disease without additional research confirming their value.",
+    "keyPoints": [
+      "Дослідження вказують на потенціал GLP-1 RAs у запобіганні метастазуванню раку.",
+      "Застосування препаратів можливе після діагностики раку на стадіях I-III.",
+      "Потрібні додаткові дослідження перед широким застосуванням."
+    ],
+    "practicalTakeaway": "Поки що застосування GLP-1 RAs для запобігання метастазуванню раку потребує додаткових доказів.",
     "specialty": "онкологія",
     "tags": [
       "ракові захворювання",
-      "генетика",
-      "біомаркери"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172709",
-    "title": "Мікро- та нанопластики у центральній нервовій системі: шляхи транспорту, нейротоксичність та наслідки для мозкових розладів",
-    "journal": "Ecotoxicology and environmental safety",
-    "publishedAt": "2026-05-22T00:00:00Z",
-    "abstract": "Мікро- та нанопластики (МНП) поширені у глобальних екосистемах та виявлені у людських тканинах, зокрема у мозку. Висока кореляція між рівнями МНП та різними мозковими розладами свідчить про потенційну нейротоксичність цих частинок. У дослідженні розглядаються основні шляхи транспорту МНП у мозок, зокрема через гематоенцефалічний бар'єр, носоглотковий шлях та глімфатичну систему.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172709/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Micro- and nanoplastics in the central nervous system: Transport pathways, neurotoxicity, and implications for brain disorders.",
-    "originalAbstract": "Micro- and nano-plastics (MNPs) are widely distributed across global ecosystems and have been extensively detected in human tissues, including the brain. The levels of MNPs are highly correlated with the occurrence of various brain disorders, suggesting the potential central nervous system (CNS) toxicity of MNPs. In this review, we summarize the major circuits by which MNPs may transport into and out of the CNS, including blood-brain barrier crossing, nasal-to-brain routes, and glymphatic system",
-    "keyPoints": [
-      "МНП можуть проникати до мозку через кілька шляхів.",
-      "Виявлена кореляція між рівнями МНП і мозковими розладами.",
-      "Розглядаються механізми транспорту МНП у центральну нервову систему."
-    ],
-    "practicalTakeaway": "Необхідно досліджувати вплив МНП на мозкові функції та розробляти заходи для зменшення їхнього проникнення у центральну нервову систему.",
-    "specialty": "неврологія",
-    "tags": [
-      "екотоксикологія",
-      "нейротоксичність",
-      "мікропластики"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42172707",
-    "title": "Вплив куріння на ендотеліальну клітинну старіння та метастазування легень аденокарциноми через BMP4-Smad1/5/9-ID1 шлях",
-    "journal": "Ecotoxicology and environmental safety",
-    "publishedAt": "2026-05-22T00:00:00Z",
-    "abstract": "Дослідження показує, що куріння сприяє розвитку фенотипу ендотеліальних клітин, схожого на старіння, що може сприяти метастазуванню легень аденокарциноми через активацію шляху BMP4-Smad1/5/9-ID1. Це впливає на мікрооточення судин і може погіршувати прогнози пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172707/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Cigarette smoke-induced endothelial senescence-like phenotype promotes lung adenocarcinoma metastasis via the BMP4-Smad1/5/9-ID1 axis.",
-    "originalAbstract": "Cigarette smoking is a major risk factor for lung adenocarcinoma and is associated with increased metastatic progression and poor clinical outcomes. Beyond its direct effects on tumor cells, cigarette smoke can remodel the vascular microenvironment by inducing endothelial dysfunction, increasing vascular permeability, and promoting inflammatory and senescence-associated responses. However, whether senescence-like endothelial phenotype facilitates tumor cell extravasation and metastasis in lung a",
-    "keyPoints": [
-      "Куріння сприяє фенотипу ендотеліальних клітин, схожого на старіння.",
-      "Такий фенотип може сприяти метастазуванню легень аденокарциноми.",
-      "Шлях BMP4-Smad1/5/9-ID1 відіграє ключову роль у цьому процесі."
-    ],
-    "practicalTakeaway": "Розуміння механізмів впливу куріння на мікрооточення судин може допомогти у розробці нових стратегій профілактики та лікування метастазування.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
       "метастазування",
-      "куріння"
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42172702",
-    "title": "Вплив депресії, стигми та самоефективності на покращення самоуправління епілепсією у програмі SMART",
-    "journal": "Epilepsy & behavior : E&B",
-    "publishedAt": "2026-05-22T00:00:00Z",
-    "abstract": "Дослідження аналізує, чи посередницький вплив депресії, стигми та самоефективності сприяє звʼязку між програмою SMART та покращенням самоуправління епілепсією. Участь взяли 160 осіб із епілепсією у рандомізованому контролюваному дослідженні, порівнюючи SMART із стандартною допомогою. Потенційні посередники оцінювалися на початку, через 13 тижнів та через 6 місяців.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42172702/",
+    "pmid": "42175742",
+    "title": "Антропометричні відмінності у близнюків при народженні та їх звʼязок із пізнішою когнітивною здатністю",
+    "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження аналізує, чи антропометричні показники при народженні, такі як вага та обʼєм голови, мають звʼязок із майбутніми когнітивними результатами у близнюків, враховуючи генетичні та навколишні фактори. Вивчення показало, що внутрішньо-двійкові різниці у цих показниках можуть бути повʼязані з когнітивним розвитком, причому цей звʼязок може бути нелінійним або залежати від зумовленості та віку оцінки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42175742/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T02:34:13Z",
-    "originalTitle": "Mediating effects of depression, stigma, and self-efficacy on self-management improvement in an evidence-based epilepsy self-management program.",
-    "originalAbstract": "To evaluate whether improvements in depressive symptoms, epilepsy self-efficacy, and perceived stigma mediate the association between the SMART intervention and epilepsy self-management. 160 people with epilepsy were enrolled in a randomized controlled trial comparing SMART with standard care. Potential mediators included depressive symptom severity, self-efficacy, and perceived stigma measured at baseline, 13 weeks, and 6 months. Multivariable linear regression models estimated direct and indir",
+    "updatedAt": "2026-05-23T13:13:38Z",
+    "originalTitle": "Anthropometric differences between twins at birth and their association with later cognitive performance.",
+    "originalAbstract": "Past studies indicate significant associations between birth anthropometrics, such as relative birthweight or head circumference, and later cognitive performance. Using twin data, we investigated whether these associations are confounded by genetic and environmental factors. Additionally, we determined whether the association of within twin differences in birth anthropometrics and cognitive performance is nonlinear or moderated by factors such as zygosity or age at assessment. Longitudinal data ",
     "keyPoints": [
-      "Дослідження аналізує роль депресії, стигми та самоефективності у самоуправлінні епілепсією.",
-      "Учасники — 160 осіб із епілепсією у рандомізованому дослідженні.",
-      "Оцінка потенційних посередників проводилася на трьох етапах: початок, 13 тижнів, 6 місяців."
+      "Дослідження вивчає звʼязок антропометричних показників при народженні та пізнішої когнітивної здатності у близнюків.",
+      "Аналіз враховує генетичні та навколишні фактори, що можуть впливати на результати.",
+      "Виявлено, що внутрішньо-двійкові різниці у вазі та обʼємі голови можуть бути повʼязані з когнітивним розвитком."
     ],
-    "practicalTakeaway": "Розуміння ролі психологічних факторів може допомогти у розробці більш ефективних програм самоуправління епілепсією.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Розуміння антропометричних відмінностей у близнюків може допомогти у прогнозуванні їх когнітивного розвитку.",
+    "specialty": "педіатрія",
     "tags": [
-      "епілепсія",
-      "самоуправління",
-      "психологічні фактори"
+      "доказова медицина",
+      "педіатрія",
+      "когнітивний розвиток"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
