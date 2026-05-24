@@ -1,57 +1,57 @@
 [
   {
     "pmid": "42175758",
-    "title": "Функціональна візуалізація для регенеративної медицини: відстеження васкуляризації кишкових скелетів",
+    "title": "Функціональна візуалізація для регенеративної медицини: моніторинг васкуляризації кишкових скелетів",
     "journal": "Tissue engineering. Part A",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження розглядає методи неінвазивного моніторингу розвитку кровопостачання у тканинних конструкціях для відновлення кишечника. Традиційно для васкуляризації використовують імплантацію у сальник, що вимагає двох операцій. Наразі відсутні добре валідовані методи для неінвазивного контролю зрілості судинної мережі у таких конструкціях.",
+    "abstract": "Традиційні методи для тканинної інженерії тонкої кишки передбачають імплантацію конструкції в оментум для забезпечення її васкуляризації та дозрівання тканин. Після цього потрібна друга операція для з'єднання конструкції з кишечником, причому час її проведення визначається за біологічними показниками. На сьогодні відсутні добре валідовані неінвазивні методи для моніторингу васкуляризації в реальному часі.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175758/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Functional Imaging for Regenerative Medicine: Tracking Vascularization of Intestinal Scaffolds.",
     "originalAbstract": "Traditional approaches to tissue-engineered small intestine (TESI) require implanting a construct in the omentum of the abdominal cavity to allow for vascularization of the construct and tissue maturation. A second operation is then needed to implant the construct in continuity with the intestine. The timing of the second operation has historically been chosen based on predetermined biological endpoints. Currently, no well-validated method has been used to noninvasively monitor for vascular matu",
     "keyPoints": [
-      "Розглядається використання функціональної візуалізації для моніторингу васкуляризації тканинних конструкцій.",
-      "Традиційний підхід передбачає дві операції з імплантацією у сальник та подальше підключення до кишечника.",
-      "Потреба у валідованих неінвазивних методах для визначення зрілості судинної мережі."
+      "Застосування неінвазивної візуалізації для контролю васкуляризації тканинних конструкцій.",
+      "Відсутність стандартизованих методів для моніторингу дозрівання тканин у регенеративній медицині.",
+      "Потреба у розробці технологій для визначення оптимального часу для другої операції."
     ],
-    "practicalTakeaway": "Розвиток неінвазивних методів моніторингу васкуляризації може покращити планування операцій у регенеративній медицині кишечника.",
+    "practicalTakeaway": "Розробка неінвазивних методів моніторингу васкуляризації може покращити процес регенеративної терапії кишечника.",
     "specialty": "доказова медицина",
     "tags": [
       "регенеративна медицина",
       "васкуляризація",
-      "неінвазивна візуалізація"
+      "тканинна інженерія"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "pmid": "42175756",
-    "title": "Застосування системи класифікації Робсона для порівняння рівнів кесаревого розтину в пакистанській лікарні за 3 роки",
+    "title": "Застосування системи класифікації Робсона для порівняння рівнів кесаревого розтину у пакистанському державному госпіталі",
     "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити зміни у рівнях кесаревого розтину за 3 роки у державній лікарні, використовуючи систему класифікації Робсона. Аналіз охоплював розподіл пацієнток за групами, рівень кесаревих розтинів у цілому та окремих групах, а також якість та повноту даних.",
+    "abstract": "Мета дослідження — оцінити зміни у рівнях кесаревого розтину за 3 роки у державному госпіталі, використовуючи систему класифікації Робсона. Аналіз включав порівняння розподілу пацієнток за групами, визначення загальних, групових та відносних рівнів кесаревого розтину, а також оцінку якості та повноти даних.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175756/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Implementing Robson's classification to compare Cesarean section rates over time at a public tertiary care hospital in Pakistan: An eye-opener.",
     "originalAbstract": "The aim of the present study was to assess changes in cesarean section (CS) rates over 3 years at a public tertiary care hospital using the Robson Ten Group Classification System (RTGCS). The specific objectives were to compare population distribution across Robson groups, evaluate overall, group-specific, absolute and relative CS rates and assess data quality and completeness. This analytical cross-sectional study was conducted at a public tertiary care hospital in Rawalpindi, Pakistan and span",
     "keyPoints": [
-      "Дослідження аналізує зміни у рівнях кесаревого розтину за 3 роки.",
-      "Використано систему класифікації Робсона для порівняння груп.",
-      "Оцінюється якість та повнота медичних даних."
+      "Дослідження аналізувало зміни у рівнях кесаревого розтину за 3 роки.",
+      "Використано систему класифікації Робсона для порівняння груп пацієнток.",
+      "Оцінювалася якість та повнота зібраних даних."
     ],
-    "practicalTakeaway": "Застосування системи Робсона допомагає аналізувати тенденції у рівнях кесаревого розтину та покращувати якість медичних даних.",
+    "practicalTakeaway": "Застосування системи Робсона допомагає аналізувати та порівнювати рівні кесаревого розтину у різних періодах та закладах.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "кесарів розтин",
       "класифікація Робсона",
-      "медичні дані"
+      "медичний аналіз"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -60,23 +60,23 @@
     "title": "Вплив часу, потоку та гіпоксії на формування капілярних трубок у біоштучних матрицях із фібрину",
     "journal": "Tissue engineering. Part A",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив часу, кровотоку та гіпоксії на формування капілярних трубок у тривимірних біоінженерних матрицях із фібрину. Визначено, що ці фактори мають значний вплив на процес капілярогенезу, що є важливим для тканинної інженерії та розвитку штучних органів.",
+    "abstract": "Дослідження аналізує вплив часу, кровотоку та гіпоксії на формування капілярних трубок у тривимірних біоінженерних матрицях із фібрину. Встановлено, що ці фактори впливають на процес капілярогенезу, але оптимальна комбінація та час їх застосування залишаються невизначеними.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175755/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Timing Matters: Impact of Flow and Hypoxia on Capillary Tube Formation in Bioartificial Fibrin-Based Matrices.",
     "originalAbstract": "Vascularization and perfusion are essential for tissue engineering of large-scale bioartificial tissues and organs. Both fluid flow and hypoxia have been shown to influence capillary tube formation in bioartificial matrices. However, the ideal timing and combination of these two factors for optimizing capillary tube formation in tissue engineering approaches still remains unclear to date. Capillary tube formation was evaluated in 3D flow chamber wells, in which human microvascular endothelial ce",
     "keyPoints": [
-      "Вивчено вплив гіпоксії та кровотоку на формування капілярних трубок.",
-      "Час впливу цих факторів є ключовим для оптимізації процесу.",
-      "Результати мають значення для розвитку тканинної інженерії."
+      "Вивчено вплив кровотоку та гіпоксії на капілярне формування.",
+      "Час застосування факторів має значення для ефективності процесу.",
+      "Оптимальні параметри для формування капілярних трубок ще не визначені."
     ],
-    "practicalTakeaway": "Оптимізація часу та умов впливу кровотоку і гіпоксії може покращити формування капілярних структур у біоінженерних тканинах.",
+    "practicalTakeaway": "Уточнення оптимального часу та комбінації факторів може покращити процес капілярогенезу у тканинній інженерії.",
     "specialty": "доказова медицина",
     "tags": [
       "тканинна інженерія",
-      "капіллярогенез",
+      "капілярогенез",
       "гіпоксія"
     ],
     "priorityScore": 7,
@@ -88,24 +88,24 @@
     "title": "Втрата рибосомального білка RPL22 обмежує реплікацію вірусу африканської чуми свиней через індукцію ER-стресу, залежного від PERK",
     "journal": "Emerging microbes & infections",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження показало, що зниження рівня рибосомального білка RPL22 у клітинах сприяє зменшенню реплікації вірусу африканської чуми свиней (ASFV). Це відбувається через індукцію ER-стресу, залежного від PERK, що може впливати на життєвий цикл вірусу. Результати відкривають потенційні шляхи для розробки нових антивірусних стратегій проти ASFV.",
+    "abstract": "Дослідження показує, що зниження рівня білка RPL22 у клітинах спричиняє ER-стрес, залежний від PERK, що обмежує реплікацію вірусу африканської чуми свиней (ASFV). Це відкриває потенційні шляхи для розробки нових антивірусних стратегій проти ASFV.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175753/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Loss of Ribosomal Protein RPL22 Restricts African Swine Fever Virus Replication by Inducing PERK-Dependent ER Stress.",
     "originalAbstract": "African swine fever virus (ASFV) is a large DNA virus that causes highly lethal disease in domestic pigs and wild boars, posing a significant threat to the global swine industry. The development of effective antivirals and vaccines is hindered by the complex structure of the virus and its sophisticated manipulation of host cellular processes. The inner envelope protein p54 is essential for multiple stages of the viral life cycle, including attachment, entry, and replication. In this study, we em",
     "keyPoints": [
-      "Зниження RPL22 обмежує реплікацію ASFV.",
-      "Індукція ER-стресу є ключовим механізмом.",
-      "Можливе використання для розробки нових терапій."
+      "Зниження RPL22 спричиняє ER-стрес у клітинах.",
+      "ER-стрес обмежує реплікацію ASFV.",
+      "Механізм залежить від PERK."
     ],
-    "practicalTakeaway": "Модуляція білка RPL22 та ER-стресу може стати перспективним напрямком у боротьбі з ASFV.",
+    "practicalTakeaway": "Модуляція білка RPL22 та ER-стресу може слугувати потенційною ціллю для розробки антивірусних засобів проти ASFV.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "вірусні інфекції",
-      "ASFV",
-      "імунологія"
+      "вірусологія",
+      "загальні наслідки для здоровʼя",
+      "інфекційні хвороби"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -113,27 +113,27 @@
   },
   {
     "pmid": "42175751",
-    "title": "Теплова залежність госпіталізацій з психічних причин в Італії: аналіз чутливості моделей",
+    "title": "Температурні впливи на госпіталізації з психічних розладів в Італії: аналіз чутливості моделей",
     "journal": "Risk analysis : an official publication of the Society for Risk Analysis",
     "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізує короткостроковий зв'язок між високими температурами та госпіталізаціями з психічних причин у 21 італійському місті (2005–2023). Використано модель Distributed Lag Nonlinear Model для оцінки впливу температури, зосереджуючись на структурних припущеннях моделей.",
+    "abstract": "Дослідження аналізує короткостроковий зв'язок між високими температурами та госпіталізаціями з психічних розладів у 21 італійському місті (2005–2023). Використано модель Distributed Lag Nonlinear Model для оцінки впливу температури, враховуючи структурні припущення моделей.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175751/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Heat-Related Mental Health Hospitalizations in Italy:A Global Sensitivity Analysis Approach to Evaluate Generalized Additive Model Assumptions.",
     "originalAbstract": "High temperatures are increasingly associated with adverse mental health outcomes, yet the influence of structural modeling assumptions on these estimates remains underexplored. This study examined the short-term association between high temperatures and mental health-related-hospitalizations in 21 major Italian cities from 2005 to 2023, using national hospital discharge data. Exposure-lag-response relationships were modeled through a Distributed Lag Nonlinear Model (DLNM) framework estimated wi",
     "keyPoints": [
       "Вивчено вплив високих температур на психічне здоров'я.",
       "Застосовано модель DLNM для аналізу даних.",
-      "Результати допомагають краще розуміти ризики теплових хвиль."
+      "Результати допомагають краще розуміти ризики, пов'язані з кліматичними змінами."
     ],
-    "practicalTakeaway": "Розуміння структурних припущень моделей важливе для точнішої оцінки впливу температури на психічне здоров'я.",
+    "practicalTakeaway": "Результати дослідження підкреслюють важливість врахування структурних припущень моделей при аналізі впливу температури на психічне здоров'я.",
     "specialty": "психіатрія",
     "tags": [
-      "загальне здоров'я",
       "кліматичні зміни",
-      "медична статистика"
+      "психічне здоров'я",
+      "модельний аналіз"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
@@ -141,29 +141,29 @@
   },
   {
     "pmid": "42175749",
-    "title": "Грудне вигодовування може забезпечити довготривалий імунітет проти нових інфекційних збудників",
+    "title": "Грудне вигодовування може забезпечувати довготривалий імунітет проти нових інфекційних збудників: епідеміологічне дослідження в США",
     "journal": "Breastfeeding medicine : the official journal of the Academy of Breastfeeding Medicine",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження на основі даних з 159 округів штату Джорджія, США, показало, що у громадах з високим рівнем грудного вигодовування спостерігалося менше випадків захворювання на COVID-19 та смертей від нього протягом двох років епідемії. Це свідчить про потенційний довготривалий імунітет, який може передаватися через грудне молоко.",
+    "abstract": "Дослідження в США аналізувало вплив практики грудного вигодовування на рівень захворюваності та смертності від COVID-19 у 159 округах протягом двох років. Виявлено, що у громадах з високим рівнем грудного вигодовування спостерігалися нижчі показники захворюваності та смертності від COVID-19, що може свідчити про довготривалий імунітет, переданий через матір.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175749/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Breastfeeding May Confer Long-Term Immunity Against Emerging Infectious Pathogens-Ecological Evidence over 2 Full Years of the COVID-19 Epidemic in Georgia, United States.",
     "originalAbstract": "Long-term immunity acquired maternally against infectious pathogens has been reported in animal studies, but epidemiological evidence remains lacking. To assess long-term maternal immunity in humans against infectious pathogens, we examined COVID-19 disease burden in communities with varying breastfeeding practices. Using data from 159 counties in Georgia, the United States, from March 1, 2020, through February 28, 2022, we calculated the daily incidence, mortality, and fatality rates of COVID-1",
     "keyPoints": [
-      "Високий рівень грудного вигодовування асоціюється з меншим рівнем захворюваності COVID-19.",
-      "Дослідження базується на аналізі даних за два роки у штаті Джорджія.",
-      "Можливий довготривалий імунітет через грудне молоко."
+      "Грудне вигодовування може сприяти довготривалому імунітету у людей.",
+      "У дослідженні в США виявлено зниження рівня COVID-19 у громадах з високим рівнем грудного вигодовування.",
+      "Епідеміологічні дані підтримують ідею про потенційну роль грудного вигодовування у формуванні імунної пам'яті."
     ],
-    "practicalTakeaway": "Заохочення грудного вигодовування може мати довготривалі позитивні наслідки для імунітету дітей.",
+    "practicalTakeaway": "Підтримка практики грудного вигодовування може мати довготривалі позитивні наслідки для імунітету населення.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "COVID-19",
       "грудне вигодовування",
       "імунітет"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -172,24 +172,24 @@
     "title": "Лікування міжміхурової цистити DMSO та його вплив на грудне молоко",
     "journal": "Breastfeeding medicine : the official journal of the Academy of Breastfeeding Medicine",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження вперше кількісно визначило концентрацію диметилсульфоїду (DMSO) у грудному молоці після прийому матерю препарату Rimso-50. Визначено максимальну концентрацію DMSO у молоці та оцінено потенційний ризик для немовлят.",
+    "abstract": "Дослідження вперше визначило концентрацію диметилсульфоксиду (DMSO) у грудному молоці після перорального застосування у матері та оцінило потенційний ризик для немовляти. Зразки молока бралися в різний час після лікування Rimso-50, і концентрація DMSO визначалась за допомогою хроматографії. Максимальна концентрація становила 34,5 мкг/мл.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175747/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Bladder to Breast Milk-DMSO Treatment of Interstitial Cystitis.",
     "originalAbstract": "This study aimed to be the first to quantify dimethyl sulfoxide (DMSO) concentrations in human milk after the maternal dosing and estimate the relative infant dose (RID) to assess potential safety concerns. Human milk samples were obtained at different time points after the mother had received one Rimso-50 treatment. The concentrations of DMSO were then quantified at each time interval by a liquid chromatography-mass spectrometry. The maximum concentration (Cmax) was observed to be 34.5 μg/mL at",
     "keyPoints": [
       "Визначено концентрацію DMSO у грудному молоці після лікування.",
-      "Максимальна концентрація становила 34,5 мкг/мл.",
-      "Оцінено потенційний ризик для немовлят при пероральному прийомі DMSO."
+      "Максимальна концентрація DMSO склала 34,5 мкг/мл.",
+      "Оцінено потенційний ризик для немовляти від прийому DMSO матерю."
     ],
-    "practicalTakeaway": "При застосуванні DMSO у матерів, що годують, слід враховувати можливий рівень його у грудному молоці.",
+    "practicalTakeaway": "Потрібні додаткові дослідження для визначення безпечних рівнів DMSO у грудному молоці.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "інфекційні хвороби",
       "доказова медицина",
-      "жінки і репродуктивне здоровʼя"
+      "грудне вигодовування"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
@@ -197,55 +197,55 @@
   },
   {
     "pmid": "42175746",
-    "title": "Важливість коливань у виконавчих функціях для щоденної діяльності у літніх людей",
+    "title": "Важливість коливань виконавчих функцій для щоденної діяльності у літніх людей",
     "journal": "The Clinical neuropsychologist",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження виявило, що внутрішньоіндивідуальні коливання у виконавчих функціях (ВФ), оцінені як поведінково, так і через самозвіт, можуть передбачати здатність виконувати інструментальні щоденні завдання. Водночас середні рівні самозвіту про ВФ зазвичай не мають такої прогностичної цінності.",
+    "abstract": "Дослідження аналізує, як внутрішньоіндивідуальні коливання у виконавчих функціях (ВФ), оцінені поведінково та за самозвітами, впливають на здатність виконувати повсякденні завдання у домашніх умовах. Виявлено, що рівень і коливання ВФ мають значення для прогнозування функціональної здатності, тоді як середні рівні ВФ за самозвітами не є предикторами.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175746/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "The ups and downs matter: Magnitudes of fluctuations in executive functions predict daily functioning in older adults.",
     "originalAbstract": "Objective: Intra-individual variability in executive functions (EF), assessed both behaviorally and via self-report, may serve as a predictor of instrumental activities of daily living (IADLs), whereas mean self-reported EF levels typically do not. No prior research has simultaneously examined associations among (a) day-to-day mean levels and fluctuations of EF self-report, (b) day-to-day mean levels and fluctuations of EF performance, and (c) performance of IADL tasks at home. This study examin",
     "keyPoints": [
-      "Коливання у виконавчих функціях можуть передбачати щоденну здатність до виконання завдань.",
-      "Середні рівні самозвіту про ВФ не мають високої прогностичної цінності.",
-      "Дослідження підкреслює важливість аналізу динаміки ВФ у літніх людей."
+      "Коливання у виконавчих функціях важливі для щоденної діяльності літніх людей.",
+      "Внутрішньоіндивідуальні коливання можуть передбачати здатність виконувати повсякденні завдання.",
+      "Рівень і динаміка ВФ мають значення для оцінки функціональної здатності."
     ],
-    "practicalTakeaway": "Врахування коливань у виконавчих функціях може допомогти у прогнозуванні здатності літніх людей виконувати щоденні завдання.",
+    "practicalTakeaway": "Оцінка коливань виконавчих функцій може допомогти у прогнозуванні здатності літніх людей виконувати повсякденні завдання.",
     "specialty": "неврологія",
     "tags": [
-      "доказова медицина",
-      "старіння",
-      "когнітивні функції"
+      "виконавчі функції",
+      "щоденна діяльність",
+      "літні люди"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "pmid": "42175743",
-    "title": "Глюкагоноподібний пептид-1 рецепторні агонисти можуть запобігати метастазуванню",
+    "title": "ГЛП-1 агонисти можуть запобігти метастазуванню раку",
     "journal": "Cancer discovery",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Нові дослідження вказують, що початок прийому глюкагоноподібного пептиду-1 рецепторних агонистів після діагностики певних раків, пов’язаних з ожирінням, таких як рак легень, молочної залози, товстої кишки або печінки на стадіях I-III, може запобігти їх переходу до стадії IV. Однак експерти поки не рекомендують призначати ці препарати пацієнтам із ранніми стадіями раку без додаткових досліджень.",
+    "abstract": "Нові дослідження вказують, що початок прийому глюкагоноподібного пептиду-1 (ГЛП-1) агонистів після діагностики раку, пов'язаного з ожирінням, такого як рак легень, молочної залози, товстої кишки або печінки на стадіях I-III, може запобігти їх переходу до стадії IV. Однак фахівці поки не рекомендують їх призначати пацієнтам із ранніми стадіями без додаткових досліджень.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175743/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "GLP-1 RAs May Prevent Metastatic Progression.",
     "originalAbstract": "New research suggests that starting a glucagon-like-peptide (GLP)-1 receptor agonist following a diagnosis of certain obesity-related cancers-namely stage I, II, or III lung, breast, colorectal, or liver cancers-may prevent them from advancing to stage IV. However, experts aren't ready to prescribe them to patients with newly diagnosed earlier stage disease without additional research confirming their value.",
     "keyPoints": [
-      "Дослідження вказують на потенціал GLP-1 RAs у запобіганні метастазуванню раку.",
-      "Застосування препаратів можливе після діагностики раку на стадіях I-III.",
-      "Потрібні додаткові дослідження перед широким застосуванням."
+      "ГЛП-1 агонисти потенційно зменшують ризик метастазування раку.",
+      "Дослідження зосереджені на раках, пов'язаних з ожирінням.",
+      "Потребуються додаткові дослідження для підтвердження ефективності."
     ],
-    "practicalTakeaway": "Поки що застосування GLP-1 RAs для запобігання метастазуванню раку потребує додаткових доказів.",
+    "practicalTakeaway": "Поки що застосування ГЛП-1 агонистів для запобігання метастазуванню раку потребує додаткових досліджень.",
     "specialty": "онкологія",
     "tags": [
-      "ракові захворювання",
-      "метастазування",
-      "лікування"
+      "онкологія",
+      "доказова медицина",
+      "ракові захворювання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -253,27 +253,27 @@
   },
   {
     "pmid": "42175742",
-    "title": "Антропометричні відмінності у близнюків при народженні та їх звʼязок із пізнішою когнітивною здатністю",
+    "title": "Антропометричні відмінності між близнюками при народженні та їх звʼязок з пізнішою когнітивною здатністю",
     "journal": "Journal of child psychology and psychiatry, and allied disciplines",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження аналізує, чи антропометричні показники при народженні, такі як вага та обʼєм голови, мають звʼязок із майбутніми когнітивними результатами у близнюків, враховуючи генетичні та навколишні фактори. Вивчення показало, що внутрішньо-двійкові різниці у цих показниках можуть бути повʼязані з когнітивним розвитком, причому цей звʼязок може бути нелінійним або залежати від зумовленості та віку оцінки.",
+    "abstract": "Дослідження аналізує, чи антропометричні показники при народженні, такі як вага та обʼєм голови, мають звʼязок з майбутніми когнітивними результатами. Використовуючи дані близнюків, автори прагнуть визначити, чи ці звʼязки є впливом генетичних та навколишніх факторів, а також досліджують можливу нелінійність або модерацію цим звʼязкам залежно від зиготності або віку оцінки.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42175742/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-23T13:13:38Z",
+    "updatedAt": "2026-05-24T02:45:17Z",
     "originalTitle": "Anthropometric differences between twins at birth and their association with later cognitive performance.",
     "originalAbstract": "Past studies indicate significant associations between birth anthropometrics, such as relative birthweight or head circumference, and later cognitive performance. Using twin data, we investigated whether these associations are confounded by genetic and environmental factors. Additionally, we determined whether the association of within twin differences in birth anthropometrics and cognitive performance is nonlinear or moderated by factors such as zygosity or age at assessment. Longitudinal data ",
     "keyPoints": [
-      "Дослідження вивчає звʼязок антропометричних показників при народженні та пізнішої когнітивної здатності у близнюків.",
-      "Аналіз враховує генетичні та навколишні фактори, що можуть впливати на результати.",
-      "Виявлено, що внутрішньо-двійкові різниці у вазі та обʼємі голови можуть бути повʼязані з когнітивним розвитком."
+      "Антропометричні показники при народженні можуть бути повʼязані з майбутніми когнітивними результатами.",
+      "Дослідження враховує генетичні та навколишні фактори, аналізуючи дані близнюків.",
+      "Результати допомагають зрозуміти, як ранні фізичні характеристики впливають на розвиток когнітивних функцій."
     ],
-    "practicalTakeaway": "Розуміння антропометричних відмінностей у близнюків може допомогти у прогнозуванні їх когнітивного розвитку.",
+    "practicalTakeaway": "Ранні антропометричні показники можуть мати значення для прогнозування когнітивного розвитку, але їхній вплив слід розглядати у контексті генетичних та навколишніх факторів.",
     "specialty": "педіатрія",
     "tags": [
-      "доказова медицина",
-      "педіатрія",
-      "когнітивний розвиток"
+      "когнітивний розвиток",
+      "близнюки",
+      "антропометрія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
