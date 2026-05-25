@@ -1,51 +1,51 @@
 [
   {
-    "title": "Ранкове застосування стимулюючих еритропоез в недоношених та маловагих новонароджених",
-    "abstract": "Дослідження аналізує ефективність та безпеку ранкового застосування стимулюючих еритропоезан (СЕ) у недоношених і маловагих новонароджених. Вивчено вплив на зменшення потреби у кровозамінниках та клінічні результати. Результати базуються на даних кількох баз даних, включаючи CENTRAL, MEDLINE та Embase.",
+    "title": "Ранкове застосування стимулюючих еритропоез у недоношених та маловагих новонароджених",
+    "abstract": "Дослідження аналізує ефективність та безпеку ранкового застосування еритропоетинів у недоношених та маловагих новонароджених. Вивчено їх вплив на зниження потреби у кровозамінниках та клінічні результати. Результати базуються на аналізі кількох баз даних, включаючи CENTRAL, MEDLINE та Embase.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004863.pub7/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-22T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Early erythropoiesis-stimulating agents in preterm or low-birthweight infants.",
     "originalAbstract": "Preterm and low-birthweight infants are at risk of anemia due to a variety of factors, including low levels of erythropoietin. They may therefore benefit from erythropoiesis-stimulating agents (ESAs). However, controversy remains about their effectiveness and safety, not only in reducing blood transfusions but also in improving clinical outcomes. To assess the benefits and harms of early administration of ESAs in preterm or low-birthweight infants. We searched CENTRAL, MEDLINE, Embase, Scopus, D…",
     "keyPoints": [
-      "Ранкове застосування СЕ може зменшити потребу у кровозамінниках у недоношених та маловагих новонароджених.",
-      "Безпека та довгострокові наслідки застосування СЕ залишаються предметом дискусій.",
-      "Докази базуються на аналізі кількох досліджень із різних баз даних."
+      "Ранкове застосування еритропоетинів у недоношених може зменшити потребу у кровозамінниках.",
+      "Безпека та довгострокові наслідки застосування залишаються предметом дискусій.",
+      "Дослідження базується на аналізі кількох наукових баз даних."
     ],
-    "practicalTakeaway": "Ранкове застосування стимулюючих еритропоез у недоношених та маловагих новонароджених потребує подальшого дослідження для визначення безпечних протоколів.",
+    "practicalTakeaway": "Ранкове застосування стимулюючих еритропоез агентів у недоношених потребує подальших досліджень для визначення їхньої безпеки та ефективності.",
     "specialty": "нефрологія",
     "tags": [
-      "неонатологія",
-      "доказова медицина",
-      "інтенсивна терапія"
+      "недоношені",
+      "анемія",
+      "еритропоетини"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Імунотерапія та хіміотерапія при ранньому тріпл-негативному раку молочної залози",
-    "abstract": "Дослідження порівнює ефективність імунотерапії з інгібіторами контрольних точок і хіміотерапії проти лише хіміотерапії у лікуванні раннього тріпл-негативного раку молочної залози. Тріпл-негативний рак становить 12-17% випадків, і хоча хіміотерапія покращує виживаність, частина пацієнтів прогресує до метастазів. Нові дані свідчать, що комбінація імунотерапії з хіміотерапією може підвищити частоту повної патологічної відповіді та безподієвий період.",
+    "title": "Імунотерапія та хіміотерапія при ранньому тройно-негативному раку молочної залози",
+    "abstract": "Дослідження порівнює ефективність імунотерапії з інгібіторами контрольних точок та хіміотерапії проти лише хіміотерапії у лікуванні раннього тройно-негативного раку молочної залози. Триває оцінка впливу комбінації на повну патологічну відповідь та безпекові показники.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015072.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Immune checkpoint inhibitors and chemotherapy versus chemotherapy for early triple-negative breast cancer.",
     "originalAbstract": "Triple-negative breast cancer (TNBC), an aggressive subtype lacking oestrogen and progesterone receptors and amplification of HER2 receptors, accounts for 12% to 17% of breast cancers. Adjuvant and neoadjuvant chemotherapy improve survival; however, 30% to 40% of early-stage TNBC cases progress to metastatic disease. Recent evidence suggests that combining immune checkpoint inhibitors (PD-1/PD-L1 inhibitors) with chemotherapy may improve pathological complete response and event-free survival. To…",
     "keyPoints": [
-      "Комбінація імунотерапії з хіміотерапією може покращити результати лікування.",
-      "Ранній тріпл-негативний рак має високий ризик прогресування.",
-      "Дослідження порівнює ефективність двох підходів у лікуванні."
+      "Комбінована терапія може покращити відповіді на лікування.",
+      "Ранній тройно-негативний рак має високий ризик прогресування.",
+      "Дослідження триває для визначення довгострокових результатів."
     ],
-    "practicalTakeaway": "Розглядається потенційна перевага додавання імунотерапії до стандартної хіміотерапії для покращення результатів у пацієнтів з раннім тріпл-негативним раком.",
+    "practicalTakeaway": "Результати дослідження допомагають оцінити потенціал імунотерапії у лікуванні раннього тройно-негативного раку молочної залози.",
     "specialty": "онкологія",
     "tags": [
       "ракові захворювання",
-      "лікування",
-      "імунна терапія"
+      "імунна терапія",
+      "хіміотерапія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -53,46 +53,46 @@
   },
   {
     "title": "Порогові значення для трансфузії тромбоцитів у новонароджених з тромбоцитопенією",
-    "abstract": "Дослідження аналізує ефективність та потенційні ризики застосування різних порогових значень для трансфузії тромбоцитів у новонароджених з тромбоцитопенією. Вибір порогу для трансфузії значно варіює між медичними закладами та країнами, з діапазоном від 25 000 до 150 000 тромбоцитів на мікролітр крові. Мета — визначити оптимальні межі для мінімізації ризиків та покращення результатів лікування.",
+    "abstract": "Дослідження аналізує ефективність та потенційні ризики застосування різних порогових значень для трансфузії тромбоцитів у новонароджених з тромбоцитопенією. Вибір порогів значно варіює між закладами та країнами, з діапазоном від 25 000 до 150 000 тромбоцитів на мікролітр крові. Мета — оцінити переваги та ризики більш обмежених порогів у порівнянні з більш ліберальними підходами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015341.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Platelet transfusion thresholds for thrombocytopenic infants.",
     "originalAbstract": "Neonatal thrombocytopenia is frequently treated with platelet transfusion. Thresholds prompting platelet transfusions vary greatly between providers, institutions, and countries. Thresholds for stable non-bleeding infants have ranged from 25,000 to 150,000 per microliter. To assess the benefits and harms of more restrictive platelet transfusion thresholds compared to more liberal thresholds in thrombocytopenic neonates. We searched CENTRAL, MEDLINE, Embase, Epistemonikos, and trial registries un…",
     "keyPoints": [
-      "Аналізуються порогові значення для трансфузії тромбоцитів у новонароджених.",
-      "Вибір порогу варіює від 25 000 до 150 000 тромбоцитів/мікролітр.",
-      "Дослідження спрямоване на визначення найбільш ефективних меж трансфузії."
+      "Аналізуються різні порогові значення для трансфузії тромбоцитів у новонароджених.",
+      "Вибір порогів значно варіює між закладами та країнами.",
+      "Мета — визначити баланс між користю та ризиками різних підходів."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити оптимальні порогові значення для трансфузії тромбоцитів у новонароджених з тромбоцитопенією.",
+    "practicalTakeaway": "Необхідні додаткові дослідження для визначення оптимальних порогів трансфузії тромбоцитів у новонароджених.",
     "specialty": "нефрологія",
     "tags": [
       "доказова медицина",
       "педіатрія",
-      "гематологія"
+      "інтенсивна терапія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Штучний інтелект для виявлення та стадіювання хвороби Альцгеймера за допомогою зображень сітківки",
-    "abstract": "Це протокол для аналізу, що оцінює точність алгоритмів штучного інтелекту у визначенні хвороби Альцгеймера за зображеннями сітківки у дорослих з поведінковими симптомами або когнітивним спадом у первинній медичній допомозі. Дослідження також передбачає аналіз гетерогенності даних за допомогою метарегресії, якщо такі дані доступні.",
+    "title": "Штучний інтелект для виявлення та стадіювання хвороби Альцгеймера за допомогою знімків сітківки",
+    "abstract": "Це протокол для аналізу, що оцінює точність алгоритмів штучного інтелекту у діагностиці хвороби Альцгеймера за допомогою знімків сітківки у дорослих з поведінковими симптомами або когнітивним спадом у первинній медичній практиці.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016358/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Artificial intelligence for detection and staging of Alzheimer's disease using retinal images.",
     "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: To determine the diagnostic accuracy of AI algorithm-based retinal image reading for detecting referral-requiring Alzheimer's disease in adults who have behavioral symptoms or cognitive decline in the primary care setting. Secondary objectives Where data are available, we will investigate heterogeneity by incorporating covariates in a metaregression.",
     "keyPoints": [
-      "Оцінюється точність AI у виявленні хвороби Альцгеймера.",
-      "Фокус на дорослих з поведінковими або когнітивними симптомами.",
-      "Мета — покращити ранню діагностику у первинній допомозі."
+      "Оцінюється точність алгоритмів штучного інтелекту у діагностиці хвороби Альцгеймера.",
+      "Фокус на використанні знімків сітківки у дорослих з когнітивними порушеннями.",
+      "Дослідження має на меті визначити діагностичну ефективність AI у первинній допомозі."
     ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення можливостей штучного інтелекту у діагностиці хвороби Альцгеймера за зображеннями сітківки.",
+    "practicalTakeaway": "Дослідження спрямоване на визначення можливостей штучного інтелекту у ранньому виявленні хвороби Альцгеймера за допомогою знімків сітківки.",
     "specialty": "неврологія",
     "tags": [
       "діагностика",
@@ -104,21 +104,21 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Плановий ранній полог проти очікуваного ведення при гіпертензивних розладах вагітності",
-    "abstract": "Гіпертензивні розлади під час вагітності є важливими чинниками материнської та перинатальної захворюваності і смертності. Вони включають хронічну гіпертензію, гестаційну гіпертензію та прееклампсію. Основне лікування таких станів — плановий ранній полог, або ж очікуване ведення з ретельним спостереженням за відсутності важких ускладнень. Обидва підходи мають свої переваги та ризики, тому важливо визначити найбезпечніший варіант.",
+    "title": "Плановий ранній полог проти очікуваного ведення при гіпертензивних розладах у вагітних від 34 тижнів до терміну",
+    "abstract": "Гіпертензивні розлади вагітності, включаючи хронічну гіпертензію, гестаційну гіпертензію та прееклампсію, є значними чинниками материнської та перинатальної захворюваності і смертності. Основне лікування цих станів — плановий ранній полог, або ж очікуване ведення з ретельним спостереженням за відсутності важких ускладнень. Вибір між цими підходами вимагає оцінки їхніх переваг і ризиків.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009273.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Planned early birth versus expectant management for hypertensive disorders from 34 weeks' gestation to term.",
     "originalAbstract": "Hypertensive disorders in pregnancy are significant contributors to maternal and perinatal morbidity and mortality. They include chronic hypertension, gestational hypertension and pre-eclampsia. Definitive management of these disorders is planned early birth. The alternative is expectant management with close monitoring, if severe complications are not present. There are benefits and risks associated with both policies, so it is important to establish the safest option. To assess the benefits an…",
     "keyPoints": [
-      "Обговорюється баланс між раннім пологом та очікуваним веденням.",
-      "Розглядаються переваги і ризики кожної стратегії.",
-      "Дослідження спрямоване на визначення безпечнішого підходу."
+      "Обидва підходи мають свої переваги і ризики.",
+      "Ранній полог може зменшити ускладнення для матері і плода.",
+      "Очікуване ведення потребує ретельного моніторингу для запобігання ускладненням."
     ],
-    "practicalTakeaway": "Вибір між плановим раннім пологом і очікуваним веденням залежить від стану матері та ризиків ускладнень.",
+    "practicalTakeaway": "Вибір між раннім пологом і очікуваним веденням у вагітних з гіпертензивними розладами слід базувати на індивідуальній оцінці ризиків та стану пацієнтки.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "вагітність",
@@ -131,131 +131,131 @@
   },
   {
     "title": "Використання DMARDs перед операцією у пацієнтів з запальним артритом",
-    "abstract": "Дослідження аналізує періопераційне застосування препаратів, що модифікують хворобу (DMARDs), у пацієнтів з запальним артритом. Враховується баланс між ризиком інфекцій та контролем симптомів під час хірургічних втручань.",
+    "abstract": "Дослідження аналізує рекомендації щодо перорального прийому препаратів DMARDs у пацієнтів з запальним артритом перед хірургічними втручаннями. Враховується баланс між ризиком інфекцій та загальним контролем симптомів. Вивчення спрямоване на визначення оптимальної тактики ведення таких препаратів у periопераційний період.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015096.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-20T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Perioperative use of disease-modifying anti-rheumatic drugs (DMARDs) in people with inflammatory arthritis.",
     "originalAbstract": "Disease-modifying anti-rheumatic drugs (DMARDs) are the cornerstone of pharmacologic treatment for inflammatory arthritis (rheumatoid arthritis, psoriatic arthritis and axial spondyloarthritis). DMARDs are immunomodulatory drugs which may increase the risk of infection, including surgical site infections; thus, some surgery guidelines recommend continuing some DMARDs and withholding others prior to surgery. On the other hand, discontinuation may result in worsening of the symptoms of the underly…",
     "keyPoints": [
-      "DMARDs є ключовими препаратами для лікування запального артриту.",
-      "Дослідження вивчає рекомендації щодо припинення або продовження DMARDs перед операцією.",
-      "Баланс між ризиком інфекцій та контролем симптомів є важливим аспектом періопераційного менеджменту."
+      "Дослідження аналізує рекомендації щодо DMARDs перед операцією.",
+      "Розглядається баланс між ризиком інфекцій та контролем симптомів.",
+      "Мета — визначити оптимальну тактику ведення препаратів у periопераційний період."
     ],
-    "practicalTakeaway": "Необхідно враховувати індивідуальні ризики та рекомендації при плануванні періопераційного застосування DMARDs.",
+    "practicalTakeaway": "Враховуйте ризики інфекцій та контроль симптомів при веденні DMARDs перед операцією.",
     "specialty": "ревматологія",
     "tags": [
-      "запальний артрит",
-      "DMARDs",
-      "операція"
+      "ревматологія",
+      "інфекційні хвороби",
+      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Гастростомія з фундоплікацією або гастро-єюнальним трубкою у дітей з неврологічними порушеннями: огляд Cochrane",
-    "abstract": "Дослідження аналізує різні хірургічні підходи для лікування або профілактики гастроезофагеальної рефлюксії у дітей та підлітків з неврологічними порушеннями. Вивчено ефективність гастростомії з фундоплікацією, гастро-єюнальної трубки та їх порівняння з гастростомією самостійно.",
+    "title": "Гастростомія з фундоплікацією або гастро-jejunal трубкою для лікування гастроезофагеальної рефлюксії у дітей з неврологічними порушеннями",
+    "abstract": "Діти з неврологічними порушеннями часто стикаються з гастроезофагеальним рефлюксом та дисфагією, що сприяє ускладненням та підвищеній смертності. Існує різноманіття підходів до лікування рефлюксу, але кількість досліджень у цій сфері обмежена.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015007.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-20T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Gastrostomy plus fundoplication or gastro-jejunal tube or gastrostomy alone for treating or preventing gastro-esophageal reflux in children and adolescents with neurological impairment.",
     "originalAbstract": "Children with neurological impairment (NI) represent a vulnerable pediatric population who often experience multiple co-occurring chronic conditions and may develop worsening comorbidities over time due to primary dysfunctions of the nervous system. Among the most significant of these are gastro-esophageal reflux (GER) and dysphagia, which likely account for much of the associated morbidity and mortality. There is substantial variation in the management of GER, and few studies have been conducte…",
     "keyPoints": [
-      "Розглядаються хірургічні методи для лікування гастроезофагеальної рефлюксії у дітей з неврологічними порушеннями.",
-      "Дослідження вказує на різноманітність підходів та обмежену кількість досліджень у цій сфері.",
-      "Аналізує можливі переваги та недоліки різних хірургічних втручань."
+      "Діти з неврологічними порушеннями мають високий ризик гастроезофагеальної рефлюксії.",
+      "Вибір методу лікування варіює, але наявні дослідження обмежені.",
+      "Гастростомія з фундоплікацією або гастро-jejunal трубкою є можливими варіантами лікування."
     ],
-    "practicalTakeaway": "Потрібні додаткові дослідження для визначення найефективнішого підходу до лікування гастроезофагеальної рефлюксії у цій групі пацієнтів.",
+    "practicalTakeaway": "Рішення щодо лікування гастроезофагеальної рефлюксії у дітей з неврологічними порушеннями потребує індивідуального підходу, враховуючи обмежені дані досліджень.",
     "specialty": "педіатрія",
     "tags": [
       "гастроентерологія",
       "доказова медицина",
-      "хірургія"
+      "неврологія"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Зниження дози або припинення застосування не-ТНФ біологічних та таргетних синтетичних DMARDs при ревматоїдному артриті у стані ремісії або з низькою активністю захворювання",
-    "abstract": "Цей протокол досліджує переваги та ризики зменшення дози або припинення застосування не-ТНФ біологічних та таргетних синтетичних DMARDs у пацієнтів з ревматоїдним артритом, які перебувають у стані ремісії або мають низьку активність захворювання.",
+    "title": "Зниження дози та припинення застосування не-ТНФ біологічних та таргетних синтетичних DMARDs при ревматоїдному артриті у стані ремісії або з низькою активністю хвороби",
+    "abstract": "Це протокол для огляду Cochrane, що досліджує переваги та ризики зменшення дози або припинення застосування не-ТНФ біологічних та таргетних синтетичних DMARDs у пацієнтів з ревматоїдним артритом у стані ремісії або з низькою активністю хвороби.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014173/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-20T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Dose reduction and discontinuation of non-tumor necrosis factor (TNF) biologic and targeted synthetic disease-modifying antirheumatic drugs (DMARDs) for people with rheumatoid arthritis in remission or low disease activity.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To determine the benefits and harms of dose reduction or discontinuation of non-TNF biologic or targeted synthetic DMARDs in people with rheumatoid arthritis who are in remission or have low disease activity.",
     "keyPoints": [
-      "Досліджується вплив зменшення дози або припинення не-ТНФ біологічних та таргетних синтетичних DMARDs.",
-      "Фокус на пацієнтах з ревматоїдним артритом у ремісії або з низькою активністю.",
-      "Мета — визначити переваги та ризики такого підходу."
+      "Досліджується вплив зменшення дози або припинення застосування не-ТНФ біологічних та таргетних синтетичних DMARDs.",
+      "Мета — визначити переваги та ризики такого підходу у пацієнтів з ревматоїдним артритом у ремісії або з низькою активністю.",
+      "Результати допоможуть оцінити безпеку та ефективність зменшення терапії."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть оцінити можливість безпечного зменшення або припинення застосування певних препаратів у пацієнтів з ревматоїдним артритом у стані ремісії.",
+    "practicalTakeaway": "Результати дослідження допоможуть лікарям ухвалювати рішення щодо зменшення або припинення застосування певних препаратів у пацієнтів з ревматоїдним артритом у стані ремісії або з низькою активністю хвороби.",
     "specialty": "ревматологія",
     "tags": [
-      "ревматоїдний артрит",
-      "лікування",
-      "біологічні препарати"
+      "ревматологія",
+      "лікування ревматоїдного артриту",
+      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Місцеві імуносупресанти при блефариті у дорослих",
-    "abstract": "Блефарит — поширений очний стан, що характеризується запаленням країв повік, викликаючи дискомфорт та пошкодження рогівки. Традиційне лікування включає гігієну повік та штучні сльози. Для зниження запалення часто застосовують місцеві кортикостероїди з або без антибіотиків, проте довгострокове використання обмежене побічними ефектами. Новіші стероїдозберігаючі засоби досліджуються для зменшення ризиків.",
+    "title": "Топічні імуносупресанти при блефариті у дорослих",
+    "abstract": "Блефарит — поширене захворювання очей, що характеризується запаленням країв повік, викликаючи дискомфорт та пошкодження очної поверхні. Звичайне лікування включає гігієну повік та штучні сльози. Для зниження запалення часто застосовують топічні кортикостероїди з або без антибіотиків, проте довгострокове використання обмежене побічними ефектами, такими як підвищення внутрішньоочного тиску, глаукома або катаракта. Нові стероїдні препарати без побічних ефектів наразі досліджуються.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013550.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-19T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Topical immunosuppressants for blepharitis in adults.",
     "originalAbstract": "Blepharitis is a common ocular condition characterized by inflammation of the eyelid margins, which can cause irritating symptoms and ocular surface damage. Conventional treatment of blepharitis consists of eyelid hygiene and artificial tears. To suppress inflammation, topical corticosteroids, with or without antibiotics, are frequently prescribed. However, long-term use is limited by side effects such as increased intraocular pressure, glaucoma and/or cataract formation. Newer steroid-sparing t…",
     "keyPoints": [
-      "Блефарит викликає запалення країв повік.",
-      "Традиційне лікування — гігієна та штучні сльози.",
-      "Місцеві кортикостероїди мають побічні ефекти при тривалому застосуванні."
+      "Досліджується ефективність топічних імуносупресантів для блефариту.",
+      "Звичайне лікування включає гігієну та штучні сльози.",
+      "Довгострокове застосування кортикостероїдів обмежене побічними ефектами."
     ],
-    "practicalTakeaway": "Розглядається застосування місцевих імуносупресантів для зменшення запалення при блефариті.",
+    "practicalTakeaway": "Поточні дослідження вивчають можливість використання топічних імуносупресантів для лікування блефариту у дорослих.",
     "specialty": "онкологія",
     "tags": [
       "очні захворювання",
-      "запалення",
-      "лікування"
+      "лікування",
+      "доказова медицина"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Тромбоеластографія (TEG) або тромбоеластометрія (ROTEM) для моніторингу гемостатичного лікування у дорослих та дітей з кровотечею",
-    "abstract": "Дослідження аналізує роль тромбоеластографії (TEG) та тромбоеластометрії (ROTEM) у керуванні трансфузіями у пацієнтів з кровотечею. Вони все частіше застосовуються для визначення тактики лікування, але їх ефективність залишається предметом дискусій. Оновлення огляду з 2011 року оцінює потенційні переваги та ризики використання TEG/ROTEM у порівнянні з традиційним підходом.",
+    "title": "Тромбоеластографія (ТЕГ) або тромбоеластометрія (ROTEM) для моніторингу гемостатичного лікування у дорослих та дітей із кровотечею",
+    "abstract": "Дослідження аналізує ефективність та можливі ризики застосування ТЕГ або ROTEM для керування трансфузіями у пацієнтів з кровотечею, порівнюючи їх з традиційним підходом. Оновлення огляду враховує дані, зібрані з 2011 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007871.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-18T00:00:00Z",
-    "updatedAt": "2026-05-25T04:43:05Z",
+    "updatedAt": "2026-05-25T15:25:10Z",
     "originalTitle": "Thromboelastography (TEG) or thromboelastometry (ROTEM) to monitor haemostatic treatment versus usual care in adults or children with bleeding.",
     "originalAbstract": "Severe bleeding and coagulopathy are serious clinical conditions that are associated with high mortality. Thromboelastography (TEG) and thromboelastometry (ROTEM) are increasingly used to guide transfusion strategy, but their roles remain disputed. This is an update of a review that was first published in 2011 and updated in January 2016. The objective was to evaluate the benefits and harms of TEG-/ROTEM-guided transfusion strategies for bleeding in adults and children by comparing TEG-ROTEM-gui…",
     "keyPoints": [
-      "Огляд аналізує роль TEG/ROTEM у лікуванні кровотеч.",
-      "Роль TEG/ROTEM у керуванні трансфузіями залишається дискусійною.",
-      "Оновлення огляду з 2011 року оцінює їх потенційні переваги та ризики."
+      "ТЕГ та ROTEM використовуються для керування кровотечами.",
+      "Докази щодо переваг та ризиків цих методів залишаються суперечливими.",
+      "Дослідження порівнює ці підходи з традиційним лікуванням кровотеч."
     ],
-    "practicalTakeaway": "Використання TEG/ROTEM може впливати на рішення щодо трансфузій у пацієнтів з кровотечею, але їх ефективність потребує подальшого дослідження.",
+    "practicalTakeaway": "Використання ТЕГ або ROTEM може впливати на рішення щодо трансфузій, але їх роль потребує подальшого дослідження.",
     "specialty": "доказова медицина",
     "tags": [
       "гемостаз",
-      "тромбоеластографія",
-      "кровотеча"
+      "кровотечі",
+      "трансфузія"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
