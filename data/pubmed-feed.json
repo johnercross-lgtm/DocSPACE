@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42177627",
-    "title": "Прогностична здатність алгоритму скринінгу передеклампсії першого триместру за даними Fetal Medicine Foundation залежно від способу зачаття",
-    "journal": "Ultrasound in obstetrics & gynecology : the official journal of the International Society of Ultrasound in Obstetrics and Gynecology",
-    "publishedAt": "2026-05-24T00:00:00Z",
-    "abstract": "Дослідження оцінює поширеність передеклампсії та точність алгоритму скринінгу першого триместру за даними Fetal Medicine Foundation у вагітних, зачатих за допомогою допоміжних репродуктивних технологій, після стимуляції овуляції та спонтанно. Вивчення проведено у шести данських університетських лікарнях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177627/",
+    "pmid": "42177858",
+    "title": "Вплив кетамінової седації у відділенні інтенсивної терапії на результати пацієнтів: систематичний огляд та мета-аналіз",
+    "journal": "Journal of critical care",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Це систематичне дослідження оцінює вплив внутрішньовенної кетамінової седації на тривалість механічної вентиляції, перебування у відділенні інтенсивної терапії та частоту розвитку делірію у пацієнтів ICU порівняно з стандартною аналгезією та седацією.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177858/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "Predictive performance of Fetal Medicine Foundation first-trimester screening algorithm for pre-eclampsia according to conception mode.",
-    "originalAbstract": "To investigate the incidence of pre-eclampsia (PE) and the predictive performance of the Fetal Medicine Foundation (FMF) first-trimester PE screening algorithm across pregnancies conceived using assisted reproductive technology (ART), after ovulation induction (OI) and through spontaneous conception (SC). This prospective multicenter study included women with a singleton pregnancy undergoing routine combined first-trimester screening for aneuploidies at six Danish university hospitals from May 2",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Ketamine-based ICU sedation and patient-centered outcomes: A systematic review and meta-analysis of mechanical ventilation duration, ICU length of stay, and delirium.",
+    "originalAbstract": "Ketamine has been shown to possess unique pharmacologic properties that make it an appealing adjunctive sedative for critically ill patients; however, its overall impact on key intensive care unit (ICU) outcomes remains uncertain. As such, this systematic review and meta-analysis was conducted to evaluate whether intravenous ketamine-based sedation improves mechanical ventilation duration (MVD), ICU length of stay (LOS), and delirium incidence in ICU patients compared with standard analgosedatio",
     "keyPoints": [
-      "Дослідження аналізує точність алгоритму скринінгу передеклампсії залежно від способу зачаття.",
-      "Вивчення включає вагітних із одинарною вагітністю, що проходили скринінг у першому триместрі.",
-      "Результати допомагають оцінити ефективність алгоритму у різних групах вагітних."
+      "Кетамін має унікальні фармакологічні властивості, що роблять його привабливим для седації у критичних станах.",
+      "Дослідження аналізує вплив кетаміну на тривалість вентиляції, перебування у ICU та делірій.",
+      "Результати допомагають визначити ефективність кетамінової седації у порівнянні зі стандартними методами."
     ],
-    "practicalTakeaway": "Результати дослідження можуть вплинути на підходи до скринінгу передеклампсії у вагітних, зачатих різними методами.",
-    "specialty": "акушерство і гінекологія",
+    "practicalTakeaway": "Враховуючи результати дослідження, застосування кетаміну у седації пацієнтів ICU може впливати на ключові показники лікування, однак потребує подальшого вивчення.",
+    "specialty": "доказова медицина",
     "tags": [
-      "прогностична медицина",
-      "скринінг",
-      "передеклампсія"
+      "інтенсивна терапія",
+      "седація",
+      "мета-аналіз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42177855",
+    "title": "Визначення п’яти антигіпертензивних препаратів у висушених капілярних зразках плазми за допомогою LC-MS/MS",
+    "journal": "Journal of pharmaceutical and biomedical analysis",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Дослідження розробило та валідувало метод LC-MS/MS для кількісного визначення п’яти антигіпертензивних препаратів у висушених капілярних зразках плазми, отриманих за допомогою пристрою для розділення плазми. Метод може використовуватись для моніторингу дотримання терапії у пацієнтів із гіпертензією.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177855/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Determination of five antihypertensives in dried capillary plasma spots by LC-MS/MS: A novel method for monitoring pharmacotherapy adherence.",
+    "originalAbstract": "Adherence to hypertension treatment is crucial for therapeutic success, as noncompliance adversely affects quality of life and healthcare costs. Assessing adherence directly through plasma drug concentrations is particularly effective for patients with complex medication regimens. This study aimed to develop and validate an LC-MS/MS method for quantifying five antihypertensive drugs in dried capillary plasma obtained via a plasma separation device. The process involved incubating three 6 mm disc",
+    "keyPoints": [
+      "Розроблено новий метод визначення антигіпертензивних препаратів у плазмі.",
+      "Використовується висушений капілярний зразок для моніторингу.",
+      "Метод валідовано для застосування у клінічній практиці."
+    ],
+    "practicalTakeaway": "Метод LC-MS/MS для визначення антигіпертензивних препаратів у висушених зразках плазми може допомогти у контролі дотримання терапії.",
+    "specialty": "кардіологія",
+    "tags": [
+      "лікування гіпертензії",
+      "моніторинг терапії",
+      "антигіпертензивні препарати"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42177854",
+    "title": "Алерген-специфічна імунотерапія у пацієнтів з ринітом та її вплив на симптоми COVID-19 та якість життя",
+    "journal": "Clinics (Sao Paulo, Brazil)",
+    "publishedAt": "2026-05-24T00:00:00Z",
+    "abstract": "Це ретроспективне дослідження вивчало вплив алерген-специфічної імунотерапії (АЗІ) у пацієнтів з алергічним ринітом (АР) на інфікування COVID-19, клінічні характеристики та прогноз. У дослідженні брали участь пацієнти з АР, які отримували підшкірну десенсибілізацію або сублингвальну десенсибілізацію у лікарні в Китаї з 10 грудня по 31 березня 2023 року.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177854/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Allergen-specific immunotherapy in rhinitis patients is associated with milder COVID-19 symptoms and improved quality of life.",
+    "originalAbstract": "This retrospective study investigated the impact of Allergic Rhinitis (AR) patients receiving Allergen-specific Immunotherapy (AIT) on Coronavirus Disease 2019 (COVID-19) infection, clinical characteristics, and prognosis. This was a single-center, retrospective cohort study that included patients with AR who received subcutaneous desensitization with Aloege or sublingual desensitization from 10 December to 31 March 2023 at Changsha The Second Xiangya Hospital, China. The investigation comprised",
+    "keyPoints": [
+      "АЗІ у пацієнтів з АР асоціюється з менш вираженими симптомами COVID-19.",
+      "Пацієнти, що отримували АЗІ, мали кращу якість життя.",
+      "Дослідження є ретроспективним і зосереджене на одному центрі."
+    ],
+    "practicalTakeaway": "Пацієнтам з алергічним ринітом, які отримують алерген-специфічну імунотерапію, можливо, варто враховувати потенційний позитивний вплив на перебіг COVID-19.",
+    "specialty": "імунологія",
+    "tags": [
+      "COVID-19",
+      "алергічний риніт",
+      "імунотерапія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42177625",
-    "title": "Безпечність та тривалість застосування тофацитинібу у пацієнтів із ревматоїдним артритом у вікових групах у Тайвані",
-    "journal": "International journal of rheumatic diseases",
-    "publishedAt": "2026-05-01T00:00:00Z",
-    "abstract": "Дослідження порівнює тривалість застосування тофацитинібу у пацієнтів із ревматоїдним артритом віком 65 років і старше та молодших за 65 років у реальних клінічних умовах Тайваню. Аналізує фактори, що впливають на припинення терапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177625/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "Real-World Safety and Retention of Tofacitinib in Elderly Versus Non-elderly Patients With Rheumatoid Arthritis: A Retrospective Cohort Study in Taiwan.",
-    "originalAbstract": "Tofacitinib, the first approved oral small-molecule Janus kinase inhibitor (JAKi), is widely used for treating rheumatoid arthritis (RA). This study aims to compare the drug retention rates of tofacitinib between elderly (≥ 65 years) and nonelderly (< 65 years) RA patients in a real-world clinical setting in Taiwan and to identify clinical factors associated with treatment discontinuation. We conducted a retrospective cohort study of RA patients receiving tofacitinib between 2015 and 2020, with ",
-    "keyPoints": [
-      "Тривалість застосування тофацитинібу схожа у вікових групах.",
-      "Фактори, що сприяють припиненню лікування, визначені.",
-      "Дані підтверджують безпечність застосування у літніх пацієнтів."
-    ],
-    "practicalTakeaway": "При застосуванні тофацитинібу у пацієнтів із ревматоїдним артритом віком 65 років і старше слід враховувати індивідуальні фактори ризику та моніторити стан пацієнта.",
-    "specialty": "ревматологія",
-    "tags": [
-      "ревматоїдний артрит",
-      "безпечність ліків",
-      "вікові особливості"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42177616",
-    "title": "Як зробити великі дані доступними для біологів рослин та інших дослідників: десять років досвіду з TBtools",
-    "journal": "Molecular plant",
-    "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "За останні два десятиліття омics та великі дані сприяли переходу молекулярної біології рослин від досліджень окремих генів до системного аналізу. З розширенням обсягів та різноманітності даних, біоінформатичне програмне забезпечення стало необхідним для аналізу та інтерпретації. Однак швидкість дослідження даних та їх інтеграції залишилася недостатньою, що зменшує їх використання та перетворення у біологічні відкриття.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177616/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "How to make big data accessible to plant biologists and beyond: Ten years of lessons from TBtools.",
-    "originalAbstract": "Over the past two decades, omics and big data have shifted plant molecular biology from single-gene, hypothesis driven studies to systems level, data driven discovery. As datasets expand in scale and diversity, bioinformatics software has become essential for routine analysis and interpretation. However, the efficiency of data exploration and evidence integration has not kept pace with data growth, leaving many datasets underutilized and only slowly translated into biological insight. A central ",
-    "keyPoints": [
-      "Великі дані змінили підхід до досліджень у молекулярній біології рослин.",
-      "Програмне забезпечення для аналізу даних є критично важливим, але його ефективність залишається недостатньою.",
-      "Досвід з TBtools показує, як зробити великі дані більш доступними та корисними для дослідників."
-    ],
-    "practicalTakeaway": "Використання інтуїтивних інструментів, таких як TBtools, може покращити доступність та аналіз великих даних у біології рослин.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "біоінформатика",
-      "рослинна біологія",
-      "дані"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42177615",
-    "title": "Позитивний зворотній зв'язок між NPR1 і SOG1 посилює толерантність до генотоксичних ушкоджень у Arabidopsis",
-    "journal": "Plant communications",
-    "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження показало, що у рослинах, зокрема Arabidopsis, застосування агентів, що спричиняють пошкодження ДНК, таких як саліцилова кислота та антибіотик Zeocin, активує відповідь на пошкодження ДНК і підвищує генотоксичну толерантність. Виявлено, що ген NPR1, який реагує на саліцилову кислоту, і ген SOG1, відповідальний за реакцію на пошкодження ДНК, утворюють позитивний зворотній зв'язок, що посилює цю толерантність.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177615/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "A positive feedback loop between NPR1 and SOG1 reinforces genotoxic tolerance in Arabidopsis.",
-    "originalAbstract": "Cellular functions and viability of living organisms are constantly challenged by endogenous and environmental agents that can cause DNA damage. In plants, application of DNA-damaging agents, such as salicylic acid (SA) and the double-strand break-inducing antibiotic Zeocin, triggers the DNA damage response, thus inducing genotoxic tolerance. We found that the SA-responsive gene NONEXPRESSOR OF PATHOGENESIS-RELATED GENES 1 (NPR1) and the DNA damage-responsive gene SUPPRESSOR OF GAMMA RESPONSE 1 ",
-    "keyPoints": [
-      "NPR1 і SOG1 утворюють позитивний зворотній зв'язок.",
-      "Застосування агентів, що пошкоджують ДНК, активує відповідь рослин.",
-      "Посилення генотоксичної толерантності у Arabidopsis."
-    ],
-    "practicalTakeaway": "Розуміння механізмів відповіді рослин на пошкодження ДНК може допомогти у розвитку рослин, більш стійких до генотоксичних агентів.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "генетика",
-      "рослинна біологія",
-      "захист рослин"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42177612",
-    "title": "30-річна жінка з лактаційною абсцесом молочної залози, лікування за допомогою вакуумної терапії",
-    "journal": "The American journal of case reports",
+    "pmid": "42177848",
+    "title": "Рівень свинцю у крові матері та його вплив на вагу новонароджених і передчасні пологи в Аджарії, Грузія",
+    "journal": "International journal of hygiene and environmental health",
     "publishedAt": "2026-05-24T00:00:00Z",
-    "abstract": "Дослідження описує застосування негативного тиску для лікування лактаційного абсцесу молочної залози. Метод підтримує загоєння шляхом зменшення набряку, сприяння утворенню грануляційної тканини та покращення місцевого кровопостачання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177612/",
+    "abstract": "Дослідження оцінює зв’язок між рівнем свинцю у крові вагітних, вагою новонароджених та передчасними пологами в Аджарії, Грузія. Аналіз базується на даних всеукраїнського реєстру народжень за період 2021–2023 років.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177848/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "A 30-Year-Old Woman With a Lactational Breast Abscess Managed With Adjunctive Negative Pressure Wound Therapy (Vacuum-Assisted Closure).",
-    "originalAbstract": "BACKGROUND Negative pressure wound therapy (NPWT), also known as vacuum-assisted closure, is a treatment method that uses sub-atmospheric pressure applied to the wound and its surrounding tissues to support healing. NPWT is widely used across various medical fields, particularly in the management of acute and chronic wounds, where it facilitates wound contraction, reduces edema, and enhances granulation tissue formation while improving local perfusion and reducing bacterial burden within the wou",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Maternal blood lead level and its association with birthweight and preterm birth in Adjara, Georgia: An inverse probability of selection weighting analysis of a population-based cohort study.",
+    "originalAbstract": "Lead exposure poses significant health risks, particularly during pregnancy, as lead affects fetal development. This study aimed to evaluate the association between maternal blood lead levels (BLL), birthweight and preterm birth in Adjara, Georgia. Using the nationwide Georgian Birth Registry, we included data on all singleton births in Adjara between 1stJuly 2021 and December 2023 (n = 13,911) among women who attended antenatal care. Propensity scores and inverse probability of selection (IPS) ",
     "keyPoints": [
-      "Негативний тиск використовується для лікування лактаційних абсцесів.",
-      "Метод сприяє зменшенню набряку і покращенню загоєння.",
-      "Застосування вакуумної терапії може бути ефективним додатковим підходом."
+      "Вивчено вплив рівня свинцю у крові матері на вагу новонароджених.",
+      "Зроблено аналіз ризику передчасних пологів у зв’язку з рівнем свинцю.",
+      "Використано методи зважування для корекції вибірки."
     ],
-    "practicalTakeaway": "Вакуумна терапія може бути корисною при лікуванні лактаційних абсцесів.",
+    "practicalTakeaway": "Контроль рівня свинцю у вагітних може бути важливим для запобігання негативних наслідків для новонароджених.",
     "specialty": "акушерство і гінекологія",
     "tags": [
-      "лікування",
-      "абсцес",
-      "вакуумна терапія"
+      "материнство",
+      "свинцеве забруднення",
+      "передчасні пологи"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42177843",
+    "title": "Другий регуляторний семінар щодо використання комп'ютерних моделей для прискорення розробки та тестування вакцин",
+    "journal": "Vaccine",
+    "publishedAt": "2026-05-24T00:00:00Z",
+    "abstract": "Майстер-клас, проведений у Брюсселі 27 травня 2025 року, зосереджений на розвитку відкритої платформи для моделювання процесів виробництва вакцин, включаючи тестування стабільності. Учасники обговорювали прогрес у створенні інструменту для підтримки проектування, масштабування та передачі технологій у виробництві вакцин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177843/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Second regulatory workshop on utilising in silico models to expedite vaccine development, testing, and lifecycle management - an expert meeting report.",
+    "originalAbstract": "The Inno4Vac consortium, funded under the Innovative Medicines Initiative 2 Joint Undertaking, was launched in September 2021. Among its four key objectives is the development of an open-source, in silico simulation platform designed to support the design, scale-up, operation, and technology transfer of vaccine manufacturing processes, including stability testing. A workshop was held on May 27, 2025, in Brussels, Belgium, which provided an opportunity for modellers to show the progress made, and",
+    "keyPoints": [
+      "Обговорено розвиток відкритої платформи для моделювання вакцин.",
+      "Підкреслено важливість ін silico моделей у прискоренні виробництва.",
+      "Зазначено прогрес у підтримці технологічного трансферу та тестування стабільності."
+    ],
+    "practicalTakeaway": "Розробка ін silico платформ може сприяти швидшому та ефективнішому виробництву вакцин.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "вакцинація",
+      "інновації",
+      "регуляторна політика"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42177611",
-    "title": "Демонстрація можливості селективної декільцелюляризації коронарних судин у свинячих серцях для ксенотрансплантації",
-    "journal": "Xenotransplantation",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження демонструє концептуальні можливості селективної декільцелюляризації коронарних судин у цілих свинячих серцях з метою зменшення імуногенного потенціалу для ксенотрансплантації. Техніка дозволяє видалити ендотеліальні клітини без пошкодження міокарда, що може сприяти подальшому заповненню клітинами реципієнта.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177611/",
+    "pmid": "42177841",
+    "title": "Реєстрація хмар точок печінки за допомогою багатофункціональної фузії та гіперболічного вбудовування для навігації в хірургії з доповненою реальністю",
+    "journal": "Computer methods and programs in biomedicine",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження присвячене покращенню точності реєстрації 3D-моделі печінки з її внутрішньоопераційною поверхнею під час лапароскопічних операцій з використанням доповненої реальності. Запропоновано метод, який використовує двошляхову архітектуру для вилучення ознак із хмар точок, що може сприяти більш точній і швидкій реєстрації.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177841/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "Breaking Barriers: Proof of Concept for Selective Coronary Endothelial Decellularization in Whole Porcine Hearts for Xenotransplantation.",
-    "originalAbstract": "The critical shortage of donor hearts and the limitations of current mechanical circulatory support devices underscore the need for alternative strategies to address end-stage heart failure. Selective endothelial decellularization has emerged as a promising approach to reduce graft immunogenicity by removing donor endothelial cells while preserving myocardial architecture, thereby enabling subsequent repopulation with recipient-derived cells. However, this technique has never been applied to an ",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Liver point cloud registration via multi-feature fusion and hyperbolic embedding for augmented reality surgical navigation.",
+    "originalAbstract": "Augmented reality surgical navigation can help surgeons precisely locate tumors, veins, arteries and other critical structures during laparoscopic liver surgery. A key step in the navigation is registering the preoperative 3D liver model with the intraoperative liver surface. Accurate registration first requires rigid alignment; however, rigid point cloud registration in laparoscopic scenes remains a challenging task. We propose a method that employs a dual-backbone to extract features from the ",
     "keyPoints": [
-      "Показано можливість селективної декільцелюляризації коронарних судин у свинячих серцях.",
-      "Техніка зменшує імуногенність серця для потенційної ксенотрансплантації.",
-      "Метод зберігає структуру міокарда для подальшого заповнення клітинами реципієнта."
+      "Запропоновано новий метод реєстрації хмар точок печінки.",
+      "Використовується багатофункціональна фузія ознак та гіперболічне вбудовування.",
+      "Мета — підвищити точність навігації під час лапароскопічних операцій."
     ],
-    "practicalTakeaway": "Це дослідження відкриває перспективи для розвитку ксенотрансплантації серця за допомогою селективної декільцелюляризації.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "ксенотрансплантація",
-      "серце",
-      "імунологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42177607",
-    "title": "Інфекційний бронхіт у птахів активує імунні реакції через сигнальні шляхи p38/MAPK та NLRP3/caspase-1",
-    "journal": "Veterinary research",
-    "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження показало, що вірус інфекційного бронхіту у птахів активує запальні процеси шляхом стимуляції сигнальних шляхів p38/MAPK і NLRP3/caspase-1. Це спричиняє запальні реакції у тканинах нирок, що має важливе значення для розуміння патогенезу та пошуку потенційних терапевтичних цілей.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177607/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "Avian coronaviruses induce inflammatory responses by activating p38/MAPK signaling and NLRP3/caspase-1 inflammasomes through sphingosine-1-phosphate receptor 1.",
-    "originalAbstract": "Infectious bronchitis virus (IBV), a member of the γ-coronavirus genus within the Coronaviridae family, is a major pathogenic threat to the global poultry industry. Most IBV infections induce severe renal pathological lesions in chickens, yet the renal metabolic perturbations triggered by IBV infection remain largely elusive. Herein, we applied a metabolomic approach to characterize the metabolic profiles of kidney tissues from IBV-infected specific-pathogen-free (SPF) chickens. IBV infection ca",
-    "keyPoints": [
-      "Вірус інфекційного бронхіту активує імунні відповіді у птахів.",
-      "Запальні процеси пов'язані з активацією p38/MAPK та NLRP3/caspase-1.",
-      "Дослідження допомагає краще зрозуміти механізми імунної відповіді у птахів."
-    ],
-    "practicalTakeaway": "Розуміння механізмів імунної відповіді на вірус інфекційного бронхіту може сприяти розробці нових стратегій контролю захворювання у птахів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "вірусні інфекції",
-      "імунна відповідь",
-      "птахів"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42177606",
-    "title": "Чотирипальцева техніка для введення канюлі для ретроградної кардіоплегії",
-    "journal": "Journal of cardiothoracic surgery",
-    "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "У статті описано техніку використання чотирьох пальців для полегшення визначення та пальпації коронарного синуса при введенні канюлі для ретроградної кардіоплегії перед початком штучного кровообігу. Це сприяє більш точному розміщенню канюлі та зменшенню технічних труднощів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177606/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "4-finger technique for retrograde cardioplegia cannula insertion.",
-    "originalAbstract": "Despite the widespread use of retrograde cardioplegia in most institutions, some surgeons continue to encounter technical difficulties during insertion of the retrograde cardioplegia cannula. We introduce the 4-finger technique to facilitate identification, accurate localization, and palpation of the coronary sinus at the left atrioventricular groove during cannula insertion prior to the initiation of cardiopulmonary bypass. The aim of this study was to describe the four-finger technique, evalua",
-    "keyPoints": [
-      "Описано техніку визначення коронарного синуса перед введенням канюлі.",
-      "Техніка використовує чотири пальці для пальпації та локалізації.",
-      "Може покращити точність введення канюлі при ретроградній кардіоплегії."
-    ],
-    "practicalTakeaway": "Застосування чотирипальцевої техніки може допомогти хірургам точніше визначити коронарний синус перед введенням канюлі для ретроградної кардіоплегії.",
+    "practicalTakeaway": "Розроблений метод може покращити точність навігації при лапароскопічних хірургічних втручаннях на печінці.",
     "specialty": "хірургія",
     "tags": [
-      "кардіохірургія",
-      "техніка",
-      "ретроградна кардіоплегія"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42177604",
-    "title": "Подорожі з ВІЛ-інфекцією",
-    "journal": "Tropical diseases, travel medicine and vaccines",
-    "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Міжнародні поїздки стають все поширенішими, і вони залишаються клінічним контекстом, де можлива попереджувана захворюваність, якщо не забезпечити належну підготовку через комплексну консультацію перед поїздкою. Стаття пропонує структурований підхід до консультування людей, що живуть з ВІЛ, з акцентом на індивідуальну оцінку ризиків та профілактичні заходи.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177604/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "Traveling with HIV.",
-    "originalAbstract": "International travel is increasingly common, and it remains a clinical context in which preventable morbidity may occur if not adequately addressed through a comprehensive pre-travel consultation. This article provides a structured, evidence-informed framework for counseling people living with human immunodeficiency virus (HIV) who travel internationally, emphasizing the need for individualized assessment and proactive risk mitigation. We outline key domains relevant to travel health in people l",
-    "keyPoints": [
-      "Планування подорожі з ВІЛ-інфекцією вимагає індивідуального підходу.",
-      "Перед поїздкою необхідно провести комплексну оцінку ризиків.",
-      "Рекомендується активна профілактика та моніторинг стану здоров'я."
-    ],
-    "practicalTakeaway": "Забезпечуйте індивідуальне консультування та профілактичні заходи перед міжнародною поїздкою для людей з ВІЛ.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "ВІЛ",
-      "подорожі",
-      "профілактика"
+      "хірургія",
+      "доповнена реальність",
+      "реєстрація хмар точок"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42177603",
-    "title": "«Зустріч із людиною, а не з медичною умовою»: якісне дослідження сприйняття симульованих пацієнтів щодо формування терапевтичного альянсу з психіатрами",
-    "journal": "Advances in simulation (London, England)",
+    "pmid": "42177840",
+    "title": "Кейс-стаді фізико-хімічних характеристик радіонуклідів та моделювання їх поширення на Європейському джерелі спалаюючих частинок",
+    "journal": "Journal of environmental radioactivity",
     "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження аналізує досвід симульованих пацієнтів у психіатричній підготовці щодо встановлення терапевтичного альянсу з психіатрами. Виявлено, що, незважаючи на поширене використання симульованих пацієнтів у навчанні, залишається питання, чи можливо справжнє формування альянсу. Важливо враховувати перспективу симульованих пацієнтів, оскільки їхній досвід впливає на терапевтичний успіх.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42177603/",
+    "abstract": "Дослідження аналізує фізико-хімічні властивості радіонуклідів та моделює їх поширення в атмосфері у разі аварії з втечею охолоджуючої рідини на Європейському джерелі спалаюючих частинок. Мета — визначити концентрації у повітрі та осадження поблизу джерела. Визначено, що викинуті речовини ймовірно утворюють оксиди у формі незалежних сполук.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177840/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-24T13:13:48Z",
-    "originalTitle": "\"Meeting a human, not a medical condition\": a qualitative study of simulated patients' perceptions of forming a therapeutic alliance with psychiatrists.",
-    "originalAbstract": "Increasingly in psychiatric and psychotherapeutic training, simulated patients (SPs) participate in the teaching and evaluation of clinical skills and knowledge. Despite their widespread involvement, doubt remains as to whether a genuine therapeutic alliance can be established with SPs. Further, little is known about the SP's perspective on alliance formation which is an important gap given the correlation between patient perception of alliance and therapeutic success. We interviewed three simul",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "A case study of radionuclide physicochemical characterization and dispersion modelling at the European Spallation Source under a postulated worst-case scenario.",
+    "originalAbstract": "This study characterizes the physicochemical properties and evaluates the atmospheric dispersion of radionuclides potentially released from the European Spallation Source (ESS) under a postulated worst-case loss-of-coolant accident scenario. The primary objective was to quantify near-surface air concentrations and deposition. Likely chemical forms were identified through a literature-based evaluation of accident progression, leading to the assumption that released species form independent oxide ",
     "keyPoints": [
-      "Дослідження фокусується на сприйнятті симульованих пацієнтів щодо терапевтичного альянсу.",
-      "Виявлено, що встановлення справжнього альянсу залишається викликом у психіатричній підготовці.",
-      "Перспектива симульованих пацієнтів є важливою для покращення навчальних підходів."
+      "Аналіз фізико-хімічних властивостей радіонуклідів у разі аварії.",
+      "Моделювання поширення радіоактивних речовин у атмосфері.",
+      "Визначення концентрацій та осадження поблизу джерела."
     ],
-    "practicalTakeaway": "Врахування досвіду симульованих пацієнтів може сприяти покращенню підготовки психіатрів у формуванні терапевтичного альянсу.",
-    "specialty": "психіатрія",
+    "practicalTakeaway": "Результати дослідження допомагають оцінити потенційний вплив аварійних викидів радіонуклідів на навколишнє середовище.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "комунікація",
-      "психіатрія",
-      "медична освіта"
+      "радіація",
+      "моделювання",
+      "екологія"
     ],
-    "priorityScore": 3,
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42177839",
+    "title": "Зловживання тіанептином та залежність: систематичний огляд",
+    "journal": "Drug and alcohol dependence",
+    "publishedAt": "2026-05-12T00:00:00Z",
+    "abstract": "Тіанептин — атиповий трициклічний антидепресант із активністю на μ-опіоїдних рецепторах. Його використання у США зростає у контексті зловживання, залежності та токсичних ефектів. Проведено систематичний огляд відповідно до PRISMA 2020, аналізуючи дослідження щодо зловживання, токсичності, відміни та передозування тіанептину.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177839/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Tianeptine misuse and addiction: A systematic review of withdrawal, toxicity, and clinical management.",
+    "originalAbstract": "Tianeptine is an atypical tricyclic antidepressant with mu-opioid receptor agonist activity. Although marketed as an unregulated \"nootropic\" in the United States, its use has been increasingly associated with misuse, dependence, and toxicity. We conducted a systematic review following PRISMA 2020 guidelines. MEDLINE, Embase, Cochrane, PsycInfo, and Scopus were searched from inception through July 2025 for human studies describing tianeptine misuse, toxicity, withdrawal, or overdose. Eligible des",
+    "keyPoints": [
+      "Розглянуто випадки зловживання та залежності від тіанептину.",
+      "Обговорюється токсичність та клінічне управління передозуваннями.",
+      "Дослідження базуються на систематичному огляді літератури."
+    ],
+    "practicalTakeaway": "Не рекомендується застосовувати тіанептин поза медичним контролем через ризик зловживання та токсичних ускладнень.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "залежність",
+      "токсичність",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42177838",
+    "title": "Ожиріння пригнічує нейтрофіль-залежне ітаконатне сигналювання, сприяючи фероптозу при гострому панкреатиті",
+    "journal": "Redox biology",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження виявило, що ожиріння посилює тяжкість гострого панкреатиту через порушення нейтрофіль-залежних ітаконатних шляхів, що сприяють фероптозу. Виявлено, що імунометаболіт ітаконат, який виробляється мієлоїдними клітинами, відіграє ключову роль у регуляції запалення під час панкреатиту.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177838/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Obesity suppresses neutrophil-dependent itaconate signaling promoting ferroptosis in acute pancreatitis.",
+    "originalAbstract": "Obesity is a well-established risk factor for increased severity and mortality in acute pancreatitis. However, the mechanisms by which obesity alters pancreatic immune regulation and favors the progression of acute pancreatitis are not elucidated yet. Here, we identify a neutrophil-driven immune-metabolic pathway that controls ferroptosis during pancreatic inflammation. We show that infiltrating myeloid cells represent the principal source of the immunometabolite itaconate during acute pancreati",
+    "keyPoints": [
+      "Ожиріння може посилювати тяжкість гострого панкреатиту.",
+      "Мієлоїдні клітини є основним джерелом ітаконату під час запалення.",
+      "Порушення ітаконатного сигналювання сприяє фероптозу клітин під час панкреатиту."
+    ],
+    "practicalTakeaway": "Розуміння ролі ітаконатного сигналювання може допомогти у розробці нових терапевтичних стратегій для гострого панкреатиту у пацієнтів з ожирінням.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "запалення",
+      "імунологія",
+      "метаболізм"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42177837",
+    "title": "Нітрація у сигнальних шляхах раку",
+    "journal": "Redox biology",
+    "publishedAt": "2026-05-19T00:00:00Z",
+    "abstract": "Окислювальний стрес виникає через дисбаланс між виробництвом реактивних форм кисню та азоту і здатністю клітинних антиоксидантних систем їх нейтралізувати. У ракових клітинах цей дисбаланс сприяє патологічним змінам у сигнальних мережах, що стимулюють ініціацію та прогресію пухлини. Важливу роль відіграють азотисті сполуки, зокрема оксид азоту та пероксинітрит, які є ключовими посередниками редокс-дисрегуляції у мікрооточенні пухлини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42177837/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-25T02:53:57Z",
+    "originalTitle": "Nitration in cancer signaling.",
+    "originalAbstract": "Oxidative stress arises from an imbalance between the production of reactive oxygen and nitrogen species (ROS and RNS, respectively) and the capacity of cellular antioxidant defenses to neutralize them. In cancer, this imbalance drives pathological remodeling of signaling networks that promote tumor initiation and progression. Among RNS, nitric oxide (·NO) and its highly reactive derivative peroxynitrite (ONOO-) are central mediators of redox dysregulation within the tumor microenvironment. Thes",
+    "keyPoints": [
+      "Окислювальний стрес сприяє розвитку раку.",
+      "Азотисті сполуки, зокрема NO і пероксинітрит, відіграють важливу роль.",
+      "Редокс-дисрегуляція впливає на сигнальні мережі пухлини."
+    ],
+    "practicalTakeaway": "Розуміння ролі нітрації у ракових сигнальних шляхах може сприяти розробці нових терапевтичних стратегій.",
+    "specialty": "онкологія",
+    "tags": [
+      "редокс-біологія",
+      "ракові сигнали",
+      "оксидативний стрес"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
