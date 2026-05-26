@@ -1,264 +1,281 @@
 [
   {
-    "pmid": "42179186",
-    "title": "Add-on parsaclisib for patients with myelofibrosis and suboptimal response to ruxolitinib: a randomized phase 3 study.",
-    "journal": "The oncologist",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Ruxolitinib (JAK1/JAK2 inhibitor) is indicated for adults with intermediate or high-risk myelofibrosis; however, a subset of patients may exhibit a suboptimal response due to persistent PI3K/AKT activation. The phase 3, randomized, double-blind, placebo-controlled LIMBER-304 study (NCT04551053) investigated the efficacy and safety of add-on parsaclisib (highly selective PI3Kδ inhibitor) in patients with myelofibrosis and suboptimal or declining response to stable ruxolitinib monotherapy. Adults",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179186/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z"
-  },
-  {
-    "pmid": "42179183",
-    "title": "Серотонін і робоча пам'ять у станах настрою та здорових особах: мультикохортне дослідження з ПЕТ-іміджінг",
-    "journal": "BJPsych open",
+    "pmid": "42184487",
+    "title": "Оцінка впливу алгоритму тригера трансфузії на оптимізацію використання крові у травматології",
+    "journal": "Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion",
     "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження вивчало зв'язок між рівнями серотоніну в мозку та функціями робочої пам'яті у здорових особах та пацієнтів із розладами настрою. За допомогою ПЕТ-сканування було проаналізовано кілька характеристик серотонінової системи у різних когорт. Результати мають потенційне значення для розуміння ролі серотоніну у когнітивних функціях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179183/",
+    "abstract": "Дослідження аналізувало можливість зменшення кількості трансфузій еритроцитів у травматологічних пацієнтів шляхом застосування алгоритму POTTS. Ретроспективний аналіз за один рік порівнював стандартну практику з застосуванням алгоритму.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184487/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Serotonin and working memory in mood disorder and healthy states: multi-cohort positron emission tomography study.",
-    "originalAbstract": "Working memory deficits are common in mood disorders and severely affect everyday functioning. Serotonin (5-HT) signalling has been implicated in depression and is also involved in cognitive functioning. However, its relevance for working memory remains largely unexplored. Using positron emission tomography (PET) brain imaging, we investigated the link between working memory and multiple 5-HT brain features in both healthy individuals and patients with mood disorders in a cross-sectional analysi",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Evaluation of the potential impact of the peri-operative transfusion trigger score algorithm on the optimization of blood components: A comparative study in a trauma hospital.",
+    "originalAbstract": "Red blood cell transfusion in trauma surgery continues to be guided primarily by isolated hemoglobin (Hb) values despite the risks associated with over-transfusion. This study aimed to evaluate whether the retrospective application of the peri-operative transfusion trigger score (POTTS) algorithm could reduce transfusion events in trauma patients. A one-year retrospective analysis was conducted comparing transfusions performed under standard clinical practice (liberal or restrictive management b",
     "keyPoints": [
-      "Дослідження виявило зв'язок між серотоніном і робочою пам'яттю.",
-      "Вивчались як здорові особи, так і пацієнти із розладами настрою.",
-      "Результати мають потенційне значення для розуміння когнітивних аспектів розладів настрою."
+      "Ретроспективний аналіз тривалістю один рік.",
+      "Порівняння стандартної практики та застосування алгоритму POTTS.",
+      "Можливе зменшення кількості трансфузій крові."
     ],
-    "practicalTakeaway": "Розуміння ролі серотоніну у когнітивних функціях може сприяти розвитку нових підходів до лікування розладів настрою.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Застосування алгоритму POTTS може сприяти оптимізації використання крові у травматології.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "серотонін",
-      "робоча пам'ять",
-      "ПЕТ-іміджінг"
+      "трансфузія крові",
+      "травматологія",
+      "алгоритм"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42179182",
-    "title": "Поточний стан досліджень генеративного штучного інтелекту у стоматологічній та максиллофacialній радіології",
-    "journal": "Dento maxillo facial radiology",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Це систематичне дослідження аналізує сучасний розвиток і застосування генеративних моделей штучного інтелекту, створених для стоматологічної та максиллофacialної радіології. Огляд охоплює дослідження, що розробляли та валідовували такі моделі, зосереджуючись на їх потенціалі для клінічної практики, освіти та досліджень.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179182/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Current evidence of generative artificial intelligence specifically developed for dental and maxillofacial radiology (DMFR): a systematic review.",
-    "originalAbstract": "This systematic review aimed to investigate the current development and application landscape of generative artificial intelligence (Gen-AI) networks specifically designed for dento-maxillofacial radiology (DMFR) and summarize their potential applications for clinical practice, education, and research. Five electronic databases were searched to identify studies that developed and validated DMFR-specific Gen-AI networks. Data regarding the purpose and type of the Gen-AI model, dataset details, qu",
-    "keyPoints": [
-      "Розглянуто сучасний стан генеративного штучного інтелекту у DMFR.",
-      "Аналізуються потенційні застосування для клініки, освіти і досліджень.",
-      "Огляд базується на аналізі досліджень, що розробляли та валідовували відповідні моделі."
-    ],
-    "practicalTakeaway": "Огляд демонструє зростаючий інтерес до застосування генеративного штучного інтелекту у стоматологічній радіології, що може вплинути на майбутні підходи до діагностики та навчання.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "штучний інтелект",
-      "радіологія",
-      "стоматологія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42179181",
-    "title": "Дослідження досвіду опікунів етнічних меншин у стаціонарному психіатричному догляді в Великій Британії",
-    "journal": "BJPsych open",
+    "pmid": "42184486",
+    "title": "Анемія перніціозна домінує серед дорослих з дефіцитом вітаміну B12 у Мексиці",
+    "journal": "Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion",
     "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Це якісне дослідження аналізує досвід опікунів етнічних меншин, які доглядають за пацієнтами у стаціонарних психіатричних закладах у Великій Британії. Виявлено, що ці групи часто стикаються з унікальними викликами та потребують додаткової підтримки для покращення якості догляду та співпраці з медичними службами.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179181/",
+    "abstract": "Дослідження виявило, що у дорослих з дефіцитом вітаміну B12 у мексиканському центрі з надання спеціалізованої допомоги переважає перніціозна анемія. Аналіз клінічних та лабораторних даних показав, що ця причина є найбільш поширеною серед інших етіологічних факторів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184486/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Ethnic minority carers' experiences of in-patient mental healthcare: qualitative study.",
-    "originalAbstract": "Ethnic minority groups are disproportionately represented in in-patient mental health services, yet research has largely overlooked their carers' experiences. Because carers play a crucial role in managing their family member's mental well-being, gaining insight into their potentially unique challenges and support needs is essential for service development. To investigate the experiences of ethnic minority carers of patients receiving in-patient psychiatric care in the UK, identify challenges th",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Pernicious anemia predominates among Mexican adults with vitamin B12 deficiency: clinical and laboratory findings from a tertiary referral center.",
+    "originalAbstract": "Vitamin B12 deficiency is a reversible cause of hematologic and neurologic morbidity, but its etiologic spectrum in Latin American referral centers remains poorly defined. We retrospectively studied consecutive adults with vitamin B12 deficiency evaluated in hematology and oncology clinics at a Mexican tertiary referral center from January 2013 to July 2023. Etiologies were classified as pernicious anemia, non-surgical malabsorption, post-surgical malabsorption, reduced intake, drug-related caus",
     "keyPoints": [
-      "Опікуни етнічних меншин мають унікальні виклики у стаціонарному психіатричному догляді.",
-      "Дослідження підкреслює важливість врахування їхнього досвіду для покращення сервісів.",
-      "Розуміння потреб опікунів може сприяти розвитку більш інклюзивних та ефективних послуг."
+      "Перніціозна анемія є основною причиною дефіциту вітаміну B12 у досліджуваній популяції.",
+      "Дослідження проводилося у спеціалізованому центрі з 2013 по 2023 роки.",
+      "Виявлено різноманіття причин дефіциту, але перніціозна анемія переважає."
     ],
-    "practicalTakeaway": "Залучення та підтримка опікунів етнічних меншин є важливими для покращення якості психіатричного догляду.",
-    "specialty": "психіатрія",
+    "practicalTakeaway": "У дорослих з дефіцитом вітаміну B12 слід враховувати перніціозну анемію як ймовірну причину.",
+    "specialty": "гематологія",
     "tags": [
-      "етнічні меншини",
-      "психіатрична допомога",
-      "дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42179176",
-    "title": "Реальні результати та прогностичні фактори при анапластичному раку щитоподібної залози",
-    "journal": "The oncologist",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження з багатопрофільних центрів аналізує результати лікування та прогностичні фактори у пацієнтів з анапластичним раком щитоподібної залози. Вивчено вплив молекулярного тестування на прогноз та управління хворобою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179176/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Real-World outcomes and prognostic factors in anaplastic thyroid cancer: Evidence from the REGETNE-Thyroid cohort.",
-    "originalAbstract": "Anaplastic thyroid cancer (ATC) is an extremely rare cancer with very poor prognosis. Targeted therapies have improved outcomes in selected patients, but molecular testing is often difficult because of the aggressive course, rapid clinical deterioration, and long turnaround times. This study aimed to provide real-world evidence on the management and outcomes of ATC and to evaluate the prognostic impact of molecular testing. This multicentric, retrospective study included patients diagnosed with ",
-    "keyPoints": [
-      "Анапластичний рак щитоподібної залози має дуже поганий прогноз.",
-      "Молекулярне тестування може впливати на прогноз та лікування.",
-      "Дослідження базується на реальних клінічних даних із багатьох центрів."
-    ],
-    "practicalTakeaway": "Молекулярне тестування може мати значення для прогнозу та управління анапластичним раком щитоподібної залози.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "діагностика",
-      "прогноз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42179175",
-    "title": "Самозвітні симптоми посттравматичного стресового розладу у медичних стажерів під час кризових ситуацій",
-    "journal": "Academic medicine : journal of the Association of American Medical Colleges",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження виявило, що періоди кризових ситуацій, що супроводжуються збільшеним навантаженням, високою складністю пацієнтів або обмеженим доступом до ресурсів для подолання стресу, можуть спричиняти симптоми посттравматичного стресового розладу (ПТСР) серед стажерів. Аналіз самозвітів щодо пандемічних симптомів ПТСР, факторів ризику та їх наслідків допомагає визначити групи з підвищеною вразливістю та розробити стратегії підтримки їх добробуту.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179175/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Crisis-Related Self-Reported symptoms of posttraumatic stress disorder in graduate medical education trainees: Results from a Multi-Institutional study.",
-    "originalAbstract": "Crisis periods-defined as sustained disruptions to the clinical environment resulting in increased workload, exposure to high-acuity patient care, or limited access to coping resources-can lead to posttraumatic stress disorder (PTSD) among residents and fellows (trainees). By examining self-reported pandemic-related PTSD symptoms, associated risk factors, and their consequences, this study aims to identify vulnerable groups and inform institutional strategies to support trainee well-being during",
-    "keyPoints": [
-      "Кризові ситуації під час медичної підготовки можуть викликати симптоми ПТСР.",
-      "Виявлено фактори ризику, що підвищують ймовірність розвитку ПТСР.",
-      "Результати сприяють формуванню стратегій підтримки стажерів."
-    ],
-    "practicalTakeaway": "Важливо впроваджувати програми підтримки та профілактики для медичних стажерів у періоди криз.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "психіатрія",
-      "медична освіта",
-      "стрес"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42179172",
-    "title": "Фактори, що впливають на затримки в діагностиці та лікуванні біполярного розладу у підлітків та молодих дорослих: систематичний огляд",
-    "journal": "BJPsych open",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження виявляє, що затримки у догляді за біполярним розладом часто погіршують прогноз. Однак, мало відомо про конкретні чинники, що сприяють цим затримкам у підлітків та молодих дорослих, у яких початок захворювання найчастіше припадає на цей вік. Аналіз зосереджений на виявленні доказів щодо факторів, що сприяють затримкам у діагностиці та лікуванні.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179172/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Factors influencing delays in the diagnosis and treatment of bipolar disorder in adolescents and young adults: systematic scoping review.",
-    "originalAbstract": "Care for bipolar spectrum disorders is often delayed, and these delays are associated with a poorer prognosis. However, little is known about the specific factors that contribute to these delays. Bipolar disorder onset peaks in adolescents and young adults, where barriers to care may be distinct from younger or older populations. To identify the available evidence on factors contributing to delays in care for adolescents and young adults with bipolar disorder. We performed a pre-registered syste",
-    "keyPoints": [
-      "Затримки у догляді погіршують прогноз біполярного розладу.",
-      "Підлітки та молоді дорослі мають унікальні бар'єри у доступі до допомоги.",
-      "Дослідження спрямовані на визначення чинників затримки в догляді."
-    ],
-    "practicalTakeaway": "Розуміння факторів затримки у догляді може допомогти у розробці стратегій для швидшої діагностики та лікування біполярного розладу у молодих людей.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "психіатрія",
-      "молодь",
+      "анемія",
+      "вітамін B12",
       "діагностика"
     ],
-    "priorityScore": 7,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42179170",
-    "title": "Безпека та ефективність семаглутиду у людей із розладами спектру шизофренії: систематичний огляд та мета-аналіз рандомізованих досліджень",
-    "journal": "BJPsych open",
+    "pmid": "42184485",
+    "title": "Ранній ризик-оцінка та результати терапії вазодилататорами при легеневій гіпертензії у хворих ILD",
+    "journal": "Respiratory investigation",
     "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізує безпеку та ефективність застосування семаглутиду у пацієнтів із розладами спектру шизофренії. Враховано рандомізовані дослідження з плацебо-контролем, що оцінювали вплив препарату на вагу та метаболічні показники.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179170/",
+    "abstract": "Дослідження аналізує зв'язок між змінами в ризик-стратумі перед і після терапії вазодилататорами та прогнозом у пацієнтів з легеневою гіпертензією на тлі інтерстиціальної пневмонії. Виявлено, що зміни у ризик-стратумі можуть мати значення для оцінки результатів лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184485/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "The safety and efficacy of semaglutide in people with schizophrenia spectrum disorders: systematic review and meta-analysis of randomised controlled trials.",
-    "originalAbstract": "People with schizophrenia spectrum disorders (SSDs) experience high rates of obesity and metabolic dysfunction, contributing substantially to excess morbidity and mortality. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) such as semaglutide and tirzepatide have demonstrated substantial efficacy for weight and glycaemic outcomes in the general population, but evidence in people with SSDs remains limited. To synthesise all placebo-controlled, randomised controlled trials (RCTs) examining se",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Early risk response to vasodilators and outcomes in interstitial lung disease associated pulmonary hypertension.",
+    "originalAbstract": "Pulmonary hypertension (PH) commonly complicates interstitial lung disease (ILD) and is associated with poor prognosis. Although pulmonary vasodilators may improve clinical parameters, they can also cause severe hypoxemia; thus, reliable noninvasive tools are needed to assess treatment response. We investigated whether changes in four-stratum risk stratification category before and after vasodilator therapy are associated with prognosis in patients with ILD-PH. Clinical data before and after vas",
     "keyPoints": [
-      "Розлади спектру шизофренії пов'язані з високим рівнем ожиріння та метаболічних порушень.",
-      "Семаглутид показує потенціал для покращення метаболічних показників у цієї групи.",
-      "Дослідження базуються на рандомізованих клінічних випробуваннях із плацебо."
+      "Зміни у ризик-стратумі перед і після терапії вазодилататорами пов'язані з прогнозом у ILD-PH.",
+      "Використання неінвазивних інструментів для оцінки відповіді на терапію є актуальним.",
+      "Дослідження підкреслює важливість ранньої оцінки ризику у пацієнтів з легеневою гіпертензією."
     ],
-    "practicalTakeaway": "Застосування семаглутиду може бути перспективним для покращення метаболічних показників у пацієнтів із розладами шизофренії.",
-    "specialty": "психіатрія",
+    "practicalTakeaway": "Застосування ризик-стратуму може допомогти у прогнозуванні результатів терапії вазодилататорами у пацієнтів з ILD-PH.",
+    "specialty": "пульмонологія",
     "tags": [
-      "метаболізм",
-      "шизофренія",
-      "лікування"
+      "легенева гіпертензія",
+      "інтерстиціальна пневмонія",
+      "ризик-оцінка"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42179169",
-    "title": "Вплив тейпування Кінезіо на силу захоплення руки та функціональні результати у літніх пацієнтів після операцій нижніх кінцівок: ретроспективне дослідження",
-    "journal": "Physiotherapy research international : the journal for researchers and clinicians in physical therapy",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив застосування тейпування Кінезіо на силу захоплення руки та функціональні результати у пацієнтів віком 65 років і старше після операцій нижніх кінцівок, які пересувалися з ходунками. Вивчено дані 100 пацієнтів, розділених на контрольну групу та групу з тейпуванням.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179169/",
+    "pmid": "42184484",
+    "title": "Обсяг роботи та компетенції для чергових змін у пульмонології: ретроспективний аналіз у японській лікарні",
+    "journal": "Respiratory investigation",
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "abstract": "Дослідження аналізує випадки післяробочих змін у пульмонологічному відділенні японської лікарні за 5,5 років. Вивчено спектр завдань, включаючи невідкладні випадки та інші медичні проблеми, що виникають поза робочим часом.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184484/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "The Effect of Kinesio Taping on Handgrip Strength and Functional Outcomes in Elderly Patients After Lower Extremity Surgery: A Retrospective Cohort Study.",
-    "originalAbstract": "This study aims to investigate the effects of increasing handgrip strength by applying Kinesio taping to the wrist extensors on the functional level in patients undergoing lower extremity surgery who ambulate with a walker. This retrospective study analyzed data from 100 patients aged 65 years and older who underwent lower extremity surgery and ambulated with a walker. The patients were divided into two groups: a control group (CG) that was kept under the standard rehabilitation program and a Ki",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "After-hours workload and required competencies for respiratory medicine on-call duty: a 5.5-year retrospective audit at a Japanese tertiary hospital.",
+    "originalAbstract": "After-hours respiratory duty requires management of respiratory emergencies as well as broader inpatient problems, yet its real-world case mix and task spectrum have not been well characterized in Japan. We retrospectively audited all after-hours logbook entries handled by the Department of Respiratory Medicine at a tertiary hospital in Japan from September 2015 to March 2022, excluding a period of missing records. Events were classified as new admissions, ward calls, or inter-departmental consu",
     "keyPoints": [
-      "Дослідження аналізує вплив тейпування Кінезіо на літніх пацієнтів після операцій нижніх кінцівок.",
-      "Застосування тейпування може впливати на силу захоплення руки та функціональні результати.",
-      "Ретроспективний аналіз даних 100 пацієнтів віком 65+."
+      "Проаналізовано всі записи післяробочих змін у пульмонології за 5,5 років.",
+      "Визначено спектр випадків, включаючи невідкладні та інші медичні ситуації.",
+      "Результати допомагають краще зрозуміти обсяг роботи та необхідні навички для чергових лікарів."
     ],
-    "practicalTakeaway": "Застосування тейпування Кінезіо може мати потенційний вплив на функціональні результати у літніх пацієнтів після операцій нижніх кінцівок.",
-    "specialty": "ревматологія",
+    "practicalTakeaway": "Розуміння обсягу та характеру роботи у позаробочий час може сприяти підвищенню підготовки та ефективності роботи пульмонологів.",
+    "specialty": "пульмонологія",
     "tags": [
-      "реабілітація",
-      "літні пацієнти",
-      "функціональні результати"
+      "робота у позаробочий час",
+      "пульмонологія",
+      "ретроспективний аналіз"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42179167",
-    "title": "Вплив нічної роботи на розвиток хронічної хвороби нирок: дослідження взаємодії з генетичним ризиком та метаболічними змінами",
-    "journal": "Scandinavian journal of work, environment & health",
+    "pmid": "42184481",
+    "title": "Діосцин зменшує алергічне запалення дихальних шляхів через регуляцію епітеліально-імунних взаємодій",
+    "journal": "International immunopharmacology",
     "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між нічною роботою та ризиком розвитку хронічної хвороби нирок (ХХН). Вивчено вплив тривалості та частоти нічних змін, а також їхню взаємодію з генетичною схильністю та роллю метаболічних змін і ожиріння. Використано дані UK Biobank, де оцінювалися показники нічної роботи та розвиток ХХН.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42179167/",
+    "abstract": "Дослідження вивчало вплив діосцину, природного стероїдного сапоніну, на алергічний бронхіт. Виявлено, що діосцин може зменшувати запалення шляхом модуляції відповідей епітелію та імунної системи, зокрема через IL-4R-сигналізацію. Це підкреслює потенціал діосцину як протизапального засобу у лікуванні алергічних захворювань дихальних шляхів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184481/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-25T14:44:15Z",
-    "originalTitle": "Night shift work and the acceleration of chronic kidney disease onset: dose-response relationships, interactions with cardiometabolic genetic risk, and metabolomic mediators.",
-    "originalAbstract": "The association between night shift work and chronic kidney disease (CKD) risk remains uncertain. We investigated the associations of current/lifetime night shift work with incident CKD, assessed joint effects with genetic susceptibility, and explored the mediating roles of obesity and metabolomic alterations. Utilizing UK Biobank data, current (N=242 721) and lifetime (N=63 659) night shift duration/frequency were assessed via questionnaires. The primary outcome was incident CKD. Polygenic risk",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Dioscin alleviates allergic airway inflammation with IL-4R-associated modulation of epithelial-immune responses.",
+    "originalAbstract": "Allergic asthma is characterized by airway inflammation, epithelial barrier dysfunction, and dysregulated immune responses. While Th2 cytokines and IL-4 receptor (IL-4R) signaling are central to its pathogenesis, accumulating evidence underscores the involvement of epithelial-immune interactions, metabolic disturbances, and gut-lung axis dysregulation. Dioscin, a natural steroidal saponin, has demonstrated anti-inflammatory properties, but its role in airway inflammation remains insufficiently e",
     "keyPoints": [
-      "Зв'язок між нічною роботою та ризиком ХХН досліджується.",
-      "Розглядається взаємодія з генетичним ризиком та метаболічними змінами.",
-      "Дослідження базується на даних UK Biobank."
+      "Діосцин може зменшувати запалення дихальних шляхів при алергічному бронхіті.",
+      "Механізм дії пов'язаний з регуляцією IL-4R-сигналізації та епітеліально-імунних взаємодій.",
+      "Дослідження підкреслює потенціал природних сполук у терапії алергічних захворювань."
     ],
-    "practicalTakeaway": "Розуміння ролі нічної роботи у розвитку ХХН може сприяти формуванню профілактичних стратегій.",
-    "specialty": "нефрологія",
+    "practicalTakeaway": "Можливий розвиток нових терапевтичних підходів для алергічного бронхіту з використанням природних сполук, таких як діосцин.",
+    "specialty": "імунологія",
     "tags": [
-      "нічна робота",
-      "хронічна хвороба нирок",
-      "генетичний ризик"
+      "алергія",
+      "запалення дихальних шляхів",
+      "природні сполуки"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42184479",
+    "title": "Демаскулінізовані співвідношення пальців у хлопців з дитячим аутизмом",
+    "journal": "Hormones and behavior",
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "abstract": "Дослідження аналізувало співвідношення довжин пальців як потенційний маркер впливу тестостерону у хлопців з дитячим аутизмом. Результати вказують на можливу різницю у співвідношеннях у цій групі, що може свідчити про вплив андрогенів під час пренатального розвитку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184479/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Demasculinized digit ratios in a sample of boys with childhood autism.",
+    "originalAbstract": "Some theories have proposed that children with autism spectrum disorder (ASD) may be exposed to increased levels of androgens during prenatal development, resulting in greater androgenization of testosterone-dependent traits including both peripheral (bodily) and central (brain-related) traits. Empirical support for this hypothesis is scant and inconsistent. In the present work, we studied an ostensible anatomical marker of testosterone exposure (sexually differentiated finger lengths) which dev",
+    "keyPoints": [
+      "Дослідження аналізувало співвідношення пальців у хлопців з дитячим аутизмом.",
+      "Знайдені відмінності у співвідношеннях пальців можуть бути пов'язані з рівнем андрогенів під час пренатального розвитку.",
+      "Результати не є остаточними і потребують подальшого дослідження."
+    ],
+    "practicalTakeaway": "Поточні дані не дозволяють використовувати співвідношення пальців як діагностичний маркер дитячого аутизму.",
+    "specialty": "неврологія",
+    "tags": [
+      "автизм",
+      "пренатальний розвиток",
+      "біомаркери"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42184475",
+    "title": "Аналіз динаміки B-клітин у периферійній крові при сепсисі на основі одноклітинної транскриптоміки",
+    "journal": "Blood cells, molecules & diseases",
+    "publishedAt": "2026-05-16T00:00:00Z",
+    "abstract": "Дослідження аналізує зміни у динаміці B-клітин та їх регулятори у периферійній крові пацієнтів із сепсисом. Використовуючи інтеграцію даних з чотирьох GEO-джерел, визначено ключові фактори, що впливають на диференціацію B-клітин. Це сприяє розумінню ролі B-клітин у імунній дисрегуляції при сепсисі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184475/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Analysis of B cell dynamic changes and pivotal drivers based on single-cell transcriptome of peripheral blood in sepsis.",
+    "originalAbstract": "Sepsis mortality stems from infection-triggered immune dysregulation, causing multiple organ dysfunction. B cells, key to adaptive immunity, protect against infection and regulate inflammation through antibodies, cytokines, and cell signaling. Their dysfunction is linked to sepsis outcomes, but their dynamic differentiation and underlying mechanisms remain poorly understood. Integrated single-cell B-cell trajectory analysis from four GEO datasets identified key fate regulators. Sepsis diagnostic",
+    "keyPoints": [
+      "Вивчено динаміку B-клітин у сепсисі.",
+      "Визначено ключові регулятори їх диференціації.",
+      "Допомагає краще зрозуміти імунну дисрегуляцію при сепсисі."
+    ],
+    "practicalTakeaway": "Розуміння механізмів диференціації B-клітин може сприяти розробці нових діагностичних та терапевтичних стратегій при сепсисі.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "сепсис",
+      "імунна система",
+      "одноклітинна транскриптоміка"
     ],
     "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42184473",
+    "title": "Раннє визначення ризику церебрального паралічу у недоношених немовлят: розробка моделі на основі неонатальних факторів",
+    "journal": "Pediatric neurology",
+    "publishedAt": "2026-05-05T00:00:00Z",
+    "abstract": "Дослідження спрямоване на створення попередньої моделі для прогнозування церебрального паралічу у недоношених дітей на основі неонатальних ризиків. Вибрано 108 учасників, з них 18 мали церебральний параліч. За допомогою логістичної регресії визначено 10 значущих факторів ризику.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184473/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Early Identification of Risk for Cerebral Palsy in a Cohort of Preterm Infants: Development of a Propensity Score Model Using Neonatal Risk Factors.",
+    "originalAbstract": "To develop a preliminary propensity score model to predict cerebral palsy (CP) based on neonatal risk factors in preterm infants. This case-control study included preterm infants followed for neurodevelopment and growth. Five controls were selected per case, totaling 108 participants (90 without CP and 18 with CP). Logistic regression was used to identify significant risk factors and estimate propensity scores. Of the 19 risk factors analyzed, 10 were significant; five were retained as independe",
+    "keyPoints": [
+      "Розроблено модель для прогнозування церебрального паралічу у недоношених.",
+      "Використано дані 108 немовлят, з них 18 з церебральним паралічем.",
+      "Виявлено 10 значущих неонатальних факторів ризику."
+    ],
+    "practicalTakeaway": "Модель може допомогти у ранній ідентифікації високоризикових немовлят для цілей спостереження та втручання.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейрологія",
+      "доказова медицина",
+      "неонатологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42184471",
+    "title": "Блокада IL-27 пригнічує модифікацію IL-10 у Th1-клітинах та сприяє руйнуванню внутрішньочерепних аневризм",
+    "journal": "Biochemical and biophysical research communications",
+    "publishedAt": "2026-05-21T00:00:00Z",
+    "abstract": "Дослідження вивчало роль IL-27 у стабільності внутрішньочерепних аневризм (IA). Виявлено, що недостатність IL-27 може сприяти руйнуванню IA через порушення імунної регуляції, зокрема впливу на модифікацію IL-10 у Th1-клітинах. Аналіз включав людські тканини та модель на мишах із гіпертензією, де застосовували блокаду IL-27.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184471/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "IL-27 blockade suppresses IL-10 modification in Th1 cells and promotes intracranial aneurysms rupture.",
+    "originalAbstract": "Intracranial aneurysms (IA) stability is regulated by helper T (Th)-cell homeostasis, but the role of IL-27, a key cytokine inducing regulatory T-cell phenotypes, remains unexplored. This study aimed to determine the role of IL-27 insufficiency in IA rupture and to elucidate the underlying immunopathological mechanisms. We integrated transcriptomic data from human IA tissues with an elastase-induced hypertensive mouse model. Findings were gained through IL-27 blockade in vivo, immunofluorescence",
+    "keyPoints": [
+      "IL-27 відіграє роль у регуляції імунної відповіді при IA.",
+      "Недостатність IL-27 може сприяти руйнуванню IA.",
+      "Дослідження поєднувало людські дані та експерименти на мишах."
+    ],
+    "practicalTakeaway": "Розуміння ролі IL-27 може допомогти у розробці нових стратегій профілактики та лікування внутрішньочерепних аневризм.",
+    "specialty": "неврологія",
+    "tags": [
+      "імунологія",
+      "нейронаука",
+      "патологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42184469",
+    "title": "Зміни у часовій організації нейронних відповідей при увазі у дітей з різними підтипами СДУГ",
+    "journal": "NeuroImage. Clinical",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження виявило, що порушення у часовій структурі нейронних відповідей під час уваги можуть розрізняти підтипи СДУГ у дітей. Аналіз показав, що у дітей з різними формами СДУГ спостерігаються характерні зміни у динаміці нейронних реакцій під час виконання уваги-залежних завдань.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42184469/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T02:42:02Z",
+    "originalTitle": "Altered temporal organization of neural response dynamics during attention processing differentiates ADHD subtypes in children.",
+    "originalAbstract": "Attention-deficit/hyperactivity disorder (ADHD) shows marked heterogeneity, and conventional event-related potential (ERP) measures have limited sensitivity to subtype differences. This study examined whether alterations in the temporal organization of neural responses during attentional processing differentiate ADHD subtypes. Children with predominantly inattentive ADHD (ADHD-I), combined-type ADHD (ADHD-C), and typically developing (TD) controls completed an auditory oddball task during electr",
+    "keyPoints": [
+      "Зміни у часовій організації нейронних відповідей можуть диференціювати підтипи СДУГ.",
+      "Дослідження фокусувалося на нейронних відповідях під час уваги у дітей.",
+      "Результати допомагають краще розуміти нейрофізіологічні особливості СДУГ."
+    ],
+    "practicalTakeaway": "Розуміння змін у нейронних відповідях може сприяти розвитку більш точних методів діагностики підтипів СДУГ.",
+    "specialty": "неврологія",
+    "tags": [
+      "СДУГ",
+      "нейронні відповіді",
+      "увага"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
