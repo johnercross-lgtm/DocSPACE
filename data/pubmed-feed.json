@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42184487",
-    "title": "Оцінка впливу алгоритму тригера трансфузії на оптимізацію використання крові у травматології",
-    "journal": "Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізувало можливість зменшення кількості трансфузій еритроцитів у травматологічних пацієнтів шляхом застосування алгоритму POTTS. Ретроспективний аналіз за один рік порівнював стандартну практику з застосуванням алгоритму.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184487/",
+    "pmid": "42186917",
+    "title": "Втрата мозкового естрогену та її вплив на пам'ять і поведінку залежно від статі та віку",
+    "journal": "Aging cell",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження виявило, що у жінок з хворобою Альцгеймера рівень мозкового естрогену нижчий, ніж у тих, хто її не має. Вивчено роль ароматази — ферменту, що сприяє виробленню естрогену в мозку, зокрема у гіпокампі. Мета — з’ясувати механізми впливу дефіциту естрогену на когнітивні функції та поведінку залежно від статі та віку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186917/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Evaluation of the potential impact of the peri-operative transfusion trigger score algorithm on the optimization of blood components: A comparative study in a trauma hospital.",
-    "originalAbstract": "Red blood cell transfusion in trauma surgery continues to be guided primarily by isolated hemoglobin (Hb) values despite the risks associated with over-transfusion. This study aimed to evaluate whether the retrospective application of the peri-operative transfusion trigger score (POTTS) algorithm could reduce transfusion events in trauma patients. A one-year retrospective analysis was conducted comparing transfusions performed under standard clinical practice (liberal or restrictive management b",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Loss of Brain-Derived Estrogen Is Associated With Sex- and Age-Dependent Alterations in Memory, Affective Behavior, and Hippocampal Extracellular Matrix Gene Expression.",
+    "originalAbstract": "Nearly two-thirds of Americans with Alzheimer's disease (AD) are women. Prior research suggested that women with AD have lower brain estrogen levels than those without AD. However, how estrogen deficiency modulates this sex-based difference in AD vulnerability is not well understood. Aromatase, the key enzyme for estrogen biosynthesis, is expressed in both neurons and astrocytes of the brain, including the hippocampus. This study aims to assess the mechanistic link between brain-selective aromat",
     "keyPoints": [
-      "Ретроспективний аналіз тривалістю один рік.",
-      "Порівняння стандартної практики та застосування алгоритму POTTS.",
-      "Можливе зменшення кількості трансфузій крові."
+      "У жінок з хворобою Альцгеймера спостерігається зниження рівня мозкового естрогену.",
+      "Ароматаза відіграє ключову роль у синтезі естрогену в мозку.",
+      "Дослідження спрямоване на розуміння механізмів впливу естрогену на когнітивні функції."
     ],
-    "practicalTakeaway": "Застосування алгоритму POTTS може сприяти оптимізації використання крові у травматології.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Дослідження підкреслює важливість вивчення ролі мозкового естрогену у когнітивних функціях та потенційних терапевтичних підходів.",
+    "specialty": "неврологія",
     "tags": [
-      "трансфузія крові",
-      "травматологія",
-      "алгоритм"
+      "нейроендокринологія",
+      "пам'ять",
+      "вікові зміни"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42186912",
+    "title": "Метал-органічний каркас на основі диімідозолю для фотокаталітичних реакцій",
+    "journal": "Inorganic chemistry",
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "abstract": "У дослідженні описано синтез метал-органічного каркасу на основі гафнію з лігандом типу донор-акцептор-донор (D-A-D). Цей каркас демонструє підвищену здатність до поглинання видимого світла та потенціал для застосування у фотокаталітичних реакціях для формування C–O та C–C зв’язків.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186912/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Donor-Acceptor-Donor Type Diimidazole-Based Metal-Organic Framework for Photocatalytic C-O and C-C Bond Formation.",
+    "originalAbstract": "The development of robust, efficient, and recyclable heterogeneous photocatalysts for solar-driven organic synthesis remains a significant challenge. Herein, we report the synthesis of a robust hafnium-based metal-organic framework, JNU-228, by using a donor-acceptor-donor (D-A-D) ligand, 4,4',4″,4‴-(1,4-phenylenebis(1H-imidazole-2,4,5-triyl))tetrabenzoate (PBIT). The integration of photoactive triphenylimidazole units with Hf6-oxo clusters endows JNU-228 with enhanced visible-light absorption a",
+    "keyPoints": [
+      "Розроблено гафнієвий метал-органічний каркас з лігандом D-A-D.",
+      "Каркас має підвищену здатність до поглинання видимого світла.",
+      "Можливе застосування у фотокаталітичних синтезах."
+    ],
+    "practicalTakeaway": "Цей метал-органічний каркас може бути використаний у фотокаталітичних процесах для органічного синтезу.",
+    "specialty": "хірургія",
+    "tags": [
+      "метал-органічні каркаси",
+      "фотокаталіз",
+      "органічний синтез"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42184486",
-    "title": "Анемія перніціозна домінує серед дорослих з дефіцитом вітаміну B12 у Мексиці",
-    "journal": "Revista de investigacion clinica; organo del Hospital de Enfermedades de la Nutricion",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження виявило, що у дорослих з дефіцитом вітаміну B12 у мексиканському центрі з надання спеціалізованої допомоги переважає перніціозна анемія. Аналіз клінічних та лабораторних даних показав, що ця причина є найбільш поширеною серед інших етіологічних факторів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184486/",
+    "pmid": "42186907",
+    "title": "Інтраопераційна ніроскопія під час відкритої цистотомії у собак і котів",
+    "journal": "The Journal of small animal practice",
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "abstract": "Дослідження оцінює можливість застосування інтраопераційної ніроскопії для повного видалення сечових каменів під час відкритої цистотомії у собак і котів. Вивчено 19 випадків, зібрано клінічні дані та результати процедур.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186907/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Pernicious anemia predominates among Mexican adults with vitamin B12 deficiency: clinical and laboratory findings from a tertiary referral center.",
-    "originalAbstract": "Vitamin B12 deficiency is a reversible cause of hematologic and neurologic morbidity, but its etiologic spectrum in Latin American referral centers remains poorly defined. We retrospectively studied consecutive adults with vitamin B12 deficiency evaluated in hematology and oncology clinics at a Mexican tertiary referral center from January 2013 to July 2023. Etiologies were classified as pernicious anemia, non-surgical malabsorption, post-surgical malabsorption, reduced intake, drug-related caus",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Intraoperative needlescopy facilitates complete urolith removal during open cystotomy in dogs and cats: 19 cases.",
+    "originalAbstract": "To describe the feasibility of intraoperative needlescopy during open cystotomy for retrieval of bladder and urethral uroliths in dogs and cats. Observational retrospective study. Dogs and cats undergoing open cystotomy for retrieval of uroliths followed by needlescopy between November 2023 and September 2025. Clinical data including signalment, preoperative imaging, urolith analysis, estimated urethral length, complications, and outcomes were recorded. A total of 17 dogs and two cats met the in",
     "keyPoints": [
-      "Перніціозна анемія є основною причиною дефіциту вітаміну B12 у досліджуваній популяції.",
-      "Дослідження проводилося у спеціалізованому центрі з 2013 по 2023 роки.",
-      "Виявлено різноманіття причин дефіциту, але перніціозна анемія переважає."
+      "Інтраопераційна ніроскопія дозволяє ефективно видаляти сечові камені у собак і котів.",
+      "Дослідження включає 17 собак і 2 котів, проведені між листопадом 2023 та вереснем 2025 року.",
+      "Збір клінічних даних та аналіз ускладнень підтверджують можливість застосування методу."
     ],
-    "practicalTakeaway": "У дорослих з дефіцитом вітаміну B12 слід враховувати перніціозну анемію як ймовірну причину.",
-    "specialty": "гематологія",
+    "practicalTakeaway": "Інтраопераційна ніроскопія може бути корисною для повного видалення сечових каменів під час відкритої цистотомії у тварин.",
+    "specialty": "сімейна медицина",
     "tags": [
-      "анемія",
-      "вітамін B12",
+      "ветеринарія",
+      "хірургія",
       "діагностика"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42184485",
-    "title": "Ранній ризик-оцінка та результати терапії вазодилататорами при легеневій гіпертензії у хворих ILD",
-    "journal": "Respiratory investigation",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між змінами в ризик-стратумі перед і після терапії вазодилататорами та прогнозом у пацієнтів з легеневою гіпертензією на тлі інтерстиціальної пневмонії. Виявлено, що зміни у ризик-стратумі можуть мати значення для оцінки результатів лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184485/",
+    "pmid": "42186906",
+    "title": "Реактивація вірусу гепатиту В у пацієнтів, що отримують імуносупресивну або хіміотерапію",
+    "journal": "Alimentary pharmacology & therapeutics",
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "abstract": "Дослідження аналізує частоту реактивації вірусу гепатиту В у японських пацієнтів, які були HBsAg-негативними та anti-HBc-позитивними з невиявленим ВГВ ДНК, без профілактики антивірусними препаратами. Використовуючи адміністративні дані за 2008–2022 роки, визначено випадки реактивації у пацієнтів, що отримували імуносупресивну або хіміотерапію, з мінімум двома тестами ВГВ ДНК.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186906/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Early risk response to vasodilators and outcomes in interstitial lung disease associated pulmonary hypertension.",
-    "originalAbstract": "Pulmonary hypertension (PH) commonly complicates interstitial lung disease (ILD) and is associated with poor prognosis. Although pulmonary vasodilators may improve clinical parameters, they can also cause severe hypoxemia; thus, reliable noninvasive tools are needed to assess treatment response. We investigated whether changes in four-stratum risk stratification category before and after vasodilator therapy are associated with prognosis in patients with ILD-PH. Clinical data before and after vas",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Incidence of Hepatitis B Virus Reactivation in Patients Treated With Immunosuppressive and Chemotherapeutic Agents.",
+    "originalAbstract": "Data on the incidence of hepatitis B virus reactivation (HBVr) remain limited. In Japan, patients who are HBsAg-negative and anti-HBc-positive with undetectable HBV DNA are monitored without antiviral prophylaxis, allowing the estimation of HBVr incidence. Using administrative claims data from Japan (2008-2022), we included patients receiving immunosuppressive or chemotherapeutic agents who were HBV DNA-negative at baseline, underwent at least two HBV DNA tests, and did not receive antiviral the",
     "keyPoints": [
-      "Зміни у ризик-стратумі перед і після терапії вазодилататорами пов'язані з прогнозом у ILD-PH.",
-      "Використання неінвазивних інструментів для оцінки відповіді на терапію є актуальним.",
-      "Дослідження підкреслює важливість ранньої оцінки ризику у пацієнтів з легеневою гіпертензією."
+      "Дослідження оцінює частоту реактивації ВГВ у японських пацієнтів.",
+      "Використано дані за 2008–2022 роки.",
+      "Пацієнти були без профілактики антивірусними препаратами."
     ],
-    "practicalTakeaway": "Застосування ризик-стратуму може допомогти у прогнозуванні результатів терапії вазодилататорами у пацієнтів з ILD-PH.",
-    "specialty": "пульмонологія",
-    "tags": [
-      "легенева гіпертензія",
-      "інтерстиціальна пневмонія",
-      "ризик-оцінка"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42184484",
-    "title": "Обсяг роботи та компетенції для чергових змін у пульмонології: ретроспективний аналіз у японській лікарні",
-    "journal": "Respiratory investigation",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізує випадки післяробочих змін у пульмонологічному відділенні японської лікарні за 5,5 років. Вивчено спектр завдань, включаючи невідкладні випадки та інші медичні проблеми, що виникають поза робочим часом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184484/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "After-hours workload and required competencies for respiratory medicine on-call duty: a 5.5-year retrospective audit at a Japanese tertiary hospital.",
-    "originalAbstract": "After-hours respiratory duty requires management of respiratory emergencies as well as broader inpatient problems, yet its real-world case mix and task spectrum have not been well characterized in Japan. We retrospectively audited all after-hours logbook entries handled by the Department of Respiratory Medicine at a tertiary hospital in Japan from September 2015 to March 2022, excluding a period of missing records. Events were classified as new admissions, ward calls, or inter-departmental consu",
-    "keyPoints": [
-      "Проаналізовано всі записи післяробочих змін у пульмонології за 5,5 років.",
-      "Визначено спектр випадків, включаючи невідкладні та інші медичні ситуації.",
-      "Результати допомагають краще зрозуміти обсяг роботи та необхідні навички для чергових лікарів."
-    ],
-    "practicalTakeaway": "Розуміння обсягу та характеру роботи у позаробочий час може сприяти підвищенню підготовки та ефективності роботи пульмонологів.",
-    "specialty": "пульмонологія",
-    "tags": [
-      "робота у позаробочий час",
-      "пульмонологія",
-      "ретроспективний аналіз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42184481",
-    "title": "Діосцин зменшує алергічне запалення дихальних шляхів через регуляцію епітеліально-імунних взаємодій",
-    "journal": "International immunopharmacology",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження вивчало вплив діосцину, природного стероїдного сапоніну, на алергічний бронхіт. Виявлено, що діосцин може зменшувати запалення шляхом модуляції відповідей епітелію та імунної системи, зокрема через IL-4R-сигналізацію. Це підкреслює потенціал діосцину як протизапального засобу у лікуванні алергічних захворювань дихальних шляхів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184481/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Dioscin alleviates allergic airway inflammation with IL-4R-associated modulation of epithelial-immune responses.",
-    "originalAbstract": "Allergic asthma is characterized by airway inflammation, epithelial barrier dysfunction, and dysregulated immune responses. While Th2 cytokines and IL-4 receptor (IL-4R) signaling are central to its pathogenesis, accumulating evidence underscores the involvement of epithelial-immune interactions, metabolic disturbances, and gut-lung axis dysregulation. Dioscin, a natural steroidal saponin, has demonstrated anti-inflammatory properties, but its role in airway inflammation remains insufficiently e",
-    "keyPoints": [
-      "Діосцин може зменшувати запалення дихальних шляхів при алергічному бронхіті.",
-      "Механізм дії пов'язаний з регуляцією IL-4R-сигналізації та епітеліально-імунних взаємодій.",
-      "Дослідження підкреслює потенціал природних сполук у терапії алергічних захворювань."
-    ],
-    "practicalTakeaway": "Можливий розвиток нових терапевтичних підходів для алергічного бронхіту з використанням природних сполук, таких як діосцин.",
-    "specialty": "імунологія",
-    "tags": [
-      "алергія",
-      "запалення дихальних шляхів",
-      "природні сполуки"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42184479",
-    "title": "Демаскулінізовані співвідношення пальців у хлопців з дитячим аутизмом",
-    "journal": "Hormones and behavior",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізувало співвідношення довжин пальців як потенційний маркер впливу тестостерону у хлопців з дитячим аутизмом. Результати вказують на можливу різницю у співвідношеннях у цій групі, що може свідчити про вплив андрогенів під час пренатального розвитку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184479/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Demasculinized digit ratios in a sample of boys with childhood autism.",
-    "originalAbstract": "Some theories have proposed that children with autism spectrum disorder (ASD) may be exposed to increased levels of androgens during prenatal development, resulting in greater androgenization of testosterone-dependent traits including both peripheral (bodily) and central (brain-related) traits. Empirical support for this hypothesis is scant and inconsistent. In the present work, we studied an ostensible anatomical marker of testosterone exposure (sexually differentiated finger lengths) which dev",
-    "keyPoints": [
-      "Дослідження аналізувало співвідношення пальців у хлопців з дитячим аутизмом.",
-      "Знайдені відмінності у співвідношеннях пальців можуть бути пов'язані з рівнем андрогенів під час пренатального розвитку.",
-      "Результати не є остаточними і потребують подальшого дослідження."
-    ],
-    "practicalTakeaway": "Поточні дані не дозволяють використовувати співвідношення пальців як діагностичний маркер дитячого аутизму.",
-    "specialty": "неврологія",
-    "tags": [
-      "автизм",
-      "пренатальний розвиток",
-      "біомаркери"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42184475",
-    "title": "Аналіз динаміки B-клітин у периферійній крові при сепсисі на основі одноклітинної транскриптоміки",
-    "journal": "Blood cells, molecules & diseases",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження аналізує зміни у динаміці B-клітин та їх регулятори у периферійній крові пацієнтів із сепсисом. Використовуючи інтеграцію даних з чотирьох GEO-джерел, визначено ключові фактори, що впливають на диференціацію B-клітин. Це сприяє розумінню ролі B-клітин у імунній дисрегуляції при сепсисі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184475/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Analysis of B cell dynamic changes and pivotal drivers based on single-cell transcriptome of peripheral blood in sepsis.",
-    "originalAbstract": "Sepsis mortality stems from infection-triggered immune dysregulation, causing multiple organ dysfunction. B cells, key to adaptive immunity, protect against infection and regulate inflammation through antibodies, cytokines, and cell signaling. Their dysfunction is linked to sepsis outcomes, but their dynamic differentiation and underlying mechanisms remain poorly understood. Integrated single-cell B-cell trajectory analysis from four GEO datasets identified key fate regulators. Sepsis diagnostic",
-    "keyPoints": [
-      "Вивчено динаміку B-клітин у сепсисі.",
-      "Визначено ключові регулятори їх диференціації.",
-      "Допомагає краще зрозуміти імунну дисрегуляцію при сепсисі."
-    ],
-    "practicalTakeaway": "Розуміння механізмів диференціації B-клітин може сприяти розробці нових діагностичних та терапевтичних стратегій при сепсисі.",
+    "practicalTakeaway": "Необхідно враховувати ризик реактивації ВГВ у пацієнтів з позитивним анти-HBc, що отримують імуносупресивну або хіміотерапію.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "сепсис",
-      "імунна система",
-      "одноклітинна транскриптоміка"
+      "вірус гепатиту В",
+      "реактивація",
+      "хіміотерапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42186905",
+    "title": "Оцінка доцільності міжустановних переведень пацієнтів із травмами обличчя, зокрема гострими переломами орбітальної стінки",
+    "journal": "Facial plastic surgery & aesthetic medicine",
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "abstract": "Дослідження аналізує характеристики пацієнтів із травмами обличчя та гострими переломами орбітальної стінки, які звернулися до одного рівня 1 швидкої допомоги, порівнюючи тих, хто був доставлений безпосередньо, з тими, хто був переведений з іншої установи. Виявлено, що багато таких переведень можуть бути необґрунтованими.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186905/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Evaluating Appropriateness of Interfacility Transfers for Patients with Facial Trauma Including Acute Orbital Floor Fractures.",
+    "originalAbstract": "Patients with orbital floor fractures are frequently transferred between facilities for suspected clinical need, although many of these transfers may be unnecessary. To compare the characteristics among patients with facial trauma and orbital floor fracture between those presenting directly compared to those transferred from an outside facility. Patients presenting to a single level 1 emergency department with facial trauma, including acute orbital floor fracture, were reviewed. Transfers were r",
+    "keyPoints": [
+      "Багато міжустановних переведень пацієнтів із травмами обличчя є потенційно необґрунтованими.",
+      "Дослідження порівнює характеристики пацієнтів, доставлених безпосередньо та через переведення.",
+      "Результати можуть допомогти оптимізувати процеси переведення пацієнтів із травмами обличчя."
+    ],
+    "practicalTakeaway": "Необхідно переглянути протоколи переведення пацієнтів із травмами обличчя для зменшення непотрібних переведень.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "травми обличчя",
+      "переведення пацієнтів",
+      "орбітальні переломи"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42186903",
+    "title": "Розлад тілесної дезморфії у ліванських дерматологічних пацієнтів: поширеність та зв'язки з депресією, тривогою, стресом і травмою",
+    "journal": "European journal of psychotraumatology",
+    "publishedAt": "2026-12-01T00:00:00Z",
+    "abstract": "Дослідження визначає поширеність розладу тілесної дезморфії (BDD) серед пацієнтів дерматологічних клінік у Лівані, країні з високим рівнем травматичного стресу. Виявлено, що BDD має значний зв'язок із психологічним дистресом, включаючи депресію, тривогу та стрес. Це підкреслює важливість врахування психологічних аспектів у дерматологічній практиці в контексті багатотривожної соціально-психологічної ситуації.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186903/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Body dysmorphic disorder in Lebanese dermatology patients: prevalence and correlates of depression, anxiety, stress, and trauma in a multitraumatized population.",
+    "originalAbstract": "Background: Body dysmorphic disorder (BDD) is a psychiatric condition marked by an intense preoccupation with perceived flaws in physical appearance that are minimal or unobservable to others. Given Lebanon's prolonged exposure to cumulative traumatic stress, the country represents a uniquely vulnerable setting in which to explore the interplay between psychological distress and BDD.Objectives: This study aims to: (1) investigate the prevalence of BDD among patients attending dermatology clinics",
+    "keyPoints": [
+      "Виявлено високий рівень поширеності BDD серед дерматологічних пацієнтів у Лівані.",
+      "Зв'язок між BDD та депресією, тривогою і травмою.",
+      "Ліван як контекст з високим рівнем травматичного стресу має особливе значення для дослідження BDD."
+    ],
+    "practicalTakeaway": "У дерматологічній практиці слід враховувати психологічний стан пацієнтів, особливо у контексті високого рівня травматичного стресу.",
+    "specialty": "психіатрія",
+    "tags": [
+      "психічне здоровʼя",
+      "травматичний стрес",
+      "дерматологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42186902",
+    "title": "Об’єднання даних досліджень про затяжне горе в рамках проекту MARBLES",
+    "journal": "European journal of psychotraumatology",
+    "publishedAt": "2026-12-01T00:00:00Z",
+    "abstract": "Проект MARBLES спрямований на об’єднання існуючих даних досліджень щодо затяжного горя, що дозволяє краще зрозуміти поширеність, характер та фактори ризику цього стану. Це сприяє розвитку знань у сфері діагностики та лікування затяжного горя відповідно до нових класифікаційних підходів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186902/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Pooling data from studies on prolonged grief: the Multi-region Archive of Research data on Bereavement and Loss from Empirical Studies (MARBLES) project.",
+    "originalAbstract": "Introduction: Prolonged Grief Disorder (PGD) was newly included in the 11th edition of the International Classification of Diseases (ICD-11) and the text revision of the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR). There is a need to increase our understanding of the prevalence, nature, and risk factors of this condition. Research in this area can be advanced by pooling existing datasets.Objective: The MARBLES (Multi-region Archive of Research data on Be",
+    "keyPoints": [
+      "Об’єднання даних досліджень для вивчення затяжного горя.",
+      "Допомагає визначити поширеність та фактори ризику.",
+      "Підтримує розвиток доказової медицини у цій сфері."
+    ],
+    "practicalTakeaway": "Об’єднання досліджень сприяє глибшому розумінню затяжного горя та покращенню підходів до його діагностики та лікування.",
+    "specialty": "психіатрія",
+    "tags": [
+      "психіатрія",
+      "доказова медицина",
+      "загальні наслідки для здоровʼя"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42186901",
+    "title": "Апомедіація у епоху TikTok: переосмислення медичної грамотності для підлітків та молодих дорослих",
+    "journal": "Journal of primary care & community health",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "TikTok став популярним простором для поширення медичної інформації серед підлітків і молодих дорослих, формуючи їхнє уявлення про симптоми, психічне здоровʼя та практики здоровʼя до звернення до медичних фахівців. Короткі відео платформи сприяють зменшенню стигми та підвищенню обізнаності, особливо щодо тем, які важко обговорювати у традиційних умовах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186901/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Apomediation in the Age of TikTok: Reframing Health Literacy for Adolescents and Young Adults.",
+    "originalAbstract": "TikTok has become a prominent space where adolescents and young adults encounter health information, often influencing how symptoms, mental health concerns, and wellness practices are understood before any interaction with formal healthcare systems. The platform's short-form videos offer approachable and relatable narratives that can reduce stigma and support awareness, particularly for topics that young people may find difficult to discuss in traditional settings. Clinicians, patient advocates,",
+    "keyPoints": [
+      "TikTok впливає на медичну грамотність молоді до звернення до лікаря.",
+      "Короткі відео сприяють зменшенню стигми та підвищенню обізнаності.",
+      "Платформа формує уявлення про симптоми та психічне здоровʼя."
+    ],
+    "practicalTakeaway": "Медичні працівники повинні враховувати вплив соціальних мереж на медичну грамотність молоді.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "соціальні мережі",
+      "медична грамотність",
+      "молодь"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42184473",
-    "title": "Раннє визначення ризику церебрального паралічу у недоношених немовлят: розробка моделі на основі неонатальних факторів",
-    "journal": "Pediatric neurology",
-    "publishedAt": "2026-05-05T00:00:00Z",
-    "abstract": "Дослідження спрямоване на створення попередньої моделі для прогнозування церебрального паралічу у недоношених дітей на основі неонатальних ризиків. Вибрано 108 учасників, з них 18 мали церебральний параліч. За допомогою логістичної регресії визначено 10 значущих факторів ризику.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184473/",
+    "pmid": "42186899",
+    "title": "Безпека та можливості переходу від традиційної бічної трепанації до ендоскопічної евакуації при хронічному субдуральному гематомі: ретроспективне дослідження",
+    "journal": "Science progress",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Мета дослідження — порівняти традиційну бічну трепанацію з ендоскопічною евакуацією при симптоматичній хронічній субдуральній гематомі та оцінити виклики впровадження нової техніки. Вивчення показало, що ендоскопічна евакуація може зменшити частоту рецидивів, але її впровадження обмежене через навчальний кривий та організаційні труднощі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186899/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Early Identification of Risk for Cerebral Palsy in a Cohort of Preterm Infants: Development of a Propensity Score Model Using Neonatal Risk Factors.",
-    "originalAbstract": "To develop a preliminary propensity score model to predict cerebral palsy (CP) based on neonatal risk factors in preterm infants. This case-control study included preterm infants followed for neurodevelopment and growth. Five controls were selected per case, totaling 108 participants (90 without CP and 18 with CP). Logistic regression was used to identify significant risk factors and estimate propensity scores. Of the 19 risk factors analyzed, 10 were significant; five were retained as independe",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "Safety and feasibility of transitioning from conventional burr-hole craniostomy to endoscope-assisted evacuation for chronic subdural hematoma: A retrospective cohort study.",
+    "originalAbstract": "ObjectiveAlthough endoscope-assisted evacuation for chronic subdural hematoma (cSDH) may reduce recurrence rates, its adoption has been limited by a procedural learning curve that may affect operative efficiency and clinical outcomes. This study compared conventional burr-hole craniostomy with endoscope-assisted evacuation for symptomatic cSDH and evaluated the challenges of institutional implementation.MethodsWe retrospectively reviewed patients with symptomatic cSDH treated between 2023 and 20",
     "keyPoints": [
-      "Розроблено модель для прогнозування церебрального паралічу у недоношених.",
-      "Використано дані 108 немовлят, з них 18 з церебральним паралічем.",
-      "Виявлено 10 значущих неонатальних факторів ризику."
+      "Порівняння традиційної бічної трепанації та ендоскопічної евакуації при хронічній субдуральній гематомі.",
+      "Ендоскопічна евакуація може знизити ризик рецидивів.",
+      "Впровадження нової техніки у клінічну практику має свої виклики."
     ],
-    "practicalTakeaway": "Модель може допомогти у ранній ідентифікації високоризикових немовлят для цілей спостереження та втручання.",
+    "practicalTakeaway": "Враховуючи потенційні переваги, впровадження ендоскопічної евакуації потребує ретельної підготовки та навчання медичного персоналу.",
     "specialty": "неврологія",
     "tags": [
-      "нейрологія",
-      "доказова медицина",
-      "неонатологія"
+      "нейрохірургія",
+      "ендоскопія",
+      "хронічна субдуральна гематома"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42184471",
-    "title": "Блокада IL-27 пригнічує модифікацію IL-10 у Th1-клітинах та сприяє руйнуванню внутрішньочерепних аневризм",
-    "journal": "Biochemical and biophysical research communications",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження вивчало роль IL-27 у стабільності внутрішньочерепних аневризм (IA). Виявлено, що недостатність IL-27 може сприяти руйнуванню IA через порушення імунної регуляції, зокрема впливу на модифікацію IL-10 у Th1-клітинах. Аналіз включав людські тканини та модель на мишах із гіпертензією, де застосовували блокаду IL-27.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184471/",
+    "pmid": "42186897",
+    "title": "Довгострокові ускладнення після хірургії у ранньому дитинстві",
+    "journal": "Ugeskrift for laeger",
+    "publishedAt": "2026-05-11T00:00:00Z",
+    "abstract": "Операції у ранньому дитинстві можуть мати довготривалі наслідки, що проявляються у підлітковому віці та дорослому житті. Важливо, щоб лікарі були обізнані про ознаки та симптоми можливих ускладнень у пацієнтів, які перенесли дитячу хірургію. Огляд зосереджений на довгострокових ускладненнях після операцій на вроджених порушеннях сечовивідних шляхів та шлунково-кишкового тракту, виконаних у ранньому дитинстві.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42186897/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "IL-27 blockade suppresses IL-10 modification in Th1 cells and promotes intracranial aneurysms rupture.",
-    "originalAbstract": "Intracranial aneurysms (IA) stability is regulated by helper T (Th)-cell homeostasis, but the role of IL-27, a key cytokine inducing regulatory T-cell phenotypes, remains unexplored. This study aimed to determine the role of IL-27 insufficiency in IA rupture and to elucidate the underlying immunopathological mechanisms. We integrated transcriptomic data from human IA tissues with an elastase-induced hypertensive mouse model. Findings were gained through IL-27 blockade in vivo, immunofluorescence",
+    "updatedAt": "2026-05-26T14:56:03Z",
+    "originalTitle": "[Long-term complications after surgery in early childhood].",
+    "originalAbstract": "Surgery in early childhood can have long-term consequences that can extend into adolescence and adulthood. It is therefore imperative that general practitioners and hospital physicians be aware of the most common signs and symptoms that may indicate problems in patients who underwent childhood surgery. This review thus focuses on long-term complications that may occur after surgery for congenital conditions of the urogenital and gastrointestinal tracts, performed in early childhood.",
     "keyPoints": [
-      "IL-27 відіграє роль у регуляції імунної відповіді при IA.",
-      "Недостатність IL-27 може сприяти руйнуванню IA.",
-      "Дослідження поєднувало людські дані та експерименти на мишах."
+      "Операції у ранньому дитинстві можуть мати довгострокові наслідки.",
+      "Лікарі повинні знати ознаки ускладнень у таких пацієнтів.",
+      "Огляд зосереджений на ускладненнях після операцій на сечовивідних та шлунково-кишкових шляхах."
     ],
-    "practicalTakeaway": "Розуміння ролі IL-27 може допомогти у розробці нових стратегій профілактики та лікування внутрішньочерепних аневризм.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Медики повинні враховувати можливі довгострокові ускладнення у пацієнтів з історією дитячих хірургічних втручань.",
+    "specialty": "доказова медицина",
     "tags": [
-      "імунологія",
-      "нейронаука",
-      "патологія"
+      "хірургія",
+      "педіатрія",
+      "доказова медицина"
     ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42184469",
-    "title": "Зміни у часовій організації нейронних відповідей при увазі у дітей з різними підтипами СДУГ",
-    "journal": "NeuroImage. Clinical",
-    "publishedAt": "2026-05-23T00:00:00Z",
-    "abstract": "Дослідження виявило, що порушення у часовій структурі нейронних відповідей під час уваги можуть розрізняти підтипи СДУГ у дітей. Аналіз показав, що у дітей з різними формами СДУГ спостерігаються характерні зміни у динаміці нейронних реакцій під час виконання уваги-залежних завдань.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42184469/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-26T02:42:02Z",
-    "originalTitle": "Altered temporal organization of neural response dynamics during attention processing differentiates ADHD subtypes in children.",
-    "originalAbstract": "Attention-deficit/hyperactivity disorder (ADHD) shows marked heterogeneity, and conventional event-related potential (ERP) measures have limited sensitivity to subtype differences. This study examined whether alterations in the temporal organization of neural responses during attentional processing differentiate ADHD subtypes. Children with predominantly inattentive ADHD (ADHD-I), combined-type ADHD (ADHD-C), and typically developing (TD) controls completed an auditory oddball task during electr",
-    "keyPoints": [
-      "Зміни у часовій організації нейронних відповідей можуть диференціювати підтипи СДУГ.",
-      "Дослідження фокусувалося на нейронних відповідях під час уваги у дітей.",
-      "Результати допомагають краще розуміти нейрофізіологічні особливості СДУГ."
-    ],
-    "practicalTakeaway": "Розуміння змін у нейронних відповідях може сприяти розвитку більш точних методів діагностики підтипів СДУГ.",
-    "specialty": "неврологія",
-    "tags": [
-      "СДУГ",
-      "нейронні відповіді",
-      "увага"
-    ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
