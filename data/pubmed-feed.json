@@ -1,282 +1,231 @@
 [
   {
-    "pmid": "42189593",
-    "title": "Декодування симптомів пацієнтів на гемодіалізі: навігація у складності",
-    "journal": "Journal of nephrology",
+    "pmid": "42200354",
+    "title": "Development and content validation of the Clinician-reported Genetic testing Utility InDEx for genomic newborn screening (C-GUIDE NBS).",
+    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
     "publishedAt": "2026-05-26T00:00:00Z",
-    "abstract": "Дослідження аналізує симптоми, що часто виникають у пацієнтів на гемодіалізі, їхні взаємозв'язки та фактори. Виявлення цих симптомів сприяє покращенню догляду та підвищенню якості життя пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189593/",
+    "abstract": "Genomic newborn screening (gNBS) is emerging worldwide. Evidence of clinical utility, acceptability and performance are required to guide policy and funding decisions. We aimed to develop a tool to quantify clinical utility of gNBS, called C-GUIDE NBS, adapted from the Clinician-reported Genetic testing Utility InDEX (C-GUIDE) for diagnostic testing. We drafted an initial version of the tool by identifying relevant domains and modifying existing C-GUIDE items. Interviews were conducted with clin",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200354/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Decoding hemodialysis patients' symptoms: navigating the complexity.",
-    "originalAbstract": "Hemodialysis (HD) patients frequently experience symptoms that negatively impact their quality of life. Besides individual symptoms, cluster symptoms and core symptoms are similarly important. Identifying these symptoms helps optimize patient care. This study was conducted to assess the various symptoms experienced by HD patients, their associated dimensions, factors, connections, and relationships. A cross-sectional study of 1156 patients undergoing HD in 27 centers across different regions in ",
+    "updatedAt": "2026-05-27T15:25:38Z"
+  },
+  {
+    "pmid": "42200352",
+    "title": "Новий інгібітор інсулінового рецептора на основі квіназолінону та його синергія з інгібітором EGFR у гліобластомі",
+    "journal": "Molecular oncology",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження описує синтез та біологічну оцінку W1B, нового малорозмірного інгібітора, що базується на стилільквіназолоні. Випробування показали його високу активність проти клітин гліобластоми. Стверджується, що W1B ефективно інгібує ферменти, що беруть участь у прогресії пухлини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200352/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "A novel quinazolinone insulin receptor inhibitor and its synergy with an EGFR inhibitor in glucose-driven glioblastoma.",
+    "originalAbstract": "Aberrant signaling through insulin-like growth factor 1 receptor (IGF1R) and epidermal growth factor receptor (EGFR) drives glioblastoma (GBM) progression and therapy resistance. Herein, we describe the synthesis and biological evaluation of W1B, a novel styrylquinazolinone-based small-molecule inhibitor. In antiproliferative assays, W1B exhibited potent submicromolar activity against a panel of GBM cell lines. Kinase assays and binding studies confirmed strong inhibition and high binding affini",
     "keyPoints": [
-      "Вивчено симптоми у пацієнтів на гемодіалізі.",
-      "Розглянуто взаємозв'язки та фактори симптомів.",
-      "Допомагає оптимізувати медичний догляд."
+      "W1B є новим інгібітором інсулінового рецептора.",
+      "Показано його високу активність у клітинних моделях гліобластоми.",
+      "Дослідження вказують на потенціал для комбінованої терапії з інгібіторами EGFR."
     ],
-    "practicalTakeaway": "Розуміння симптомів та їхніх взаємозв'язків у пацієнтів на гемодіалізі може сприяти покращенню їхнього догляду.",
-    "specialty": "нефрологія",
+    "practicalTakeaway": "Розробка нових інгібіторів інсулінового рецептора може сприяти покращенню терапевтичних стратегій у гліобластомі.",
+    "specialty": "онкологія",
     "tags": [
-      "симптоми",
-      "гемодіаліз",
-      "якість життя"
+      "інгібітор",
+      "гліобластома",
+      "цитотоксична терапія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42189590",
-    "title": "Перший рік застосування нірсевімабу в Аргентині (2025): звіт із приватного центру вакцинації",
-    "journal": "Archivos argentinos de pediatria",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "З березня 2025 року в Аргентині доступний нірсевімаб, моноклональне антитіло для профілактики інфекції респіраторно-синцитіального вірусу (RSV). Мета дослідження — описати використання нірсевімабу в приватному центрі вакцинації в районі Буенос-Айреса, включаючи профіль вакцинованих немовлят за перший рік його застосування. Проведено описове дослідження із застосуванням онлайн-опитування опікунів дітей.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189590/",
+    "pmid": "42200351",
+    "title": "Синтез та оцінка імідазо-зв’язаних β-карболінів як агентів проти лейшманіозу",
+    "journal": "ACS infectious diseases",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Лейшманіоз внутрішніх органів є небезпечним тропічним захворюванням, що вражає печінку та селезінку. Зростання резистентності до ліків і відсутність ефективної вакцини підкреслюють необхідність пошуку нових хімічних сполук з потужною антілейшманіальною активністю. У дослідженні повідомляється про відкриття нової серії імідазо-зв’язаних β-карболінів, отриманих шляхом реакції Гребке-Блекберна-Біенайме з заміщеними 3-аміновими β-карболінами.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200351/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "First year of nirsevimab use in Argentina (2025): Report from a private vaccination center.",
-    "originalAbstract": "Introduction. Since March 2025, nirsevimab, a monoclonal antibody for the prevention of respiratory syncytial virus infection (RSV), has been available in Argentina. The objective of this study was to describe the use of nirsevimab at a private vaccination center in the Buenos Aires Metropolitan Area, including the profile of infants vaccinated during its first year on the market. Population and methods. A descriptive study was conducted using an online survey administered to caregivers of child",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "Synthesis and Assessment of Imidazo-Fused β-Carbolines as Antileishmanial Agents.",
+    "originalAbstract": "Visceral leishmaniasis is a life-threatening neglected tropical disease that predominantly affects the liver and spleen. The widespread emergence of drug resistance, along with the continued absence of an effective vaccine, underscores the urgent need to explore novel chemical scaffolds with potent antileishmanial activity. In this context, we report the discovery of a new series of imidazo-fused β-carbolines synthesized via the Groebke-Blackburn-Bienaymé reaction of substituted 3-amino-β-carbol",
     "keyPoints": [
-      "Нірсевімаб доступний в Аргентині з березня 2025 року.",
-      "Дослідження описує профіль вакцинованих немовлят у приватному центрі.",
-      "Збір даних через онлайн-опитування опікунів дітей."
+      "Розроблено нові імідазо-зв’язані β-карболіни.",
+      "Досліджено їх потенціал як протилейшманіальних агентів.",
+      "Потреба у подальших дослідженнях для підтвердження ефективності."
     ],
-    "practicalTakeaway": "Застосування нірсевімабу в приватних центрах може допомогти у профілактиці RSV у немовлят.",
+    "practicalTakeaway": "Нові хімічні сполуки можуть стати перспективними кандидатами для розробки препаратів проти лейшманіозу.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "RSV",
-      "профілактика",
-      "немовлята"
+      "лікування лейшманіозу",
+      "нові препарати",
+      "хімічний синтез"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42189589",
-    "title": "Оцінка очищення стравоходу при ахалазії за допомогою високорезолюційної імпедансної манометрії: проспективне дослідження з 1-річним спостереженням",
-    "journal": "The American journal of gastroenterology",
-    "publishedAt": "2026-05-26T00:00:00Z",
-    "abstract": "Дослідження порівнює методи оцінки очищення стравоходу після пероральної ендоскопічної міотомії при ахалазії. Вивчалися високорезолюційна імпедансна манометрія та рентгенологічний тест із барієм, щоб визначити їхню кореляцію та ефективність у моніторингу пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189589/",
+    "pmid": "42200350",
+    "title": "Оцінка панелі R67 для моногенного втрати слуху NHS у Великій Британії",
+    "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження аналізує ефективність та клінічну цінність панелі R67 для визначення генетичних причин втрати слуху у пацієнтів різного віку у рамках британської системи охорони здоров'я. Вивчено результати ретроспективного аналізу пацієнтів, направлених до спеціалізованої клініки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200350/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Esophageal clearance assessed by high-resolution impedance manometry in achalasia: a prospective study with 1-year follow-up.",
-    "originalAbstract": "Timed barium esophagram (TBE) is widely used to evaluate esophageal clearance (EC) after peroral endoscopic myotomy (POEM) in achalasia. Our aim was to compare high resolution impedance manometry (HRiM) and TBE for assessment of esophageal clearance following POEM in achalasia. We conducted a monocentric prospective study with external validation to compare EC assessed by HRiM (EC-HRiM) in response to a 200 mL rapid drink challenge and TBE (EC-TBE) after POEM for achalasia, and to evaluate their",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "Evaluation of the NHS R67 Monogenic Hearing Loss Panel in a Single UK Centre.",
+    "originalAbstract": "The NHS R67 genetic hearing loss panel was introduced in England in 2021 and has expanded the diagnostic approach to hearing loss. This study aimed to evaluate the diagnostic yield and clinical utility of the panel in paediatric and adult patients assessed through a tertiary multidisciplinary genetic hearing loss clinic. A retrospective case review was conducted of patients referred to a tertiary genetic hearing loss multidisciplinary clinic who underwent R67 monogenic hearing loss analysis. Dem",
     "keyPoints": [
-      "Порівнювалися методи оцінки очищення стравоходу: HRiM та TBE.",
-      "Вивчалася кореляція між результатами обох методів.",
-      "Дослідження тривало один рік із зовнішньою валідністю."
+      "Панель R67 застосовується з 2021 року для діагностики генетичних причин втрати слуху.",
+      "Дослідження оцінює її діагностичну цінність у пацієнтів різного віку.",
+      "Результати допомагають визначити роль панелі у клінічній практиці."
     ],
-    "practicalTakeaway": "Високорезолюційна імпедансна манометрія може бути корисною для оцінки очищення стравоходу після лікування ахалазії.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "діагностика",
-      "ахалазія",
-      "методи"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42189586",
-    "title": "Вплив фізичних навантажень та пробіотиків при гестаційному діабеті: огляд досліджень",
-    "journal": "Critical reviews in food science and nutrition",
-    "publishedAt": "2026-05-26T00:00:00Z",
-    "abstract": "Ця критична оцінка аналізує роль фізичних вправ та прийому пробіотиків у контролі гестаційного діабету. Зростання поширеності GDM зумовлене збільшенням ваги та віку матерів, що підкреслює необхідність пошуку додаткових терапевтичних підходів. GDM пов'язаний з ризиками для матері та плода, зокрема макросомією та прееклампсією, що підкреслює важливість регулювання рівня цукру в крові під час вагітності. Важливу роль відіграє також мікробіота кишечника.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189586/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "The impact of exercise and probiotic supplementation on the gut microbiota and management of gestational diabetes mellitus: a critical review.",
-    "originalAbstract": "This review provides a critical overview of the impact of exercise and probiotic supplementation in the management of gestational diabetes mellitus (GDM). As the prevalence of GDM is rising due to increasing maternal weight and advancing age, the need for research into possible adjunctive therapies is crucial. GDM poses significant maternal-fetal risks, including macrosomia and pre-eclampsia, highlighting the importance of glycemic control in pregnancy. The gut microbiota is also important in me",
-    "keyPoints": [
-      "Обговорюється потенційна роль фізичних вправ та пробіотиків у контролі GDM.",
-      "Зростання поширеності GDM зумовлене збільшенням ваги та віку матерів.",
-      "Контроль рівня цукру важливий для зменшення ризиків для матері та дитини."
-    ],
-    "practicalTakeaway": "Розглядається можливість застосування фізичних навантажень та пробіотиків як додаткових заходів у менеджменті гестаційного діабету.",
+    "practicalTakeaway": "Оцінка панелі R67 показує її потенціал у підвищенні точності діагностики генетичних причин втрати слуху.",
     "specialty": "акушерство і гінекологія",
     "tags": [
-      "гестаційний діабет",
-      "пробіотики",
-      "фізичні навантаження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42189585",
-    "title": "Комбінації статі реципієнта та донора і післятрансплантаційні інфекції: дослідження швейцарської когортної групи",
-    "journal": "Transplant infectious disease : an official journal of the Transplantation Society",
-    "publishedAt": "2026-05-26T00:00:00Z",
-    "abstract": "Мета дослідження — визначити вплив комбінацій статі реципієнта та донора на виникнення інфекцій, виживання трансплантата та відторгнення після трансплантації органів. Аналізували дані швейцарського реєстру з шести центрів. Результати вказують на необхідність подальшого вивчення ролі статі у післятрансплантаційних ускладненнях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189585/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Recipient-Donor Sex Combinations and Posttransplant Infections: A Swiss Transplant Cohort Study.",
-    "originalAbstract": "Despite increasing interest in sex and gender in transplant medicine, the impact of recipient-donor sex combinations (RDSCs) on posttransplant infections, graft survival, and rejection remains unclear. To assess if RDSC is independently associated with infectious events in solid organ transplantion (SOT) recipients. This retrospective cohort study assessed a national prospectively maintained registry including six transplant centers. All adult patients, undergoing primary transplant of either he",
-    "keyPoints": [
-      "Комбінація статі реципієнта та донора може впливати на інфекційні ускладнення після трансплантації.",
-      "Дослідження базується на даних швейцарського реєстру з шести центрів.",
-      "Важливо враховувати статеві характеристики при оцінці ризиків після трансплантації."
-    ],
-    "practicalTakeaway": "Урахування статевих характеристик донора і реципієнта може бути важливим для прогнозування післятрансплантаційних ускладнень.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "трансплантація",
-      "інфекції",
-      "стать"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42189582",
-    "title": "Друге хірургічне відновлення нижньощелепного нерва під час повторних ортогнатичних операцій",
-    "journal": "The Journal of craniofacial surgery",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Стаття описує випадок жінки 41 року з тривалим порушенням чутливості через пошкодження нижньощелепного нерва під час повторної ортогнатичної операції. Відновлення нерва є важливим аспектом після пошкоджень, що виникають при остеотомії сагітальної роздільної лінії. Вказується на необхідність правильного ремонту для запобігання довготривалих неврологічних дефіцитів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189582/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Secondary Inferior Alveolar Nerve Repair During Revisional Orthognathic Surgery.",
-    "originalAbstract": "Revisional orthognathic procedures are increasingly requested by patients who remain dissatisfied with facial aesthetics after primary correction of dentofacial deformities. Neurosensory disturbance of the inferior alveolar nerve (IAN) is a well-recognized complication of sagittal split ramus osteotomy (SSRO), and inadvertent IAN transection can result in severe permanent neurosensory deficits if not properly repaired. The authors report a 41-year-old woman who presented with persistent \"prognat",
-    "keyPoints": [
-      "Пошкодження нижньощелепного нерва є поширеною ускладненням при ортогнатичних операціях.",
-      "Відновлення нерва важливе для зменшення довготривалих порушень чутливості.",
-      "Повторні хірургічні втручання можуть бути необхідними для покращення результату."
-    ],
-    "practicalTakeaway": "При повторних ортогнатичних операціях слід ретельно планувати та виконувати ремонт пошкодженого нерва для зменшення ризику довготривалих неврологічних ускладнень.",
-    "specialty": "хірургія",
-    "tags": [
-      "хірургія",
-      "нерв",
-      "ортогнатична"
+      "генетика",
+      "втрата слуху",
+      "діагностика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42189581",
-    "title": "Остеомієліт лобової кістки та стратегії реконструкції",
-    "journal": "The Journal of craniofacial surgery",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Остеомієліт лобової кістки є рідкісним, але потенційно небезпечним станом, що супроводжується інфекцією м'яких тканин. Зазвичай його причиною є синусит, але локалізація джерела інфекції може бути складною. Лікування включає видалення інфікованої тканини, широке хірургічне очищення та планування реконструкції, а також застосування антимікробних препаратів. У статті описано випадки рецидивів інфекції у двох пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189581/",
+    "pmid": "42200340",
+    "title": "Клініко-генетичні характеристики та результати хірургічного лікування у дітей з низькозначущими пухлинами, асоційованими з епілепсією",
+    "journal": "Epileptic disorders : international epilepsy journal with videotape",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження аналізує результати хірургічного лікування у дітей з ізольованими низькозначущими пухлинами, пов’язаними з епілепсією, та з додатковим фокальним кортикальним дисплазією типу IIIb. Вивчалися клінічні, нейровізуальні, ЕЕГ, нейропсихологічні, гістопатологічні та молекулярно-генетичні дані пацієнтів молодше 19 років із мінімальним дволітнім спостереженням.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200340/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Skull Osteomyelitis Developed on the Frontal Bone and Subsequent Reconstruction Strategies.",
-    "originalAbstract": "Osteomyelitis of the frontal bone, which accompanies the soft-tissue infection, is rare but may be fatal. The origin of infection is commonly associated with sinusitis; however, it is hard to localize. Once it develops, treatment strategies need to include eradication of infected tissue, radical wide debridement, and reconstruction planning. In addition, the use of antimicrobial agents is another crucial part of the treatment. Two patients had recurrent infections in the frontal area. The skin a",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "Electroclinical characteristics, genetic findings, and complex epilepsy surgery outcomes in children with low-grade epilepsy-associated tumors: A comprehensive view.",
+    "originalAbstract": "To evaluate outcomes in relation to epilepsy characteristics and genetic findings in pediatric patients with isolated low-grade epilepsy-associated tumors (LEAT) and LEAT plus focal cortical dysplasia type IIIb (FCD IIIb) who underwent epilepsy surgery. Patients younger than 19 years at the time of surgery, with isolated LEAT or LEAT plus FCD IIIb, and a minimum follow-up of 2 years were included. Clinical, neuroimaging, EEG, neuropsychological, surgical, histopathological, and molecular-genetic",
     "keyPoints": [
-      "Остеомієліт лобової кістки є рідкісним і може бути смертельним.",
-      "Лікування передбачає хірургічне видалення інфікованої тканини та застосування антибіотиків.",
-      "Рецидиви інфекції можливі, що вимагає повторних втручань."
+      "Аналізуються результати хірургічного лікування у дітей з низькозначущими пухлинами, асоційованими з епілепсією.",
+      "Вивчаються клінічні, нейровізуальні, ЕЕГ, гістопатологічні та генетичні характеристики.",
+      "Результати допомагають краще зрозуміти прогнози та особливості лікування цієї групи пацієнтів."
     ],
-    "practicalTakeaway": "При підозрі на остеомієліт лобової кістки необхідно комплексне лікування з урахуванням можливих рецидивів.",
-    "specialty": "хірургія",
+    "practicalTakeaway": "Результати дослідження сприяють покращенню підходів до хірургічного лікування дітей з низькозначущими пухлинами, пов’язаними з епілепсією.",
+    "specialty": "неврологія",
     "tags": [
-      "остеомієліт",
-      "лікування",
-      "реконструкція"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42189580",
-    "title": "Остеопластичний клапан для доступу до лобної пазухи",
-    "journal": "The Journal of craniofacial surgery",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Остеопластичний клапан (ОПК) є класичною хірургічною технікою, що забезпечує прямий доступ до лобної пазухи. Незважаючи на розвиток ендоскопічних методів, ОПК залишається актуальним у лікуванні складних випадків. Його застосовують при резистентному хронічному фронтиті, великих муцеле, доброякісних і злоякісних новоутвореннях та інших складних патологіях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189580/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Osteoplastic Flap to Approach Frontal Sinus Diseases.",
-    "originalAbstract": "The osteoplastic flap (OPF) is a classic surgical technique that provides direct access to the frontal sinus and remains relevant despite advancements in endoscopic approaches. Originally described by Schönborn in 1894 and popularized in the mid-20th century by Montgomery and colleagues, OPF demonstrated high success rates in managing complex frontal sinus pathologies. OPF is indicated in refractory chronic frontal sinusitis, extensive mucoceles, benign and malignant neoplasms, complex frontal t",
-    "keyPoints": [
-      "Остеопластичний клапан забезпечує прямий доступ до лобної пазухи.",
-      "Застосовується при складних та резистентних випадках.",
-      "Залишається актуальним у сучасній хірургії лобної пазухи."
-    ],
-    "practicalTakeaway": "Остеопластичний клапан є важливим методом у хірургії лобної пазухи для складних випадків.",
-    "specialty": "хірургія",
-    "tags": [
+      "епілепсія",
       "хірургія",
-      "лікування лобної пазухи",
-      "складні випадки"
+      "генетика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42189578",
-    "title": "Професійне впливання ВПЛ та вакцинація серед медичних працівників: наслідки для стратегій вакцинації в установах",
-    "journal": "Human vaccines & immunotherapeutics",
-    "publishedAt": "2026-12-01T00:00:00Z",
-    "abstract": "Дослідження аналізує рівень вакцинації від ВПЛ серед медичних працівників, їхню оцінку ризиків та роль у просуванні вакцинації. Виявлено фактори, що впливають на поведінку щодо вакцинації та її сприйняття.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189578/",
+    "pmid": "42200339",
+    "title": "Causal links between diabetes, gut microbiota, and colon cancer: insights from Mendelian randomization.",
+    "journal": "Endokrynologia Polska",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Colon cancer (CC) remains a major global health burden and ranks among the most common malignant tumors. In recentyears, its growing occurrence in younger age groups has presented a substantial challenge to public health systems worldwide. Type 2diabetes (T2D) and gut microbiota may influence its pathogenesis, but the causal relationship remains unexplored. This study aims to examine the causal association between T2D and CC and explore the possible mediating effects of gut microbiota inthis rel",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200339/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Occupational HPV exposure and vaccination among healthcare workers: Implications for institutional vaccination strategies.",
-    "originalAbstract": "Healthcare workers may be exposed to HPV physically through occupational contact or while counseling patients with HPV conditions. Despite this exposure, HPV vaccination uptake among healthcare workers remains suboptimal. The relative contributions of demographic, cognitive, and occupational factors to vaccination behavior, risk perception, and vaccine advocacy in the context of institutional prevention strategies are not well defined. Our aim is to identify independent predictors of HPV vaccine",
+    "updatedAt": "2026-05-27T15:25:38Z"
+  },
+  {
+    "pmid": "42200338",
+    "title": "Аналіз впливу терапії рекомбінантним людським гормоном росту на метаболічні показники у дорослих з важкою дефіцитністю гормону росту",
+    "journal": "Endokrynologia Polska",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження вивчало вплив терапії рекомбінантним людським гормоном росту (rhGH) на метаболічні параметри у дорослих з важкою дефіцитністю гормону росту (ГР). Виявлено, що така терапія може мати вплив на метаболічний статус, що важливо враховувати при лікуванні цієї групи пацієнтів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200338/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "Analysis of the effect of recombinant human growth hormone therapy on metabolic parameters in patients with severe growth hormone deficiency in adulthood.",
+    "originalAbstract": "Severe growth hormone deficiency (GHD) in adults is associated with unfavorable metabolic disturbances and adversechanges in body composition, contributing to increased cardiovascular risk and impaired quality of life. Although recombinant humangrowth hormone (rhGH) replacement therapy is an established treatment, data reflecting its effects under real-world clinical conditionsin Poland remain limited. This retrospective, real-world study included adult patients with severe GHD treated with rhGH",
     "keyPoints": [
-      "Рівень вакцинації від ВПЛ серед медичних працівників залишається низьким.",
-      "Фактори демографії, знань та професійної діяльності впливають на поведінку щодо вакцинації.",
-      "Розуміння цих факторів важливе для розробки ефективних стратегій профілактики."
+      "Дослідження фокусується на дорослих з важкою дефіцитністю гормону росту.",
+      "Терапія рекомбінантним людським гормоном росту може впливати на метаболічні показники.",
+      "Дані отримані з реального клінічного досвіду у Польщі."
     ],
-    "practicalTakeaway": "Необхідно враховувати демографічні та професійні фактори при формуванні програм вакцинації для медичних працівників.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "При лікуванні дорослих з важкою дефіцитністю гормону росту слід враховувати можливий вплив терапії на метаболічний статус.",
+    "specialty": "ендокринологія",
     "tags": [
-      "ВПЛ",
-      "вакцинація",
-      "медичні працівники"
+      "метаболізм",
+      "гормон росту",
+      "дорослі"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42189577",
-    "title": "Збільшений ризик гіпоглікемії у дітей та молодих дорослих після підготовки до колоноскопії",
-    "journal": "The American journal of gastroenterology",
-    "publishedAt": "2026-05-26T00:00:00Z",
-    "abstract": "Дослідження показало, що у дітей існує підвищений ризик розвитку голодної гіпоглікемії порівняно з дорослими, і підготовка до колоноскопії може додатково його збільшити. Аналіз включав ретроспективне вивчення рівнів глюкози у пацієнтів перед процедурою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42189577/",
+    "pmid": "42200334",
+    "title": "Вздуття живота під час перехідного періоду менопаузи: результати дослідження Seattle Midline Women's Health Study",
+    "journal": "Journal of women's health (2002)",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження вивчало звʼязок між ступенем здуття живота та віком, стадією репродуктивного старіння, біомаркерами та стресовими чинниками у жінок у перехідному періоді менопаузи. Аналіз базувався на даних 291 учасниці, що вели щоденники здоровʼя.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200334/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T02:52:45Z",
-    "originalTitle": "Increased risk of hypoglycemia in children and young adults after undergoing bowel preparation for colonoscopy.",
-    "originalAbstract": "Children have a higher risk of developing fasting hypoglycemia compared to adults, and colonoscopy bowel preparation may further increase this risk. The aim of this study is to evaluate the prevalence of and risk factors for hypoglycemia in children and young adults after undergoing colonoscopy bowel preparation. We performed a retrospective analysis of pre-procedure point-of-care glucose measurements in children and young adults who underwent outpatient colonoscopy at the Children's Hospital of",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "Bloating During the Menopause Transition: Observations from the Seattle Midline Women's Health Study.",
+    "originalAbstract": "Across the lifespan, more women than men report abdominal bloating. However, little is known about bloating during the menopause transition (MT). The purpose of this study was to assess patterns of bloating severity during the MT in relation to age, reproductive aging stage, reproductive- and stress-related biomarkers, and stress-related perceptions in a longitudinal cohort study. This analysis included 291 women from the Seattle Midlife Women's Health Study who provided health diary data and co",
     "keyPoints": [
-      "Діти мають вищий ризик гіпоглікемії під час голодування.",
-      "Підготовка до колоноскопії може підвищити цей ризик.",
-      "Результати базуються на ретроспективному аналізі рівнів глюкози."
+      "Більше жінок, ніж чоловіків, повідомляють про здуття живота.",
+      "Звʼязок між здуттям і стадією репродуктивного старіння досліджувався.",
+      "Стресові чинники та біомаркери аналізувалися у контексті здуття живота."
     ],
-    "practicalTakeaway": "Необхідно враховувати ризик гіпоглікемії у дітей під час підготовки до колоноскопії.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Дослідження вказує на важливість врахування гормональних та стресових чинників у розумінні здуття живота у перехідному періоді менопаузи.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
-      "гіпоглікемія",
-      "колоноскопія",
-      "дослідження"
+      "жінки",
+      "менопауза",
+      "здуття живота"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42200333",
+    "title": "Гострий середній отит у дітей: молекулярно-генетичний підхід та соціальні фактори",
+    "journal": "Acta oto-laryngologica",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження аналізує клінічні, анамнестичні та мікросоціальні передумови гострого середнього отиту у дітей та його зв'язок із поліморфізмом гена білка теплового шоку HSP70-2 (rs1061581). В дослідженні взяли участь 95 дітей віком 7-18 років. Генотипування гена проводили методом qPCR. Виявлено, що алель А гена HSP70-2 є предиктором розвитку захворювання.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200333/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-27T15:25:38Z",
+    "originalTitle": "Acute otitis media in children: molecular genetics approach (rs1061581), clinical and micro-social predictors (single-center cross-sectional case-control study).",
+    "originalAbstract": "Acute otitis media (AOM) is the 2nd most frequent ENT diagnosis in early childhood. The aim of the study was to evaluate the clinical, anamnestic and micro-social predictors of AOM in children and its association with heat-shock protein gene (HSP70-2, rs1061581) polymorphism. A total of 95 children with AOM (7-18 years old) participated in the study. HSP70-2 (rs1061581) gene genotyping was performed by qPCR method. Risk factors were analyzed. The A-allele of the HSP70-2 gene is a predictor of a ",
+    "keyPoints": [
+      "Гострий середній отит є другим за поширеністю діагнозом у дитячому віці.",
+      "Поліморфізм гена HSP70-2 (rs1061581) пов'язаний із ризиком захворювання.",
+      "Соціальні та клінічні фактори відіграють роль у розвитку гострого середнього отиту."
+    ],
+    "practicalTakeaway": "Врахування генетичних та соціальних факторів може допомогти у прогнозуванні ризику гострого середнього отиту у дітей.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "отит",
+      "генетика",
+      "дитяче здоров'я"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42200330",
+    "title": "[Immunotherapy for Inhalant Allergy - Long Term Efficacy].",
+    "journal": "Harefuah",
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "abstract": "Immunotherapy for Inhalant Allergy - Long Term Efficacy.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42200330/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-27T15:25:38Z"
   }
 ]
