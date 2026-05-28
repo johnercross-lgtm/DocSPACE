@@ -29,10 +29,39 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Temporarily delete Telegram webhook
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          url = f"https://api.telegram.org/bot{token}/deleteWebhook?drop_pending_updates=false"
+          print(json.loads(urllib.request.urlopen(url).read().decode()))
+          PY
+
       - name: Run DocSPACE digest fetcher
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python scripts/fetch_docspace_digest.py
+
+      - name: Restore Telegram webhook
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.parse, urllib.request
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          webhook_url = os.environ["TELEGRAM_WEBHOOK_URL"]
+          params = urllib.parse.urlencode({
+              "url": webhook_url,
+              "allowed_updates": json.dumps(["channel_post", "edited_channel_post"])
+          })
+          url = f"https://api.telegram.org/bot{token}/setWebhook?{params}"
+          print(json.loads(urllib.request.urlopen(url).read().decode()))
+          PY
 
       - name: Validate feeds
         run: python scripts/validate_feeds.py
