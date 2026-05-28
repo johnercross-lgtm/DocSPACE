@@ -225,6 +225,64 @@ def public_image_url(filename):
     return f"{RAW_IMAGE_BASE_URL}/{urllib.parse.quote(filename)}"
 
 
+def extract_local_digest_image_filename(image_url):
+    if not image_url:
+        return ""
+
+    try:
+        parsed = urllib.parse.urlparse(image_url)
+        path = urllib.parse.unquote(parsed.path)
+        marker = "/data/docspace-digest-images/"
+
+        if marker not in path:
+            return ""
+
+        return path.split(marker, 1)[-1].strip("/")
+
+    except Exception:
+        return ""
+
+
+def cleanup_unused_digest_images(posts):
+    if not IMAGE_DIR.exists():
+        print("[DocSPACE Digest] image cleanup skipped: image directory does not exist")
+        return
+
+    used_filenames = set()
+
+    for post in posts:
+        filename = extract_local_digest_image_filename(post.get("imageUrl", ""))
+
+        if filename:
+            used_filenames.add(filename)
+
+    removed_files = 0
+    removed_bytes = 0
+
+    for path in IMAGE_DIR.iterdir():
+        if not path.is_file():
+            continue
+
+        if path.name in used_filenames:
+            continue
+
+        try:
+            size = path.stat().st_size
+            path.unlink()
+            removed_files += 1
+            removed_bytes += size
+            print(f"[DocSPACE Digest] removed unused image: {path}")
+
+        except Exception as error:
+            print(f"[DocSPACE Digest] failed to remove unused image {path}: {error}")
+
+    print(
+        f"[DocSPACE Digest] image cleanup finished "
+        f"used={len(used_filenames)} removed={removed_files} "
+        f"removedBytes={removed_bytes}"
+    )
+
+
 def save_digest_image(message_id, kind, data, extension):
     IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -459,6 +517,8 @@ def main():
 
     if len(final_posts) == 0:
         raise RuntimeError("No posts parsed. Keeping old feed untouched.")
+
+    cleanup_unused_digest_images(final_posts)
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
