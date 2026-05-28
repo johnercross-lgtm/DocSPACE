@@ -1,231 +1,282 @@
 [
   {
-    "pmid": "42200354",
-    "title": "Development and content validation of the Clinician-reported Genetic testing Utility InDEx for genomic newborn screening (C-GUIDE NBS).",
-    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
-    "publishedAt": "2026-05-26T00:00:00Z",
-    "abstract": "Genomic newborn screening (gNBS) is emerging worldwide. Evidence of clinical utility, acceptability and performance are required to guide policy and funding decisions. We aimed to develop a tool to quantify clinical utility of gNBS, called C-GUIDE NBS, adapted from the Clinician-reported Genetic testing Utility InDEX (C-GUIDE) for diagnostic testing. We drafted an initial version of the tool by identifying relevant domains and modifying existing C-GUIDE items. Interviews were conducted with clin",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200354/",
+    "pmid": "42202407",
+    "title": "Широкоспектровий імунохімічний тест для швидкої детекції фторхінолонів у водних продуктах",
+    "journal": "Food chemistry",
+    "publishedAt": "2026-05-24T00:00:00Z",
+    "abstract": "Розроблено портативний колориметричний імунохімічний тест для швидкого і чутливого визначення 13 видів фторхінолонів у водних продуктах. Тест дозволяє одночасно візуально скринінг та кількісне визначення забруднення.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202407/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z"
-  },
-  {
-    "pmid": "42200352",
-    "title": "Новий інгібітор інсулінового рецептора на основі квіназолінону та його синергія з інгібітором EGFR у гліобластомі",
-    "journal": "Molecular oncology",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження описує синтез та біологічну оцінку W1B, нового малорозмірного інгібітора, що базується на стилільквіназолоні. Випробування показали його високу активність проти клітин гліобластоми. Стверджується, що W1B ефективно інгібує ферменти, що беруть участь у прогресії пухлини.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200352/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "A novel quinazolinone insulin receptor inhibitor and its synergy with an EGFR inhibitor in glucose-driven glioblastoma.",
-    "originalAbstract": "Aberrant signaling through insulin-like growth factor 1 receptor (IGF1R) and epidermal growth factor receptor (EGFR) drives glioblastoma (GBM) progression and therapy resistance. Herein, we describe the synthesis and biological evaluation of W1B, a novel styrylquinazolinone-based small-molecule inhibitor. In antiproliferative assays, W1B exhibited potent submicromolar activity against a panel of GBM cell lines. Kinase assays and binding studies confirmed strong inhibition and high binding affini",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Broad-spectrum antibody based colorimetric immunoassay for highly sensitive on-site quantitative detection of thirteen fluoroquinolones residues in aquatic products.",
+    "originalAbstract": "Highly sensitive on-site rapid detection of multiple fluoroquinolones (FQs) residues in aquatic products is essential for ensuring food safety and regulating antibiotic use. In this work, the broad-spectrum antibody and portable reader based highly sensitive colorimetric immunoassay was developed for detection of thirteen FQs residues in aquatic products. The developed colorimetric immunoassay enables simultaneous semi-qualitative visual screening and quantitative detection of thirteen FQs in 10",
     "keyPoints": [
-      "W1B є новим інгібітором інсулінового рецептора.",
-      "Показано його високу активність у клітинних моделях гліобластоми.",
-      "Дослідження вказують на потенціал для комбінованої терапії з інгібіторами EGFR."
+      "Забезпечує швидкий скринінг і кількісну оцінку фторхінолонів.",
+      "Може одночасно визначати 13 видів препаратів.",
+      "Підходить для використання на місці у водних продуктах."
     ],
-    "practicalTakeaway": "Розробка нових інгібіторів інсулінового рецептора може сприяти покращенню терапевтичних стратегій у гліобластомі.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Цей тест може бути корисним для швидкої перевірки рівня фторхінолонів у водних продуктах на виробництві або у лабораторних умовах.",
+    "specialty": "доказова медицина",
     "tags": [
-      "інгібітор",
-      "гліобластома",
-      "цитотоксична терапія"
+      "інструментальні дослідження",
+      "харчова безпека",
+      "методи швидкої діагностики"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42200351",
-    "title": "Синтез та оцінка імідазо-зв’язаних β-карболінів як агентів проти лейшманіозу",
-    "journal": "ACS infectious diseases",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Лейшманіоз внутрішніх органів є небезпечним тропічним захворюванням, що вражає печінку та селезінку. Зростання резистентності до ліків і відсутність ефективної вакцини підкреслюють необхідність пошуку нових хімічних сполук з потужною антілейшманіальною активністю. У дослідженні повідомляється про відкриття нової серії імідазо-зв’язаних β-карболінів, отриманих шляхом реакції Гребке-Блекберна-Біенайме з заміщеними 3-аміновими β-карболінами.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200351/",
+    "pmid": "42202406",
+    "title": "Розробка наноплівок для збереження ягід із антиоксидантними та антимікробними властивостями",
+    "journal": "Food chemistry",
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "abstract": "Дослідження присвячене створенню активних харчових плівок із наноматеріалів для збереження ягід. У роботі використано наносфери з карвакролом, закриті у полімерних матрицях, що забезпечує їхню стабільність та пролонговану дію. Вивчено антиоксидантні та антимікробні властивості таких плівок.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202406/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "Synthesis and Assessment of Imidazo-Fused β-Carbolines as Antileishmanial Agents.",
-    "originalAbstract": "Visceral leishmaniasis is a life-threatening neglected tropical disease that predominantly affects the liver and spleen. The widespread emergence of drug resistance, along with the continued absence of an effective vaccine, underscores the urgent need to explore novel chemical scaffolds with potent antileishmanial activity. In this context, we report the discovery of a new series of imidazo-fused β-carbolines synthesized via the Groebke-Blackburn-Bienaymé reaction of substituted 3-amino-β-carbol",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Preparation, antioxidant and antibacterial properties of PCL/APS composite nanofiber films embedded with CS/TPP-CV nanospheres for blueberry preservation.",
+    "originalAbstract": "At present, active cling films for food preservation face a core bottleneck: the encapsulation materials for active substances have limited effectiveness, failing to achieve a balance between material safety and sustained-release performance. In this study, carvacrol (CV) was encapsulated in chitosan (CS)/sodium tripolyphosphate (TPP) ionic gelation nanospheres, with an encapsulation efficiency of 89.3 ± 1.1%. The gel nanospheres were integrated into polycaprolactone/astragalus polysaccharide (P",
     "keyPoints": [
-      "Розроблено нові імідазо-зв’язані β-карболіни.",
-      "Досліджено їх потенціал як протилейшманіальних агентів.",
-      "Потреба у подальших дослідженнях для підтвердження ефективності."
+      "Розроблено наноплівки для збереження ягід із закритими наносферами карвакролу.",
+      "Наносфери мають високий рівень ефективності закриття.",
+      "Плівки демонструють потенціал для продовження терміну зберігання ягід."
     ],
-    "practicalTakeaway": "Нові хімічні сполуки можуть стати перспективними кандидатами для розробки препаратів проти лейшманіозу.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Розроблені наноплівки можуть застосовуватися для покращення збереження ягід і фруктів.",
+    "specialty": "громадське здоровʼя",
     "tags": [
-      "лікування лейшманіозу",
-      "нові препарати",
-      "хімічний синтез"
+      "харчова безпека",
+      "збереження продуктів",
+      "нанотехнології"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42200350",
-    "title": "Оцінка панелі R67 для моногенного втрати слуху NHS у Великій Британії",
-    "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+    "pmid": "42202393",
+    "title": "Експериментальне дослідження мультикомпонентної імуномінеральної добавки у дітей з алергічним бронхітом та ринітом: дослідження INAPRA",
+    "journal": "International immunopharmacology",
     "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження аналізує ефективність та клінічну цінність панелі R67 для визначення генетичних причин втрати слуху у пацієнтів різного віку у рамках британської системи охорони здоров'я. Вивчено результати ретроспективного аналізу пацієнтів, направлених до спеціалізованої клініки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200350/",
+    "abstract": "Дослідження вивчало потенціал мультикомпонентної імуномінеральної добавки з постбіотиками у дітей з алергічним бронхітом та ринітом. Враховуючи поширеність цих хронічних станів у дитячому віці, дослідження спрямоване на оцінку клінічних та імунологічних ефектів додавання такої добавки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202393/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "Evaluation of the NHS R67 Monogenic Hearing Loss Panel in a Single UK Centre.",
-    "originalAbstract": "The NHS R67 genetic hearing loss panel was introduced in England in 2021 and has expanded the diagnostic approach to hearing loss. This study aimed to evaluate the diagnostic yield and clinical utility of the panel in paediatric and adult patients assessed through a tertiary multidisciplinary genetic hearing loss clinic. A retrospective case review was conducted of patients referred to a tertiary genetic hearing loss multidisciplinary clinic who underwent R67 monogenic hearing loss analysis. Dem",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Exploratory pilot trial of a multicomponent immunonutritional supplement in children with allergic asthma and rhinitis: The INAPRA study.",
+    "originalAbstract": "Allergic asthma and allergic rhinitis (AR) are among the most frequent chronic conditions in the pediatric age. They frequently coexist in children and are sustained by type 2- driven airway inflammation and impaired epithelial-immune interactions. Immunonutritional and postbiotic strategies have been proposed as adjunctive therapeutic approaches for these diseases. To explore the clinical and immunomodulatory potential of a multicomponent immunonutritional supplement containing postbiotics in c",
     "keyPoints": [
-      "Панель R67 застосовується з 2021 року для діагностики генетичних причин втрати слуху.",
-      "Дослідження оцінює її діагностичну цінність у пацієнтів різного віку.",
-      "Результати допомагають визначити роль панелі у клінічній практиці."
+      "Дослідження вивчало імуномінеральну добавку у дітей з алергічним бронхітом і ринітом.",
+      "Мультикомпонентна добавка містила постбіотики та інші компоненти.",
+      "Мета — оцінити клінічний та імунологічний вплив добавки."
     ],
-    "practicalTakeaway": "Оцінка панелі R67 показує її потенціал у підвищенні точності діагностики генетичних причин втрати слуху.",
-    "specialty": "акушерство і гінекологія",
+    "practicalTakeaway": "Дослідження показує потенціал імуномінеральних добавок у комплексному лікуванні алергічних захворювань у дітей.",
+    "specialty": "імунологія",
     "tags": [
-      "генетика",
-      "втрата слуху",
-      "діагностика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42200340",
-    "title": "Клініко-генетичні характеристики та результати хірургічного лікування у дітей з низькозначущими пухлинами, асоційованими з епілепсією",
-    "journal": "Epileptic disorders : international epilepsy journal with videotape",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження аналізує результати хірургічного лікування у дітей з ізольованими низькозначущими пухлинами, пов’язаними з епілепсією, та з додатковим фокальним кортикальним дисплазією типу IIIb. Вивчалися клінічні, нейровізуальні, ЕЕГ, нейропсихологічні, гістопатологічні та молекулярно-генетичні дані пацієнтів молодше 19 років із мінімальним дволітнім спостереженням.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200340/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "Electroclinical characteristics, genetic findings, and complex epilepsy surgery outcomes in children with low-grade epilepsy-associated tumors: A comprehensive view.",
-    "originalAbstract": "To evaluate outcomes in relation to epilepsy characteristics and genetic findings in pediatric patients with isolated low-grade epilepsy-associated tumors (LEAT) and LEAT plus focal cortical dysplasia type IIIb (FCD IIIb) who underwent epilepsy surgery. Patients younger than 19 years at the time of surgery, with isolated LEAT or LEAT plus FCD IIIb, and a minimum follow-up of 2 years were included. Clinical, neuroimaging, EEG, neuropsychological, surgical, histopathological, and molecular-genetic",
-    "keyPoints": [
-      "Аналізуються результати хірургічного лікування у дітей з низькозначущими пухлинами, асоційованими з епілепсією.",
-      "Вивчаються клінічні, нейровізуальні, ЕЕГ, гістопатологічні та генетичні характеристики.",
-      "Результати допомагають краще зрозуміти прогнози та особливості лікування цієї групи пацієнтів."
-    ],
-    "practicalTakeaway": "Результати дослідження сприяють покращенню підходів до хірургічного лікування дітей з низькозначущими пухлинами, пов’язаними з епілепсією.",
-    "specialty": "неврологія",
-    "tags": [
-      "епілепсія",
-      "хірургія",
-      "генетика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42200339",
-    "title": "Causal links between diabetes, gut microbiota, and colon cancer: insights from Mendelian randomization.",
-    "journal": "Endokrynologia Polska",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Colon cancer (CC) remains a major global health burden and ranks among the most common malignant tumors. In recentyears, its growing occurrence in younger age groups has presented a substantial challenge to public health systems worldwide. Type 2diabetes (T2D) and gut microbiota may influence its pathogenesis, but the causal relationship remains unexplored. This study aims to examine the causal association between T2D and CC and explore the possible mediating effects of gut microbiota inthis rel",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200339/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z"
-  },
-  {
-    "pmid": "42200338",
-    "title": "Аналіз впливу терапії рекомбінантним людським гормоном росту на метаболічні показники у дорослих з важкою дефіцитністю гормону росту",
-    "journal": "Endokrynologia Polska",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження вивчало вплив терапії рекомбінантним людським гормоном росту (rhGH) на метаболічні параметри у дорослих з важкою дефіцитністю гормону росту (ГР). Виявлено, що така терапія може мати вплив на метаболічний статус, що важливо враховувати при лікуванні цієї групи пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200338/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "Analysis of the effect of recombinant human growth hormone therapy on metabolic parameters in patients with severe growth hormone deficiency in adulthood.",
-    "originalAbstract": "Severe growth hormone deficiency (GHD) in adults is associated with unfavorable metabolic disturbances and adversechanges in body composition, contributing to increased cardiovascular risk and impaired quality of life. Although recombinant humangrowth hormone (rhGH) replacement therapy is an established treatment, data reflecting its effects under real-world clinical conditionsin Poland remain limited. This retrospective, real-world study included adult patients with severe GHD treated with rhGH",
-    "keyPoints": [
-      "Дослідження фокусується на дорослих з важкою дефіцитністю гормону росту.",
-      "Терапія рекомбінантним людським гормоном росту може впливати на метаболічні показники.",
-      "Дані отримані з реального клінічного досвіду у Польщі."
-    ],
-    "practicalTakeaway": "При лікуванні дорослих з важкою дефіцитністю гормону росту слід враховувати можливий вплив терапії на метаболічний статус.",
-    "specialty": "ендокринологія",
-    "tags": [
-      "метаболізм",
-      "гормон росту",
-      "дорослі"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42200334",
-    "title": "Вздуття живота під час перехідного періоду менопаузи: результати дослідження Seattle Midline Women's Health Study",
-    "journal": "Journal of women's health (2002)",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження вивчало звʼязок між ступенем здуття живота та віком, стадією репродуктивного старіння, біомаркерами та стресовими чинниками у жінок у перехідному періоді менопаузи. Аналіз базувався на даних 291 учасниці, що вели щоденники здоровʼя.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200334/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "Bloating During the Menopause Transition: Observations from the Seattle Midline Women's Health Study.",
-    "originalAbstract": "Across the lifespan, more women than men report abdominal bloating. However, little is known about bloating during the menopause transition (MT). The purpose of this study was to assess patterns of bloating severity during the MT in relation to age, reproductive aging stage, reproductive- and stress-related biomarkers, and stress-related perceptions in a longitudinal cohort study. This analysis included 291 women from the Seattle Midlife Women's Health Study who provided health diary data and co",
-    "keyPoints": [
-      "Більше жінок, ніж чоловіків, повідомляють про здуття живота.",
-      "Звʼязок між здуттям і стадією репродуктивного старіння досліджувався.",
-      "Стресові чинники та біомаркери аналізувалися у контексті здуття живота."
-    ],
-    "practicalTakeaway": "Дослідження вказує на важливість врахування гормональних та стресових чинників у розумінні здуття живота у перехідному періоді менопаузи.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "жінки",
-      "менопауза",
-      "здуття живота"
+      "імунологія",
+      "доказова медицина",
+      "педіатрія"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42200333",
-    "title": "Гострий середній отит у дітей: молекулярно-генетичний підхід та соціальні фактори",
-    "journal": "Acta oto-laryngologica",
+    "pmid": "42202392",
+    "title": "Ефективність та потенційні механізми дії алкалоїдів у моделях легеневої фіброзу: систематичний огляд та мета-аналіз, мережевий фармакологічний аналіз і молекулярне моделювання",
+    "journal": "International immunopharmacology",
     "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження аналізує клінічні, анамнестичні та мікросоціальні передумови гострого середнього отиту у дітей та його зв'язок із поліморфізмом гена білка теплового шоку HSP70-2 (rs1061581). В дослідженні взяли участь 95 дітей віком 7-18 років. Генотипування гена проводили методом qPCR. Виявлено, що алель А гена HSP70-2 є предиктором розвитку захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200333/",
+    "abstract": "Дослідження аналізує ефективність та можливі механізми дії алкалоїдів у моделях легеневої фіброзу, використовуючи систематичний огляд, мета-аналіз, мережеву фармакологію та молекулярне моделювання. Виявлено, що алкалоїди мають протизапальні, антиоксидантні та антифібротичні властивості у передклінічних моделях.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202392/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z",
-    "originalTitle": "Acute otitis media in children: molecular genetics approach (rs1061581), clinical and micro-social predictors (single-center cross-sectional case-control study).",
-    "originalAbstract": "Acute otitis media (AOM) is the 2nd most frequent ENT diagnosis in early childhood. The aim of the study was to evaluate the clinical, anamnestic and micro-social predictors of AOM in children and its association with heat-shock protein gene (HSP70-2, rs1061581) polymorphism. A total of 95 children with AOM (7-18 years old) participated in the study. HSP70-2 (rs1061581) gene genotyping was performed by qPCR method. Risk factors were analyzed. The A-allele of the HSP70-2 gene is a predictor of a ",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Efficacy and potential mechanisms of alkaloids in animal models for pulmonary fibrosis: a study integrating preclinical systematic review and meta-analysis, network pharmacology and molecular docking.",
+    "originalAbstract": "Alkaloids are the primary active ingredients of various traditional Chinese medicines. Preclinical studies show they possess anti-inflammatory, antioxidant, and anti-fibrotic effects in pulmonary fibrosis (PF) models. To evaluate the efficacy and mechanisms of alkaloids against PF by integrating meta-analysis, network pharmacology, and molecular docking. Randomized controlled trials (RCTs) on alkaloid treatment for PF were systematically searched. Methodological quality was assessed with the Coc",
     "keyPoints": [
-      "Гострий середній отит є другим за поширеністю діагнозом у дитячому віці.",
-      "Поліморфізм гена HSP70-2 (rs1061581) пов'язаний із ризиком захворювання.",
-      "Соціальні та клінічні фактори відіграють роль у розвитку гострого середнього отиту."
+      "Алкалоїди демонструють потенціал у лікуванні легеневої фібрози.",
+      "Механізми дії включають протизапальні та антиоксидантні ефекти.",
+      "Дослідження базуються на систематичному огляді та молекулярному моделюванні."
     ],
-    "practicalTakeaway": "Врахування генетичних та соціальних факторів може допомогти у прогнозуванні ризику гострого середнього отиту у дітей.",
+    "practicalTakeaway": "Подальші дослідження необхідні для підтвердження терапевтичної цінності алкалоїдів у легеневій фіброзі.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "отит",
-      "генетика",
-      "дитяче здоров'я"
+      "легенева фіброза",
+      "алкалоїди",
+      "молекулярне моделювання"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42200330",
-    "title": "[Immunotherapy for Inhalant Allergy - Long Term Efficacy].",
-    "journal": "Harefuah",
-    "publishedAt": "2026-05-01T00:00:00Z",
-    "abstract": "Immunotherapy for Inhalant Allergy - Long Term Efficacy.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42200330/",
+    "pmid": "42202390",
+    "title": "Кровотечі після тонзилектомії у дітей при застосуванні кеторолаку: аналіз національної бази даних (2010–2024)",
+    "journal": "International journal of pediatric otorhinolaryngology",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Мета дослідження — визначити, чи прийом кеторолаку після тонзилектомії у дітей зменшує використання медичних ресурсів без підвищення ризику кровотечі. Аналіз проведено на основі ретроспективного когортного дослідження з використанням національної бази даних за період 2010–2024 років.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202390/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-27T15:25:38Z"
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Post-tonsillectomy hemorrhage following ketorolac in children: A 2010-2024 national database analysis.",
+    "originalAbstract": "To determine whether ketorolac improves clinical outcomes without increasing the risk of a primary post-tonsillectomy hemorrhage. We hypothesized that early administration of ketorolac following a tonsillectomy would be associated with decreased health care utilization without increasing the risk of a primary post-tonsillectomy hemorrhage. We performed a retrospective cohort study using a national administrative claims dataset of pediatric tonsillectomies performed between 2010 and 2024. Childre",
+    "keyPoints": [
+      "Прийом кеторолаку після тонзилектомії у дітей не асоціюється з підвищеним ризиком кровотечі.",
+      "Застосування кеторолаку може зменшити потребу у медичних послугах.",
+      "Дослідження базується на аналізі національної адміністративної бази даних."
+    ],
+    "practicalTakeaway": "При застосуванні кеторолаку після тонзилектомії у дітей слід враховувати його безпечність щодо ризику кровотечі.",
+    "specialty": "педіатрія",
+    "tags": [
+      "доказова медицина",
+      "хірургія",
+      "педіатрія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42202389",
+    "title": "Дослідження досвіду жінок-піонерів у педіатричній отоларингології",
+    "journal": "International journal of pediatric otorhinolaryngology",
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "abstract": "Це якісне дослідження висвітлює виклики та перешкоди, з якими стикалися жінки-лідерки у педіатричній отоларингології через гендерні стереотипи. У дослідженні також аналізується їхній досвід та поради для сучасних жінок-лікарів у цій галузі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202389/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "A qualitative analysis of the experiences of pioneering females in pediatric otolaryngology.",
+    "originalAbstract": "This qualitative study of women leaders in pediatric otolaryngology explores challenges and obstacles they have faced because of their gender. Their advice for current and current female pediatric otolaryngologists was also examined. A semi-structured interview format of identified early women leaders in pediatric otolaryngology was created to gather subjective data from chosen respondents. An opt-in survey was used that consisted of six, two-part questions developed via Delphi methodology and c",
+    "keyPoints": [
+      "Досліджено виклики жінок-лідерів у педіатричній отоларингології.",
+      "Зібрано рекомендації для сучасних жінок-лікарів.",
+      "Використано якісні методи збору даних."
+    ],
+    "practicalTakeaway": "Розуміння досвіду жінок-лідерів може сприяти подоланню гендерних бар'єрів у педіатричній отоларингології.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "жінки-лідери",
+      "педіатрична отоларингологія",
+      "гендерні виклики"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42202388",
+    "title": "Нейросенсорні порушення при медикаментозно-асоційованому остеонекрозі нижньої щелепи",
+    "journal": "International dental journal",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження аналізує клінічні та радіологічні характеристики пацієнтів із медикаментозно-асоційованим остеонекрозом нижньої щелепи (MRONJ) та їх зв'язок із нейросенсорними порушеннями, пов’язаними з нижньощелепним нервом. Вивчено випадки з використанням КТ та CBCT.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202388/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Neurosensory Disturbances Related to the Inferior Alveolar Nerve Amongst Patients With Mandibular Medication-Related Osteonecrosis of the Jaw (MRONJ): A Clinical and Radiological Overview.",
+    "originalAbstract": "The aims of this study were to evaluate the clinical and radiological characteristics of patients diagnosed with mandibular medication-related osteonecrosis of the jaw (MRONJ) and to examine its associations with neurosensory disturbances (NSD) related to the inferior alveolar nerve. A retrospective review was conducted of all patients diagnosed with MRONJ who had undergone cone-beam computed tomography (CBCT) or computed tomography (CT) imaging in the Department of Oral and Maxillofacial Surger",
+    "keyPoints": [
+      "Проаналізовано клінічні та радіологічні дані пацієнтів із MRONJ.",
+      "Виявлено зв'язок між MRONJ та нейросенсорними порушеннями.",
+      "Дослідження базується на ретроспективному аналізі випадків."
+    ],
+    "practicalTakeaway": "Ретельне радіологічне дослідження важливе для виявлення нейросенсорних порушень у пацієнтів із MRONJ.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "нейросенсорні порушення",
+      "MRONJ",
+      "радіологія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42202386",
+    "title": "Середньострокові результати використання індивідуалізованого протезу для скронево-нижньощелепного суглоба та основи черепа, виготовленого за допомогою 3D-друку",
+    "journal": "International dental journal",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Дослідження оцінює безпеку, точність та ефективність індивідуалізованого протезу для скронево-нижньощелепного суглоба та основи черепа, виготовленого за допомогою 3D-друку, у середньостроковій перспективі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202386/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Middle-Term Follow-Up Outcomes of the Customised Temporomandibular Joint-Skull Base Combined Prosthesis by 3D Printing.",
+    "originalAbstract": "The combined lesions of the temporomandibular joint (TMJ) and skull base pose a considerable clinical challenge, frequently necessitating complex reconstructive procedures, yet established treatment protocols remain insufficient. This case series aims to assess the middle-term clinical safety, accuracy, and efficacy of our own customised temporomandibular joint-skull base combined prosthesis by 3D printing. This is a prospective single-centre consecutive case series study and planned to enrol 12",
+    "keyPoints": [
+      "Оцінюється безпека та ефективність 3D-принтованого протезу.",
+      "Дослідження включає 12 випадків.",
+      "Застосування у складних реконструктивних операціях."
+    ],
+    "practicalTakeaway": "Використання індивідуалізованих 3D-принтованих протезів для скронево-нижньощелепного суглоба та основи черепа може бути перспективним напрямком у реконструктивній хірургії.",
+    "specialty": "хірургія",
+    "tags": [
+      "протезування",
+      "3D-друк",
+      "скронево-нижньощелепний суглоб"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42202382",
+    "title": "Три випадки оптичного периневриту ускладненого склеритом та гіпертрофічним пахіменінгітом",
+    "journal": "Journal of neuroimmunology",
+    "publishedAt": "2026-05-17T00:00:00Z",
+    "abstract": "Оптичний периневрит (ОПН) — рідкісна форма запального захворювання орбіти, що уражає оболонку зорового нерва і відрізняється від оптичного нейриту. Він спричиняє зниження зору та біль в очах і повʼязаний з інфекцією або аутоімунними процесами, включаючи захворювання, асоційовані з глікопротеїном мієлін-олігодендроцитів, але 30-50% випадків мають ідіопатичний характер. У статті описано три випадки ОПН, ускладненого склеритом та гіпертрофічним пахіменінгітом, що виникали одночасно або послідовно; ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202382/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Three case reports of optic perineuritis complicated by ocular scleritis and hypertrophic pachymeningitis.",
+    "originalAbstract": "Optic perineuritis (OPN) is an uncommon form of the orbital inflammatory disease targeting the optic nerve sheath, which is distinct from optic neuritis. It causes reduced visual acuity and ocular pain and is linked to infection or autoimmunity, including myelin oligodendrocyte glycoprotein-associated disease, but 30-50% are idiopathic. We report three cases of OPN with ocular scleritis and hypertrophic pachymeningitis occurring together or sequentially; in one, pachymeningitis extended from the",
+    "keyPoints": [
+      "ОПН — рідкісна запальна хвороба оболонки зорового нерва.",
+      "Може бути ускладнена склеритом та пахіменінгітом.",
+      "Біль та зниження зору — характерні симптоми."
+    ],
+    "practicalTakeaway": "У пацієнтів із запальними захворюваннями орбіти слід враховувати можливість ускладнень у вигляді склериту та пахіменінгіту.",
+    "specialty": "неврологія",
+    "tags": [
+      "запальні захворювання",
+      "офтальмологія",
+      "аутоімунні процеси"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42202380",
+    "title": "Нейро-Бехчетова хвороба: клінічний спектр, лікування та результати в індійській когорті",
+    "journal": "Journal of neuroimmunology",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Дослідження описує клінічний спектр, особливості нейровізуалізації, лікування та результати нейро-Бехчетова хвороби у пацієнтів індійської когорти. Аналіз проведено на основі ретроспективного огляду пацієнтів, оцінених у спеціалізованому центрі між січнем 2021 та жовтнем 2025 року.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42202380/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-28T02:40:17Z",
+    "originalTitle": "Neuro-Behçet's disease: Clinical spectrum, management, and outcomes from an Indian cohort.",
+    "originalAbstract": "Neuro-Behçet's disease (NBD) is a severe neurological manifestation of Behçet's disease. Data on NBD from South Asia remains limited. We describe the clinical spectrum, neuroimaging features, treatment, and outcomes of NBD in an Indian cohort. We conducted a retrospective chart and neuroimaging review of NBD patients evaluated at a tertiary care referral centre in India between January 2021 and October 2025. Behçet's disease was classified using the International Criteria for Behçet's Disease, a",
+    "keyPoints": [
+      "Ретроспективний аналіз клінічних випадків нейро-Бехчетова хвороби в індійській когорті.",
+      "Описано нейровізуалізаційні особливості та лікування.",
+      "Результати дослідження допомагають краще зрозуміти цю рідкісну нейроінфекцію."
+    ],
+    "practicalTakeaway": "Знання клінічних особливостей нейро-Бехчетова хвороби може сприяти швидшій діагностиці та лікуванню.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейроінфекція",
+      "Бехчетова хвороба",
+      "індійська когорта"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
   }
 ]
