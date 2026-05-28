@@ -1,0 +1,18 @@
+name: Test Telegram Digest
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-telegram-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run token test
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 scripts/telegram_bot_digest_test.py
