@@ -28,6 +28,12 @@ jobs:
         run: |
           python3 scripts/telegram_bot_digest_test.py
 
+      - name: Upload Telegram test files
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-digest-test-files
+          path: data/telegram_bot_test/
+
       - name: Restore webhook
         if: always()
         env:
