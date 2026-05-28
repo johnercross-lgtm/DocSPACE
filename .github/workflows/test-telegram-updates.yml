@@ -1,0 +1,47 @@
+name: Test Telegram Updates
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-telegram-updates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Temporarily delete webhook
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          url = f"https://api.telegram.org/bot{token}/deleteWebhook?drop_pending_updates=false"
+          print(json.loads(urllib.request.urlopen(url).read().decode()))
+          PY
+
+      - name: Run Telegram API test
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 scripts/telegram_bot_digest_test.py
+
+      - name: Restore webhook
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.parse, urllib.request
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          webhook_url = os.environ["TELEGRAM_WEBHOOK_URL"]
+          params = urllib.parse.urlencode({
+              "url": webhook_url,
+              "allowed_updates": json.dumps(["channel_post", "edited_channel_post"])
+          })
+          url = f"https://api.telegram.org/bot{token}/setWebhook?{params}"
+          print(json.loads(urllib.request.urlopen(url).read().decode()))
+          PY
