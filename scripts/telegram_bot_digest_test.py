@@ -105,7 +105,18 @@ def main():
             f"Selected: {best.get('width')}x{best.get('height')} "
             f"bytes={best.get('file_size')}"
         )
+file_info = api_call("getFile", {"file_id": best["file_id"]})
+file_path = file_info.get("file_path")
 
+print(f"Telegram file_path: {file_path}")
+
+if file_path:
+    file_url = f"https://api.telegram.org/file/bot{BOT_TOKEN}/{file_path}"
+
+    with urllib.request.urlopen(file_url, timeout=60) as response:
+        data = response.read()
+
+    print(f"Downloaded bytes: {len(data)}")
     print("")
     print("=" * 72)
     print(f"Found channel posts: {found_posts}")
