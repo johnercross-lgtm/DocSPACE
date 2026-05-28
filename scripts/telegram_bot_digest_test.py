@@ -2,9 +2,13 @@ import json
 import os
 import urllib.parse
 import urllib.request
+from pathlib import Path
 
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 CHANNEL_USERNAME = "docspace_digest"
+
+OUT_DIR = Path("data/telegram_bot_test")
+OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 if not BOT_TOKEN:
     raise RuntimeError("TELEGRAM_BOT_TOKEN is empty")
@@ -46,7 +50,19 @@ def choose_best_photo(photo_sizes):
     return max(photo_sizes, key=score)
 
 
-def inspect_document(document):
+def safe_suffix(file_path, fallback=".jpg"):
+    suffix = Path(file_path or "").suffix
+    return suffix if suffix else fallback
+
+
+def save_file(data, filename):
+    path = OUT_DIR / filename
+    path.write_bytes(data)
+    print(f"Saved file: {path}")
+    return str(path)
+
+
+def inspect_document(message_id, document):
     print("Document:")
     print(
         f"- file_name={document.get('file_name')} "
@@ -60,12 +76,19 @@ def inspect_document(document):
 
     print(f"Telegram document file_path: {file_path}")
 
-    if file_path:
-        data = download_telegram_file(file_path)
-        print(f"Downloaded document bytes: {len(data)}")
+    if not file_path:
+        return None
+
+    data = download_telegram_file(file_path)
+    print(f"Downloaded document bytes: {len(data)}")
+
+    suffix = safe_suffix(file_path, ".bin")
+    filename = f"message_{message_id}_document{suffix}"
+
+    return save_file(data, filename)
 
 
-def inspect_photo(photo_sizes):
+def inspect_photo(message_id, photo_sizes):
     print("Photo sizes:")
 
     for photo in photo_sizes:
@@ -79,7 +102,7 @@ def inspect_photo(photo_sizes):
 
     if not best:
         print("No best photo selected")
-        return
+        return None
 
     print(
         f"Selected photo: {best.get('width')}x{best.get('height')} "
@@ -91,9 +114,16 @@ def inspect_photo(photo_sizes):
 
     print(f"Telegram photo file_path: {file_path}")
 
-    if file_path:
-        data = download_telegram_file(file_path)
-        print(f"Downloaded photo bytes: {len(data)}")
+    if not file_path:
+        return None
+
+    data = download_telegram_file(file_path)
+    print(f"Downloaded photo bytes: {len(data)}")
+
+    suffix = safe_suffix(file_path, ".jpg")
+    filename = f"message_{message_id}_photo_{best.get('width')}x{best.get('height')}{suffix}"
+
+    return save_file(data, filename)
 
 
 def main():
@@ -117,6 +147,7 @@ def main():
     found_posts = 0
     found_photos = 0
     found_documents = 0
+    saved_files = []
 
     for update in updates:
         message = update.get("channel_post") or update.get("edited_channel_post")
@@ -143,23 +174,39 @@ def main():
         print(f"Message id: {message_id}")
         print(f"Text: {text[:140]!r}")
 
+        saved_path = None
+
         if document:
             found_documents += 1
-            inspect_document(document)
-            continue
+            saved_path = inspect_document(message_id, document)
 
-        if photo_sizes:
+        elif photo_sizes:
             found_photos += 1
-            inspect_photo(photo_sizes)
-            continue
+            saved_path = inspect_photo(message_id, photo_sizes)
 
-        print("No photo or document")
+        else:
+            print("No photo or document")
+
+        if saved_path:
+            saved_files.append(saved_path)
+
+    result = {
+        "foundPosts": found_posts,
+        "foundPhotos": found_photos,
+        "foundDocuments": found_documents,
+        "savedFiles": saved_files,
+    }
+
+    result_path = OUT_DIR / "result.json"
+    result_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
 
     print("")
     print("=" * 72)
     print(f"Found channel posts: {found_posts}")
     print(f"Found posts with photos: {found_photos}")
     print(f"Found posts with documents: {found_documents}")
+    print(f"Saved files: {len(saved_files)}")
+    print(f"Saved result: {result_path}")
 
 
 if __name__ == "__main__":
