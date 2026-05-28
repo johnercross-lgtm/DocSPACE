@@ -30,6 +30,8 @@ jobs:
           python-version: "3.11"
 
       - name: Run DocSPACE digest fetcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: python scripts/fetch_docspace_digest.py
 
       - name: Validate feeds
@@ -39,7 +41,7 @@ jobs:
         run: |
           git config user.name "docspace-bot"
           git config user.email "docspace-bot@users.noreply.github.com"
-          git add data/docspace-digest-feed.json
+          git add data/docspace-digest-feed.json data/docspace-digest-images/
           if git diff --cached --quiet; then
             echo "No DocSPACE digest feed changes"
             exit 0
