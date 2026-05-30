@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42214107",
-    "title": "Вплив комбінації декомпресії та фузії на результати у пацієнтів з дегенеративним спондилолістезом та гіполордозом",
-    "journal": "Journal of neurosurgery. Spine",
+    "pmid": "42216686",
+    "title": "Вимірювання часу обміну води через гематоенцефалічний бар'єр за допомогою багатотеплової 3D TSE послідовності з роздільним TE",
+    "journal": "Magnetic resonance in medicine",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження порівнює результати пацієнтів з дегенеративним л lumbar spondylolisthesis, які пройшли або лише декомпресію, або декомпресію з фузією, з урахуванням передопераційного розподілу лордозу. Аналіз проведено на основі даних із канадської дослідницької мережі з 2015 по 2022 рік. Виявлено, що комбінація декомпресії та фузії асоціюється з покращенням результатів, особливо у пацієнтів з гіполордозом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214107/",
+    "abstract": "Розроблено метод для точного визначення часу обміну води через гематоенцефалічний бар'єр (BBB) за допомогою багатотеплової (mTE) 3D TSE послідовності з роздільним TE. Метод дозволяє безрозмірний розподіл сигналів і високий рівень деталізації, що сприяє покращенню досліджень BBB у клінічних умовах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216686/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "The association of decompression and fusion with improved patient-reported outcome measures in patients with degenerative spondylolisthesis and a hypolordotic lordosis distribution index when compared with decompression alone.",
-    "originalAbstract": "The aim of this study was to compare patient-reported outcome measures among patients with degenerative lumbar spondylolisthesis (DLS) who underwent either decompression alone (DA) or decompression and fusion (DF) stratified by preoperative lumbar lordosis distribution index (LDI). Patients with DLS from 2 of the 7 centers enrolled in the Canadian Spine Outcomes and Research Network prospective study between 2015 and 2022 were retrospectively analyzed. Patients were stratified into an LDI < 50% ",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Multiple-TE Based Blood-Brain-Barrier Water Exchange Time Measurement Using a TE-Resolved 3D TSE Stack-Of-Spirals Readout.",
+    "originalAbstract": "To develop a slice-wise blurring-free and densely sampled TE-resolved multiple-TE (mTE) ASL sequence (TASL) for measuring blood-brain barrier (BBB) water exchange time. A 3D TSE spiral-readout pCASL sequence was modified to enable TE-resolved acquisition. Signals at mTEs from a single kz partition were acquired within a single shot, and the acquisition was repeated until all required kz partitions were covered. In vivo experiments were conducted on healthy volunteers using both a conventional pC",
     "keyPoints": [
-      "Комбінація декомпресії та фузії покращує результати у пацієнтів з дегенеративним спондилолістезом.",
-      "Передопераційний розподіл лордозу є важливим фактором для прогнозування результатів.",
-      "Дослідження базується на даних канадської мережі з 2015 по 2022 рік."
+      "Розроблено метод для вимірювання часу обміну води через BBB.",
+      "Використовується багатотеплова 3D TSE послідовність з роздільним TE.",
+      "Застосовано на здорових добровольцях для валідації."
     ],
-    "practicalTakeaway": "При плануванні хірургічного втручання у пацієнтів з дегенеративним спондилолістезом враховуйте передопераційний розподіл лордозу для оптимізації результатів.",
+    "practicalTakeaway": "Новий метод дозволяє більш точно досліджувати функцію гематоенцефалічного бар'єра за допомогою МРТ.",
     "specialty": "неврологія",
     "tags": [
-      "доказова медицина",
-      "нейрохірургія",
-      "спондилолістез"
+      "МРТ",
+      "гематоенцефалічний бар'єр",
+      "дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42214106",
-    "title": "Персоналізований підхід до хірургічного лікування метопічної та сагітальної краніосинтозії на основі даних",
-    "journal": "Journal of neurosurgery. Pediatrics",
+    "pmid": "42216685",
+    "title": "Комплексна оцінка переходу на профілактичний прийом ефанесоктотоку алфа у педіатричній когорті з гемофілією А",
+    "journal": "Haemophilia : the official journal of the World Federation of Hemophilia",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив віку, статі та фенотипової тяжкості на результати хірургічного лікування пацієнтів із середньою краніосинтозом для підтримки вибору оптимальної тактики. Автори зібрали 3D фотограми до і після операції у 280 пацієнтів із сагітальним або метопічним краніосинтозом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214106/",
+    "abstract": "Дослідження описує досвід переходу дітей з гемофілією А на профілактичний прийом ефанесоктотоку алфа, рекомбінованого фактора VIII з ультраподовженим періодом напіввиведення та стабільною фармакокінетикою. Вивчення проведене у педіатричному гемофілійному відділенні, включаючи пацієнтів до 18 років без інгібіторів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216685/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Data-driven personalized surgical treatment selection for metopic and sagittal craniosynostosis.",
-    "originalAbstract": "Although the choice of surgical treatment for craniosynostosis is based on patient age and phenotypic severity, there are no tools to objectively identify optimal treatment approaches. The authors present a quantitative study of how age, sex, and phenotypic severity affect the surgical outcomes of patients with midline craniosynostosis to support treatment selection. The authors collected pre- and postsurgical 3D photograms of patients with nonsyndromic single sagittal (n = 280) or metopic (n = ",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Comprehensive Assessment of the Transition to Efanesoctocog Alfa Prophylaxis in a Paediatric Haemophilia A Cohort.",
+    "originalAbstract": "Efanesoctocog alfa is a novel recombinant factor VIII (FVIII) with an ultra-extended half-life and stable pharmacokinetics, approved for prophylaxis in children with haemophilia A (HA). To describe the experience of transitioning paediatric patients with HA to efanesoctocog alfa using a comprehensive assessment. Prospective observational study in a paediatric haemophilia unit. Patients <18 years without inhibitors were transitioned from prior prophylaxis to efanesoctocog alfa. Treatment regimen,",
     "keyPoints": [
-      "Аналіз впливу віку, статі та тяжкості на результати хірургії.",
-      "Використання 3D фотограм для оцінки результатів.",
-      "Підтримка персоналізованого підходу до лікування."
+      "Дослідження оцінює перехід на ефанесоктотоку алфа у дітей з гемофілією А.",
+      "Вивчено режим лікування та безпеку препарату.",
+      "Зібрано дані про фармакокінетику та ефективність."
     ],
-    "practicalTakeaway": "Об'єктивний аналіз даних може допомогти у виборі оптимальної тактики хірургічного лікування краніосинтозу.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Переходи на ефанесоктотоку алфа у педіатричних пацієнтів з гемофілією А можуть бути здійснені з урахуванням індивідуальних особливостей лікування.",
+    "specialty": "гематологія",
     "tags": [
-      "доказова медицина",
+      "гемофілія",
+      "педіатрія",
+      "препарати"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42216683",
+    "title": "Повернення до спорту після хірургічного лікування остеохондриту капітелярної ділянки у бейсболістів: систематичний огляд та мета-аналіз",
+    "journal": "The American journal of sports medicine",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження аналізує результати повернення до спорту у бейсболістів після хірургічного лікування остеохондриту капітелярної ділянки. Вивчено різні оперативні методи та їх ефективність, зокрема рівень повернення до бейсболу та покращення рухливості ліктя.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216683/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Return to Sport After Surgical Treatment of Capitellar Osteochondritis Dissecans Lesions in Baseball Players: A Systematic Review and Meta-analysis.",
+    "originalAbstract": "Because of the difficulty of baseball players with capitellar osteochondritis dissecans (OCD) lesions to return to sport (RTS), multiple operative strategies have been used for these lesions. However, there has yet to be a systematic review of RTS outcomes in specifically baseball players. The purpose of this study was to compare the RTS rates between surgical procedures for capitellar OCD lesions in youth baseball players, with a secondary purpose of comparing improvements in elbow range of mot",
+    "keyPoints": [
+      "Рівень повернення до бейсболу після хірургічного лікування остеохондриту капітелярної ділянки у бейсболістів високий.",
+      "Різні хірургічні методи мають схожі результати щодо повернення до спорту.",
+      "Дослідження фокусується на молодих спортсменах та їх відновленні після операцій."
+    ],
+    "practicalTakeaway": "Медичні фахівці можуть рекомендувати хірургічне лікування для покращення шансів повернення до бейсболу у молодих спортсменів з остеохондритом капітелярної ділянки.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "спорт",
       "хірургія",
-      "нейрохірургія"
+      "відновлення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42214105",
-    "title": "Використання офтальмологічної оцінки при підозрі на папілєдему у дітей з гідроцефалією та підвищеним внутрішньочерепним тиском у відділенні невідкладної допомоги",
-    "journal": "Journal of neurosurgery. Pediatrics",
+    "pmid": "42216682",
+    "title": "Двоноговий екзоскелет для реабілітації: дизайн, оптимізація та впровадження",
+    "journal": "The International journal of artificial organs",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує роль офтальмологічного обстеження для виявлення папілєдеми у дітей з гідроцефалією, які звертаються до відділення невідкладної допомоги через можливу несправність шунта. Встановлено, що кореляція між папілєдемою та несправністю шунта потребує подальшого дослідження.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214105/",
+    "abstract": "У статті представлено легкий екзоскелет для реабілітації нижніх кінцівок із зручним інтерфейсом користувача. Розроблено модель за допомогою SolidWorks та проведено оптимізацію для зменшення маси. Створено модель у Simulink для симуляції роботи екзоскелета.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216682/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Utility of ophthalmologic evaluation for papilledema in pediatric emergency department encounters for shunt failure: a single-center retrospective study.",
-    "originalAbstract": "In shunted pediatric hydrocephalus patients, the potential for shunt failure is a frequent cause of emergency department (ED) presentation. The assessment of papilledema through ophthalmological fundoscopic examination (OFE) is an often-utilized adjunct evaluation in clinical workup to rule out shunt failure in patients. However, its utility in this setting has not been established in the literature. The objective of the present study was to investigate the association of papilledema with eventu",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Double-leg exoskeleton for rehabilitation: Design, optimization, and implementation.",
+    "originalAbstract": "Rehabilitation exoskeletons is still an important issue to improve walking functionality and speed up treatment for patient to restore their lives faster. This paper introduces a controlled lightweight exoskeleton for lower limb rehabilitation with a friendly user interface. A model for the proposed exoskeleton design is initially developed using SolidWorks. Secondly, an optimization study is presented to minimize the total mass. Simulink model is established for the proposed exoskeleton to simu",
     "keyPoints": [
-      "Офтальмологічне обстеження використовується для виявлення папілєдеми у дітей з гідроцефалією.",
-      "Зв'язок між папілєдемою та несправністю шунта залишається недостатньо визначеним.",
-      "Дослідження спрямоване на оцінку корисності офтальмологічної оцінки у цьому контексті."
+      "Розроблено легкий екзоскелет для реабілітації нижніх кінцівок.",
+      "Проведена оптимізація для зменшення маси пристрою.",
+      "Створено модель для симуляції роботи екзоскелета."
     ],
-    "practicalTakeaway": "Офтальмологічне обстеження може бути корисним для виявлення папілєдеми у дітей з гідроцефалією, але його роль у визначенні несправності шунта потребує додаткових досліджень.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Розробка та оптимізація екзоскелетів може сприяти покращенню реабілітаційних процесів.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "діти",
-      "гідроцефалія",
-      "шунт"
+      "реабілітація",
+      "екзоскелет",
+      "дизайн"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42214104",
-    "title": "Переваги техніки вирівнювання копланарних хребців для відновлення фізіологічної грудної кіфозу при гіпокіфотичному підлітковому ідіопатичному сколіозі з менше ніж 10° кіфозу",
-    "journal": "Journal of neurosurgery. Spine",
+    "pmid": "42216681",
+    "title": "Безпечність та навчальна крива при тотально ендоскопічній пластичній операції мітрального клапана: аналіз перших 125 випадків",
+    "journal": "Innovations (Philadelphia, Pa.)",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує переваги техніки вирівнювання копланарних хребців у корекції фізіологічної грудної кіфозу у підлітків з ідіопатичним сколіозом, що мають гіпокіфоз. Техніка сприяє покращенню корекції сагітальної площини та збереженню оптимальної кривизни хребта.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214104/",
+    "abstract": "Дослідження оцінює навчальну криву та періопераційні результати при застосуванні тотально ендоскопічної пластики мітрального клапана (TEMVP). Аналіз проведено на 125 пацієнтах, з використанням часу операції та ускладнень як ключових показників. Результати свідчать про можливість безпечного впровадження цієї техніки навіть на початкових етапах освоєння.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216681/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Advantages of vertebral coplanar alignment technique for restoring physiological thoracic kyphosis in hypokyphotic adolescent idiopathic scoliosis with < 10° of kyphosis.",
-    "originalAbstract": "Conventional segmental pedicle screw fixation for thoracic adolescent idiopathic scoliosis (AIS) often compromises the ability to restore physiological thoracic kyphosis (TK). The vertebral coplanar alignment (VCA) technique addresses 3D deformity correction on the convex side in thoracic scoliosis. In particular, it enhances sagittal plane correction by adding kyphotic contouring via the concave-side rod while preserving the ideal thoracic curvature, including the physiological TK apex location",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Safety and Learning Curve of Totally Endoscopic Mitral Valve Plasty: Initial 125 Cases Evaluated by Operative Time and RA-CUSUM Method.",
+    "originalAbstract": "Totally endoscopic mitral valve plasty (TEMVP) requires technical proficiency, which may be insufficient during the initial adoption phase. This study evaluated the learning curve and perioperative outcomes during the early experience with TEMVP, using operation time and complications as key metrics. We retrospectively analyzed 125 consecutive patients who underwent TEMVP between October 2021 and April 2025. Despite the early adoption phase, 40 patients met criteria for complex pathology (i.e., ",
     "keyPoints": [
-      "Техніка вирівнювання копланарних хребців покращує корекцію грудної кіфозу.",
-      "Зберігає фізіологічний апекс кіфозу.",
-      "Покращує результати корекції у підлітків з гіпокіфозом."
+      "Оцінка навчальної кривої показала зниження часу операції з досвідом.",
+      "Безпечність процедури підтверджена низьким рівнем ускладнень.",
+      "Дослідження підтверджує можливість впровадження TEMVP у клінічну практику."
     ],
-    "practicalTakeaway": "Використання техніки вирівнювання копланарних хребців може сприяти кращому відновленню фізіологічної кривизни хребта при гіпокіфотичному сколіозі.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "При впровадженні тотально ендоскопічної пластики мітрального клапана важливо враховувати навчальну криву для забезпечення безпеки та ефективності.",
+    "specialty": "кардіологія",
     "tags": [
-      "сколіоз",
-      "кіфоз",
-      "хребет"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42214103",
-    "title": "Законодавство щодо спортивних черепно-мозкових травм у дітей та підлітків у США: оновлений огляд штатних нормативів",
-    "journal": "Journal of neurosurgery. Pediatrics",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує відповідність законодавчих актів штатів США рекомендаціям щодо оцінки та реабілітації черепно-мозкових травм у молоді. Виявлено, що рівень імплементації доказових практик, зокрема когнітивного тестування та визначення кваліфікованих медичних працівників, є різним.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214103/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Sports-related concussion laws in the United States in children and adolescents: an updated cross-sectional review of state statutes.",
-    "originalAbstract": "Despite growing national consensus on the importance of cognitive evaluation and structured, graduated return-to-play protocols in sports-related concussion care in children and adolescents, it remains unclear how consistently these practices are reflected in state-level legislation. The authors aimed to evaluate the extent to which current state concussion laws in the United States incorporate evidence-based practices, particularly regarding cognitive testing and specification of qualified medi",
-    "keyPoints": [
-      "Аналіз законодавства штатів США щодо спортивних черепно-мозкових травм у молоді.",
-      "Виявлено нерівномірність у впровадженні рекомендацій щодо когнітивної оцінки.",
-      "Значна частина нормативів не повністю відповідає сучасним доказовим практикам."
-    ],
-    "practicalTakeaway": "Необхідно посилювати імплементацію доказових стандартів у законодавство щодо спортивних черепно-мозкових травм у молоді.",
-    "specialty": "неврологія",
-    "tags": [
-      "законодавство",
-      "черепно-мозкові травми",
-      "молодь"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42214102",
-    "title": "Результати лікування A3 та A4 грудо-люмбальних компресійних переломів за даними пацієнтів",
-    "journal": "Journal of neurosurgery. Spine",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження порівнює результати, отримані пацієнтами з травматичними грудо-люмбальними компресійними переломами A3 та A4, які отримували хірургічне або консервативне лікування. Вивчалися показники якості життя, рівень болю та інші суб'єктивні оцінки стану пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214102/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Patient-reported outcomes following operative and nonoperative management of A3 versus A4 thoracolumbar burst fractures.",
-    "originalAbstract": "The aim of this study was to compare patient-report outcome measures in patients with thoracolumbar burst fractures managed either operatively or nonoperatively. A prospective multicenter observational study was conducted of neurologically intact patients who sustained traumatic thoracolumbar burst fractures managed operatively or nonoperatively. Outcome measures included scores on the EQ-5D index, EQ-5D visual analog scale (VAS), pain numerical rating scale (NRS), and AO Spine Patient Reported ",
-    "keyPoints": [
-      "Порівнювали результати пацієнтів з A3 та A4 переломами.",
-      "Дослідження включало пацієнтів без неврологічних порушень.",
-      "Використовували опитувальники EQ-5D, NRS та AO Spine."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають оцінити вплив різних методів лікування на суб'єктивний стан пацієнтів із грудо-люмбальними переломами.",
-    "specialty": "неврологія",
-    "tags": [
-      "переломи",
-      "лікування",
-      "якість життя"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42214101",
-    "title": "Впровадження раннього лікування постгеморагічної вентрикуло-дилатації у недоношених новонароджених",
-    "journal": "Journal of neurosurgery. Pediatrics",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив стандартної мультидисциплінарної програми лікування постгеморагічної вентрикуло-дилатації (PHVD) у недоношених. Впровадження єдиного протоколу з акцентом на стандартизацію вимірювань і ранні пороги для втручання може потенційно покращити результати. Однак, вплив такої практики потребує додаткового дослідження.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214101/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Implementing early posthemorrhagic ventricular dilation intervention in preterm neonates: does a standardized pathway improve outcomes?",
-    "originalAbstract": "Posthemorrhagic ventricular dilation (PHVD) is a serious complication of intraventricular hemorrhage in extremely preterm infants, associated with high rates of death and neurodevelopmental impairment. Earlier CSF diversion might reduce adverse outcomes, but variability in practice persists. In 2021, a tertiary care center implemented a standardized multidisciplinary PHVD treatment pathway that emphasized standardized ventricular measurements and earlier thresholds for intervention. The aim of t",
-    "keyPoints": [
-      "Стандартизація вимірювань і ранніх порогів для втручання у PHVD у недоношених.",
-      "Можливе зниження ризику ускладнень за рахунок раннього лікування.",
-      "Необхідність подальших досліджень для підтвердження ефективності протоколу."
-    ],
-    "practicalTakeaway": "Впровадження стандартизованого підходу до лікування PHVD у недоношених може сприяти покращенню клінічних результатів.",
-    "specialty": "нефрологія",
-    "tags": [
-      "нейрохірургія",
-      "неонатологія",
+      "хірургія",
+      "кардіологія",
       "доказова медицина"
     ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42214100",
-    "title": "Ризик ринореї спинномозкової рідини при ранньому відновленні позитивного тиску вентиляції після транссфеноїдальної хірургії з використанням аутологічної жирової імплантації",
-    "journal": "Journal of neurosurgery",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження оцінює ефективність використання аутологічної жирової імплантації для запобігання витоку спинномозкової рідини у пацієнтів, які швидко відновлювали позитивний тиск вентиляції після транссфеноїдальної операції. Аналіз проведено на основі ретроспективного огляду медичних записів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214100/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "The risk of cerebrospinal fluid rhinorrhea from early resumption of positive pressure ventilation after transsphenoidal surgery with autologous fat graft repair.",
-    "originalAbstract": "Multiple closure techniques may prevent CSF leak after transsphenoidal surgery for sellar lesions. In patients with obstructive sleep apnea requiring positive pressure ventilation (PPV), the optimal closure technique remains unclear. The authors assessed the efficacy of autologous abdominal fat graft repair for preventing CSF leaks in patients reinitiating PPV early after transsphenoidal surgery. A retrospective cohort study was performed to review the records of consecutive patients who underwe",
-    "keyPoints": [
-      "Використання аутологічної жирової імплантації може зменшити ризик ринореї CSF.",
-      "Раннє відновлення позитивного тиску вентиляції після операції є можливим за умови ефективного закриття.",
-      "Дослідження базується на ретроспективному аналізі пацієнтів, що перенесли транссфеноїдальну хірургію."
-    ],
-    "practicalTakeaway": "При плануванні відновлення позитивного тиску вентиляції після транссфеноїдальної операції слід враховувати методи закриття дефекту, зокрема використання аутологічної жирової імплантації.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейрохірургія",
-      "спинномозкова рідина",
-      "хірургія"
-    ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42214098",
-    "title": "Вплив перенесення френічного нерва на функцію легень: систематичний огляд та мета-аналіз",
-    "journal": "Journal of neurosurgery",
+    "pmid": "42216677",
+    "title": "Фармакокінетична оцінка впливу ехінацеї на рівень фавіпіравіру та атазанавіру у дослідженні на щурах",
+    "journal": "Biopharmaceutics & drug disposition",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити наслідки перенесення френічного нерва (ПФН) для дихальної функції, аналізуючи клінічні та параклінічні дані з опублікованих досліджень. Включені лише випадки з документованим післяопераційним спостереженням та періопераційними даними про дихальні функції. Зібрано дані про демографію пацієнтів, зображення діафрагми та результати тестів функції легень.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214098/",
+    "abstract": "Дослідження вивчало вплив повторного прийому ехінацеї на фармакокінетику фавіпіравіру та атазанавіру у щурів. Виявлено, що ехінацея може впливати на рівень цих препаратів у крові, що має потенційне значення для їх спільного застосування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216677/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Impact on pulmonary function from phrenic nerve transfer: a systematic review and meta-analysis.",
-    "originalAbstract": "The aim of this study was to evaluate the respiratory consequences of phrenic nerve transfer (PNT) by analyzing clinical and paraclinical data across published studies. The authors conducted a systematic review and meta-analysis of studies reporting respiratory outcomes after PNT. Only cases with documented postoperative follow-up and perioperative respiratory outcome were included. Data on patient demographics, diaphragm imaging, and pulmonary function test (PFT) values were extracted. Paired a",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Pharmacokinetic Assessment of Atazanavir and Favipiravir Following Echinacea Supplementation: A Controlled Herb-Drug Interaction Investigation.",
+    "originalAbstract": "Echinacea is a widely used herbal supplement and is frequently co-administered with antiviral drugs, raising concerns regarding potential herb-drug interactions. This study evaluated the effect of repeated Echinacea administration on the pharmacokinetics of favipiravir and atazanavir in rats. Male Sprague Dawley rats were administered Echinacea (250 mg/kg) or vehicle once daily for 10 days, followed by a single oral dose of favipiravir (70 mg/kg) or atazanavir (35 mg/kg). Plasma drug concentrati",
     "keyPoints": [
-      "Досліджено вплив перенесення френічного нерва на дихальну функцію.",
-      "Враховувалися клінічні та параклінічні дані з опублікованих досліджень.",
-      "Зібрано дані про демографію, зображення діафрагми та функціональні тести легень."
+      "Дослідження проводилось на щурах.",
+      "Вивчався вплив ехінацеї на фармакокінетику двох антивірусних препаратів.",
+      "Результати свідчать про можливий вплив ехінацеї на рівень препаратів у крові."
     ],
-    "practicalTakeaway": "Результати дослідження допомагають оцінити потенційний вплив перенесення френічного нерва на функцію легень.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "При застосуванні ехінацеї разом з антивірусними препаратами слід враховувати можливий вплив на їх рівень у крові.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "доказова медицина",
-      "педіатрія",
-      "нейрохірургія"
+      "herb-drug interaction",
+      "pharmacokinetics",
+      "antiviral"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42214097",
-    "title": "Нейропсихологічний профіль у дітей з мозковими артеріовенозними мальформаціями",
-    "journal": "Journal of neurosurgery. Pediatrics",
+    "pmid": "42216676",
+    "title": "Сучасний стан знань щодо використання медичного канабісу та ризиків інфекцій",
+    "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує нейропсихологічний профіль пацієнтів-підлітків з мозковими артеріовенозними мальформаціями (bAVMs). Виявлено, що ці судинні аномалії можуть спричиняти значні когнітивні порушення, що впливають на розвиток, соціальну адаптацію та якість життя, навіть без ознак крововиливу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42214097/",
+    "abstract": "Огляд висвітлює різноманіття продуктів канабісу, регуляторні питання, мікробне забруднення та інфекційні ризики, пов'язані з його застосуванням у США. Враховуються законодавчі особливості та відсутність єдиних стандартів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216676/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T02:37:29Z",
-    "originalTitle": "Neuropsychological profile in pediatric patients with brain arteriovenous malformations.",
-    "originalAbstract": "Brain arteriovenous malformations (bAVMs) are vascular anomalies that can cause significant neurological and cognitive impairments in children and adolescents, even in the absence of hemorrhage. These symptoms, especially the cognitive deficits, can significantly interfere with neurodevelopment and affect social adaptation and quality of life. This study aimed to characterize the neuropsychological profile of pediatric patients with bAVMs and to investigate associations between cognitive perform",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Current state of knowledge on medical cannabis use and risk for infections: A practical guide for clinicians.",
+    "originalAbstract": "Patients and clinicians broadly support medical cannabis, but acknowledge limited understanding of products, efficacy, and safety. Here, we review cannabis products, regulatory issues, microbial contamination of cannabis, and infections linked to cannabis. In the U.S., cannabis is regulated by a patchwork of federal and state laws. Three pharmaceutical-grade cannabinoids are U.S. FDA-approved, and non-FDA-approved medical cannabis products are legal in 40 states. There are no uniform standards f",
     "keyPoints": [
-      "bAVMs у дітей можуть викликати когнітивні порушення.",
-      "Порушення можуть впливати на нейророзвиток та соціальну адаптацію.",
-      "Дослідження спрямоване на характеристику нейропсихологічного профілю пацієнтів."
+      "Медичний канабіс підтримується пацієнтами та лікарями, але його ефективність та безпека недостатньо вивчені.",
+      "У США регулювання канабісу є фрагментованим, з різними законодавчими актами на федеральному та штатному рівнях.",
+      "Існують ризики інфекцій, пов'язані з мікробним забрудненням канабісу, що потребує уваги лікарів."
     ],
-    "practicalTakeaway": "Враховувати можливі когнітивні порушення у дітей з bAVMs для своєчасної корекції та підтримки розвитку.",
+    "practicalTakeaway": "Лікарям слід враховувати потенційні інфекційні ризики та регуляторний статус при застосуванні медичного канабісу.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "канабіс",
+      "інфекції",
+      "регулювання"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42216673",
+    "title": "Мультимодальне машинне навчання для ранньої оцінки ризику когнітивних порушень після інсульту",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження спрямоване на створення та валідацію моделі машинного навчання, яка об'єднує клінічні, демографічні та нейровізуальні дані для раннього прогнозування когнітивних порушень у пацієнтів з гострим ішемічним інсультом. Модель має на меті допомогти у виявленні високоризикових пацієнтів для своєчасного втручання.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216673/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Multimodal machine learning for early risk stratification of post-stroke cognitive impairment.",
+    "originalAbstract": "BackgroundPost-stroke cognitive impairment (PSCI) is a major vascular contributor to dementia, significantly impacting long-term recovery and quality of life. Developing accurate prediction models are essential for early identification and timely intervention in high-risk individuals.ObjectiveTo develop and validate a stacking-based multimodal machine learning model integrating clinical, demographic, and neuroimaging features for early PSCI prediction in acute ischemic stroke (AIS) patients.Meth",
+    "keyPoints": [
+      "Розроблено модель для передбачення когнітивних порушень після інсульту.",
+      "Модель інтегрує клінічні, демографічні та нейровізуальні дані.",
+      "Мета — раннє визначення високоризикових пацієнтів для втручання."
+    ],
+    "practicalTakeaway": "Мультимодальні моделі машинного навчання можуть сприяти ранній ідентифікації пацієнтів з високим ризиком когнітивних порушень після інсульту.",
     "specialty": "неврологія",
     "tags": [
-      "нейропсихологія",
-      "діти",
-      "мозкові мальформації"
+      "інсульт",
+      "машинне навчання",
+      "когнітивні порушення"
     ],
     "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42216672",
+    "title": "Довгострокові зміни амілоїдного PET у осіб з нормальною когнітивною функцією за профілями CSF амілоїду та тау: роль APOE ε4",
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження аналізує зв'язки між біомаркерами цереброспінальної рідини та ранніми довгостроковими змінами амілоїду на PET у осіб з нормальною когнітивною функцією, з урахуванням впливу носійства APOE ε4. Мета — зрозуміти механізми початкового прогресування амілоїдних змін у контексті Альцгеймерової хвороби.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216672/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Longitudinal amyloid PET changes by cerebrospinal fluid amyloid and tau profiles in individuals with normal cognition: Role of APOE ε4.",
+    "originalAbstract": "BackgroundIdentifying factors associated with early progression of cortical amyloid deposition is crucial for understanding Alzheimer's disease (AD) pathophysiology, yet these remain unclear.ObjectiveTo investigate the associations of AD cerebrospinal fluid (CSF) biomarkers with early longitudinal amyloid deposition on positron emission tomography (PET), and the impact of APOE ε4 carriership.MethodsWe selected cognitively unimpaired participants with baseline data on CSF amyloid and p-tau181, AP",
+    "keyPoints": [
+      "Вивчено зв'язки між біомаркерами CSF та амілоїдною депозитацією на PET.",
+      "Розглянуто вплив носійства APOE ε4 на динаміку амілоїдних змін.",
+      "Дослідження сприяє розумінню ранніх механізмів Альцгеймерової хвороби."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають краще зрозуміти початкові етапи розвитку Альцгеймерової хвороби, що може вплинути на ранню діагностику та профілактику.",
+    "specialty": "неврологія",
+    "tags": [
+      "Альцгеймерова хвороба",
+      "амілойдні зміни",
+      "біомаркери"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42216671",
+    "title": "Визначення щорічної поширеності алергічного бронхопульмонального аспергільозу (ABPA) у пацієнтів із муковісцидозом у Туреччині та ідентифікація факторів ризику його розвитку",
+    "journal": "Chronic illness",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Мета дослідження — визначити щорічну поширеність ABPA у пацієнтів із муковісцидозом у Туреччині та виявити фактори ризику його виникнення. Вивчення проведене як ретроспективне когортне дослідження з використанням даних реєстру пацієнтів із муковісцидозом. Аналіз охоплює 44 ново діагностованих випадки ABPA, що дозволяє оцінити частоту та характеристики захворювання.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42216671/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-05-30T13:16:44Z",
+    "originalTitle": "Determination of the yearly distribution of the incidence of Allergic Bronchopulmonary Aspergillosis (ABPA) in patients registered in the cystic fibrosis patient registry system of Turkey and identification of risk factors for its development.",
+    "originalAbstract": "BackgroundAllergic bronchopulmonary aspergillosis (ABPA), is a hypersensitivity reaction in the lung against the antigens of Aspergillus fumigatus. The aim of this study is to determine the incidence of ABPA, and to determine the risk factors leading to the development of ABPA.MethodsThe study was designed as a retrospective cohort study. Using the CF Registry System of Turkey data, the incidence of ABPA was determined and the clinical and demographic characteristics of 44 patients newly diagnos",
+    "keyPoints": [
+      "Визначено щорічну поширеність ABPA у пацієнтів із муковісцидозом у Туреччині.",
+      "Проаналізовано клінічні та демографічні характеристики пацієнтів.",
+      "Ідентифіковано потенційні фактори ризику розвитку ABPA."
+    ],
+    "practicalTakeaway": "Дослідження підкреслює важливість моніторингу пацієнтів із муковісцидозом для раннього виявлення ABPA та врахування факторів ризику.",
+    "specialty": "педіатрія",
+    "tags": [
+      "муковісцидоз",
+      "ABPA",
+      "фактори ризику"
+    ],
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
