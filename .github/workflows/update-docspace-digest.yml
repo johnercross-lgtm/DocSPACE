@@ -23,27 +23,57 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Prepare digest folders
+        run: |
+          mkdir -p data
+          mkdir -p data/docspace-digest-images
+
+      - name: Check secrets
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
+            echo "TELEGRAM_BOT_TOKEN is missing"
+            exit 1
+          fi
+
+          if [ -z "$TELEGRAM_WEBHOOK_URL" ]; then
+            echo "TELEGRAM_WEBHOOK_URL is missing"
+            exit 1
+          fi
+
+          echo "Secrets are present"
 
       - name: Temporarily delete Telegram webhook
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
           python3 - <<'PY'
-          import os, json, urllib.request
+          import os
+          import json
+          import urllib.request
+
           token = os.environ["TELEGRAM_BOT_TOKEN"]
           url = f"https://api.telegram.org/bot{token}/deleteWebhook?drop_pending_updates=false"
-          print(json.loads(urllib.request.urlopen(url).read().decode()))
+
+          with urllib.request.urlopen(url, timeout=30) as response:
+              print(json.loads(response.read().decode()))
           PY
 
       - name: Run DocSPACE digest fetcher
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        run: python scripts/fetch_docspace_digest.py
+        run: |
+          python scripts/fetch_docspace_digest.py
 
       - name: Restore Telegram webhook
         if: always()
@@ -52,28 +82,57 @@ jobs:
           TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
         run: |
           python3 - <<'PY'
-          import os, json, urllib.parse, urllib.request
-          token = os.environ["TELEGRAM_BOT_TOKEN"]
-          webhook_url = os.environ["TELEGRAM_WEBHOOK_URL"]
+          import os
+          import json
+          import urllib.parse
+          import urllib.request
+          import sys
+
+          token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+          webhook_url = os.environ.get("TELEGRAM_WEBHOOK_URL", "").strip()
+
+          if not token:
+              print("TELEGRAM_BOT_TOKEN is missing, cannot restore webhook")
+              sys.exit(1)
+
+          if not webhook_url:
+              print("TELEGRAM_WEBHOOK_URL is missing, cannot restore webhook")
+              sys.exit(1)
+
           params = urllib.parse.urlencode({
               "url": webhook_url,
               "allowed_updates": json.dumps(["channel_post", "edited_channel_post"])
           })
+
           url = f"https://api.telegram.org/bot{token}/setWebhook?{params}"
-          print(json.loads(urllib.request.urlopen(url).read().decode()))
+
+          with urllib.request.urlopen(url, timeout=30) as response:
+              print(json.loads(response.read().decode()))
           PY
 
       - name: Validate feeds
-        run: python scripts/validate_feeds.py
+        run: |
+          python scripts/validate_feeds.py
 
       - name: Commit updated DocSPACE digest feed
         run: |
           git config user.name "docspace-bot"
           git config user.email "docspace-bot@users.noreply.github.com"
-          git add data/docspace-digest-feed.json data/docspace-digest-images/
+
+          mkdir -p data/docspace-digest-images
+
+          git add data/docspace-digest-feed.json
+
+          if find data/docspace-digest-images -type f | grep -q .; then
+            git add data/docspace-digest-images/
+          else
+            echo "No DocSPACE digest images to add"
+          fi
+
           if git diff --cached --quiet; then
             echo "No DocSPACE digest feed changes"
             exit 0
           fi
+
           git commit -m "Update DocSPACE digest feed"
           git push
