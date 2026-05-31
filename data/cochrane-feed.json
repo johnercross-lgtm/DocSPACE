@@ -1,77 +1,77 @@
 [
   {
     "title": "Заходи щодо припинення куріння у осіб, що проходять скринінг легень",
-    "abstract": "Це протокол огляду Cochrane, метою якого є оцінка переваг і ризиків заходів для припинення куріння у дорослих, які проходять скринінг легень із застосуванням низькодозової комп'ютерної томографії (КТ) грудної клітки.",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики заходів щодо припинення куріння у дорослих, які проходять скринінг легень за допомогою низькодозової комп’ютерної томографії (КТ) грудної клітки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016184/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Interventions for smoking cessation in people undergoing lung cancer screening.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of smoking cessation interventions in adults undergoing lung cancer screening with low-dose computed tomography (LDCT) of the chest.",
     "keyPoints": [
-      "Оцінюється ефективність заходів для припинення куріння у скринінгових пацієнтів.",
+      "Огляд оцінює ефективність заходів щодо припинення куріння у пацієнтів, що проходять скринінг легень.",
       "Розглядаються потенційні переваги та ризики таких інтервенцій.",
-      "Фокус на дорослих, що проходять скринінг легень із низькодозовою КТ."
+      "Фокус на дорослих, які проходять низькодозовий КТ для скринінгу легень."
     ],
-    "practicalTakeaway": "Огляд допоможе визначити, наскільки ефективними є заходи для припинення куріння у пацієнтів, що проходять скринінг легень.",
+    "practicalTakeaway": "Огляд допомагає визначити, наскільки заходи щодо припинення куріння корисні для осіб, що проходять скринінг легень.",
     "specialty": "доказова медицина",
     "tags": [
       "куріння",
       "скринінг легень",
-      "загальнонаціональний"
+      "загальні наслідки для здоровʼя"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Ботулотоксин тип А для підгострого та хронічного болю в шиї",
+    "abstract": "Мета дослідження — оцінити ефективність та безпеку ін'єкцій ботулотоксину типу А для пацієнтів із підгострим та хронічним болем у шиї. Проведено пошук у кількох базах даних та реєстрах клінічних досліджень до 4 березня 2026 року. Аналіз включає рандомізовані контрольовані дослідження, що порівнюють ін'єкції BoNT-A з плацебо або іншими терапіями.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008626.pub4/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
+    "originalTitle": "Botulinum toxin type A for subacute/chronic neck pain.",
+    "originalAbstract": "Botulinum toxin type A (BoNT-A) intramuscular injections are commonly administered for neck pain unresponsive to other therapies, but the benefit-harm profile remains uncertain. To assess the benefits and harms of intramuscular BoNT-A injection for people with subacute to chronic neck pain. We searched CENTRAL, MEDLINE, Embase, CINAHL and trial registers, together with reference checking, citation searching and contact with study authors up to 4 March 2026. Randomised controlled trials (RCTs), i…",
+    "keyPoints": [
+      "Оцінюється ефективність ін'єкцій ботулотоксину для болю в шиї.",
+      "Дослідження включають рандомізовані контрольовані випробування.",
+      "Результати допомагають визначити баланс користі та ризиків."
+    ],
+    "practicalTakeaway": "Ін'єкції ботулотоксину типу А застосовуються при хронічному болю в шиї, але їх користь і безпека потребують подальшого підтвердження.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "болі в шиї",
+      "ботулотоксин",
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ботулотоксин тип А при підгострому та хронічному болю в шиї",
-    "abstract": "Мета дослідження — оцінити ефективність та безпеку внутрішньом'язових ін'єкцій ботулотоксину типу А для пацієнтів із підгострим та хронічним болем у шиї. Проведено пошук у кількох базах даних та реєстрах рандомізованих контрольованих досліджень до 4 березня 2026 року.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008626.pub4/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
-    "originalTitle": "Botulinum toxin type A for subacute/chronic neck pain.",
-    "originalAbstract": "Botulinum toxin type A (BoNT-A) intramuscular injections are commonly administered for neck pain unresponsive to other therapies, but the benefit-harm profile remains uncertain. To assess the benefits and harms of intramuscular BoNT-A injection for people with subacute to chronic neck pain. We searched CENTRAL, MEDLINE, Embase, CINAHL and trial registers, together with reference checking, citation searching and contact with study authors up to 4 March 2026. Randomised controlled trials (RCTs), i…",
-    "keyPoints": [
-      "Дослідження аналізує ефективність ботулотоксину для болю у шиї.",
-      "Результати щодо користі та ризиків залишаються невизначеними.",
-      "Оцінюється безпека застосування ботулотоксину при хронічному болю в шиї."
-    ],
-    "practicalTakeaway": "Поточні дані не дають однозначної оцінки користі та ризиків застосування ботулотоксину типу А для хронічного болю у шиї.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "нейрологія",
-      "хронічний біль",
-      "ін'єкції"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Хірургічне лікування остеоартриту бази великого пальця руки",
-    "abstract": "Це оновлення огляду Cochrane, що оцінює ефективність та ризики різних хірургічних методів для пацієнтів із остеоартритом у зоні основи великого пальця руки, коли консервативне лікування вже не дає результатів. Дослідження включають рандомізовані контрольовані випробування, проведені до 19 травня 2025 року.",
+    "abstract": "Це оновлення огляду Cochrane, що аналізує ефективність та ризики різних хірургічних методів для лікування остеоартриту в області основи великого пальця руки, коли консервативна терапія вже не дає результатів. В дослідженні використано дані рандомізованих контрольованих випробувань, що порівнювали щонайменше два хірургічні підходи.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004631.pub6/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Surgery for thumb (trapeziometacarpal joint) osteoarthritis.",
     "originalAbstract": "Surgery is used to treat persistent pain and dysfunction due to osteoarthritis at the base of the thumb, when conservative management is no longer effective. This is an update of a Cochrane review first published in 2005. To evaluate the benefits and harms of different surgeries for people with thumb (trapeziometacarpal) osteoarthritis. We searched CENTRAL, MEDLINE and Embase up to 19 May 2025. We included randomised controlled trials (RCTs) or quasi-RCTs that compared at least two surgical tech…",
     "keyPoints": [
-      "Огляд аналізує різні хірургічні методи для остеоартриту бази великого пальця.",
-      "Результати допомагають визначити баланс між користю та ризиками операцій.",
-      "Дослідження базуються на рандомізованих контрольованих випробуваннях."
+      "Аналізуються різні хірургічні методи лікування остеоартриту в області великого пальця.",
+      "Дослідження базується на рандомізованих контрольованих випробуваннях.",
+      "Оновлення огляду охоплює дані до 19 травня 2025 року."
     ],
-    "practicalTakeaway": "Рішення щодо хірургічного лікування остеоартриту бази великого пальця має базуватись на індивідуальній оцінці ризиків та очікуваних результатів.",
+    "practicalTakeaway": "Результати дослідження допомагають оцінити потенційні переваги та ризики різних хірургічних підходів при лікуванні остеоартриту бази великого пальця.",
     "specialty": "хірургія",
     "tags": [
       "остеоартрит",
-      "рука",
-      "хірургія"
+      "хірургія",
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -79,46 +79,46 @@
   },
   {
     "title": "Фармакотерапія посттравматичного стресового розладу (ПТСР)",
-    "abstract": "Це дослідження оцінює ефективність медикаментозного лікування для зменшення симптомів ПТСР у дорослих. Проведено пошук у кількох базах даних, включаючи CENTRAL, MEDLINE, Embase та PsycINFO, станом на листопад 2020 року.",
+    "abstract": "Дослідження аналізує ефективність медикаментозного лікування для зменшення симптомів ПТСР у дорослих. Вивчено дані з кількох баз даних, включаючи CENTRAL, MEDLINE, Embase та PsycINFO, станом на листопад 2020 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002795.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Pharmacotherapy for post traumatic stress disorder (PTSD).",
     "originalAbstract": "Posttraumatic stress disorder (PTSD) is a prevalent and disabling disorder. Evidence that PTSD is characterised by specific psychobiological dysfunctions has contributed to a growing interest in the use of medication in its treatment. To assess the effects of medication for reducing PTSD symptoms in adults with PTSD. We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, November 2020); MEDLINE (1946-), Embase (1974-), PsycINFO (1967-) and PTSDPubs (all available year…",
     "keyPoints": [
-      "Дослідження аналізує ефективність медикаментів при ПТСР.",
-      "Застосовуються дані з різних баз даних станом на 2020 рік.",
-      "Результати допомагають оцінити роль фармакотерапії у лікуванні ПТСР."
+      "Медикаменти використовуються для зменшення симптомів ПТСР.",
+      "Дослідження охоплює дорослих з ПТСР.",
+      "Аналіз баз даних надає сучасний огляд ефективності медикаментів."
     ],
-    "practicalTakeaway": "Фармакотерапія може бути розглянута як частина комплексного підходу до лікування ПТСР, але потребує подальшого дослідження.",
+    "practicalTakeaway": "Медикаментозне лікування може бути частиною комплексної терапії ПТСР, але потребує подальших досліджень.",
     "specialty": "психіатрія",
     "tags": [
       "ПТСР",
-      "фармакотерапія",
-      "доказова медицина"
+      "медикаментозне лікування",
+      "дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Уникнення або відмова від стероїдів у пацієнтів із трансплантацією нирки",
-    "abstract": "Цей оновлений аналіз досліджує безпечність стратегій зменшення або виключення стероїдів у пацієнтів із трансплантацією нирки. Попередні систематичні огляди висловлювали побоювання щодо підвищеного ризику відторгнення, але сучасні дослідження свідчать про можливу безпечність таких підходів завдяки покращенню імуносупресивних режимів та зниженню випадків гострого відторгнення.",
+    "title": "Виключення або зниження дози стероїдів у пацієнтів із трансплантацією нирки",
+    "abstract": "Цей оновлений аналіз досліджує ефективність стратегій уникнення або зменшення застосування стероїдів у пацієнтів із трансплантацією нирки. Мета — зменшити побічні ефекти стероїдів без підвищення ризику відторгнення. Останні дослідження свідчать, що зменшення експозиції стероїдів може бути безпечним за умови сучасних імуносупресивних режимів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005632.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-26T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Steroid avoidance or withdrawal for kidney transplant recipients.",
     "originalAbstract": "Steroid-sparing strategies aim to reduce the adverse effects associated with steroid use. The main concern has been a potential increase in the risk of rejection, as reported in previous systematic reviews. In recent years, improvements in immunosuppressive regimens and a significant decline in the incidence of acute rejection have renewed interest in steroid-sparing strategies. More contemporary trials suggest that reducing steroid exposure might be safe. This is an updated review, previously p…",
     "keyPoints": [
-      "Стратегії зменшення або виключення стероїдів можуть бути безпечними.",
-      "Покращення імуносупресії знизили ризик гострого відторгнення.",
-      "Докази свідчать про можливість зменшення побічних ефектів стероїдів."
+      "Стратегії зменшення або виключення стероїдів досліджуються для зменшення побічних ефектів.",
+      "Нові дослідження свідчать про можливу безпечність таких стратегій.",
+      "Раніше побоювання щодо підвищеного ризику відторгнення зменшилися завдяки покращенню імуносупресії."
     ],
-    "practicalTakeaway": "Розглядайте можливість застосування стратегій зменшення стероїдів у відповідних пацієнтів із трансплантацією нирки, враховуючи сучасні дані.",
+    "practicalTakeaway": "Розглядання стратегій зменшення застосування стероїдів у трансплантованих нирках може бути обґрунтованим за сучасних умов, але потребує індивідуального підходу.",
     "specialty": "нефрологія",
     "tags": [
       "трансплантація",
@@ -131,46 +131,46 @@
   },
   {
     "title": "Ранкове застосування стимулюючих еритропоез в недоношених та маловагих новонароджених",
-    "abstract": "Мета дослідження — оцінити переваги та ризики ранкового застосування стимулюючих еритропоез агентів (СЕА) у недоношених та маловагих новонароджених. Виявлено, що ці діти мають підвищений ризик анемії через низький рівень еритропоетину, що може спричинити потребу у переливанні крові та вплинути на клінічний перебіг. Однак питання щодо їхньої ефективності та безпеки залишається дискусійним.",
+    "abstract": "Дослідження аналізує ефективність та безпеку ранкового застосування стимулюючих еритропоезан (СЕ) у недоношених та маловагих новонароджених. Враховуються потенційні переваги у зменшенні потреби у переливанні крові та вплив на клінічні результати. Вивчення базується на даних кількох баз даних, включаючи CENTRAL, MEDLINE та Embase.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004863.pub7/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-22T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Early erythropoiesis-stimulating agents in preterm or low-birthweight infants.",
     "originalAbstract": "Preterm and low-birthweight infants are at risk of anemia due to a variety of factors, including low levels of erythropoietin. They may therefore benefit from erythropoiesis-stimulating agents (ESAs). However, controversy remains about their effectiveness and safety, not only in reducing blood transfusions but also in improving clinical outcomes. To assess the benefits and harms of early administration of ESAs in preterm or low-birthweight infants. We searched CENTRAL, MEDLINE, Embase, Scopus, D…",
     "keyPoints": [
-      "Ранкове застосування СЕА може зменшити потребу у переливанні крові у недоношених та маловагих новонароджених.",
-      "Безпека та довгострокові наслідки застосування СЕА у цієї групи залишаються невизначеними.",
-      "Дослідження зосереджені на оцінці балансу між потенційною користю та ризиками від застосування СЕА."
+      "Ранкове застосування СЕ може зменшити потребу у переливанні крові у недоношених та маловагих новонароджених.",
+      "Безпека та довгострокові наслідки застосування СЕ залишаються предметом дискусій.",
+      "Дослідження спрямовані на оцінку балансу між потенційними перевагами та ризиками застосування СЕ у цій групі новонароджених."
     ],
-    "practicalTakeaway": "Потреба у додаткових дослідженнях для визначення безпечних та ефективних протоколів застосування стимулюючих еритропоез у недоношених та маловагих новонароджених.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Ранкове застосування стимулюючих еритропоезан у недоношених та маловагих новонароджених потребує подальшого дослідження для визначення його безпеки та ефективності.",
+    "specialty": "нефрологія",
     "tags": [
       "доказова медицина",
-      "новонароджені",
-      "анемія"
+      "неонатологія",
+      "інтенсивна терапія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Іммунні інгібітори контрольних точок та хіміотерапія у ранньому тріпл-негативному раку молочної залози",
-    "abstract": "Дослідження порівнює ефективність комбінації імунних інгібіторів контрольних точок (PD-1/PD-L1) з хіміотерапією проти лише хіміотерапії у лікуванні раннього тріпл-негативного раку молочної залози. Триває оцінка впливу на виживаність та повну регресію пухлини.",
+    "title": "Імунотерапія та хіміотерапія при ранньому тріпл-негативному раку молочної залози",
+    "abstract": "Дослідження порівнює ефективність імунотерапії з інгібіторами контрольних точок (PD-1/PD-L1) у комбінації з хіміотерапією проти лише хіміотерапії при ранньому тріпл-негативному раку молочної залози. Тріпл-негативний рак становить 12-17% випадків, і хоча хіміотерапія покращує виживаність, у 30-40% випадків хвороба прогресує до метастазів. Нові дані свідчать, що комбінація з імунотерапією може підвищити частоту повного патологічного відповіді та безподієвий період.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015072.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Immune checkpoint inhibitors and chemotherapy versus chemotherapy for early triple-negative breast cancer.",
     "originalAbstract": "Triple-negative breast cancer (TNBC), an aggressive subtype lacking oestrogen and progesterone receptors and amplification of HER2 receptors, accounts for 12% to 17% of breast cancers. Adjuvant and neoadjuvant chemotherapy improve survival; however, 30% to 40% of early-stage TNBC cases progress to metastatic disease. Recent evidence suggests that combining immune checkpoint inhibitors (PD-1/PD-L1 inhibitors) with chemotherapy may improve pathological complete response and event-free survival. To…",
     "keyPoints": [
-      "Комбінована терапія може покращити відповіді на лікування у TNBC.",
-      "Раннє застосування імунних інгібіторів досліджується для підвищення виживаності.",
-      "Дослідження триває для визначення довгострокових результатів."
+      "Комбінація імунотерапії з хіміотерапією може покращити результати при ранньому тріпл-негативному раку.",
+      "Тріпл-негативний рак становить до 17% випадків раку молочної залози.",
+      "Дослідження порівнює ефективність двох підходів у лікуванні раку."
     ],
-    "practicalTakeaway": "Поточні дані вказують на потенціал комбінації імунних інгібіторів та хіміотерапії у лікуванні раннього TNBC, але потрібні додаткові дослідження.",
+    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір лікувальної тактики при ранньому тріпл-негативному раку молочної залози.",
     "specialty": "онкологія",
     "tags": [
       "ракові захворювання",
@@ -182,47 +182,47 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Пороги трансфузії тромбоцитів у новонароджених з тромбоцитопенією",
-    "abstract": "Дослідження аналізує вплив різних порогів для трансфузії тромбоцитів у новонароджених з тромбоцитопенією. Визначено, що пороги для стабільних немовлят без кровотечі коливаються від 25 000 до 150 000 на мікролітр. Мета — оцінити переваги та ризики більш обмежених порогів у порівнянні з більш ліберальними.",
+    "title": "Порогові значення для трансфузії тромбоцитів у новонароджених з тромбоцитопенією",
+    "abstract": "Дослідження аналізує вплив різних порогових значень для трансфузії тромбоцитів у новонароджених з тромбоцитопенією. Вибір порогів значно варіює між закладами та країнами, з діапазоном від 25 000 до 150 000 тромбоцитів на мікролітр. Мета — оцінити переваги та ризики більш обмежених порогів у порівнянні з більш ліберальними підходами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015341.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Platelet transfusion thresholds for thrombocytopenic infants.",
     "originalAbstract": "Neonatal thrombocytopenia is frequently treated with platelet transfusion. Thresholds prompting platelet transfusions vary greatly between providers, institutions, and countries. Thresholds for stable non-bleeding infants have ranged from 25,000 to 150,000 per microliter. To assess the benefits and harms of more restrictive platelet transfusion thresholds compared to more liberal thresholds in thrombocytopenic neonates. We searched CENTRAL, MEDLINE, Embase, Epistemonikos, and trial registries un…",
     "keyPoints": [
-      "Дослідження порівнює різні пороги для трансфузії тромбоцитів у новонароджених.",
-      "Розглядаються потенційні переваги та ризики обмежених порогів.",
-      "Аналіз базується на даних з кількох медичних баз даних."
+      "Дослідження порівнює різні порогові значення для трансфузії тромбоцитів у новонароджених.",
+      "Вибір порогів значно варіює між закладами та країнами.",
+      "Мета — визначити баланс між потенційною користю та ризиками трансфузій."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити оптимальні пороги для трансфузії тромбоцитів у новонароджених з тромбоцитопенією.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити оптимальні порогові значення для трансфузії тромбоцитів у новонароджених з тромбоцитопенією.",
     "specialty": "нефрологія",
     "tags": [
       "доказова медицина",
-      "неонатологія",
-      "тромбоцитопенія"
+      "педіатрія",
+      "гематологія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Штучний інтелект для виявлення та визначення стадії хвороби Альцгеймера за допомогою зображень сітківки",
-    "abstract": "Це протокол для аналізу з метою визначення точності алгоритмів штучного інтелекту у діагностиці хвороби Альцгеймера за зображеннями сітківки у дорослих з поведінковими симптомами або когнітивним спадом у первинній медичній допомозі. Дослідження також передбачає аналіз гетерогенності даних за можливості.",
+    "title": "Штучний інтелект для виявлення та стадіювання хвороби Альцгеймера за допомогою знімків сітківки",
+    "abstract": "Це протокол для аналізу, що оцінює точність алгоритмів штучного інтелекту у діагностиці хвороби Альцгеймера за допомогою знімків сітківки у дорослих з поведінковими симптомами або когнітивним спадом у первинній медичній допомозі. Вивчення також передбачає аналіз гетерогенності даних за наявності відповідних показників.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016358/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Artificial intelligence for detection and staging of Alzheimer's disease using retinal images.",
     "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: To determine the diagnostic accuracy of AI algorithm-based retinal image reading for detecting referral-requiring Alzheimer's disease in adults who have behavioral symptoms or cognitive decline in the primary care setting. Secondary objectives Where data are available, we will investigate heterogeneity by incorporating covariates in a metaregression.",
     "keyPoints": [
-      "Оцінюється точність AI у діагностиці хвороби Альцгеймера за зображеннями сітківки.",
-      "Мета — визначити здатність AI виявляти хворобу у дорослих з когнітивними порушеннями.",
-      "Дослідження включає аналіз гетерогенності даних за наявності."
+      "Оцінюється точність AI у діагностиці хвороби Альцгеймера за знімками сітківки.",
+      "Фокус на дорослих з поведінковими або когнітивними симптомами у первинній допомозі.",
+      "Дослідження включає аналіз гетерогенності даних за наявності відповідних змінних."
     ],
-    "practicalTakeaway": "Дослідження спрямоване на оцінку можливостей штучного інтелекту у ранньому виявленні хвороби Альцгеймера за допомогою зображень сітківки.",
+    "practicalTakeaway": "Дослідження спрямоване на визначення потенціалу штучного інтелекту у ранньому виявленні хвороби Альцгеймера за допомогою знімків сітківки.",
     "specialty": "неврологія",
     "tags": [
       "діагностика",
@@ -234,21 +234,21 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Плановий ранній полог проти очікуваного ведення при гіпертензивних розладах у вагітних від 34 тижнів до терміну",
-    "abstract": "Гіпертензивні розлади вагітності є важливими чинниками материнської та перинатальної захворюваності і смертності. Вони включають хронічну гіпертензію, гестаційну гіпертензію та прееклампсію. Основне лікування цих станів — планові пологи, або ж очікуване ведення з ретельним спостереженням за відсутності важких ускладнень. Вибір між цими підходами вимагає оцінки їхніх переваг і ризиків.",
+    "title": "Плановий ранній полог проти очікуваного ведення при гіпертензивних розладах вагітності від 34 тижнів до терміну",
+    "abstract": "Гіпертензивні розлади вагітності, включаючи хронічну гіпертензію, гестаційну гіпертензію та прееклампсію, є важливими чинниками материнської та перинатальної захворюваності і смертності. Основне лікування цих станів — планові пологи. Альтернативою є очікуване ведення з ретельним спостереженням за відсутності важких ускладнень. Вибір оптимальної тактики потребує оцінки переваг і ризиків обох підходів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009273.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-05-30T13:57:54Z",
+    "updatedAt": "2026-05-31T04:43:49Z",
     "originalTitle": "Planned early birth versus expectant management for hypertensive disorders from 34 weeks' gestation to term.",
     "originalAbstract": "Hypertensive disorders in pregnancy are significant contributors to maternal and perinatal morbidity and mortality. They include chronic hypertension, gestational hypertension and pre-eclampsia. Definitive management of these disorders is planned early birth. The alternative is expectant management with close monitoring, if severe complications are not present. There are benefits and risks associated with both policies, so it is important to establish the safest option. To assess the benefits an…",
     "keyPoints": [
-      "Обговорюється баланс між раннім пологом і очікуваним веденням при гіпертензивних розладах у вагітних.",
-      "Розглядаються переваги і ризики кожної стратегії для матері та дитини.",
-      "Дослідження спрямоване на визначення безпечнішого підходу для цієї групи пацієнток."
+      "Обговорюється плановий ранній полог у порівнянні з очікуваним веденням при гіпертензивних розладах вагітності.",
+      "Розглядаються переваги та ризики кожної стратегії.",
+      "Дослідження спрямоване на визначення безпечнішого підходу для матері та дитини."
     ],
-    "practicalTakeaway": "Рішення щодо ведення гіпертензивних розладів у вагітних має базуватися на індивідуальній оцінці ризиків та переваг кожної стратегії.",
+    "practicalTakeaway": "Вибір між плановим раннім пологом і очікуваним веденням залежить від клінічної ситуації та ризиків у конкретної вагітної.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "вагітність",
