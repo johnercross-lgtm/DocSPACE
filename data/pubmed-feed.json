@@ -1,27 +1,27 @@
 [
   {
     "pmid": "42216686",
-    "title": "Вимірювання часу обміну води через гематоенцефалічний бар'єр за допомогою багатотеплової 3D TSE послідовності з роздільним TE",
+    "title": "Вимірювання часу обміну води через гематоенцефалічний бар'єр за допомогою багатотейлової ТЕ-розв'язаної 3D TSE послідовності",
     "journal": "Magnetic resonance in medicine",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Розроблено метод для точного визначення часу обміну води через гематоенцефалічний бар'єр (BBB) за допомогою багатотеплової (mTE) 3D TSE послідовності з роздільним TE. Метод дозволяє безрозмірний розподіл сигналів і високий рівень деталізації, що сприяє покращенню досліджень BBB у клінічних умовах.",
+    "abstract": "Розроблено метод для точного визначення часу обміну води через гематоенцефалічний бар'єр за допомогою багатотейлової 3D TSE послідовності з розв'язанням за ТЕ. Метод дозволяє уникнути розмиття та забезпечує щільне зразкування сигналів у часі. Випробування проведені на здорових добровольцях.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216686/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Multiple-TE Based Blood-Brain-Barrier Water Exchange Time Measurement Using a TE-Resolved 3D TSE Stack-Of-Spirals Readout.",
     "originalAbstract": "To develop a slice-wise blurring-free and densely sampled TE-resolved multiple-TE (mTE) ASL sequence (TASL) for measuring blood-brain barrier (BBB) water exchange time. A 3D TSE spiral-readout pCASL sequence was modified to enable TE-resolved acquisition. Signals at mTEs from a single kz partition were acquired within a single shot, and the acquisition was repeated until all required kz partitions were covered. In vivo experiments were conducted on healthy volunteers using both a conventional pC",
     "keyPoints": [
-      "Розроблено метод для вимірювання часу обміну води через BBB.",
-      "Використовується багатотеплова 3D TSE послідовність з роздільним TE.",
-      "Застосовано на здорових добровольцях для валідації."
+      "Розроблено новий метод вимірювання часу обміну води через гематоенцефалічний бар'єр.",
+      "Застосовано багатотейлову 3D TSE послідовність з розв'язанням за ТЕ.",
+      "Метод дозволяє уникнути розмиття та забезпечує щільне зразкування."
     ],
-    "practicalTakeaway": "Новий метод дозволяє більш точно досліджувати функцію гематоенцефалічного бар'єра за допомогою МРТ.",
+    "practicalTakeaway": "Цей метод може покращити дослідження функцій гематоенцефалічного бар'єра за допомогою МРТ.",
     "specialty": "неврологія",
     "tags": [
       "МРТ",
       "гематоенцефалічний бар'єр",
-      "дослідження"
+      "методи дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -32,19 +32,19 @@
     "title": "Комплексна оцінка переходу на профілактичний прийом ефанесоктотоку алфа у педіатричній когорті з гемофілією А",
     "journal": "Haemophilia : the official journal of the World Federation of Hemophilia",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження описує досвід переходу дітей з гемофілією А на профілактичний прийом ефанесоктотоку алфа, рекомбінованого фактора VIII з ультраподовженим періодом напіввиведення та стабільною фармакокінетикою. Вивчення проведене у педіатричному гемофілійному відділенні, включаючи пацієнтів до 18 років без інгібіторів.",
+    "abstract": "Дослідження описує досвід переходу дітей з гемофілією А на профілактичний прийом ефанесоктотоку алфа, нового рекомбінантного фактора VIII з ультраподовженим періодом напіврозпаду та стабільною фармакокінетикою. Вивчення проводилось у педіатричному гемофілійному відділенні, включаючи пацієнтів до 18 років без інгібіторів.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216685/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Comprehensive Assessment of the Transition to Efanesoctocog Alfa Prophylaxis in a Paediatric Haemophilia A Cohort.",
     "originalAbstract": "Efanesoctocog alfa is a novel recombinant factor VIII (FVIII) with an ultra-extended half-life and stable pharmacokinetics, approved for prophylaxis in children with haemophilia A (HA). To describe the experience of transitioning paediatric patients with HA to efanesoctocog alfa using a comprehensive assessment. Prospective observational study in a paediatric haemophilia unit. Patients <18 years without inhibitors were transitioned from prior prophylaxis to efanesoctocog alfa. Treatment regimen,",
     "keyPoints": [
       "Дослідження оцінює перехід на ефанесоктотоку алфа у дітей з гемофілією А.",
       "Вивчено режим лікування та безпеку препарату.",
-      "Зібрано дані про фармакокінетику та ефективність."
+      "Результати сприяють розумінню застосування нової профілактики у педіатрії."
     ],
-    "practicalTakeaway": "Переходи на ефанесоктотоку алфа у педіатричних пацієнтів з гемофілією А можуть бути здійснені з урахуванням індивідуальних особливостей лікування.",
+    "practicalTakeaway": "Переходи на ефанесоктотоку алфа у дітей з гемофілією А можна здійснювати з урахуванням індивідуальних особливостей, але необхідно враховувати безпеку та ефективність.",
     "specialty": "гематологія",
     "tags": [
       "гемофілія",
@@ -57,27 +57,27 @@
   },
   {
     "pmid": "42216683",
-    "title": "Повернення до спорту після хірургічного лікування остеохондриту капітелярної ділянки у бейсболістів: систематичний огляд та мета-аналіз",
+    "title": "Повернення до спорту після хірургічного лікування капітелярного остеохондриту у бейсболістів: систематичний огляд та мета-аналіз",
     "journal": "The American journal of sports medicine",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує результати повернення до спорту у бейсболістів після хірургічного лікування остеохондриту капітелярної ділянки. Вивчено різні оперативні методи та їх ефективність, зокрема рівень повернення до бейсболу та покращення рухливості ліктя.",
+    "abstract": "Мета дослідження — порівняти рівень повернення до спорту у бейсболістів після різних хірургічних втручань при капітелярному остеохондриті, а також оцінити покращення рухливості ліктя. Аналіз включає дані з систематичного огляду та мета-аналізу.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216683/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Return to Sport After Surgical Treatment of Capitellar Osteochondritis Dissecans Lesions in Baseball Players: A Systematic Review and Meta-analysis.",
     "originalAbstract": "Because of the difficulty of baseball players with capitellar osteochondritis dissecans (OCD) lesions to return to sport (RTS), multiple operative strategies have been used for these lesions. However, there has yet to be a systematic review of RTS outcomes in specifically baseball players. The purpose of this study was to compare the RTS rates between surgical procedures for capitellar OCD lesions in youth baseball players, with a secondary purpose of comparing improvements in elbow range of mot",
     "keyPoints": [
-      "Рівень повернення до бейсболу після хірургічного лікування остеохондриту капітелярної ділянки у бейсболістів високий.",
-      "Різні хірургічні методи мають схожі результати щодо повернення до спорту.",
-      "Дослідження фокусується на молодих спортсменах та їх відновленні після операцій."
+      "Рівень повернення до спорту у бейсболістів після хірургічного лікування капітелярного остеохондриту вивчено у кількох дослідженнях.",
+      "Результати свідчать про різноманітність у застосовуваних хірургічних методах та їх ефективності.",
+      "Дослідження спрямоване на порівняння результатів різних хірургічних стратегій."
     ],
-    "practicalTakeaway": "Медичні фахівці можуть рекомендувати хірургічне лікування для покращення шансів повернення до бейсболу у молодих спортсменів з остеохондритом капітелярної ділянки.",
+    "practicalTakeaway": "Результати дослідження допомагають визначити найбільш ефективні хірургічні підходи для повернення бейсболістів до спорту після лікування капітелярного остеохондриту.",
     "specialty": "доказова медицина",
     "tags": [
       "спорт",
       "хірургія",
-      "відновлення"
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -88,16 +88,16 @@
     "title": "Двоноговий екзоскелет для реабілітації: дизайн, оптимізація та впровадження",
     "journal": "The International journal of artificial organs",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "У статті представлено легкий екзоскелет для реабілітації нижніх кінцівок із зручним інтерфейсом користувача. Розроблено модель за допомогою SolidWorks та проведено оптимізацію для зменшення маси. Створено модель у Simulink для симуляції роботи екзоскелета.",
+    "abstract": "У статті описано легкий екзоскелет для реабілітації нижніх кінцівок із зручним інтерфейсом користувача. Розроблено модель за допомогою SolidWorks та проведено оптимізацію для зменшення маси пристрою. Створено модель у Simulink для симуляції роботи екзоскелета.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216682/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Double-leg exoskeleton for rehabilitation: Design, optimization, and implementation.",
     "originalAbstract": "Rehabilitation exoskeletons is still an important issue to improve walking functionality and speed up treatment for patient to restore their lives faster. This paper introduces a controlled lightweight exoskeleton for lower limb rehabilitation with a friendly user interface. A model for the proposed exoskeleton design is initially developed using SolidWorks. Secondly, an optimization study is presented to minimize the total mass. Simulink model is established for the proposed exoskeleton to simu",
     "keyPoints": [
       "Розроблено легкий екзоскелет для реабілітації нижніх кінцівок.",
-      "Проведена оптимізація для зменшення маси пристрою.",
+      "Виконано оптимізацію для зменшення маси пристрою.",
       "Створено модель для симуляції роботи екзоскелета."
     ],
     "practicalTakeaway": "Розробка та оптимізація екзоскелетів може сприяти покращенню реабілітаційних процесів.",
@@ -107,32 +107,32 @@
       "екзоскелет",
       "дизайн"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "pmid": "42216681",
-    "title": "Безпечність та навчальна крива при тотально ендоскопічній пластичній операції мітрального клапана: аналіз перших 125 випадків",
+    "title": "Безпечність та навчальна крива при повністю ендоскопічній пластиці мітрального клапана: аналіз перших 125 випадків",
     "journal": "Innovations (Philadelphia, Pa.)",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження оцінює навчальну криву та періопераційні результати при застосуванні тотально ендоскопічної пластики мітрального клапана (TEMVP). Аналіз проведено на 125 пацієнтах, з використанням часу операції та ускладнень як ключових показників. Результати свідчать про можливість безпечного впровадження цієї техніки навіть на початкових етапах освоєння.",
+    "abstract": "Дослідження оцінює навчальну криву та періопераційні результати при застосуванні повністю ендоскопічної пластики мітрального клапана (TEMVP). Аналіз включає 125 пацієнтів, проведений за допомогою методу RA-CUSUM та часу операції. Навчання та безпека залишаються ключовими аспектами при впровадженні цієї техніки.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216681/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Safety and Learning Curve of Totally Endoscopic Mitral Valve Plasty: Initial 125 Cases Evaluated by Operative Time and RA-CUSUM Method.",
     "originalAbstract": "Totally endoscopic mitral valve plasty (TEMVP) requires technical proficiency, which may be insufficient during the initial adoption phase. This study evaluated the learning curve and perioperative outcomes during the early experience with TEMVP, using operation time and complications as key metrics. We retrospectively analyzed 125 consecutive patients who underwent TEMVP between October 2021 and April 2025. Despite the early adoption phase, 40 patients met criteria for complex pathology (i.e., ",
     "keyPoints": [
-      "Оцінка навчальної кривої показала зниження часу операції з досвідом.",
-      "Безпечність процедури підтверджена низьким рівнем ускладнень.",
-      "Дослідження підтверджує можливість впровадження TEMVP у клінічну практику."
+      "Оцінка навчальної кривої при TEMVP за допомогою часу операції та ускладнень.",
+      "Аналіз включає період з жовтня 2021 по квітень 2025 року.",
+      "Результати свідчать про безпечність та поступове підвищення майстерності."
     ],
-    "practicalTakeaway": "При впровадженні тотально ендоскопічної пластики мітрального клапана важливо враховувати навчальну криву для забезпечення безпеки та ефективності.",
+    "practicalTakeaway": "Впровадження повністю ендоскопічної пластики мітрального клапана вимагає часу для опанування техніки та забезпечує безпечні результати.",
     "specialty": "кардіологія",
     "tags": [
-      "хірургія",
       "кардіологія",
+      "хірургія",
       "доказова медицина"
     ],
     "priorityScore": 8,
@@ -141,27 +141,27 @@
   },
   {
     "pmid": "42216677",
-    "title": "Фармакокінетична оцінка впливу ехінацеї на рівень фавіпіравіру та атазанавіру у дослідженні на щурах",
+    "title": "Фармакокінетична оцінка атазанавіру та фавіпірувару після застосування ехінацеї: дослідження взаємодії лікарських засобів та рослинних добавок",
     "journal": "Biopharmaceutics & drug disposition",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження вивчало вплив повторного прийому ехінацеї на фармакокінетику фавіпіравіру та атазанавіру у щурів. Виявлено, що ехінацея може впливати на рівень цих препаратів у крові, що має потенційне значення для їх спільного застосування.",
+    "abstract": "Дослідження виявило, що повторне застосування ехінацеї у щурів може впливати на фармакокінетику антивірусних препаратів фавіпірувару та атазанавіру. Це підкреслює важливість врахування потенційних herb-drug взаємодій при одночасному застосуванні рослинних добавок та антивірусних ліків.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216677/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Pharmacokinetic Assessment of Atazanavir and Favipiravir Following Echinacea Supplementation: A Controlled Herb-Drug Interaction Investigation.",
     "originalAbstract": "Echinacea is a widely used herbal supplement and is frequently co-administered with antiviral drugs, raising concerns regarding potential herb-drug interactions. This study evaluated the effect of repeated Echinacea administration on the pharmacokinetics of favipiravir and atazanavir in rats. Male Sprague Dawley rats were administered Echinacea (250 mg/kg) or vehicle once daily for 10 days, followed by a single oral dose of favipiravir (70 mg/kg) or atazanavir (35 mg/kg). Plasma drug concentrati",
     "keyPoints": [
-      "Дослідження проводилось на щурах.",
-      "Вивчався вплив ехінацеї на фармакокінетику двох антивірусних препаратів.",
-      "Результати свідчать про можливий вплив ехінацеї на рівень препаратів у крові."
+      "Ехінацея може впливати на фармакокінетику антивірусних препаратів.",
+      "Дослідження проведено на щурах, що обмежує прямі висновки для людей.",
+      "Потреба у додаткових дослідженнях для визначення клінічного значення."
     ],
-    "practicalTakeaway": "При застосуванні ехінацеї разом з антивірусними препаратами слід враховувати можливий вплив на їх рівень у крові.",
+    "practicalTakeaway": "При застосуванні рослинних добавок, таких як ехінацея, слід враховувати можливий вплив на фармакокінетику призначених препаратів.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "herb-drug interaction",
       "pharmacokinetics",
-      "antiviral"
+      "antiviral drugs"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
@@ -169,27 +169,27 @@
   },
   {
     "pmid": "42216676",
-    "title": "Сучасний стан знань щодо використання медичного канабісу та ризиків інфекцій",
+    "title": "Сучасний стан знань щодо використання медичного канабісу та ризиків інфекцій: практичний посібник для клініцистів",
     "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Огляд висвітлює різноманіття продуктів канабісу, регуляторні питання, мікробне забруднення та інфекційні ризики, пов'язані з його застосуванням у США. Враховуються законодавчі особливості та відсутність єдиних стандартів.",
+    "abstract": "Огляд охоплює продукти канабісу, регуляторні питання, мікробне забруднення та інфекції, повʼязані з його застосуванням. У США регулювання здійснюється на рівні федеральних та штатних законів. Три фармацевтичні канабіноїди затверджені FDA, інші медичні продукти легальні у 40 штатах.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216676/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Current state of knowledge on medical cannabis use and risk for infections: A practical guide for clinicians.",
     "originalAbstract": "Patients and clinicians broadly support medical cannabis, but acknowledge limited understanding of products, efficacy, and safety. Here, we review cannabis products, regulatory issues, microbial contamination of cannabis, and infections linked to cannabis. In the U.S., cannabis is regulated by a patchwork of federal and state laws. Three pharmaceutical-grade cannabinoids are U.S. FDA-approved, and non-FDA-approved medical cannabis products are legal in 40 states. There are no uniform standards f",
     "keyPoints": [
-      "Медичний канабіс підтримується пацієнтами та лікарями, але його ефективність та безпека недостатньо вивчені.",
-      "У США регулювання канабісу є фрагментованим, з різними законодавчими актами на федеральному та штатному рівнях.",
-      "Існують ризики інфекцій, пов'язані з мікробним забрудненням канабісу, що потребує уваги лікарів."
+      "Медичний канабіс широко підтримується пацієнтами та клініцистами.",
+      "Регуляція канабісу в США має складний характер із різними рівнями законодавства.",
+      "Існує ризик мікробного забруднення та інфекцій, повʼязаних з використанням канабісу."
     ],
-    "practicalTakeaway": "Лікарям слід враховувати потенційні інфекційні ризики та регуляторний статус при застосуванні медичного канабісу.",
+    "practicalTakeaway": "Клініцисти повинні враховувати регуляторний статус та потенційні інфекційні ризики при застосуванні медичного канабісу.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "канабіс",
-      "інфекції",
-      "регулювання"
+      "інфекційні хвороби",
+      "медичний канабіс",
+      "різноманітність регуляцій"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
@@ -200,52 +200,52 @@
     "title": "Мультимодальне машинне навчання для ранньої оцінки ризику когнітивних порушень після інсульту",
     "journal": "Journal of Alzheimer's disease : JAD",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження спрямоване на створення та валідацію моделі машинного навчання, яка об'єднує клінічні, демографічні та нейровізуальні дані для раннього прогнозування когнітивних порушень у пацієнтів з гострим ішемічним інсультом. Модель має на меті допомогти у виявленні високоризикових пацієнтів для своєчасного втручання.",
+    "abstract": "Дослідження присвячене створенню та валідації моделі машинного навчання, яка об'єднує клінічні, демографічні та нейровізуальні дані для передбачення когнітивних порушень у пацієнтів з гострим ішемічним інсультом. Модель має на меті ранню ідентифікацію високоризикових пацієнтів для своєчасного втручання.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216673/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Multimodal machine learning for early risk stratification of post-stroke cognitive impairment.",
     "originalAbstract": "BackgroundPost-stroke cognitive impairment (PSCI) is a major vascular contributor to dementia, significantly impacting long-term recovery and quality of life. Developing accurate prediction models are essential for early identification and timely intervention in high-risk individuals.ObjectiveTo develop and validate a stacking-based multimodal machine learning model integrating clinical, demographic, and neuroimaging features for early PSCI prediction in acute ischemic stroke (AIS) patients.Meth",
     "keyPoints": [
       "Розроблено модель для передбачення когнітивних порушень після інсульту.",
       "Модель інтегрує клінічні, демографічні та нейровізуальні дані.",
-      "Мета — раннє визначення високоризикових пацієнтів для втручання."
+      "Мета — рання ідентифікація високоризикових пацієнтів."
     ],
-    "practicalTakeaway": "Мультимодальні моделі машинного навчання можуть сприяти ранній ідентифікації пацієнтів з високим ризиком когнітивних порушень після інсульту.",
+    "practicalTakeaway": "Мультимодальні моделі машинного навчання можуть допомогти у ранній діагностиці когнітивних порушень після інсульту.",
     "specialty": "неврологія",
     "tags": [
       "інсульт",
       "машинне навчання",
       "когнітивні порушення"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "pmid": "42216672",
-    "title": "Довгострокові зміни амілоїдного PET у осіб з нормальною когнітивною функцією за профілями CSF амілоїду та тау: роль APOE ε4",
+    "title": "Довгострокові зміни амілоїдного PET у осіб з нормальною когнітивною функцією та роль APOE ε4",
     "journal": "Journal of Alzheimer's disease : JAD",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язки між біомаркерами цереброспінальної рідини та ранніми довгостроковими змінами амілоїду на PET у осіб з нормальною когнітивною функцією, з урахуванням впливу носійства APOE ε4. Мета — зрозуміти механізми початкового прогресування амілоїдних змін у контексті Альцгеймерової хвороби.",
+    "abstract": "Дослідження аналізує звʼязки між біомаркерами спинномозкової рідини та ранніми змінами амілоїдних відкладень на PET у людей з нормальним когнітивним статусом, враховуючи вплив носійства APOE ε4. Виявлено, що біомаркери CSF мають значення для передбачення прогресії амілоїдних змін, що важливо для розуміння патофізіології Альцгеймерової хвороби.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216672/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Longitudinal amyloid PET changes by cerebrospinal fluid amyloid and tau profiles in individuals with normal cognition: Role of APOE ε4.",
     "originalAbstract": "BackgroundIdentifying factors associated with early progression of cortical amyloid deposition is crucial for understanding Alzheimer's disease (AD) pathophysiology, yet these remain unclear.ObjectiveTo investigate the associations of AD cerebrospinal fluid (CSF) biomarkers with early longitudinal amyloid deposition on positron emission tomography (PET), and the impact of APOE ε4 carriership.MethodsWe selected cognitively unimpaired participants with baseline data on CSF amyloid and p-tau181, AP",
     "keyPoints": [
-      "Вивчено зв'язки між біомаркерами CSF та амілоїдною депозитацією на PET.",
-      "Розглянуто вплив носійства APOE ε4 на динаміку амілоїдних змін.",
-      "Дослідження сприяє розумінню ранніх механізмів Альцгеймерової хвороби."
+      "Біомаркери CSF повʼязані з ранніми амілоїдними змінами на PET.",
+      "Носійство APOE ε4 впливає на прогресію амілоїдних відкладень.",
+      "Дослідження фокусується на осіб з нормальною когнітивною функцією."
     ],
-    "practicalTakeaway": "Результати дослідження допомагають краще зрозуміти початкові етапи розвитку Альцгеймерової хвороби, що може вплинути на ранню діагностику та профілактику.",
+    "practicalTakeaway": "Врахування біомаркерів CSF та генетичних факторів може допомогти у ранній ідентифікації ризику розвитку Альцгеймерової хвороби.",
     "specialty": "неврологія",
     "tags": [
-      "Альцгеймерова хвороба",
-      "амілойдні зміни",
-      "біомаркери"
+      "нейродегенеративні захворювання",
+      "біомаркери",
+      "генетика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -256,26 +256,26 @@
     "title": "Визначення щорічної поширеності алергічного бронхопульмонального аспергільозу (ABPA) у пацієнтів із муковісцидозом у Туреччині та ідентифікація факторів ризику його розвитку",
     "journal": "Chronic illness",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Мета дослідження — визначити щорічну поширеність ABPA у пацієнтів із муковісцидозом у Туреччині та виявити фактори ризику його виникнення. Вивчення проведене як ретроспективне когортне дослідження з використанням даних реєстру пацієнтів із муковісцидозом. Аналіз охоплює 44 ново діагностованих випадки ABPA, що дозволяє оцінити частоту та характеристики захворювання.",
+    "abstract": "Дослідження визначає щорічну поширеність ABPA у пацієнтів із муковісцидозом у Туреччині, аналізуючи клінічні та демографічні характеристики 44 нових випадків, а також ідентифікує фактори ризику розвитку цього стану.",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42216671/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-05-30T13:16:44Z",
+    "updatedAt": "2026-05-31T02:54:33Z",
     "originalTitle": "Determination of the yearly distribution of the incidence of Allergic Bronchopulmonary Aspergillosis (ABPA) in patients registered in the cystic fibrosis patient registry system of Turkey and identification of risk factors for its development.",
     "originalAbstract": "BackgroundAllergic bronchopulmonary aspergillosis (ABPA), is a hypersensitivity reaction in the lung against the antigens of Aspergillus fumigatus. The aim of this study is to determine the incidence of ABPA, and to determine the risk factors leading to the development of ABPA.MethodsThe study was designed as a retrospective cohort study. Using the CF Registry System of Turkey data, the incidence of ABPA was determined and the clinical and demographic characteristics of 44 patients newly diagnos",
     "keyPoints": [
-      "Визначено щорічну поширеність ABPA у пацієнтів із муковісцидозом у Туреччині.",
-      "Проаналізовано клінічні та демографічні характеристики пацієнтів.",
-      "Ідентифіковано потенційні фактори ризику розвитку ABPA."
+      "Дослідження встановлює щорічну поширеність ABPA у пацієнтів із муковісцидозом.",
+      "Аналізуються клінічні та демографічні характеристики нових випадків.",
+      "Ідентифіковані фактори ризику розвитку ABPA."
     ],
-    "practicalTakeaway": "Дослідження підкреслює важливість моніторингу пацієнтів із муковісцидозом для раннього виявлення ABPA та врахування факторів ризику.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Виявлення факторів ризику ABPA може допомогти у ранній діагностиці та профілактиці у пацієнтів із муковісцидозом.",
+    "specialty": "пульмонологія",
     "tags": [
-      "муковісцидоз",
-      "ABPA",
-      "фактори ризику"
+      "доказова медицина",
+      "загальнонаціональний",
+      "дослідження"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
