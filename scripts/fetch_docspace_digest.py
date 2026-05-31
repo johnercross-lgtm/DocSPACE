@@ -83,7 +83,19 @@ def extract_message_id(url):
     if not url:
         return ""
 
-    return url.rstrip("/").split("/")[-1]
+    try:
+        parsed = urllib.parse.urlparse(url)
+        last_part = parsed.path.rstrip("/").split("/")[-1]
+
+        match = re.search(r"\d+", last_part)
+
+        if match:
+            return match.group(0)
+
+        return last_part
+
+    except Exception:
+        return url.rstrip("/").split("/")[-1]
 
 
 def extract_image_url(block):
@@ -186,15 +198,15 @@ def choose_best_photo(photo_sizes):
     def score(photo):
         file_size = photo.get("file_size") or 0
         pixels = (photo.get("width") or 0) * (photo.get("height") or 0)
-        return (file_size, pixels)
+        return (pixels, file_size)
 
     return max(photo_sizes, key=score)
 
 
-def extension_from_file_path(file_path, fallback):
+def extension_from_file_path(file_path, fallback=".jpg"):
     suffix = Path(file_path or "").suffix.lower()
 
-    if suffix:
+    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif"}:
         return suffix
 
     return fallback
@@ -206,7 +218,7 @@ def extension_from_document(document, fallback=".bin"):
 
     suffix = Path(file_name).suffix.lower()
 
-    if suffix:
+    if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif"}:
         return suffix
 
     if mime_type == "image/png":
@@ -218,7 +230,53 @@ def extension_from_document(document, fallback=".bin"):
     if mime_type == "image/webp":
         return ".webp"
 
+    if mime_type == "image/gif":
+        return ".gif"
+
     return fallback
+
+
+def extension_from_content_type(content_type, fallback=".jpg"):
+    content_type = (content_type or "").split(";")[0].strip().lower()
+
+    if content_type == "image/png":
+        return ".png"
+
+    if content_type in {"image/jpeg", "image/jpg"}:
+        return ".jpg"
+
+    if content_type == "image/webp":
+        return ".webp"
+
+    if content_type == "image/gif":
+        return ".gif"
+
+    return fallback
+
+
+def extension_from_url(url, fallback=".jpg"):
+    try:
+        parsed = urllib.parse.urlparse(url)
+        suffix = Path(parsed.path).suffix.lower()
+
+        if suffix in {".jpg", ".jpeg", ".png", ".webp", ".gif"}:
+            return suffix
+
+    except Exception:
+        pass
+
+    return fallback
+
+
+def safe_filename_part(value):
+    value = str(value or "").strip()
+    value = re.sub(r"[^a-zA-Z0-9_-]+", "_", value)
+    value = value.strip("_")
+
+    if not value:
+        return "unknown"
+
+    return value[:80]
 
 
 def public_image_url(filename):
@@ -243,6 +301,24 @@ def extract_local_digest_image_filename(image_url):
         return ""
 
 
+def find_existing_digest_image(message_id):
+    if not IMAGE_DIR.exists():
+        return ""
+
+    safe_message_id = safe_filename_part(message_id)
+    pattern = f"docspace_digest_{safe_message_id}_*"
+
+    files = sorted(
+        path for path in IMAGE_DIR.glob(pattern)
+        if path.is_file() and not path.name.startswith(".")
+    )
+
+    if not files:
+        return ""
+
+    return public_image_url(files[0].name)
+
+
 def cleanup_unused_digest_images(posts):
     if not IMAGE_DIR.exists():
         print("[DocSPACE Digest] image cleanup skipped: image directory does not exist")
@@ -261,6 +337,9 @@ def cleanup_unused_digest_images(posts):
 
     for path in IMAGE_DIR.iterdir():
         if not path.is_file():
+            continue
+
+        if path.name.startswith("."):
             continue
 
         if path.name in used_filenames:
@@ -286,8 +365,11 @@ def cleanup_unused_digest_images(posts):
 def save_digest_image(message_id, kind, data, extension):
     IMAGE_DIR.mkdir(parents=True, exist_ok=True)
 
+    safe_message_id = safe_filename_part(message_id)
+    safe_kind = safe_filename_part(kind)
     safe_extension = extension if extension.startswith(".") else f".{extension}"
-    filename = f"docspace_digest_{message_id}_{kind}{safe_extension}"
+
+    filename = f"docspace_digest_{safe_message_id}_{safe_kind}{safe_extension}"
     path = IMAGE_DIR / filename
 
     path.write_bytes(data)
@@ -356,6 +438,90 @@ def extract_bot_image_for_message(message):
                     return save_digest_image(message_id, f"photo_{size_part}", data, extension)
 
     return ""
+
+
+def download_external_image(url):
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Referer": f"https://t.me/s/{CHANNEL_USERNAME}",
+            "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            "Cache-Control": "no-cache",
+        },
+    )
+
+    with urllib.request.urlopen(req, timeout=60) as response:
+        data = response.read()
+        content_type = response.headers.get("Content-Type", "")
+
+    return data, content_type
+
+
+def localize_html_fallback_image(message_id, image_url):
+    if not image_url:
+        return ""
+
+    if extract_local_digest_image_filename(image_url):
+        return image_url
+
+    try:
+        data, content_type = download_external_image(image_url)
+
+        if not data:
+            existing = find_existing_digest_image(message_id)
+
+            if existing:
+                print(
+                    f"[DocSPACE Digest] empty HTML image download, "
+                    f"using existing local image message_id={message_id}"
+                )
+                return existing
+
+            return image_url
+
+        content_type_clean = (content_type or "").split(";")[0].strip().lower()
+
+        if content_type_clean and not content_type_clean.startswith("image/"):
+            existing = find_existing_digest_image(message_id)
+
+            if existing:
+                print(
+                    f"[DocSPACE Digest] HTML image response is not image "
+                    f"content_type={content_type}, using existing local image "
+                    f"message_id={message_id}"
+                )
+                return existing
+
+            print(
+                f"[DocSPACE Digest] HTML image response is not image "
+                f"content_type={content_type}, keeping original URL "
+                f"message_id={message_id}"
+            )
+            return image_url
+
+        extension = extension_from_content_type(
+            content_type,
+            extension_from_url(image_url, ".jpg")
+        )
+
+        return save_digest_image(message_id, "html", data, extension)
+
+    except Exception as error:
+        existing = find_existing_digest_image(message_id)
+
+        if existing:
+            print(
+                f"[DocSPACE Digest] failed to localize HTML image "
+                f"message_id={message_id}, using existing local image: {error}"
+            )
+            return existing
+
+        print(
+            f"[DocSPACE Digest] failed to localize HTML image "
+            f"message_id={message_id}: {error}"
+        )
+        return image_url
 
 
 def build_bot_image_map():
@@ -492,6 +658,8 @@ def parse_posts(page):
 
 
 def main():
+    IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+
     page = fetch_html(URL)
     posts = parse_posts(page)
     bot_image_map = build_bot_image_map()
@@ -504,6 +672,13 @@ def main():
         if message_id in bot_image_map:
             post["imageUrl"] = bot_image_map[message_id]
             print(f"[DocSPACE Digest] using bot image for message_id={message_id}")
+
+        elif post.get("imageUrl"):
+            post["imageUrl"] = localize_html_fallback_image(
+                message_id,
+                post.get("imageUrl", "")
+            )
+            print(f"[DocSPACE Digest] localized HTML image for message_id={message_id}")
 
         post.pop("_messageId", None)
 
