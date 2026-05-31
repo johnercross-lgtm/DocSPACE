@@ -1,196 +1,195 @@
 name: Update DocSPACE Digest Feed
 
 on:
-schedule:
-- cron: "15 */6 * * *"
-workflow_dispatch:
-inputs:
-source:
-required: false
-default: "manual"
-telegram_message_id:
-required: false
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      source:
+        required: false
+        default: "manual"
+      telegram_message_id:
+        required: false
 
 permissions:
-contents: write
+  contents: write
 
 concurrency:
-group: docspace-digest-feed
-cancel-in-progress: false
+  group: docspace-digest-feed
+  cancel-in-progress: false
 
 jobs:
-update:
-runs-on: ubuntu-latest
+  update:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Setup Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.11"
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-  - name: Prepare digest folders
-    run: |
-      mkdir -p data
-      mkdir -p data/docspace-digest-images
+      - name: Prepare digest folders
+        run: |
+          mkdir -p data
+          mkdir -p data/docspace-digest-images
 
-  - name: Check secrets
-    env:
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
-    run: |
-      if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
-        echo "TELEGRAM_BOT_TOKEN is missing"
-        exit 1
-      fi
+      - name: Check secrets
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
+            echo "TELEGRAM_BOT_TOKEN is missing"
+            exit 1
+          fi
 
-      if [ -z "$TELEGRAM_WEBHOOK_URL" ]; then
-        echo "TELEGRAM_WEBHOOK_URL is missing"
-        exit 1
-      fi
+          if [ -z "$TELEGRAM_WEBHOOK_URL" ]; then
+            echo "TELEGRAM_WEBHOOK_URL is missing"
+            exit 1
+          fi
 
-      echo "Secrets are present"
+          echo "Secrets are present"
 
-  - name: Temporarily delete Telegram webhook
-    env:
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-    run: |
-      python3 - <<'PY'
-      import os
-      import json
-      import urllib.request
-      import urllib.error
-      import sys
+      - name: Temporarily delete Telegram webhook
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import json
+          import urllib.request
+          import urllib.error
+          import sys
 
-      token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+          token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
 
-      if not token:
-          print("TELEGRAM_BOT_TOKEN is missing")
-          sys.exit(1)
+          if not token:
+              print("TELEGRAM_BOT_TOKEN is missing")
+              sys.exit(1)
 
-      url = f"https://api.telegram.org/bot{token}/deleteWebhook?drop_pending_updates=false"
+          url = f"https://api.telegram.org/bot{token}/deleteWebhook?drop_pending_updates=false"
 
-      try:
-          with urllib.request.urlopen(url, timeout=30) as response:
-              body = response.read().decode("utf-8")
+          try:
+              with urllib.request.urlopen(url, timeout=30) as response:
+                  body = response.read().decode("utf-8")
+                  print(body)
+
+                  result = json.loads(body)
+                  if not result.get("ok"):
+                      print("Telegram deleteWebhook returned ok=false")
+                      sys.exit(1)
+
+          except urllib.error.HTTPError as error:
+              body = error.read().decode("utf-8", errors="ignore")
+              print(f"Telegram deleteWebhook HTTP error: {error.code}")
               print(body)
+              sys.exit(1)
 
-              result = json.loads(body)
-              if not result.get("ok"):
-                  print("Telegram deleteWebhook returned ok=false")
-                  sys.exit(1)
+          except Exception as error:
+              print(f"Telegram deleteWebhook failed: {error}")
+              sys.exit(1)
+          PY
 
-      except urllib.error.HTTPError as error:
-          body = error.read().decode("utf-8", errors="ignore")
-          print(f"Telegram deleteWebhook HTTP error: {error.code}")
-          print(body)
-          sys.exit(1)
+      - name: Run DocSPACE digest fetcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python scripts/fetch_docspace_digest.py
 
-      except Exception as error:
-          print(f"Telegram deleteWebhook failed: {error}")
-          sys.exit(1)
-      PY
+      - name: Restore Telegram webhook
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import json
+          import urllib.parse
+          import urllib.request
+          import urllib.error
+          import sys
 
-  - name: Run DocSPACE digest fetcher
-    env:
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-    run: |
-      python scripts/fetch_docspace_digest.py
+          token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+          webhook_url = os.environ.get("TELEGRAM_WEBHOOK_URL", "").strip()
 
-  - name: Restore Telegram webhook
-    if: always()
-    env:
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_WEBHOOK_URL: ${{ secrets.TELEGRAM_WEBHOOK_URL }}
-    run: |
-      python3 - <<'PY'
-      import os
-      import json
-      import urllib.parse
-      import urllib.request
-      import urllib.error
-      import sys
+          if not token:
+              print("TELEGRAM_BOT_TOKEN is missing, cannot restore webhook")
+              sys.exit(1)
 
-      token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-      webhook_url = os.environ.get("TELEGRAM_WEBHOOK_URL", "").strip()
+          if not webhook_url:
+              print("TELEGRAM_WEBHOOK_URL is missing, cannot restore webhook")
+              sys.exit(1)
 
-      if not token:
-          print("TELEGRAM_BOT_TOKEN is missing, cannot restore webhook")
-          sys.exit(1)
+          if not webhook_url.startswith("https://"):
+              print(f"Invalid TELEGRAM_WEBHOOK_URL: {webhook_url}")
+              print("Telegram webhook URL must start with https://")
+              sys.exit(1)
 
-      if not webhook_url:
-          print("TELEGRAM_WEBHOOK_URL is missing, cannot restore webhook")
-          sys.exit(1)
+          payload = urllib.parse.urlencode({
+              "url": webhook_url,
+              "allowed_updates": json.dumps(["channel_post", "edited_channel_post"])
+          }).encode("utf-8")
 
-      if not webhook_url.startswith("https://"):
-          print(f"Invalid TELEGRAM_WEBHOOK_URL: {webhook_url}")
-          print("Telegram webhook URL must start with https://")
-          sys.exit(1)
+          api_url = f"https://api.telegram.org/bot{token}/setWebhook"
 
-      payload = urllib.parse.urlencode({
-          "url": webhook_url,
-          "allowed_updates": json.dumps(["channel_post", "edited_channel_post"])
-      }).encode("utf-8")
+          req = urllib.request.Request(
+              api_url,
+              data=payload,
+              headers={
+                  "Content-Type": "application/x-www-form-urlencoded",
+                  "User-Agent": "DocSPACE Digest Workflow/1.0"
+              },
+              method="POST"
+          )
 
-      api_url = f"https://api.telegram.org/bot{token}/setWebhook"
+          try:
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  body = response.read().decode("utf-8")
+                  print(body)
 
-      req = urllib.request.Request(
-          api_url,
-          data=payload,
-          headers={
-              "Content-Type": "application/x-www-form-urlencoded",
-              "User-Agent": "DocSPACE Digest Workflow/1.0"
-          },
-          method="POST"
-      )
+                  result = json.loads(body)
+                  if not result.get("ok"):
+                      print("Telegram setWebhook returned ok=false")
+                      sys.exit(1)
 
-      try:
-          with urllib.request.urlopen(req, timeout=30) as response:
-              body = response.read().decode("utf-8")
+          except urllib.error.HTTPError as error:
+              body = error.read().decode("utf-8", errors="ignore")
+              print(f"Telegram setWebhook HTTP error: {error.code}")
               print(body)
+              sys.exit(1)
 
-              result = json.loads(body)
-              if not result.get("ok"):
-                  print("Telegram setWebhook returned ok=false")
-                  sys.exit(1)
+          except Exception as error:
+              print(f"Telegram setWebhook failed: {error}")
+              sys.exit(1)
+          PY
 
-      except urllib.error.HTTPError as error:
-          body = error.read().decode("utf-8", errors="ignore")
-          print(f"Telegram setWebhook HTTP error: {error.code}")
-          print(body)
-          sys.exit(1)
+      - name: Validate feeds
+        run: |
+          python scripts/validate_feeds.py
 
-      except Exception as error:
-          print(f"Telegram setWebhook failed: {error}")
-          sys.exit(1)
-      PY
+      - name: Commit updated DocSPACE digest feed
+        run: |
+          git config user.name "docspace-bot"
+          git config user.email "docspace-bot@users.noreply.github.com"
 
-  - name: Validate feeds
-    run: |
-      python scripts/validate_feeds.py
+          mkdir -p data/docspace-digest-images
 
-  - name: Commit updated DocSPACE digest feed
-    run: |
-      git config user.name "docspace-bot"
-      git config user.email "docspace-bot@users.noreply.github.com"
+          git add data/docspace-digest-feed.json
 
-      mkdir -p data/docspace-digest-images
+          if find data/docspace-digest-images -type f | grep -q .; then
+            git add data/docspace-digest-images/
+          else
+            echo "No DocSPACE digest images to add"
+          fi
 
-      git add data/docspace-digest-feed.json
+          if git diff --cached --quiet; then
+            echo "No DocSPACE digest feed changes"
+            exit 0
+          fi
 
-      if find data/docspace-digest-images -type f | grep -q .; then
-        git add data/docspace-digest-images/
-      else
-        echo "No DocSPACE digest images to add"
-      fi
-
-      if git diff --cached --quiet; then
-        echo "No DocSPACE digest feed changes"
-        exit 0
-      fi
-
-      git commit -m "Update DocSPACE digest feed"
-      git push
+          git commit -m "Update DocSPACE digest feed"
+          git push
