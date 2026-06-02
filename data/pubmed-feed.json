@@ -1,281 +1,264 @@
 [
   {
-    "pmid": "42224017",
-    "title": "Навчання фахівців у сфері психічного здоров'я для покращення співпраці з родинами",
-    "journal": "Psychiatric rehabilitation journal",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Співпраця фахівців з родинами дорослих із серйозними психічними та поведінковими розладами може сприяти їхньому одужанню. Однак існують перешкоди, що ускладнюють таку співпрацю, і фахівцям потрібне спеціальне навчання для їх подолання. У статті описуються бар'єри, доступні програми навчання та ініціативи, що сприяють покращенню співпраці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224017/",
+    "pmid": "42224832",
+    "title": "Фактори, що впливають на гістологічні результати МРТ-керованих біопсій у зоні лімпектомії",
+    "journal": "Clinical imaging",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження аналізує звʼязок між клінічними та МРТ-ознаками і гістологічними результатами вакуум-асистованих біопсій у зоні лімпектомії після хірургічного лікування злоякісних молочних залоз. Вивчено дані з 2016 по 2022 рік, визначаючи фактори, що асоціюються з доброякісними або злоякісними результатами.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224832/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Behavioral health provider training to enhance family partnerships.",
-    "originalAbstract": "Providers' partnership with families of adults with serious mental health and other behavioral health conditions can be a powerful recovery tool. Multiple barriers complicate family partnerships, and providers require training to overcome these obstacles. This article describes barriers to family partnerships, the state of available training in empirically based strategies, provider interest, and an accessible training initiative that can lay a foundation for bridging this gap. A national online",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Factors associated with histological outcomes of MRI-guided biopsy in the lumpectomy bed.",
+    "originalAbstract": "To evaluate the association between clinical and MRI characteristics and histological outcomes of MRI-guided vacuum-assisted biopsies (MVAB) performed in the lumpectomy bed after malignant breast-conserving surgery (BCT). This retrospective study analyzed all MVABs performed in malignant lumpectomy beds between 2016 and 2022, evaluating the relationship between demographic and imaging characteristics and pathological outcomes (benign vs. malignant) using appropriate statistical methods. Malignan",
     "keyPoints": [
-      "Обговорюються перешкоди у співпраці з родинами пацієнтів із серйозними психічними розладами.",
-      "Розглядаються доступні програми навчання для фахівців у сфері психічного здоров'я.",
-      "Запропоновано онлайн-ініціативу для підвищення кваліфікації та покращення співпраці."
+      "Аналізуються фактори, що впливають на результати біопсій у зоні лімпектомії.",
+      "Вивчено звʼязок між МРТ-ознаками та гістологічним діагнозом.",
+      "Результати допомагають у прогнозуванні гістологічних результатів біопсій."
     ],
-    "practicalTakeaway": "Розвиток навичок співпраці з родинами може покращити результати лікування пацієнтів із серйозними психічними розладами.",
-    "specialty": "психіатрія",
+    "practicalTakeaway": "Результати дослідження можуть допомогти у прогнозуванні гістологічних результатів МРТ-керованих біопсій у зоні лімпектомії.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
-      "психічне здоров'я",
-      "професійне навчання",
-      "родинна співпраця"
+      "МРТ",
+      "біопсія",
+      "злоякісні пухлини"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42224830",
+    "title": "Зниження аутофагії під час старіння: молекулярне регулювання, тканинна специфічність та терапевтичний потенціал",
+    "journal": "Pathology, research and practice",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "З віком спостерігається зниження активності аутофагії, що сприяє накопиченню пошкоджених органел та білків, порушуючи протеостаз. Аутофагія є ключовим механізмом клітинного очищення, що підтримує їх нормальне функціонування. Вивчення молекулярних механізмів регуляції та тканинної специфічності може сприяти розвитку терапевтичних стратегій для уповільнення процесів старіння.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224830/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Autophagy decline during ageing: Molecular regulation, tissue specificity, and therapeutic potential.",
+    "originalAbstract": "During ageing, cell regulation has declined, as indicated by the buildup of damaged organelles and macromolecules and impaired proteostasis. Autophagy is a lysosome-based cell self-digestion mechanism that removes \"cellular waste,\" which includes damaged organelles and abnormally altered proteins or protein aggregates. Thus, autophagy is a mechanism that is effective in maintaining normal cellular functioning via regulating the quality of proteins and organelles. However, ageing tissues and seve",
+    "keyPoints": [
+      "Аутофагія зменшується з віком, що сприяє накопиченню пошкоджених клітинних компонентів.",
+      "Молекулярне регулювання аутофагії є потенційною ціллю для терапії старіння.",
+      "Тканинна специфічність зниження аутофагії може впливати на розвиток вікових захворювань."
+    ],
+    "practicalTakeaway": "Дослідження механізмів регуляції аутофагії може допомогти у розробці терапевтичних підходів для уповільнення старіння.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "старіння",
+      "аутофагія",
+      "терапевтичний потенціал"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42224015",
-    "title": "Оцінка фізіологічного показника функції легень та біологічної статі за допомогою машинного навчання",
-    "journal": "JMIR AI",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізувало можливість прогнозування віку легень та біологічної статі на основі даних тестів функції легень за допомогою моделей машинного навчання. Вивчено дані 6392 здорових дорослих з трьох регіонів клініки Майо. Розроблено та порівняно кілька моделей для передбачення цих параметрів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224015/",
+    "pmid": "42224829",
+    "title": "New insights in tumor-on-a-chip models for studying cancer drug resistance.",
+    "journal": "Pathology, research and practice",
+    "publishedAt": "2026-05-27T00:00:00Z",
+    "abstract": "Cancer presents significant challenges due to its high incidence, frequent recurrence, elevated mortality, and generally poor prognosis, making it a serious threat to human life and an obstacle to societal progress. A major difficulty in cancer treatment is the development of drug resistance, which undermines the effectiveness of therapies and limits patient survival, creating a substantial challenge for clinical oncology. In-vitro models, such as two-dimensional (2D) and three-dimensional (3D)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224829/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Estimating a Physiological Lung Function Score and Biological Sex Using Pulmonary Function Tests and Machine Learning: Retrospective Study.",
-    "originalAbstract": "Sex and age have long been known to affect lung function. Several biological variables and anatomical factors may contribute to sex- and age-related differences in pulmonary metrics. We hypothesized that a machine learning model could be trained to predict a person's lung age and self-reported sex using pulmonary function test data. We retrospectively analyzed complete pulmonary function tests from 6392 healthy adults across 3 Mayo Clinic regions. Four models of increasing complexity were traine",
+    "updatedAt": "2026-06-02T03:27:46Z"
+  },
+  {
+    "pmid": "42224828",
+    "title": "Клінічна інерція у пацієнтів з цукровим діабетом 2 типу в Японії: ретроспективне дослідження",
+    "journal": "Journal of diabetes and its complications",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження аналізує рівень клінічної інерції у лікуванні цукрового діабету 2 типу в Японії за допомогою електронної медичної бази даних. Вивчено пацієнтів віком від 18 років, які починали монотерапію пероральними цукрознижувальними препаратами у період з 2014 по 2022 роки. Клінічна інерція визначається відсутністю посилення терапії протягом 180 днів після початку лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224828/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Clinical inertia in patients with type 2 diabetes: A retrospective cohort study using an electronic healthcare database in Japan.",
+    "originalAbstract": "To describe clinical inertia in type 2 diabetes treatment in Japan using a large electronic healthcare database. This retrospective new user cohort study used electronic medical records from the Health, Clinic, and Education Information Evaluation Institute database. Patients aged ≥18 years with type 2 diabetes receiving initial oral antidiabetic monotherapy between April 2014 and August 2022 were included. Clinical inertia was defined as the absence of treatment intensification for 180 days aft",
     "keyPoints": [
-      "Модель машинного навчання може прогнозувати вік легень та біологічну стать.",
-      "Дослідження базується на даних тестів функції легень здорових дорослих.",
-      "Розроблено кілька моделей різної складності для аналізу даних."
+      "Дослідження виявляє рівень клінічної інерції у лікуванні цукрового діабету 2 типу.",
+      "Аналіз базується на електронних медичних записах японської бази даних.",
+      "Вивчено пацієнтів, які починали монотерапію з 2014 по 2022 роки."
     ],
-    "practicalTakeaway": "Моделі машинного навчання мають потенціал для аналізу функціональних показників легень та визначення біологічної статі на основі тестів.",
-    "specialty": "пульмонологія",
+    "practicalTakeaway": "Результати дослідження підкреслюють важливість своєчасного коригування терапії для покращення управління цукровим діабетом.",
+    "specialty": "ендокринологія",
     "tags": [
-      "машинне навчання",
-      "функція легень",
-      "біологічна стать"
+      "цукровий діабет",
+      "клінічна інерція",
+      "японія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42224013",
-    "title": "Гібридне секвенування виявляє неповноту референтного геному Mycobacterium tuberculosis та лінійно-специфічні геномні відмінності",
-    "journal": "Microbial genomics",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження застосувало гібридне секвенування для створення високоякісних збірок геномів штамів Mycobacterium tuberculosis, зокрема з ліній Вікторії та Бейжін. Виявлено, що референтний геном H37Rv (Лінія 4), секвенований у 1998 році, може бути неповним та неточним через технологічні обмеження того часу. Результати підкреслюють наявність лінійно-специфічних геномних відмінностей, що мають значення для діагностики та досліджень у регіонах з домінуванням лінії Бейжін (Лінія 2).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224013/",
+    "pmid": "42224826",
+    "title": "NRAC: новий регулятор метаболізму жирних кислот у тканинах",
+    "journal": "Biochemical and biophysical research communications",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження виявили, що NRAC є регулятором, що реагує на рівень поживних речовин і впливає на метаболізм жирних кислот у тканинах, зокрема у жировій тканині та серці. Його активність змінюється залежно від прийому їжі, голодування та ожиріння, і він взаємодіє з білком CD36 для регуляції його функцій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224826/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Hybrid sequencing reveals incompleteness of the H37Rv reference genome and highlights lineage-specific genomic divergence in Mycobacterium tuberculosis.",
-    "originalAbstract": "Background. The Mycobacterium tuberculosis H37Rv reference genome (Lineage 4), sequenced in 1998, may be incomplete and inaccurate due to earlier technology. Moreover, its use is problematic in regions like East Asia where the dominant Beijing lineage (Lineage 2) is prevalent, as it may introduce biases due to lineage-specific genetic differences.Methods. We performed hybrid sequencing to generate high-quality assemblies of a clinically isolated Beijing family strain (A2018772) and a Chinese lab",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "NRAC: an emerging nutrient-responsive regulator of tissue-specific fatty acid metabolism.",
+    "originalAbstract": "Fatty acid (FA) uptake is coordinated across tissues to maintain metabolic homeostasis, yet the mechanisms underlying tissue-specific regulation remain incompletely understood. NRAC has emerged as a nutrient-responsive, tissue-restricted factor enriched in adipose tissue and heart in both mice and humans. Mouse studies show that Nrac is dynamically regulated by feeding, fasting, and obesity in a tissue-specific manner. Recent work further shows that NRAC interacts with CD36 to regulate CD36-depe",
     "keyPoints": [
-      "Референтний геном H37Rv може бути неповним.",
-      "Виявлено лінійно-специфічні геномні відмінності.",
-      "Застосування сучасних технологій покращує якість геномних збірок."
+      "NRAC є тканинно-специфічним регулятором метаболізму жирних кислот.",
+      "Його активність залежить від режиму харчування та стану організму.",
+      "NRAC взаємодіє з CD36 для регуляції метаболічних процесів."
     ],
-    "practicalTakeaway": "Використання сучасних методів секвенування важливе для точнішого дослідження геномів Mycobacterium tuberculosis.",
+    "practicalTakeaway": "Розуміння ролі NRAC може сприяти розробці нових стратегій регулювання метаболізму жирних кислот.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "метаболізм жирних кислот",
+      "NRAC",
+      "тканинна регуляція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42224823",
+    "title": "Загальнонаціональний спалах Burkholderia stabilis у відділенні інтенсивної терапії, спричинений використанням ультразвукових гелів",
+    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "У жовтні 2024 року у відділенні інтенсивної терапії лікарні в Мадриді було виявлено спалах п’яти пацієнтів із позитивними кров'яними культурами на Burkholderia stabilis. Мікроорганізм належить до комплексу Burkholderia cepacia, що є грам-негативними бактеріями, поширеними в навколишньому середовищі та здатними викликати інфекції у імунокомпрометованих пацієнтів. Студія описує зв’язок між використанням ультразвукових гелів і поширенням інфекції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224823/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Nosocomial outbreak of Burkholderia stabilis related to the use of ultrasound gels in the Intensive Care Unit of the Hospital Universitario de La Princesa, Madrid.",
+    "originalAbstract": "Burkholderia cepacian complex (Bcc) is a group of bacterial species which are phenotypically diverse and ubiquitous in the environment. They are gram-negative bacilli and opportunistic pathogens, infecting patients that are immunosuppressed, hospitalized and/or diagnosed with cystic fibrosis. In October 2024, an outbreak of five patients with positive blood culture for Burkholderia stabilis was detected in the Intensive Care Unit of a terciary care hospital. The aim of this article is to describ",
+    "keyPoints": [
+      "Виявлено спалах Burkholderia stabilis у відділенні інтенсивної терапії.",
+      "Мікроорганізм належить до комплексу Burkholderia cepacia.",
+      "Спалах був пов’язаний із застосуванням ультразвукових гелів."
+    ],
+    "practicalTakeaway": "Необхідно контролювати використання медичних засобів для запобігання поширенню інфекцій.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "геноміка",
-      "Mycobacterium tuberculosis",
-      "секвенування"
+      "інфекційні хвороби",
+      "загальнонаціональний",
+      "спалах"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42224011",
-    "title": "Розробка класифікаційної системи для кардіоваскулярно-нирково-метаболічного синдрому",
-    "journal": "JMIR diabetes",
+    "pmid": "42224822",
+    "title": "Антимікробна чутливість ускладнених уретерогематогених інфекцій сечовивідних шляхів у громаді в Іспанії: багатоцентрове дослідження GEIAP-SEIMC",
+    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
     "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження присвячене створенню системи кодування для кардіоваскулярно-нирково-метаболічного синдрому (ККМ), що описує взаємозв'язок ризик-факторів, хронічної хвороби нирок та серцево-судинних захворювань. Враховуючи відсутність єдиного коду ICD-10-CM для ККМ, розроблено рамки для його ідентифікації та класифікації у медичних системах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224011/",
+    "abstract": "Дослідження аналізує профілі антимікробної чутливості бактерій, що викликають уретерогематогенні інфекції сечовивідних шляхів у громаді Іспанії. Виявлено зростання резистентності до стандартних препаратів серед Enterobacterales та Pseudomonas aeruginosa, що ускладнює емпірське лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224822/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Cardiovascular-Kidney-Metabolic Syndrome: Development of an ICD-10-CM Coding Framework.",
-    "originalAbstract": "Cardiovascular-kidney-metabolic (CKM) syndrome is a multisystem construct describing the intertwined progression of cardiometabolic risk factors, chronic kidney disease (CKD), and cardiovascular disease. The American Heart Association (AHA) proposed CKM stages (0-4) for risk stratification and prevention. However, CKM lacks a single ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification) code, which hinders standardized stage identification in electronic healt",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Antimicrobial susceptibility profile of multidrug-resistant uropathogens in community-acquired urinary tract infections in Spain: A multicenter GEIAP-SEIMC study.",
+    "originalAbstract": "Urinary tract infections are one of the leading causes of antibiotic prescribing in Primary Care and they generate a high volume of urine cultures in Microbiology laboratories. The empirical management of these infections has been complicated by the increase in antimicrobial resistance. To evaluate the antimicrobial susceptibility profiles of extended-spectrum β-lactamase (ESBL) and/or carbapenemase-producing Enterobacterales and Pseudomonas aeruginosa isolated from urine samples of patients att",
     "keyPoints": [
-      "Розроблено систему кодування для ККМ.",
-      "Допомагає стандартизувати ідентифікацію стану.",
-      "Покращує можливості електронної медичної документації."
+      "Зростання резистентності бактерій до стандартних антибіотиків.",
+      "Виявлення ESBL та карбапенемазопозитивних бактерій у сечі.",
+      "Потреба у моніторингу антимікробної чутливості для оптимізації терапії."
     ],
-    "practicalTakeaway": "Створена система кодування сприяє більшій точності в діагностиці та дослідженнях ККМ.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Необхідно враховувати високий рівень резистентності при виборі емпіричної терапії інфекцій сечовивідних шляхів.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "кардіологія",
-      "нефрологія",
-      "метаболізм"
+      "антибіотикорезистентність",
+      "урологія",
+      "інфекційні хвороби"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42224010",
-    "title": "Дослідження прийняття клінічних рішень у данських психіатричних закладах щодо принципу мінімальних обмежень",
-    "journal": "Issues in mental health nursing",
+    "pmid": "42224821",
+    "title": "Спалах криптоспоридіозу внаслідок водних розваг у центральному парку",
+    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
     "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізує, як працівники психіатричних закладів у Данії застосовують принцип мінімальних обмежень у своїй практиці. Вказано, що застосування обмежувальних заходів викликає суперечки через порушення прав людини та автономії пацієнтів. Закон підтримує використання найменш обмежувальних методів для збереження прав пацієнтів і їх автономії. Попередні дослідження показують, що працівники психіатрії мають різні підходи до реалізації цього принципу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224010/",
+    "abstract": "У 2023 році в Іспанії зафіксовано несподіване зростання випадків криптоспоридіозу, з особливим впливом у Валенсійській області. Проведено ретроспективне дослідження у медичному окрузі Валенсія-Doctor Peset, яке включало випадки з виявленням Cryptosporidium у калових зразках за допомогою модифікованого забарвлення Зіль-Нельсена.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224821/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "An Exploration of Danish Forensic Hospital Staffs' Clinical Decision-Making about the Least Restrictive Alternative Principle.",
-    "originalAbstract": "The use of restrictive interventions within mental health care is greatly disputed and conflicts with human rights and autonomy principles. The least restrictive alternative principle was enacted in law to support mentally ill individuals' constitutional rights. The least restrictive alternative principle encourages staff to offer service users' the least restrictive treatment, preserving patient autonomy at the highest level possible. Previous studies identified that mental health staff have co",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Cryptosporidiosis outbreak associated with recreational water exposure in a central park.",
+    "originalAbstract": "Cryptosporidiosis is a gastrointestinal disease transmitted via the faecal-oral route, associated with waterborne outbreaks, particularly in summer. In 2023, an unusual increase in cases was detected in Spain, with particular impact in the Valencian Community. A retrospective descriptive study (June-November 2023) was conducted in the Valencia-Doctor Peset Health Department (population 288,583), including cases with Cryptosporidium detection in stool samples by modified Ziehl-Neelsen staining an",
     "keyPoints": [
-      "Дослідження фокусується на Данії.",
-      "Аналізує застосування принципу мінімальних обмежень.",
-      "Вказує на суперечки щодо обмежувальних заходів у психіатрії."
+      "Зростання випадків криптоспоридіозу у 2023 році в Іспанії.",
+      "Зв'язок з водними розвагами у центральному парку.",
+      "Дослідження включало аналіз калових зразків."
     ],
-    "practicalTakeaway": "Працівники психіатричних закладів повинні враховувати законодавство та етичні норми при застосуванні обмежувальних заходів.",
+    "practicalTakeaway": "Необхідно враховувати ризик криптоспоридіозу при водних розвагах у громадських парках.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "водні розваги",
+      "інфекційні хвороби",
+      "спалах"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42224817",
+    "title": "Зв'язок між довжиною теломер та експресією генів ремонту ДНК як біологічний слід накопиченого стресу",
+    "journal": "Psychoneuroendocrinology",
+    "publishedAt": "2026-05-26T00:00:00Z",
+    "abstract": "Дослідження виявило, що пошкодження ДНК, зокрема скорочення теломерів, пов'язане з травматичним стресом та ранніми труднощами. Аналіз двох когорт показав можливий зв'язок між рівнем стресу за життя, довжиною теломер та експресією генів PARP1 і XRCC1, що беруть участь у ремонті ДНК.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224817/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "The association between telomere length and expression of DNA repair genes as a biological trace of cumulative lifetime stress.",
+    "originalAbstract": "Compromised DNA integrity, including telomere attrition, has been linked to traumatic stress and early adversity. We investigated whether cumulative lifetime stress exposure is associated with telomere length and expression of key DNA repair genes, poly (ADP-ribose) polymerase 1 (PARP1) and X-ray repair cross complementing 1 (XRCC1), across two independent cohorts. In 65 postpartum women (cohort 1), childhood maltreatment (CM) and lifetime trauma exposure (LTE) were assessed using the Childhood ",
+    "keyPoints": [
+      "Пошкодження ДНК та скорочення теломерів пов'язані з травматичним стресом.",
+      "Дослідження виявило можливий зв'язок між стресом і експресією генів ремонту ДНК.",
+      "Результати підкреслюють потенційний біологічний слід накопиченого стресу."
+    ],
+    "practicalTakeaway": "Дослідження вказує на можливий біологічний маркер впливу тривалого стресу, що може мати значення для подальших досліджень у сфері психічного здоров'я.",
     "specialty": "психіатрія",
     "tags": [
-      "психіатрія",
-      "законодавство",
-      "етика"
+      "стрес",
+      "ДНК",
+      "теломери"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42224008",
-    "title": "Морфологічне розрізнення над-RPE відкладень при ідіопатичних повних макулярних дірках",
-    "journal": "Retina (Philadelphia, Pa.)",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізувало вплив морфології над-рецепторних відкладень на анатомічні та функціональні результати у пацієнтів з ідіопатичними повними макулярними дірками, що оперувалися методом витректомії з відшаруванням внутрішнього лінзового мембрани. Відкладення класифікували за розміром на дрібні та гранулярні. Вивчалися характеристики дірки на початку та результати лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224008/",
+    "pmid": "42224816",
+    "title": "Фактори визначення покупок ультраобробленої їжі у Франції",
+    "journal": "Social science & medicine (1982)",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Дослідження аналізує чинники, що впливають на купівлю ультраобробленої їжі у французьких домогосподарствах з 2004 по 2015 рік, використовуючи панельні дані та економетричний аналіз. Виявлено між- та внутрішньосімейні варіації у споживанні.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42224816/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Morphological Distinction of Supra-RPE Deposits in Idiopathic Full-Thickness Macular Holes.",
-    "originalAbstract": "To investigate whether the morphology of supra-retinal pigment epithelial (RPE) deposits influences anatomical and functional outcomes in idiopathic full-thickness macular holes (FTMHs). In this retrospective study 66 eyes from 66 patients with idiopathic FTMH undergoing vitrectomy with ILM peeling were analyzed. Supra-RPE deposits were segmented from en face OCT slabs. Deposits were classified as fine deposits (FD) or granular deposits (GD) based on size. Baseline MH characteristics were measur",
+    "updatedAt": "2026-06-02T03:27:46Z",
+    "originalTitle": "Determinants of ultra-processed food purchases: Evidence of between- and within-household variation in France.",
+    "originalAbstract": "Ultra-processed food consumption is associated with obesity and chronic diseases, but its determinants are not well documented. This understanding is essential to inform policies aimed at improving public health. To this end, we construct a unique longitudinal dataset of French households' food purchases from 2004 to 2015, which we merge with nutritional and food processing data. Using panel data econometric analysis, we identify the determinants of ultra-processed food purchases by exploiting v",
     "keyPoints": [
-      "Аналізовано вплив морфології над-RPE відкладень на результати лікування.",
-      "Відкладення класифіковані за розміром: дрібні та гранулярні.",
-      "Дослідження проведено на пацієнтах з ідіопатичними повними макулярними дірками."
+      "Аналізуються чинники купівлі ультраобробленої їжі у Франції.",
+      "Використано довгострокові дані та економетричний підхід.",
+      "Виявлено внутрішньосімейні та міжсімейні відмінності у споживанні."
     ],
-    "practicalTakeaway": "Морфологія над-RPE відкладень може мати значення для прогнозування результатів лікування макулярних дірок.",
-    "specialty": "онкологія",
-    "tags": [
-      "макулярна дірка",
-      "оптична когерентна томографія",
-      "ретина"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42224006",
-    "title": "Доступність GLP-1: роль цифрових платформ та політичних реформ",
-    "journal": "Journal of medical Internet research",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Зміни в політиці США та розвиток цифрових платформ сприяють здешевленню препаратів для лікування ожиріння. Стаття аналізує нову модель доступу до медикаментів та її можливі наслідки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224006/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Affordable GLP-1? When Digital Platforms Meet Policy Reform.",
-    "originalAbstract": "Recent shifts in US policy and digital platforms are making obesity medications more affordable. In this News and Perspectives article, JMIR Correspondent Xiangming Jenny Zhan reports on this emerging access model and its potential implications.",
-    "keyPoints": [
-      "Зміни в політиці США знижують ціну на препарати для ожиріння.",
-      "Цифрові платформи відіграють важливу роль у забезпеченні доступу.",
-      "Модель може вплинути на політику охорони здоров'я та доступність ліків."
-    ],
-    "practicalTakeaway": "Розвиток цифрових платформ та політичних реформ може зробити лікування ожиріння більш доступним.",
+    "practicalTakeaway": "Розуміння факторів, що визначають споживання ультраобробленої їжі, може допомогти у формуванні політик для покращення здоров'я населення.",
     "specialty": "доказова медицина",
     "tags": [
-      "здоровʼя",
-      "політика",
-      "лікування"
+      "харчування",
+      "здоровʼя населення",
+      "економіка харчування"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42224005",
-    "title": "Ультразвукове кероване пульсуюче радіочастотне лікування нижньощелепного нерва з дексаметазоном у трійчастій невралгії: ретроспективне дослідження",
-    "journal": "The Journal of craniofacial surgery",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження оцінювало безпеку та клінічні результати ультразвукового керованого пульсуючого радіочастотного лікування нижньощелепного нерва з додаванням дексаметазону у пацієнтів із трійчастою невралгією. Аналізовано 73 пацієнти, лікування яких проводили у період з квітня 2022 по серпень 2025 року. Основним показником була зміна балу болю за шкалою NRS на 1, 3 та 6 місяців. Другорядні — функціональний статус за шкалою Shor.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42224005/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Ultrasound-Guided Mandibular Nerve Pulsed Radiofrequency With Adjunct Dexamethasone in Trigeminal Neuralgia: A Retrospective Cohort Study.",
-    "originalAbstract": "This study aimed to evaluate the clinical outcomes and safety of ultrasound-guided pulsed radiofrequency (PRF) targeting the mandibular nerve (V3) with adjunct low-dose perineural dexamethasone in patients with trigeminal neuralgia (TN). We retrospectively analyzed 73 consecutive patients treated between April 2022 and August 2025. The primary outcome was the change in Numeric Rating Scale (NRS) pain scores at 1, 3, and 6 months. Secondary outcomes included functional status assessed by the Shor",
-    "keyPoints": [
-      "Дослідження вивчало безпеку та ефективність ультразвукового пульсуючого радіочастотного лікування нижньощелепного нерва.",
-      "Обстежено 73 пацієнти із трійчастою невралгією.",
-      "Основний показник — зниження болю за шкалою NRS на 1, 3 та 6 місяців."
-    ],
-    "practicalTakeaway": "Ультразвукове кероване пульсуюче радіочастотне лікування з дексаметазоном може бути безпечним та ефективним для зменшення болю при трійчастій невралгії.",
-    "specialty": "неврологія",
-    "tags": [
-      "тройчаста невралгія",
-      "радіочастотна терапія",
-      "дексаметазон"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42223999",
-    "title": "Коли час зупиняється: обличчя, хірург і Гойя",
-    "journal": "The Journal of craniofacial surgery",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Стаття аналізує образ старих жінок у картині Гойї «Час і старі жінки» для розгляду сучасних практик у черепно-лицьовій хірургії та естетичній медицині. Обличчя поєднує анатомію та ідентичність, відображаючи вікові зміни як біологічно, так і психологічно.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42223999/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "When Time Stands Behind the Patient: The Face, the Surgeon, and Goya's Old Women.",
-    "originalAbstract": "Francisco Goya's Time and the Old Women (Las Viejas, c. 1810-1812) portrays aging, vanity, and the inescapable presence of time through the image of elaborately dressed elderly women overshadowed by the winged figure of Time. This editorial uses the painting as a lens through which to examine modern craniofacial and aesthetic practice. The face uniquely combines anatomy with identity, making age-related change both biologically visible and psychologically meaningful. Contemporary surgeons posses",
-    "keyPoints": [
-      "Обличчя є поєднанням анатомії та ідентичності.",
-      "Вікові зміни мають біологічне та психологічне значення.",
-      "Модерні хірурги враховують ці аспекти у практиці."
-    ],
-    "practicalTakeaway": "Розуміння ролі обличчя у формуванні ідентичності важливе для сучасної черепно-лицьової хірургії.",
-    "specialty": "хірургія",
-    "tags": [
-      "мистецтво",
-      "черепно-лицьова хірургія",
-      "вікові зміни"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42223992",
-    "title": "Катастрофізація болю пов'язана з вищою інтенсивністю болю після хірургічного втручання при тунельній синдромі зап'ястя",
-    "journal": "Scandinavian journal of pain",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження виявило, що рівень катастрофізації болю перед операцією при тунельній синдромі зап'ястя має зв'язок з більшою інтенсивністю болю у період післяопераційного періоду. Вивчено 83 пацієнти, які проходили первинну амбулаторну операцію. Враховувалися демографічні, клінічні та психологічні фактори, зокрема рівень катастрофізації болю.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42223992/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-01T17:27:41Z",
-    "originalTitle": "Pain catastrophizing is associated with higher pain intensity following carpal tunnel release: a prospective observational study.",
-    "originalAbstract": "This study aims to examine preoperative sociodemographic, clinical, and psychological factors associated with acute worst pain intensity following open carpal tunnel release (CTR). This prospective observational study included 83 patients between 18 and 79 years undergoing primary outpatient CTR. All patients filled in consent forms and a questionnaire that assessed demographics, comorbidities, pain and function, sleep quality and pain catastrophizing. The primary outcome was worst pain intensit",
-    "keyPoints": [
-      "Катастрофізація болю перед операцією пов'язана з більшою інтенсивністю болю після втручання.",
-      "Дослідження включало 83 пацієнти, що проходили первинну операцію при тунельній синдромі зап'ястя.",
-      "Психологічний фактор катастрофізації болю може впливати на післяопераційний досвід болю."
-    ],
-    "practicalTakeaway": "Урахування рівня катастрофізації болю перед операцією може допомогти у прогнозуванні післяопераційного болю.",
-    "specialty": "неврологія",
-    "tags": [
-      "психологія",
-      "хірургія",
-      "доказова медицина"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
