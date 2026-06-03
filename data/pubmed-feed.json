@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42229038",
-    "title": "Аналіз складу тіла для прогнозування відповіді на перше лікування бевацизумабом у пацієнтів з нерезектованими колоректальними метастазами печінки: багатоцентрове дослідження.",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Мета дослідження — визначити зв'язок між початковим складом тіла та об'єктивною відповіддю на терапію з використанням бевацизумабу у пацієнтів з нерезектованими колоректальними метастазами печінки та розробити модель для прогнозування відповіді. У дослідженні проаналізовано дані 185 пацієнтів із трьох лікарень, які отримували перше лікування з бевацизумабом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229038/",
+    "pmid": "42233256",
+    "title": "Прийом ейкозапентаєнової кислоти для запобігання хронічного болю та депресії у мишей",
+    "journal": "Nutritional neuroscience",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дослідження виявило, що пероральний прийом ейкозапентаєнової кислоти (EPA) може впливати на рецептори програмаційної клітинної смерті 1 (PD-1), що сприяє запобіганню хронічного болю та супутньої депресії у мишей, піддавалися переривчастому холодовому стресу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233256/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Body composition analysis for predicting response to first-line bevacizumab in patients with unresectable colorectal liver metastases: A multicenter study.",
-    "originalAbstract": "To investigate the association between baseline body composition and objective response to first-line bevacizumab-based chemotherapy in patients with unresectable colorectal liver metastases (CRLM), and to develop a model for response prediction in this treatment setting. This multicenter retrospective cohort included 185 patients with newly diagnosed unresectable CRLM from three hospitals who received first-line bevacizumab therapy. Pre-treatment body composition parameters were quantified at t",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Eicosapentaenoic acid intake modulates programmed cell death protein 1 receptors to prevent chronic pain and comorbid depression in mice.",
+    "originalAbstract": "Fibromyalgia is a frequently treatment-refractory chronic musculoskeletal pain disorder that often results in clinical depression; however, the role of neuroinflammatory signaling in comorbid depression remains unclear, including the contributions of anti-inflammatory omega-3 fatty acids like eicosapentaenoic acid (EPA). This study examined the efficacy of EPA ingestion for reducing chronic pain and depression comorbidity (CPDC) in a mouse model established using intermittent cold stress. Our re",
     "keyPoints": [
-      "Дослідження виявило зв'язок між складом тіла та відповіддю на терапію.",
-      "Розроблено модель для прогнозування відповіді на лікування.",
-      "Застосування аналізу складу тіла може покращити індивідуалізацію терапії."
+      "EPA може впливати на рецептори PD-1.",
+      "Запобігає хронічному болю та депресії у мишей.",
+      "Дослідження з моделлю холодового стресу."
     ],
-    "practicalTakeaway": "Аналіз складу тіла може слугувати додатковим інструментом для прогнозування ефективності лікування у пацієнтів з нерезектованими колоректальними метастазами печінки.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "діагностика",
-      "прогнозування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42229032",
-    "title": "Поширеність та клінічний вплив гастроінтестинальних симптомів у пацієнтів з кістозісом.",
-    "journal": "Molecular genetics and metabolism",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження виявило, що гастроінтестинальні симптоми є поширеними у пацієнтів з кістозісом, що може сприяти ризику недоїдання та ускладненням. Вивчення підкреслює важливість моніторингу цих симптомів для покращення управління захворюванням.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229032/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Prevalence and clinical impact of gastrointestinal symptoms in patients with cystinosis.",
-    "originalAbstract": "Cystinosis is a rare autosomal recessive lysosomal storage disease caused by mutations in the CTNS gene, resulting in lysosomal cystine accumulation and multisystem complications, including most notably kidney failure. Gastrointestinal (GI) symptoms are common, varying from feeding difficulties to nausea and bowel problems. These issues increase the risk of malnutrition, a concern that has received limited attention in the literature. This mixed-method study assessed the prevalence and impact of",
-    "keyPoints": [
-      "Гастроінтестинальні симптоми поширені у пацієнтів з кістозісом.",
-      "Симптоми можуть підвищувати ризик недоїдання.",
-      "Дослідження підкреслює важливість їхнього врахування у клінічній практиці."
-    ],
-    "practicalTakeaway": "Урахування гастроінтестинальних симптомів є важливим аспектом управління пацієнтами з кістозісом.",
-    "specialty": "нефрологія",
-    "tags": [
-      "гастроентерологія",
-      "доказова медицина",
-      "педіатрія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42229031",
-    "title": "Розширення можливостей аналізу забруднювачів у стічних вод за допомогою високорезолюційної мас-спектрометрії та прогнозування ефективності іонізації",
-    "journal": "Environment international",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження пропонує інтегрований підхід для аналізу хімічних речовин у стічних вод, що дозволяє розширити охоплення забруднювачів без використання стандартів. Метод поєднує високорезолюційну мас-спектрометрію з прогнозуванням іонізаційної ефективності, що сприяє більшій кількості даних у сфері епідеміології на основі аналізу стічних вод.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229031/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Integrating liquid chromatography-high resolution mass spectrometry based suspect screening with ionization efficiency prediction to expand semi-quantitative coverage in wastewater-based epidemiology: application to environmental chemicals.",
-    "originalAbstract": "Wastewater-based epidemiology (WBE) is increasingly used to assess population-level chemical exposure, yet its analytical scope is often limited by target-based methods and the availability of reference standards. In this study, we developed an integrated analytical workflow that expanded the coverage of environmental chemicals and enabled standard-free semi-quantitative analysis under a realistic post hoc WBE scenario. Influent wastewater samples from nine wastewater treatment plants in Taiwan ",
-    "keyPoints": [
-      "Розроблено метод для аналізу забруднювачів у стічних вод без стандартів.",
-      "Комбіновано мас-спектрометрію з прогнозуванням іонізаційної ефективності.",
-      "Застосовано до зразків з Тайваню для розширення охоплення хімічних речовин."
-    ],
-    "practicalTakeaway": "Впровадження інтегрованого підходу може покращити моніторинг забруднювачів у стічних вод та розширити можливості епідеміологічного дослідження.",
+    "practicalTakeaway": "Прийом ейкозапентаєнової кислоти може мати потенціал для профілактики або зменшення симптомів хронічного болю та депресії.",
     "specialty": "доказова медицина",
     "tags": [
-      "екологія",
-      "аналітика",
-      "забруднення"
+      "нейронаука",
+      "хронічний біль",
+      "депресія"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42229029",
-    "title": "Ранкові соціальні та навколишні фактори і відвідування лікарень у дітей до п’яти років у південному Мозамбіку",
-    "journal": "Environment international",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження аналізує звʼязок між ранніми зовнішніми факторами навколишнього середовища та частотою госпіталізацій у дітей до п’яти років у південному Мозамбіку. Вивчено 47 факторів у чотирьох сферах: житлове середовище, домашні умови, соціально-економічні труднощі та сімейна нестабільність.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229029/",
+    "pmid": "42233255",
+    "title": "Фактори ризику, що залежать від результату, ставлять під сумнів універсальні пріоритети профілактики деменції",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження з Єгипетського реєстру деменції показало, що фактори ризику, пов'язані з конкретними результатами, ускладнюють застосування універсальних стратегій профілактики деменції. Врахування різниці між станом деменції та когнітивною функцією є важливим для ресурсозбереження у країнах з обмеженими можливостями.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233255/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Early life social and environmental exposures and all-cause hospital visits among children under five in southern Mozambique.",
-    "originalAbstract": "Children in low- and middle-income countries (LMICs) face high burdens of morbidity shaped by complex and interacting early-life exposures. In this study, we assessed the early-life external exposome and its association with hospital visits in a population-based cohort of 17,145 children under five years of age in Manhiça, southern Mozambique. We evaluated 47 exposures across four domains (surrounding residential environment, household environment, socioeconomic adversity, and family instability",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Outcome-specific risk factors challenge universal dementia prevention priorities: Findings from the Egyptian Dementia Network Registry.",
+    "originalAbstract": "Dementia prevention targets modifiable factors from high-income cohorts, but most studies conflate dementia status and cognitive performance, distinct outcomes with potentially different outcomes. This distinction is critical to disentangle in resource-constrained low- and middle-income countries, where resource prioritization requires context-specific evidence. Cross-sectional analysis of 660 adults with dementia/mild cognitive impairment from the Egyptian Dementia Network registry (2022 to 202",
     "keyPoints": [
-      "Проаналізовано 47 факторів навколишнього середовища у дітей до п’яти років.",
-      "Виявлено звʼязок між зовнішніми факторами та відвідуваннями лікарень.",
-      "Дослідження зосереджене на південному Мозамбіку."
+      "Фактори ризику залежать від конкретних результатів дослідження.",
+      "Важливо розрізняти деменцію та когнітивні порушення.",
+      "Результати підкреслюють необхідність контекстуально орієнтованих стратегій профілактики."
     ],
-    "practicalTakeaway": "Ранкові соціальні та навколишні фактори можуть впливати на здоровʼя дітей у країнах з низьким та середнім рівнем доходу.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "При розробці профілактичних заходів слід враховувати специфіку результатів та контекст країни.",
+    "specialty": "неврологія",
     "tags": [
-      "соціальні фактори",
-      "навколишнє середовище",
-      "госпіталізації"
+      "деменція",
+      "профілактика",
+      "фактори ризику"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42229028",
-    "title": "Хірургічне лікування інфекцій, пов’язаних із переломами п’яти, із урахуванням пошкоджень м’яких тканин",
-    "journal": "Injury",
+    "pmid": "42233253",
+    "title": "Стрес, системи стресу та хвороба Альцгеймера",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
     "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізує ефективність двох методів заповнення у лікуванні інфекцій, пов’язаних із переломами п’яти, з урахуванням пошкоджень м’яких тканин. Вивчено результати застосування цементу з місцевим переміщенням клаптя та вільного м’язово-шкірного клаптя у пацієнтів із складними випадками.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229028/",
+    "abstract": "Стрес вважається важливим модифікованим фактором ризику хвороби Альцгеймера (ХА), проте його роль у початку, прогресії та результатах досліджена недостатньо. Епідеміологічні дослідження пов'язують хронічний стрес, ранні травми та несприятливі життєві обставини з підвищеним ризиком ХА. Експериментальні моделі виявили механізми, за якими гормони стресу сприяють утворенню амілоїдних бета та тау-протеїнів, нейровоспаленням та нейродегенерацією.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233253/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Surgical treatment of fracture-related infections of the calcaneus with relevant soft-tissue defects.",
-    "originalAbstract": "Fracture-related infection (FRI) of the calcaneus with associated soft tissue defects after open reduction and internal fixation (ORIF) presents significant therapeutic challenges. This study evaluates the efficacy of two filling techniques-bone cement with local flap transfer (BC+LFT) and free myocutaneous flap (FMF)-in managing these complex cases, with consideration of the FRI classification system. A retrospective analysis on patients treated between June 2017 and June 2024 was done. Based o",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Stress, stress systems, and Alzheimer's disease.",
+    "originalAbstract": "Stress is increasingly recognized as an important, modifiable factor for Alzheimer's disease (AD), yet its roles in initiation, progression, and outcomes remain incompletely elucidated. Epidemiologic studies link chronic stress, early-life adversity, and trauma to increased AD risk, while experimental models have uncovered mechanisms by which stress hormones directly drive core AD pathological processes, including amyloid beta and tau aggregation, neuroinflammation, and neurodegeneration. Compli",
     "keyPoints": [
-      "Дослідження порівнює два хірургічні методи лікування інфекцій п’яти.",
-      "Розглядається вплив пошкоджень м’яких тканин на результати лікування.",
-      "Аналіз включає пацієнтів, пролікованих у період 2017-2024 років."
+      "Стрес є потенційним модифікованим фактором ризику ХА.",
+      "Механізми включають вплив гормонів стресу на патологічні процеси.",
+      "Ранні травми та хронічний стрес повʼязані з підвищеним ризиком розвитку ХА."
     ],
-    "practicalTakeaway": "Вибір методу заповнення та реконструкції залежить від характеристик пошкоджень і стану м’яких тканин.",
+    "practicalTakeaway": "Урахування впливу стресу може бути важливим у профілактиці та управлінні ризиком ХА.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейродегенеративні захворювання",
+      "стрес",
+      "хвороба Альцгеймера"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42233250",
+    "title": "Перетворення архітектури біосинтетичних генних кластерів у дизайн біосенсорів для відкриття природних продуктів мікробіології",
+    "journal": "Essays in biochemistry",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дослідження розглядає можливості використання архітектури біосинтетичних генних кластерів для створення біосенсорів, що сприятиме відкриттю нових природних продуктів мікробіології. Це важливо у контексті боротьби з антимікробною резистентністю, яка спричиняє значні втрати людського життя. Традиційні методи пошуку нових антибіотиків є повільними та ресурсомісткими, тому нові підходи, зокрема на основі секвенування та аналізу генних кластерів, мають потенціал для прискорення відкриття нових препар",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233250/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Translating biosynthetic gene cluster architecture into biosensor design for microbial natural product discovery.",
+    "originalAbstract": "Antimicrobial resistance (AMR) is a growing global health crisis, with mortality already in the millions and projections of up to 10 million deaths annually by 2050. Traditional discovery strategies, such as one strain many compounds-based screening of large strain collections, have yielded most of our current antibiotics but are slow, resource-intensive, and highly prone to rediscovery. In parallel, high-throughput sequencing has uncovered an enormous reservoir of biosynthetic gene clusters (BG",
+    "keyPoints": [
+      "Використання архітектури генних кластерів для створення біосенсорів.",
+      "Значення нових підходів у боротьбі з антимікробною резистентністю.",
+      "Потенціал секвенування для відкриття нових природних продуктів."
+    ],
+    "practicalTakeaway": "Розробка біосенсорів на основі аналізу генних кластерів може прискорити відкриття нових антибіотиків.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "біотехнології",
+      "генетика",
+      "інфекційні хвороби"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42233244",
+    "title": "Клінічні особливості гідраденіту в пацієнтів із синдромом Дауна: багатоцентрове дослідження в Іспанії",
+    "journal": "Journal of cutaneous medicine and surgery",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дослідження виявило зв'язок між гідраденітом та синдромом Дауна, але механізми цього залишаються невиясненими. Мета — описати демографічний профіль та клінічні прояви гідраденіту у пацієнтів із синдромом Дауна, включаючи фенотип, ступінь тяжкості, супутні захворювання та терапевтичні підходи. Це багатоцентрове, ретроспективне дослідження з 15 іспанських госпіталів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233244/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Clinical Features of Hidradenitis Suppurativa in Down Syndrome Patients: A Multicenter Spanish Study.",
+    "originalAbstract": "Current evidence indicates a significant association between hidradenitis suppurativa (HS) and Down syndrome (DS), though the underlying mechanisms remain unclear. To describe the demographic profile and clinical manifestations of HS in patients with DS, including phenotype, disease severity, comorbidities, and therapeutic approaches. This was an observational, cross-sectional, retrospective, multicenter study including consecutive patients with both DS and HS across 15 Spanish hospitals. Primar",
+    "keyPoints": [
+      "Виявлено зв'язок між гідраденітом і синдромом Дауна.",
+      "Описано клінічні прояви та супутні захворювання у таких пацієнтів.",
+      "Дослідження базується на даних із 15 іспанських медичних центрів."
+    ],
+    "practicalTakeaway": "Знання про клінічні особливості гідраденіту у пацієнтів із синдромом Дауна може сприяти більшій увазі до цього захворювання у цій групі.",
+    "specialty": "дерматологія",
+    "tags": [
+      "гідраденіт",
+      "синдром Дауна",
+      "мультицентричне дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42233243",
+    "title": "Тетраедричні каркаси нуклеїнових кислот відновлюють імунну толерантність і функцію щитоподібної залози при хашимотоїді через інгібування сигналу NOTCH1",
+    "journal": "ACS applied materials & interfaces",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дослідження показує, що тетраедричні каркаси нуклеїнових кислот (tFNAs) можуть відновлювати імунну толерантність та функцію щитоподібної залози у хворих на хашимотоїд, впливаючи на сигналізацію NOTCH1. Це відкриває потенціал для нових терапевтичних підходів при автоімунних захворюваннях щитоподібної залози.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233243/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Tetrahedral Framework Nucleic Acids Re-establish Immune Tolerance and Restore Thyroid Function in Hashimoto's Thyroiditis via NOTCH1 Signaling Pathway Inhibition.",
+    "originalAbstract": "Hashimoto's thyroiditis (HT) is a chronic autoimmune disorder in which persistent immune dysregulation gradually impairs thyroid structure and endocrine function. Although levothyroxine replacement can correct hypothyroidism, it has little effect on the underlying autoimmune activity that drives the progression of the disease. Tetrahedral framework nucleic acids (tFNAs) are self-assembled DNA nanostructures that have demonstrated immunomodulatory capabilities in several inflammatory conditions. ",
+    "keyPoints": [
+      "tFNAs мають імуномодулюючі властивості у автоімунних захворюваннях",
+      "Дослідження фокусується на хашимотоїді та функції щитоподібної залози",
+      "Інгібування сигналу NOTCH1 може бути ключовим механізмом"
+    ],
+    "practicalTakeaway": "Подальше дослідження потенціалу tFNAs може сприяти розробці нових терапевтичних стратегій для автоімунних захворювань щитоподібної залози.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "автоімунні захворювання",
+      "щитоподібна залоза",
+      "імуномодулююча терапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42233242",
+    "title": "Порівняльна ефективність і безпека бупівакаїну та артикаїну при хірургії третіх молярів: систематичний огляд і мета-аналіз",
+    "journal": "Acta odontologica Scandinavica",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Цей систематичний огляд порівнює ефективність та безпеку бупівакаїну і артикаїну у хірургії третіх молярів, зосереджуючись на контролі післяопераційного болю, тривалості знеболювання, внутрішньоопераційних результатах та гемодинамічній стабільності. Аналіз включає рандомізовані контрольовані дослідження, опубліковані до 24 грудня 2024 року.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233242/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Comparative efficacy and safety of bupivacaine versus articaine in third molar surgery: a systematic review and meta-analysis of randomized controlled trials.",
+    "originalAbstract": "This review systematically compares the efficacy and safety of bupivacaine and articaine in third molar surgery, with a focus on postoperative pain control, duration of analgesia, intraoperative outcomes, and hemodynamic stability. PubMed, Scopus, Web of Science, and CENTRAL were searched through December 24th, 2024, for randomized controlled trials (RCTs) comparing bupivacaine and articaine in third molar surgery. Primary outcomes included postoperative pain intensity (visual analog scale [VAS]",
+    "keyPoints": [
+      "Порівнюються бупівакаїн і артикаїн у хірургії третіх молярів.",
+      "Розглядаються показники післяопераційного болю та тривалість знеболювання.",
+      "Дослідження базуються на рандомізованих клінічних випробуваннях."
+    ],
+    "practicalTakeaway": "Обирайте анестетик залежно від потреби у тривалості знеболювання та безпеки під час хірургії третіх молярів.",
     "specialty": "хірургія",
     "tags": [
-      "інфекційні хвороби",
-      "гостра травма",
-      "ортопедія"
+      "анестезіологія",
+      "хірургія",
+      "доказова медицина"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42229025",
-    "title": "Ключові фактори та наслідки після дорожньо-транспортних пригод у Карачі",
-    "journal": "Injury",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між передаварійними факторами (поведінка водія/мотоцикліста та стан дорожнього покриття), швидкістю реагування служб екстреної допомоги та їх впливом на клінічні результати та індикатори після аварії. Використано дані з понад 273 тисяч госпіталізацій у Карачі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229025/",
+    "pmid": "42233236",
+    "title": "Ефективність дифлунілу для спадкової трансретинної амілоїдозу: досвід Швеції",
+    "journal": "Amyloid : the international journal of experimental and clinical investigation : the official journal of the International Society of Amyloidosis",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дифлуніл має потенціал уповільнювати прогресування спадкової трансретинної амілоїдозу. Аналіз даних шведського реєстру SveATTR показав використання дифлунілу у реальній клінічній практиці до грудня 2022 року. Оцінювалися показники стану пацієнтів, такі як Kumamoto, PND/FAP, мBMI, NYHA та Karnofsky.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233236/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Understanding the key correlates of post-crash clinical indicators and outcomes in road traffic crashes.",
-    "originalAbstract": "This study investigates the association of pre-crash factors (i.e., driver/rider behaviors and roadway conditions), and emergency response attributes (pre-hospital time (PHT) and mode of evacuation) with clinical outcomes directly and through the three post-crash clinical indicators, harnessing an extensive hospital-based dataset (N = 273,362) collected in Karachi (Pakistan). The three jointly estimated ordered probit models for post-crash clinical indicators including Glasgow Coma Scale (GCS), ",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "Efficacy of diflunisal for hereditary transthyretin amyloidosis: the Swedish real-world experience.",
+    "originalAbstract": "Diflunisal has been shown to slow the progression of hereditary transthyretin (ATTRv) amyloidosis. We examined the efficacy of diflunisal using data from SveATTR, a longitudinal Swedish registry open for patients with ATTR amyloidosis. Data from diflunisal treated patients registered in SveATTR through Dec 2022 were included. Available data on Kumamoto score, PND score/FAP stage, mBMI, NYHA classification and Karnofsky performance status were analyzed using random coefficients mixed effects mode",
     "keyPoints": [
-      "Передаварійні фактори та швидкість реагування впливають на клінічні результати.",
-      "Вивчено зв'язок між поведінкою водіїв, станом дороги та станом пацієнтів.",
-      "Дослідження базується на великій вибірці госпіталізацій у Карачі."
+      "Дифлуніл може уповільнювати прогресування амілоїдозу.",
+      "Дослідження базується на даних реєстру SveATTR.",
+      "Аналіз включав клінічні показники стану пацієнтів."
     ],
-    "practicalTakeaway": "Розуміння ключових факторів може допомогти покращити профілактику та швидкість реагування у дорожньо-транспортних пригодах.",
+    "practicalTakeaway": "Досвід застосування дифлунілу в реальній практиці підтверджує його потенціал у контролі прогресування спадкової трансретинної амілоїдозу.",
     "specialty": "доказова медицина",
     "tags": [
-      "дорожньо-транспортні пригоди",
-      "клінічні результати",
-      "екстрена допомога"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42229023",
-    "title": "Імпульсивність, чутливість до нагороди та рецептори дофаміну у людей із залежністю від кокаїну: дослідження PET",
-    "journal": "Psychiatry research",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між рівнями дофамінових рецепторів D2/3, імпульсивністю та чутливістю до нагороди у пацієнтів із залежністю від кокаїну. Використано метод PET із радіоізотопом [11C]PHNO для оцінки рецепторної доступності. Результати спрямовані на поглиблення розуміння ролі дофамінової системи у формуванні поведінкових характеристик, що мають значення для лікування залежності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229023/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Impulsivity, reward sensitivity, and dopamine 2/3 receptors availability in people with cocaine use disorder: A [11C]PHNO PET study.",
-    "originalAbstract": "Impulsivity and altered reward sensitivity are core features of cocaine use disorder (CUD). The Barratt Impulsiveness Scale (BIS-11) and the Behavioral Inhibition System/Activation System (BIS/BAS) capture individual differences in impulsive tendencies and reward responsiveness and may provide insight into addictive disorders. Although dopaminergic dysfunction is a hallmark of CUD, how dopamine D2/3 receptor availability relates to impulsivity and motivational traits remains incompletely underst",
-    "keyPoints": [
-      "Дослідження вивчає зв'язок між дофаміновими рецепторами та поведінковими рисами у залежних від кокаїну.",
-      "Використано PET-сканування з радіоізотопом [11C]PHNO для оцінки рецепторної доступності.",
-      "Результати допомагають краще зрозуміти роль дофамінової системи у залежності від кокаїну."
-    ],
-    "practicalTakeaway": "Розуміння зв'язку між дофаміновою системою та поведінковими рисами може сприяти розробці більш ефективних стратегій лікування залежності.",
-    "specialty": "психіатрія",
-    "tags": [
-      "залежність",
-      "дофамін",
-      "PET"
+      "амилоїдоз",
+      "лікування",
+      "дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42229022",
-    "title": "Зміни у ролі блукання розуму протягом розвитку: дослідження щодо депресії у психіатричних пацієнтів",
-    "journal": "Psychiatry research",
-    "publishedAt": "2026-05-27T00:00:00Z",
-    "abstract": "Дослідження вивчало, як спонтанне та навмисне блукання розуму впливають на симптоми депресії у підлітків та дорослих. Виявлено, що навмисне блукання може виступати як захисний фактор у дорослому віці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229022/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Developmental shift in the functional role of mind-wandering: A large-scale study on adaptive resources against depression in psychiatric outpatients.",
-    "originalAbstract": "Mind-wandering (MW) is a transdiagnostic process, yet its functional evolution across the lifespan remains poorly understood. This study investigated developmental differences in how spontaneous (MW-S) and deliberate (MW-D) mind-wandering relate to depressive symptoms, specifically whether MW-D emerges as a potential protective factor in adulthood. We analyzed data from 1,079 psychiatric outpatients (732 adolescents; 347 adults). Assessments included the Autism-Spectrum Quotient, MW-S/MW-D scale",
-    "keyPoints": [
-      "Спонтанне та навмисне блукання розуму мають різний вплив на депресію.",
-      "У дорослих навмисне блукання може бути захисним фактором.",
-      "Дослідження включало 1079 психіатричних пацієнтів, зокрема підлітків і дорослих."
-    ],
-    "practicalTakeaway": "Розуміння ролі різних типів блукання розуму може допомогти у розробці стратегій для зменшення симптомів депресії.",
-    "specialty": "психіатрія",
-    "tags": [
-      "депресія",
-      "розвиток",
-      "психіатрія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42229021",
-    "title": "Оцінка шкали ESMO-MCBS для лікування HPV-позитивного раку глотки променевою терапією",
-    "journal": "Oral oncology",
+    "pmid": "42233233",
+    "title": "CPSM: пакет R для моделювання ризику виживання пацієнтів із раком на основі транскриптоміки та клінічних даних",
+    "journal": "GigaScience",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "abstract": "Дослідження аналізує застосування шкали ESMO-MCBS v2.0 для оцінки клінічної користі променевої терапії при HPV-позитивному раку глотки, використовуючи дані з рекомендацій ASTRO.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229021/",
+    "abstract": "Дослідження описує пакет R CPSM, який дозволяє створювати індивідуальні моделі ризику виживання для пацієнтів із раком, використовуючи транскриптомічні та клінічні дані. Такий підхід дозволяє отримати персоналізовані криві виживання, що покращують комунікацію між пацієнтами та лікарями, оскільки перетворюють складну статистику у зрозумілі візуальні представлення.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233233/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Evaluation of the ESMO-magnitude of clinical benefit scale version 2.0 for the definitive treatment of HPV positive oropharynx cancer with radiation therapy.",
-    "originalAbstract": "The European Society for Medical Oncology Magnitude of Clinical Benefit Scale (ESMO-MCBS) is a validated tool for assessing the clinical benefit of systemic cancer therapies. However, application of the scale to radiotherapy (RT) remains limited. As part of an ongoing initiative to adapt the scale for RT, we applied Form 1a of ESMO-MCBS v2.0 to studies cited in the American Society for Radiation Oncology (ASTRO) guideline for Human Papillomavirus (HPV)-positive oropharyngeal cancer (OPC) to asse",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "CPSM: An R Package for Cancer Patient Survival Risk Model Using Transcriptomics and Clinical Data.",
+    "originalAbstract": "Traditional Kaplan-Meier curves capture aggregate survival trends within broad patient subgroups but overlook the heterogeneity of individual patients. In contrast, single-patient survival risk models bridge this gap by incorporating each patient's unique clinical, genomic, and demographic characteristics, generating personalized survival curves. These individualized visualizations enhance patient-clinician communication by translating complex statistics into intuitive, time-based visuals that a",
     "keyPoints": [
-      "Шкала ESMO-MCBS застосовується для оцінки клінічної користі системних терапій.",
-      "Дослідження адаптує шкалу для променевої терапії при HPV-позитивному раку глотки.",
-      "Результати допомагають визначити цінність променевої терапії у цьому контексті."
+      "Модель CPSM створює персоналізовані криві виживання.",
+      "Використовує транскриптомічні та клінічні дані.",
+      "Покращує комунікацію між пацієнтами та лікарями."
     ],
-    "practicalTakeaway": "Застосування шкали ESMO-MCBS для променевої терапії при HPV-позитивному раку глотки може сприяти більш обґрунтованому оцінюванню її клінічної цінності.",
+    "practicalTakeaway": "Використання індивідуальних моделей ризику може покращити обговорення прогнозів та планування лікування.",
     "specialty": "онкологія",
     "tags": [
       "онкологія",
-      "ракові захворювання",
-      "променева терапія"
+      "доказова медицина",
+      "статистика"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42229020",
-    "title": "Енергетичний обмін, фізична активність та харчування у пацієнтів із новодіагностованим колоректальним раком",
-    "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
-    "publishedAt": "2026-05-03T00:00:00Z",
-    "abstract": "Дослідження виявило рівень енергетичного обміну, фізичної активності та харчового споживання у пацієнтів із новим діагнозом колоректального раку. Вивчалися компоненти енергетичного балансу, зокрема загальний енергетичний обмін, енергетичні витрати на фізичну активність та споживання калорій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229020/",
+    "pmid": "42233232",
+    "title": "Світлочутливий молекулярний клей для терапії раку з активацією у гіпоксичних умовах",
+    "journal": "Journal of medicinal chemistry",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Розроблено BNNC — світлочутливий молекулярний клей, який у гіпоксичних умовах звільняє молекули для деградації цикліна K і фототерапії. Це підвищує селективність терапії пухлин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233232/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-03T03:35:22Z",
-    "originalTitle": "Energy expenditure, physical activity and dietary intake among patients with newly diagnosed colorectal cancer.",
-    "originalAbstract": "Characterizing energy balance components such as total energy expenditure (TEE), energy intake (EI), and physical activity energy expenditure (PAEE) is crucial to assessing nutritional status and guiding interventions. This observational study explored these variables and their interrelationships in patients with colorectal cancer (CRC). In patients with newly diagnosed CRC, PAEE was evaluated as the difference between TEE (doubly labeled water) and resting energy expenditure (REE; indirect calo",
+    "updatedAt": "2026-06-03T16:27:36Z",
+    "originalTitle": "A Hypoxia-Activated Photomolecular Glue with Synergistic Cyclin K Degradation and Phototherapy for Cancer Treatment.",
+    "originalAbstract": "Cyclin K is overexpressed in multiple tumors and plays critical roles in tumorigenesis, making it a promising therapeutic target. Although the antitumor potential of Cyclin K-targeting molecular glues, their clinical application is limited by insufficient efficacy and tumor selectivity. Herein, we developed BNNC, a photomolecular glue that releases Cyclin K molecular glue (R)-CR8 and phototherapeutic agent BSS-Et in hypoxic tumor microenvironments, thereby enhancing tumor selectivity. Network ph",
     "keyPoints": [
-      "Вивчено компоненти енергетичного балансу у пацієнтів із колоректальним раком.",
-      "Оцінювалися рівень фізичної активності та харчове споживання.",
-      "Результати допомагають краще зрозуміти нутритивний статус пацієнтів."
+      "BNNC активується у гіпоксичних умовах пухлини.",
+      "Звільняє молекули для деградації цикліна K і фототерапії.",
+      "Підвищує селективність протипухлинної терапії."
     ],
-    "practicalTakeaway": "Знання про енергетичний баланс може допомогти у розробці індивідуальних стратегій харчування для пацієнтів із колоректальним раком.",
+    "practicalTakeaway": "Розроблений BNNC може покращити цільову терапію раку за рахунок активації у гіпоксичних умовах пухлини.",
     "specialty": "онкологія",
     "tags": [
-      "енергетичний обмін",
-      "фізична активність",
-      "харчування"
+      "ракова терапія",
+      "фототерапія",
+      "мікрооточення пухлини"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
