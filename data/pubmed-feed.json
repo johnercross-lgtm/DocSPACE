@@ -1,138 +1,54 @@
 [
   {
-    "pmid": "42235123",
-    "title": "Використання мультиплекс-імуноаналізу для скринінгу аутоімунних захворювань",
-    "journal": "Journal of clinical rheumatology : practical reports on rheumatic & musculoskeletal diseases",
-    "publishedAt": "2026-06-03T00:00:00Z",
-    "abstract": "Дослідження оцінює ефективність BioPlex 2200 мультиплекс-імуноаналізу для виявлення антінуклеарних антитіл у порівнянні з традиційним методом іфу, у загальній популяції. Аналіз базувався на даних клінічних записів за 2014–2023 роки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235123/",
+    "pmid": "42240002",
+    "title": "Депресивні симптоми у пацієнтів із шизофренічним спектром та їх вплив на мотивацію до лікування і задоволеність",
+    "journal": "International journal of psychiatry in clinical practice",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Дослідження виявило, що депресивні симптоми поширені серед пацієнтів із шизофренічним спектром і можуть впливати на їхню мотивацію до лікування та задоволеність стаціонарним доглядом. У дослідженні порівнювалися групи пацієнтів із відсутністю або легкими депресивними симптомами та з помірними або важкими симптомами.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42240002/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "The Usefulness of Antinuclear Antibody Multiplex Immunoassay for Screening of Rheumatological Diseases: A Real-World Population-Based Study.",
-    "originalAbstract": "To evaluate the diagnostic performance of BioPlex 2200 multiplex immunoassay (BI) for detecting antinuclear antibodies (ANA), compared with the gold standard, the indirect immunofluorescence assay (IIF), as a screening methodology for autoimmune diseases within a general population. Cross-sectional, database-based analysis of the Clalit Health Services nationwide registry. Data were extracted from the Clalit Health Services database between 2014 and 2023. We included adult outpatients without a ",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Depressive symptoms in patients with schizophrenia spectrum disorders and the impact on treatment motivation and satisfaction.",
+    "originalAbstract": "Depressive symptoms are common in schizophrenia spectrum disorders and may influence how patients engage with treatment. This study examined whether depressive symptom severity affects motivation for treatment or satisfaction with inpatient care in patients with schizophrenia spectrum disorders. A total of 48 inpatients were divided into two groups: no or mild depressive symptoms (Group 1; N = 24) and moderate to severe depressive symptoms (Group 2; N = 24). Symptom severity was assessed at admi",
     "keyPoints": [
-      "BioPlex 2200 показав потенціал для скринінгу аутоімунних захворювань.",
-      "Дослідження базувалося на даних загальнонаціональної реєстрації.",
-      "Порівняння з методом іфу допомагає визначити його дієвість у реальних умовах."
+      "Депресивні симптоми поширені у пацієнтів із шизофренічним спектром.",
+      "Вони можуть впливати на мотивацію до лікування.",
+      "Вплив симптомів на задоволеність лікування потребує додаткового дослідження."
     ],
-    "practicalTakeaway": "Мультиплекс-імуноаналіз може бути корисним інструментом для скринінгу аутоімунних захворювань у загальній популяції.",
-    "specialty": "імунологія",
+    "practicalTakeaway": "Урахування рівня депресивних симптомів може бути важливим для підвищення мотивації пацієнтів із шизофренічним спектром до лікування.",
+    "specialty": "психіатрія",
     "tags": [
+      "шизофренія",
+      "депресія",
+      "лікування"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239999",
+    "title": "Ідіопатичний гідроцефалічний синдром з нормальним тиском: огляд",
+    "journal": "Canadian Association of Radiologists journal = Journal l'Association canadienne des radiologistes",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Ідіопатичний гідроцефалічний синдром з нормальним тиском (iNPH) — це потенційно оборотний неврологічний розлад, що проявляється триадою симптомів: порушення ходьби, когнітивні порушення та дисфункція сечовипускання, супроводжуваними вентрикуломегалією та нормальним або помірно підвищеним рівнем спинномозкової рідини. Хоча вперше описаний у 1957 році, цей стан залишається недооцінений через схожість симптомів із віковими змінами.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239999/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Idiopathic Normal Pressure Hydrocephalus: A Comprehensive Review.",
+    "originalAbstract": "Idiopathic normal pressure hydrocephalus (iNPH) is a potentially reversible neurological disorder characterized by the triad of gait disturbance, cognitive decline, and urinary dysfunction in association with ventriculomegaly and normal or mildly elevated cerebrospinal fluid (CSF) pressure. Although first described by Hakim in 1957, the condition remains underdiagnosed, partly because its clinical manifestations are common in the elderly population and are often attributed to more prevalent age-",
+    "keyPoints": [
+      "iNPH характеризується триадою симптомів: порушення ходьби, когнітивні порушення та дисфункція сечовипускання.",
+      "Захворювання може бути оборотним при правильній діагностиці та лікуванні.",
+      "Діагностика ускладнена через схожість симптомів із віковими змінами у літніх людей."
+    ],
+    "practicalTakeaway": "Рання діагностика і правильне розпізнавання симптомів iNPH важливі для потенційної оборотності стану.",
+    "specialty": "неврологія",
+    "tags": [
+      "неврологія",
       "діагностика",
-      "аутоімунні захворювання",
-      "скринінг"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235122",
-    "title": "Глибоке навчання для передбачення дефіциту гомологічної рекомбінації в ovarian cancer",
-    "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
-    "publishedAt": "2026-04-18T00:00:00Z",
-    "abstract": "Дослідження розробляє методи штучного інтелекту для визначення дефіциту гомологічної рекомбінації у яєчниках за допомогою аналізу гістопатологічних зразків. Це може стати альтернативою геномним тестам, що є дорогими та тривалими.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235122/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Deep learning-based prediction of homologous recombination deficiency from histopathological whole-slide images in ovarian cancer.",
-    "originalAbstract": "Homologous recombination deficiency is a critical biomarker for guiding first-line treatment with poly(adenosine diphosphate-ribose) polymerase inhibitors in ovarian cancer. While genomic assays are the current standard, they remain costly, time-consuming, and often inaccessible worldwide. With the widespread adoption of whole-slide imaging in pathology, artificial intelligence offers a promising alternative for identifying homologous recombination deficiency directly from routine hematoxylin an",
-    "keyPoints": [
-      "Штучний інтелект може допомогти визначити дефіцит гомологічної рекомбінації.",
-      "Метод базується на аналізі гістопатологічних зображень.",
-      "Це може зменшити залежність від дорогих геномних тестів."
-    ],
-    "practicalTakeaway": "Розвиток штучного інтелекту у гістопатології може покращити швидкість та доступність визначення біомаркерів у ovarian cancer.",
-    "specialty": "онкологія",
-    "tags": [
-      "діагностика",
-      "штучний інтелект",
-      "яєчники"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235121",
-    "title": "Ультразвукова діагностика залишкових ракових уражень шийки матки після конізації: дослідження URECA",
-    "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
-    "publishedAt": "2026-05-12T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити точність ультразвуку у виявленні залишкових ракових уражень шийки матки після конізації, порівнюючи з гістологічними даними. Це ретроспективне однокацентричне дослідження включало пацієнтів із ранніми стадіями раку шийки матки, які пройшли конізацію з подальшим хірургічним втручанням. Пацієнти з локально поширеним раком були виключені.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235121/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Ultrasound detection of residual cervical cancer after conization, in a retrospective monocentric analysis: the URECA study.",
-    "originalAbstract": "To assess the accuracy of ultrasound in identifying residual cervical tumors following conization, using histology as the gold standard. This retrospective, single-center study included patients with early-stage cervical cancer (International Federation of Gynecology and Obstetrics IA1-IB1 and early IB2) who underwent conization followed by secondary surgical treatment (re-conization, hysterectomy, or trachelectomy). Patients with locally advanced disease were excluded. All patients underwent tr",
-    "keyPoints": [
-      "Ультразвук показав високу точність у виявленні залишкових уражень шийки матки.",
-      "Дослідження проводилось на пацієнтах із ранніми стадіями раку.",
-      "Гістологія слугувала золотим стандартом для підтвердження результатів."
-    ],
-    "practicalTakeaway": "Ультразвук може бути корисним інструментом для моніторингу пацієнтів після конізації шийки матки.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "гінекологія",
-      "діагностика",
-      "ракові ураження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235120",
-    "title": "Збір електронних пацієнт-ознак через текстові повідомлення у дослідженні раку сечового міхура: дослідження можливостей",
-    "journal": "Urologic oncology",
-    "publishedAt": "2026-06-03T00:00:00Z",
-    "abstract": "Дослідження оцінює можливість збору електронних пацієнт-ознак (ePROM) через текстові повідомлення у масштабному міжнародному рандомізованому контролюваному дослідженні пацієнтів з раком сечового міхура, що отримують лікування БЦЖ. Виявлено, що використання смартфонних повідомлень є перспективним для збору даних про симптоми, переносимість лікування та якість життя.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235120/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Collecting electronic patient-reported outcomes via smartphone text messages in a bladder cancer RCT: A feasibility study.",
-    "originalAbstract": "Patient-reported outcome measures are increasingly used to assess symptoms, treatment tolerance, and quality of life (QoL) in oncology. Electronic patient-reported outcome measures (ePROM) offer advantages over paper questionnaires, but large-scale evidence using smartphone text messaging in clinical trials is limited. To evaluate the feasibility of collecting ePROM via smartphone text messages in a large-scale, multinational randomized controlled trial of patients receiving Bacillus Calmette-Gu",
-    "keyPoints": [
-      "Оцінено можливість збору ePROM через SMS у масштабному дослідженні раку сечового міхура.",
-      "Виявлено потенціал використання смартфонних повідомлень для збору даних.",
-      "Дослідження сприяє впровадженню електронних методів у клінічну практику."
-    ],
-    "practicalTakeaway": "Використання смартфонних повідомлень для збору пацієнтських даних є перспективним інструментом у клінічних дослідженнях.",
-    "specialty": "онкологія",
-    "tags": [
-      "електронна медицина",
-      "пацієнтські звіти",
-      "клінічні дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235118",
-    "title": "Визначення та стереоселективна фармакокінетика енантіомерів флуралана у курчат-бройлерах за допомогою рідинної хроматографії з масовим спектрометром",
-    "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження розробило метод хірологічної рідинної хроматографії з масовим спектрометром для кількісного визначення енантіомерів флуралана у плазмі курчат-бройлерів та досліджувало їх стереоселективну фармакокінетику.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235118/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Determination and stereoselective pharmacokinetics of fluralaner enantiomers in broiler chickens by liquid chromatography-tandem mass spectrometry.",
-    "originalAbstract": "Fluralaner (FLL) is a newly developed broad-spectrum isoxazoline acaricide. It is a chiral compound, with only the S-enantiomer exhibiting high activity. In this study, we developed a chiral liquid chromatography-tandem mass spectrometry (LC-MS/MS) method to quantify FLL enantiomers in broiler chicken plasma, and subsequently applied it to study stereoselective pharmacokinetics. Two cyclic polypeptides, one cyclic saccharide and three cellulose Derivative chromatographic chiral columns were eval",
-    "keyPoints": [
-      "Розроблено метод хірологічної LC-MS/MS для флуралана.",
-      "Вивчено фармакокінетику енантіомерів у курчат.",
-      "Знайдено стереоселективність у метаболізмі."
-    ],
-    "practicalTakeaway": "Метод може бути використаний для дослідження фармакокінетики хіральних препаратів у тварин.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "фармакологія",
-      "метаболізм",
       "лікування"
     ],
     "priorityScore": 8,
@@ -140,140 +56,224 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42235117",
-    "title": "Результати лікування локально поширених раків гортані та гіпофарингеальної області за допомогою хіміо-радіотерапії: досвід одного центру",
-    "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
-    "publishedAt": "2026-04-17T00:00:00Z",
-    "abstract": "Дослідження аналізує результати лікування пацієнтів із стадіями III-IVa/b раку гортані та гіпофарингеальної області, які отримували хіміо-радіотерапію у одному з індійських центрів. Вивчено виживаність, збереження органів та токсичність лікування. У дослідженні взяли участь 300 пацієнтів із середнім віком 63 роки, з довжиною спостереження понад 4 роки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235117/",
+    "pmid": "42239997",
+    "title": "Двоє полімерів на основі NDI з багатофункціональними реактивними властивостями",
+    "journal": "Inorganic chemistry",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Досліджено синтез двох полімерів на основі нaphthalene diimide (NDI), які демонструють фотохромні, електрохромні та термохромні властивості. Структурний аналіз показав, що вибір розчинника впливає на кристалічну упаковку та властивості полімерів. Виявлено їх здатність до детекції амінів та антибіотиків, а також застосування у шифруванні повідомлень і боротьбі з підробками.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239997/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Outcomes Following Definitive Chemoradiation in Locally Advanced Laryngeal and Hypopharyngeal Cancers: Experience From a Tertiary Care Centre.",
-    "originalAbstract": "Laryngeal conservation in advanced disease is possible with chemo-radiation (CTRT); however, it is at the expense of significant toxicity. There is sparse data from the Indian subcontinent addressing the same. A retrospective cohort study of Stage III-IVa/b patients treated between May 2011 and April 2022. We assessed survival outcomes, organ preservation rates, and toxicities. 300 patients, with a median age of 63 years (57;69), were identified. Median follow-up was 4.1 years (3.5; 4.4). Dyspha",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Two NDI-Based Multi-Stimuli-Responsive Coordination Polymers: Photo-Electro-Thermochromism, Detection of Amines/Antibiotics, and Applications in Message Encryption and Anticounterfeiting.",
+    "originalAbstract": "Two naphthalene diimide (NDI)-based coordination polymers (CPs), namely {[Cd(BENDI)]·DMF·H2O}n (MDJNU-25) and {[Cd(BENDI)]·DMA·H2O}n (MDJNU-26), were successfully synthesized via a solvothermal method using Cd(NO3)2·4H2O and N,N'-bis(4-ethylphenyl)-1,4,5,8-naphthalene diimide (H2BENDI) in DMF and DMA, respectively. Both CPs exhibit reversible photochromic, electrochromic, and thermochromic properties. Structural analysis reveals that the variation in solvent modulates the crystal packing, result",
     "keyPoints": [
-      "Дослідження зосереджене на результатах хіміо-радіотерапії при локально поширених раках гортані та гіпофарингеальної області.",
-      "Проаналізовано виживаність, збереження органів і токсичність лікування.",
-      "У дослідженні взяли участь 300 пацієнтів із середнім віком 63 роки."
+      "Полімери демонструють багатофункціональні реактивні властивості.",
+      "Структура залежить від вибору розчинника.",
+      "Застосовуються у детекції речовин та захисті інформації."
     ],
-    "practicalTakeaway": "Результати дослідження демонструють можливість збереження органів у пацієнтів із локально поширеними раками гортані та гіпофарингеальної області за допомогою хіміо-радіотерапії, але з урахуванням потенційних токсичних ефектів.",
+    "practicalTakeaway": "Ці полімери можуть бути корисними для розробки сенсорних систем та засобів захисту інформації.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "матеріали",
+      "фотохромність",
+      "детекція речовин"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239996",
+    "title": "Можливості використання клінічно зібраних біопсій кишечника для персоналізованої медицини при запальних захворюваннях кишечника",
+    "journal": "United European gastroenterology journal",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Ця публікація аналізує потенціал архівних формалінових біопсій кишечника для розвитку персоналізованої медицини в лікуванні запальних захворювань кишечника. Враховуючи їх глобальну доступність та довготривалі клінічні дані, сучасні технології дозволяють застосовувати різноманітні молекулярні підходи до аналізу таких зразків.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239996/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Potential of Clinical Care-Collected Gut Biopsies for Advancing Personalised Medicine in Inflammatory Bowel Disease.",
+    "originalAbstract": "The management of inflammatory bowel disease (IBD) is challenged by significant patient diversity and a lack of effective profiling tools. This review evaluates the potential of archived formalin-fixed, paraffin-embedded (FFPE) gut biopsies as a resource for translational and precision medicine, given their global availability and associated long-term clinical data. Recent technical advances have expanded the molecular toolbox for FFPE samples to include proteomics, metabolomics, glycomics, spat",
+    "keyPoints": [
+      "Архівні біопсії FFPE мають потенціал для досліджень у персоналізованій медицині.",
+      "Нові технології розширюють можливості молекулярного аналізу таких зразків.",
+      "Застосування біопсій може допомогти у профілюванні пацієнтів з запальними захворюваннями кишечника."
+    ],
+    "practicalTakeaway": "Використання архівних біопсій кишечника може сприяти розвитку персоналізованих підходів у лікуванні запальних захворювань кишечника.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "біопсія",
+      "персоналізована медицина",
+      "запальні захворювання кишечника"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239995",
+    "title": "Моніторинг стічних вод для інформування епідеміології раку та профілактичних заходів",
+    "journal": "Environmental science & technology",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Дослідження розглядає можливості використання аналізу стічних вод для збору даних про поширення раку. Це може допомогти у формуванні профілактичних стратегій та ресурсного забезпечення, особливо в країнах із обмеженими системами ракового нагляду.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239995/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Wastewater Surveillance to Inform Cancer Epidemiology and Evidence-Based Interventions.",
+    "originalAbstract": "Cancer is a leading cause of mortality worldwide. The incidence and outcomes of cancer remain unequally distributed on global and local scales, driven in part by unequal carcinogen exposures, healthcare access, socioeconomic factors, and screening compliance. Cancer surveillance systems are critical for informing resource allocation and policies for cancer prevention, screening, diagnosis, and treatment but are limited in many countries. Where they do exist, surveillance systems suffer from long",
+    "keyPoints": [
+      "Аналіз стічних вод може слугувати інструментом для моніторингу поширення раку.",
+      "Цей підхід може доповнити існуючі системи ракового нагляду.",
+      "Використання аналізу стічних вод сприяє формуванню профілактичних заходів."
+    ],
+    "practicalTakeaway": "Розгляд застосування аналізу стічних вод для підтримки профілактики та епідеміологічного дослідження раку.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "епідеміологія",
+      "ракові захворювання",
+      "загальнонаціональний"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239986",
+    "title": "Постендоскопічний рак та неоплазія стравоходу при Барретті: сучасний стан та перспективи",
+    "journal": "Current opinion in gastroenterology",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження аналізує випадки раку та високої ступені дисплазії стравоходу, діагностовані після негативної ендоскопії у пацієнтів з Барреттовим стравоходом, що вказує на недосконалість існуючих стратегій спостереження. Обговорюються визначення, епідеміологія, можливі причини та нові підходи до виявлення таких випадків.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239986/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Postendoscopy esophageal adenocarcinoma and neoplasia: current status and future directions.",
+    "originalAbstract": "A substantial proportion of esophageal adenocarcinoma (EAC) and high-grade dysplasia (HGD) cases in Barrett's esophagus (BE) are diagnosed after a dysplasia-negative endoscopy before the next recommended surveillance interval. These are classified as postendoscopy esophageal carcinoma (PEEC) or postendoscopy esophageal neoplasia (PEEN) and represent critical failures of BE surveillance. This review summarizes current definitions, epidemiology, potential etiologies, and evolving strategies to red",
+    "keyPoints": [
+      "Більшість випадків раку стравоходу виявляється після негативної ендоскопії.",
+      "Це свідчить про недосконалість існуючих стратегій спостереження.",
+      "Розглядаються нові підходи до раннього виявлення та профілактики."
+    ],
+    "practicalTakeaway": "Необхідність удосконалення стратегій спостереження за пацієнтами з Барреттовим стравоходом для зменшення випадків постендоскопічного раку.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "діагностика",
+      "епідеміологія",
+      "стратегії спостереження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239985",
+    "title": "Комплементна система при запальних захворюваннях кишечника: від початкових спостережень до нових напрямків",
+    "journal": "Current opinion in gastroenterology",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Комплементна система є важливою частиною імунної відповіді, яка відіграє роль у розвитку запальних процесів при захворюваннях кишечника, таких як виразковий коліт та хвороба Крона. Початкові дослідження 1970-х років виявили депозицію комплементу у тканинах кишечника та підвищені рівні його компонентів у крові пацієнтів. Сучасні дослідження поглиблюють розуміння ролі окремих компонентів системи у регуляції запалення та потенційних терапевтичних мішенях.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239985/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "The complement system in inflammatory bowel disease: from early observations to emerging frontiers.",
+    "originalAbstract": "The complement system is one of the most evolutionarily conserved arms of innate immunity and has re-emerged as an important regulator of intestinal inflammation in inflammatory bowel disease (IBD). Early observations from the mid-1970 s such as complement deposition in diseased bowel tissue and elevated serum complement levels in patients with ulcerative colitis and Crohn's disease have evolved into a nuanced understanding of how individual complement components can exert both protective and pa",
+    "keyPoints": [
+      "Комплементна система відіграє роль у запальних процесах при захворюваннях кишечника.",
+      "Ранні дослідження виявили її участь у патології виразкового коліту та хвороби Крона.",
+      "Сучасні дослідження фокусуються на регуляції та потенційних терапевтичних застосуваннях."
+    ],
+    "practicalTakeaway": "Розуміння ролі комплементної системи може сприяти розвитку нових підходів до лікування запальних захворювань кишечника.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "запальні захворювання кишечника",
+      "імунна система",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239984",
+    "title": "Пасажі антигенів, асоційовані з клітинами залози, у здоров'ї та хворобі",
+    "journal": "Current opinion in gastroenterology",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "У кишечнику імунна система контактує з власними, харчовими та мікробними антигенами, включаючи потенційні патогени. Важко зрозуміти, як імунна система розрізняє ці речовини для формування відповідних реакцій від толерантності до імунітету. Зростаючі дані вказують на ключову роль залозистих клітин кишечнику у цьому процесі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239984/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Goblet cell-associated antigen passages in health and disease.",
+    "originalAbstract": "In the gut, the immune system is exposed to self and dietary antigens and antigens from microbes including potential pathogens. How the immune system distinguishes between this wide array of substances to mount appropriate responses that range from tolerance to immunity is not well understood. Accumulating evidence suggests that intestinal goblet cells may play a central role in the ability of the immune system to mount appropriate responses and to discriminate between innocuous substances and p",
+    "keyPoints": [
+      "Залозисті клітини можуть відігравати центральну роль у імунних відповідях кишечнику.",
+      "Вивчення механізмів розрізнення антигенів важливе для розуміння імунної регуляції.",
+      "Дослідження сприяють розумінню імунної толерантності та імунної відповіді в кишечнику."
+    ],
+    "practicalTakeaway": "Розуміння ролі залозистих клітин у імунних процесах може допомогти у розробці нових терапевтичних стратегій.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "імунологія",
+      "кишечник",
+      "антигени"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239980",
+    "title": "Онкопластична чоловіча мастектомія з використанням латеральних адіфасціальних клаптів після профілактичної мастектомії",
+    "journal": "JPRAS open",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження розглядає застосування онкопластичних технік для чоловічої мастектомії у високоризикових трансгендерних пацієнтів з генетичними варіантами, що передбачають ризик розвитку раку. Вивчається баланс між онкологічною безпекою та естетичними результатами після мастектомії, з особливим акцентом на використання латеральних адіфасціальних клаптів для покращення контурів грудної клітки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239980/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Oncoplastic chest masculinization using lateral thoracic adipofascial flaps after risk-reducing mastectomy.",
+    "originalAbstract": "The high-risk transgender man with a pathogenic variant in a cancer predisposition gene presents a clinical dilemma wherein the requisite oncologic mastectomy creates an inherent dichotomy with the aesthetic goals of chest masculinization. A standard gender-affirming mastectomy leaves residual glandular tissue, necessitating burdensome surveillance. Conversely, a complete oncologic mastectomy, particularly in obese patients, frequently yields a contour deformity characterized by anterior chest h",
+    "keyPoints": [
+      "Розглядається застосування онкопластичних технік у високоризикових трансгендерних пацієнтів.",
+      "Обговорюється баланс між онкологічною безпекою та естетикою після мастектомії.",
+      "Вивчається використання латеральних адіфасціальних клаптів для покращення результатів."
+    ],
+    "practicalTakeaway": "Використання латеральних адіфасціальних клаптів може покращити естетичні результати у високоризикових пацієнтів після профілактичної мастектомії.",
+    "specialty": "хірургія",
+    "tags": [
+      "онкологія",
+      "хірургія",
+      "пластична хірургія"
+    ],
+    "priorityScore": 5,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42239979",
+    "title": "Рецидивуючий базосквамозний карцинома передпліччя: клінічний випадок",
+    "journal": "JPRAS open",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Описано випадок швидко прогресуючої та поширеної базосквамозної карциноми передпліччя у 52-річного чоловіка, що є рідкісним місцем локалізації. Попри хірургічне видалення з майже чистими краями та застосування негативного тиску для загоєння рани, пухлина рецидивувала через вісім тижнів. Випадок підкреслює важливість оцінки ефективності лікування цієї агресивної форми раку шкіри.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42239979/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-04T14:46:38Z",
+    "originalTitle": "Recurrent basosquamous carcinoma of the forearm, a case report.",
+    "originalAbstract": "Basosquamous carcinoma (BSC) is a rare, aggressive skin cancer with histologic features of both basal and squamous cell carcinoma. This report describes an unusual case of rapidly growing and extensive BSC of the forearm in a 52-year-old male, a rare location for this cancer type. Despite surgical excision with near-complete margins and postoperative wound management using negative-pressure wound therapy (NPWT), the tumor recurred within eight weeks. The case raises concerns about the adequacy o",
+    "keyPoints": [
+      "Базосквамозна карцинома є рідкісним та агресивним типом раку шкіри.",
+      "Рецидив пухлини можливий навіть після хірургічного видалення з майже чистими краями.",
+      "Ранній рецидив у цьому випадку стався через вісім тижнів після операції."
+    ],
+    "practicalTakeaway": "Необхідно ретельно контролювати пацієнтів після лікування базосквамозної карциноми, особливо у випадках рідкісних локалізацій.",
     "specialty": "онкологія",
     "tags": [
       "онкологія",
-      "лікування раку",
-      "хіміо-радіотерапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235113",
-    "title": "3D генеративна модель черепно-лицьових структур для планування хірургії при реконструкції нижньої щелепи",
-    "journal": "Medical image analysis",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження присвячене розробці 3D генеративної моделі для відновлення форми нижньої щелепи після сегментарної резекції при онкологічних захворюваннях. Текущі підходи до планування хірургічних втручань за допомогою комп’ютерних технологій залишаються фрагментарними, зокрема, через суб'єктивне віддзеркалення форми та трудомістке планування остеотомії. Запропонована модель має потенціал для покращення точності та стандартизації процесу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235113/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "3D craniofacial generative model for surgical planning in mandibular reconstruction.",
-    "originalAbstract": "Mandibular reconstruction following segmental resection for oral tumors is a complex procedure necessitating precise restoration of both masticatory function and facial aesthetics. Current Computer-Assisted Surgery (CAS) workflows remain fragmented, relying on subjective manual mirroring for shape completion and labor-intensive, non-standardized CAD operations for fibula osteotomy planning. Furthermore, existing deep learning approaches predominantly address mandibular shape completion in isolat",
-    "keyPoints": [
-      "Розроблено 3D генеративну модель для реконструкції нижньої щелепи.",
-      "Модель сприяє стандартизації планування хірургічних втручань.",
-      "Дослідження зосереджене на онкологічних випадках реконструкції."
-    ],
-    "practicalTakeaway": "Впровадження 3D генеративних моделей може покращити точність та стандартизацію планування реконструктивних операцій у хірургії нижньої щелепи.",
-    "specialty": "хірургія",
-    "tags": [
-      "хірургія",
-      "комп’ютерна томографія",
-      "моделювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235110",
-    "title": "Фактори задоволеності народженням у австралійській державній акушерській службі",
-    "journal": "Midwifery",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "Дослідження аналізує чинники, що впливають на задоволеність жінок процесом народження у рамках стандартної державної акушерської допомоги в Австралії. Використано опитування з застосуванням шкали задоволеності народженням (BSS-R). Результати мають значення для покращення якості акушерських послуг та підвищення емоційного благополуччя жінок.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235110/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Determinants of birth satisfaction in Australian public maternity care: A Cross-Sectional survey using the birth satisfaction scale-revised (BSS-R).",
-    "originalAbstract": "Birth satisfaction is an important indicator of maternity care quality and is associated with emotional wellbeing, care engagement, and future health-seeking behaviour. Although models of maternity care influence outcomes and experiences, most Australian studies using the Birth Satisfaction Scale-Revised (BSS-R) have focused on continuity-based or student-led cohorts, limiting generalisability to routine public services. To examine birth satisfaction among women receiving standard public materni",
-    "keyPoints": [
-      "Задоволеність народженням повʼязана з якістю акушерської допомоги.",
-      "Дослідження фокусується на стандартних державних послугах.",
-      "Використано шкалу BSS-R для оцінки досвіду жінок."
-    ],
-    "practicalTakeaway": "Розуміння факторів, що впливають на задоволеність народженням, може сприяти покращенню акушерських послуг.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "народження",
-      "задоволеність",
-      "акушерські послуги"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235109",
-    "title": "Вплив раціонів, багатих флавоноїдами, на ризик виникнення слухових порушень: дослідження UK Biobank",
-    "journal": "The journal of nutrition, health & aging",
-    "publishedAt": "2026-06-03T00:00:00Z",
-    "abstract": "Дослідження аналізує звʼязок між споживанням флавоноїдів у раціоні та ризиком розвитку слухових порушень. Виявлено, що дієтичні патерни з високим вмістом флавоноїдів можуть бути повʼязані з меншим ризиком слухових проблем, а системне запалення потенційно відіграє роль у цьому процесі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235109/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Flavonoid-rich dietary patterns and the risk of incident hearing loss: evidence from the UK Biobank cohort.",
-    "originalAbstract": "Hearing loss is a major sensory impairment linked to oxidative stress and inflammation. Flavonoids possess antioxidant and anti-inflammatory properties, but their longitudinal association with incident hearing loss is unclear. We examined the association between a Flavonoid Diet Score (FDS) and incident hearing loss in the UK Biobank, and explored potential mediation by systemic inflammation. We included 55,859 participants without baseline hearing loss who completed 24-h dietary recalls. FDS wa",
-    "keyPoints": [
-      "Флавоноїди мають антиоксидантні та протизапальні властивості.",
-      "Дослідження вказує на можливий захисний ефект флавоноїдів щодо слуху.",
-      "Можливий механізм — зниження системного запалення."
-    ],
-    "practicalTakeaway": "Збалансоване харчування, багате флавоноїдами, може сприяти збереженню слуху.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "харчування",
-      "запалення",
-      "слух"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42235102",
-    "title": "Візуалізація діагнозу та контекстуальні особливості направлень у консультаційній психіатрії: десять років досвіду",
-    "journal": "General hospital psychiatry",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "abstract": "Дослідження аналізує, чи характер направлень до психіатрів у загальній лікарні залежить від видимості симптомів, а не від рівня психіатричної захворюваності. Також вивчено, чи змінюється цей патерн залежно від клінічного контексту.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42235102/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-04T03:30:37Z",
-    "originalTitle": "Diagnostic visibility and context-dependent referral patterns in consultation-liaison psychiatry: A ten-year retrospective study.",
-    "originalAbstract": "We examined whether psychiatric referral patterns in a general hospital without dedicated psychiatric beds are associated with symptom visibility rather than the underlying burden of psychiatric morbidity, and whether this pattern varies by clinical context. A ten-year retrospective descriptive study (FY2016-2025) was conducted at Kakogawa Central City Hospital, a 600-bed public hospital serving as a Regional Dementia Medical Centre. Three inpatient psychiatric intervention routes were analysed:",
-    "keyPoints": [
-      "Розглянуто зв'язок між симптомною видимістю та направленнями до психіатрів.",
-      "Проаналізовано патерни направлень у різних клінічних ситуаціях.",
-      "Дослідження охоплює період десяти років у регіональній лікарні."
-    ],
-    "practicalTakeaway": "Розуміння факторів, що впливають на направлення до психіатрів, може покращити інтеграцію психіатричної допомоги у загальну медицину.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "психіатрія",
-      "клінічні дослідження",
-      "направлення"
+      "шкіра",
+      "лікування раку"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
