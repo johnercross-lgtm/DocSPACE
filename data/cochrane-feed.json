@@ -1,51 +1,51 @@
 [
   {
     "title": "Прийом вітаміну B12 для росту, розвитку та когнітивних функцій у дітей",
-    "abstract": "Д deficiency вітаміну B12 є важливою проблемою громадського здоров'я у дітей, що може бути пов'язано з анемією, порушеннями росту, когнітивними та розвитковими затримками. Недостатність може виникати через низький вміст у грудному молоці, недостатнє харчування та зростаючі потреби з віком. Вживання вітаміну B12 може потенційно покращити ці показники через його роль у синтезі ДНК, формуванні еритроцитів та метаболізмі фолату, проте дослідження ще тривають.",
+    "abstract": "Д deficiency вітаміну B12 є важливою проблемою громадського здоровʼя у дітей, що може бути пов'язано з анемією, затримкою росту, порушеннями когнітивних функцій та розвитком. Недостатність може виникати через низький вміст у грудному молоці, недостатнє харчування та зростаючі потреби з віком. Вживання вітаміну B12 може потенційно підтримувати зростання і розвиток дітей, оскільки він бере участь у синтезі ДНК, формуванні червоних кровʼяних клітин та метаболізмі фолату.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015264.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Vitamin B12 supplementation for growth, development, and cognition in children.",
     "originalAbstract": "Vitamin B12 deficiency is an important public health problem in children, and has been associated with anaemia and impaired growth, cognition, and development. Vitamin B12 deficiency may develop in children due to lower content in breast milk, low dietary intake, and as requirements increase with age. Vitamin B12 supplementation may confer benefits to child growth and development, due to its role in DNA synthesis and methylation, red blood cell formation, and folate metabolism. However, no syste…",
     "keyPoints": [
-      "Недостатність вітаміну B12 у дітей може впливати на їхній розвиток.",
-      "Прийом вітаміну B12 може мати потенційні переваги для росту та когнітивних функцій.",
-      "Дослідження ще тривають для визначення ефективності суплементації вітаміну B12."
+      "Недостатність вітаміну B12 у дітей може спричиняти затримки у розвитку.",
+      "Прийом вітаміну B12 може мати потенційний вплив на зростання і когнітивні функції.",
+      "Дослідження ще не підтвердили однозначну ефективність суплементації вітаміном B12 у цій групі."
     ],
-    "practicalTakeaway": "Поточні дані не дозволяють робити однозначні висновки щодо користі прийому вітаміну B12 для розвитку дітей.",
+    "practicalTakeaway": "Поточні дані не дають достатніх підстав рекомендувати широке застосування вітаміну B12 для покращення розвитку у дітей.",
     "specialty": "педіатрія",
     "tags": [
       "вітамін B12",
-      "діти",
+      "зростання",
       "розвиток"
     ],
-    "priorityScore": 2,
+    "priorityScore": 3,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Передові методи відбору сперматозоїдів для допоміжних репродуктивних технологій",
-    "abstract": "Дослідження аналізує застосування сучасних методів відбору сперматозоїдів у допоміжних репродуктивних технологіях, зокрема при ІКСІ. Передбачає, що ці техніки сприяють вибору сперматозоїдів з високою цілісністю ДНК та структурною цінністю, що може підвищити ймовірність запліднення та вагітності.",
+    "title": "Передові методи відбору сперматозоїдів у допоміжних репродуктивних технологіях",
+    "abstract": "Дослідження аналізує застосування сучасних методів відбору сперматозоїдів у процедурах штучного запліднення, зосереджуючись на їхній здатності підвищити ймовірність вибору структурно цілісних та зрілих сперматозоїдів з високою цілісністю ДНК. Вивчення охоплює застосування цих методів у циклах з ІКСІ.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010461.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Advanced sperm selection techniques for assisted reproduction.",
     "originalAbstract": "Assisted reproductive technologies (ART), including in vitro fertilisation (IVF) and intracytoplasmic sperm injection (ICSI), combine an egg and sperm outside the body to enhance the probability of fertilisation and pregnancy. Advanced sperm selection techniques are increasingly employed in ART, most commonly in cycles utilising ICSI. Advanced sperm selection techniques are hypothesised to improve the likelihood that structurally intact and mature sperm with high DNA integrity are selected. Stra…",
     "keyPoints": [
-      "Передові техніки відбору сперматозоїдів застосовуються у допоміжних репродуктивних технологіях.",
-      "Очікується, що вони покращують якість сперматозоїдів для підвищення успіху процедур.",
-      "Дослідження аналізує їхню ефективність у підвищенні ймовірності вагітності."
+      "Розглядаються сучасні методи відбору сперматозоїдів у допоміжних репродуктивних технологіях.",
+      "Мета — підвищити ймовірність вибору сперматозоїдів з високою цілісністю ДНК.",
+      "Застосування цих методів найбільш поширене у циклах з ІКСІ."
     ],
-    "practicalTakeaway": "Передові техніки відбору сперматозоїдів використовуються у допоміжних репродуктивних технологіях для підвищення шансів на вагітність.",
+    "practicalTakeaway": "Використання передових методів відбору сперматозоїдів може потенційно покращити результати допоміжних репродуктивних процедур.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "репродуктологія",
-      "відбір сперматозоїдів",
-      "допоміжні репродуктивні технології"
+      "штучне запліднення",
+      "сперматозоїди"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -53,98 +53,98 @@
   },
   {
     "title": "Моделі прогнозування ризику сімейного раку молочної залози",
-    "abstract": "Жінки з сімейною історією раку молочної залози мають підвищений ризик захворювання. У клінічній практиці для оцінки ймовірності розвитку раку використовуються моделі прогнозування ризику. Наразі невідомо, яка з доступних моделей найкраще працює у жінок із сімейною історією цього захворювання.",
+    "abstract": "Жінки з сімейною історією раку молочної залози мають підвищений ризик захворювання. У клінічній практиці для оцінки ймовірності розвитку раку використовують моделі прогнозування ризику. Наразі невідомо, які з доступних моделей найкраще працюють у жінок із сімейною історією цього захворювання.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013185.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-01T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Risk prediction models for familial breast cancer.",
     "originalAbstract": "Women with a family history of breast cancer have an elevated risk of developing the disease. In clinical practice, the probability of developing breast cancer over a specified timeframe is frequently estimated using breast cancer risk prediction models. It is currently unclear which of the available models performs best in women with a breast cancer family history. To identify, describe, and appraise breast cancer risk prediction models developed or validated in women with a family history of b…",
     "keyPoints": [
-      "Розглядаються моделі прогнозування ризику раку молочної залози.",
-      "Фокус на жінках з сімейною історією раку.",
-      "Оцінка ефективності різних моделей."
+      "Розглядаються моделі прогнозування ризику раку молочної залози у жінок із сімейною історією.",
+      "Немає однозначних даних про найефективнішу модель.",
+      "Дослідження спрямоване на оцінку та порівняння існуючих моделей."
     ],
-    "practicalTakeaway": "Вибір моделі прогнозування ризику раку молочної залози у жінок з сімейною історією потребує подальших досліджень.",
+    "practicalTakeaway": "Клініцисти повинні враховувати різноманіття моделей прогнозування ризику для більш точного визначення груп підвищеного ризику.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "ракові захворювання",
       "прогнозування ризику",
       "сімейна історія"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Заходи щодо припинення куріння у осіб, що проходять скринінг легень",
-    "abstract": "Це протокол огляду Cochrane, мета якого — оцінити переваги та ризики заходів щодо припинення куріння у дорослих, які проходять скринінг легень із використанням низькодозової комп'ютерної томографії (КТ) грудної клітки.",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики заходів щодо припинення куріння у дорослих, які проходять скринінг легень із застосуванням низькодозової комп'ютерної томографії (КТ) грудної клітки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016184/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Interventions for smoking cessation in people undergoing lung cancer screening.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of smoking cessation interventions in adults undergoing lung cancer screening with low-dose computed tomography (LDCT) of the chest.",
     "keyPoints": [
-      "Огляд досліджень щодо припинення куріння у скринінгових пацієнтів.",
-      "Оцінка потенційних переваг і ризиків таких інтервенцій.",
-      "Фокус на дорослих, що проходять скринінг легень."
+      "Огляд оцінює ефективність заходів щодо припинення куріння у дорослих під час скринінгу легень.",
+      "Дослідження зосереджені на користі та ризиках таких інтервенцій.",
+      "Збір даних триває для визначення потенційних переваг і можливих шкод"
     ],
-    "practicalTakeaway": "Результати досліджень допоможуть визначити ефективність заходів щодо припинення куріння у контексті скринінгу легень.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити, наскільки ефективними є заходи щодо припинення куріння у контексті скринінгу легень.",
     "specialty": "доказова медицина",
     "tags": [
       "куріння",
       "скринінг легень",
       "загальні наслідки для здоровʼя"
     ],
-    "priorityScore": 8,
+    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Ботулотоксин тип А при підгострому та хронічному болю в шиї",
-    "abstract": "Мета дослідження — оцінити переваги та ризики внутрішньом'язових ін'єкцій ботулотоксину типу А для пацієнтів із підгострим або хронічним болем у шиї. Проведено пошук у кількох базах даних та реєстрах клінічних випробувань до 4 березня 2026 року. Аналіз включав рандомізовані контрольовані дослідження.",
+    "abstract": "Дослідження аналізує ефективність та безпеку внутрішньом'язових ін'єкцій ботулотоксину типу А для пацієнтів із підгострим та хронічним болем у шиї. Проведено пошук у кількох базах даних та реєстрах клінічних випробувань до 4 березня 2026 року. Аналіз включає рандомізовані контрольовані випробування, що порівнюють ботулотоксин з плацебо або іншими терапіями.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008626.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Botulinum toxin type A for subacute/chronic neck pain.",
     "originalAbstract": "Botulinum toxin type A (BoNT-A) intramuscular injections are commonly administered for neck pain unresponsive to other therapies, but the benefit-harm profile remains uncertain. To assess the benefits and harms of intramuscular BoNT-A injection for people with subacute to chronic neck pain. We searched CENTRAL, MEDLINE, Embase, CINAHL and trial registers, together with reference checking, citation searching and contact with study authors up to 4 March 2026. Randomised controlled trials (RCTs), i…",
     "keyPoints": [
-      "Дослідження аналізує ефективність ботулотоксину типу А для болю у шиї.",
-      "Результати базуються на рандомізованих контрольованих дослідженнях.",
-      "Поточна доказова база має обмежену кількість даних."
+      "Дослідження оцінює користь і ризики ін'єкцій ботулотоксину для болю в шиї.",
+      "Використовуються дані рандомізованих контрольованих випробувань.",
+      "Пошук охоплює кілька медичних баз даних і реєстрів до 2026 року."
     ],
-    "practicalTakeaway": "Використання ботулотоксину типу А для болю у шиї потребує подальших досліджень для визначення його безпеки та ефективності.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування ботулотоксину при хронічному болю у шиї.",
+    "specialty": "доказова медицина",
     "tags": [
-      "болі у шиї",
+      "болі в шиї",
       "ботулотоксин",
       "клінічні дослідження"
     ],
-    "priorityScore": 3,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Хірургічне лікування остеоартриту бази великого пальця руки",
-    "abstract": "Це оновлення аналізу, що оцінює ефективність та ризики різних хірургічних методів при остеоартриті бази великого пальця руки, коли консервативне лікування вже не дає результатів. У дослідженні використано дані рандомізованих контрольованих випробувань, опублікованих до травня 2025 року.",
+    "title": "Хірургічне лікування остеоартриту бази великого пальця руки.",
+    "abstract": "Це оновлення аналізу, що оцінює ефективність та ризики різних хірургічних методів для лікування остеоартриту в області основи великого пальця руки, коли консервативне лікування вже не дає результатів. В дослідженні використано дані рандомізованих контрольованих випробувань, опублікованих до травня 2025 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004631.pub6/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Surgery for thumb (trapeziometacarpal joint) osteoarthritis.",
     "originalAbstract": "Surgery is used to treat persistent pain and dysfunction due to osteoarthritis at the base of the thumb, when conservative management is no longer effective. This is an update of a Cochrane review first published in 2005. To evaluate the benefits and harms of different surgeries for people with thumb (trapeziometacarpal) osteoarthritis. We searched CENTRAL, MEDLINE and Embase up to 19 May 2025. We included randomised controlled trials (RCTs) or quasi-RCTs that compared at least two surgical tech…",
     "keyPoints": [
       "Операція застосовується при хронічному болю та дисфункції через остеоартрит.",
-      "Дослідження включає рандомізовані випробування, порівнювальні різні хірургічні техніки.",
-      "Оновлення аналізу базується на сучасних даних досліджень."
+      "Дослідження включає рандомізовані випробування, порівнюючі різні хірургічні техніки.",
+      "Оновлення аналізу базується на даних до травня 2025 року."
     ],
-    "practicalTakeaway": "Результати досліджень допомагають визначити найбільш ефективні хірургічні підходи для лікування остеоартриту бази великого пальця руки.",
+    "practicalTakeaway": "Результати досліджень допомагають визначити ефективність різних хірургічних методів для лікування остеоартриту бази великого пальця.",
     "specialty": "хірургія",
     "tags": [
       "хірургія",
@@ -156,21 +156,21 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Фармакотерапія посттравматичного стресового розладу (ПТСР)",
-    "abstract": "Це дослідження оцінює ефективність медикаментозного лікування для зменшення симптомів ПТСР у дорослих. Проведено пошук у кількох базах даних, включаючи CENTRAL, MEDLINE, Embase та PsycINFO, станом на листопад 2020 року.",
+    "title": "Фармакотерапія для посттравматичного стресового розладу (ПТСР)",
+    "abstract": "Дослідження оцінює ефективність медикаментозного лікування для зменшення симптомів ПТСР у дорослих. Проведено пошук у базах даних до листопада 2020 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002795.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Pharmacotherapy for post traumatic stress disorder (PTSD).",
     "originalAbstract": "Posttraumatic stress disorder (PTSD) is a prevalent and disabling disorder. Evidence that PTSD is characterised by specific psychobiological dysfunctions has contributed to a growing interest in the use of medication in its treatment. To assess the effects of medication for reducing PTSD symptoms in adults with PTSD. We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, November 2020); MEDLINE (1946-), Embase (1974-), PsycINFO (1967-) and PTSDPubs (all available year…",
     "keyPoints": [
-      "Дослідження аналізує ефективність медикаментів при ПТСР.",
-      "Застосовуються дані з різних баз даних станом на 2020 рік.",
-      "Результати допомагають оцінити роль фармакотерапії у лікуванні ПТСР."
+      "Дослідження аналізує вплив медикаментів на симптоми ПТСР.",
+      "Результати допомагають визначити потенційну роль фармакотерапії.",
+      "Потреба у додаткових дослідженнях для підтвердження ефективності."
     ],
-    "practicalTakeaway": "Фармакотерапія може бути розглянута як частина комплексного підходу до лікування ПТСР, але необхідні додаткові дослідження для визначення її ефективності.",
+    "practicalTakeaway": "Медикаментозне лікування може бути корисним для зменшення симптомів ПТСР, але потребує подальшого вивчення.",
     "specialty": "психіатрія",
     "tags": [
       "ПТСР",
@@ -182,21 +182,21 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Виключення або зниження дози стероїдів у пацієнтів із трансплантацією нирки",
-    "abstract": "Цей огляд аналізує ефективність стратегій уникнення або зниження дози стероїдів у реципієнтів трансплантації нирки. Мета — зменшити побічні ефекти стероїдів без підвищення ризику відторгнення. Останні дослідження свідчать, що зменшення експозиції стероїдів може бути безпечним, враховуючи покращення імунносупресивних режимів та зниження випадків гострого відторгнення.",
+    "title": "Уникнення або відмова від стероїдів у пацієнтів з трансплантацією нирки",
+    "abstract": "Цей огляд аналізує ефективність стратегій уникнення або відмови від стероїдів у пацієнтів з трансплантацією нирки. Враховуючи покращення імунносупресивних режимів і зниження частоти гострих реакцій, сучасні дослідження свідчать про можливу безпечність зменшення експозиції стероїдів. Оновлений аналіз базується на нових даних щодо ризиків відторгнення та інших наслідків для здоровʼя.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005632.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-26T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Steroid avoidance or withdrawal for kidney transplant recipients.",
     "originalAbstract": "Steroid-sparing strategies aim to reduce the adverse effects associated with steroid use. The main concern has been a potential increase in the risk of rejection, as reported in previous systematic reviews. In recent years, improvements in immunosuppressive regimens and a significant decline in the incidence of acute rejection have renewed interest in steroid-sparing strategies. More contemporary trials suggest that reducing steroid exposure might be safe. This is an updated review, previously p…",
     "keyPoints": [
-      "Стратегії зменшення або виключення стероїдів можуть бути безпечними для реципієнтів ниркової трансплантації.",
-      "Покращення імунносупресивних препаратів сприяють зниженню ризику відторгнення.",
-      "Докази свідчать про можливість зменшення побічних ефектів стероїдів без підвищення ризику відторгнення."
+      "Розглядається безпечність зменшення або відмови від стероїдів у трансплантованих нирках.",
+      "Покращення імунносупресії зменшують ризики відторгнення.",
+      "Оновлений аналіз базується на сучасних дослідженнях."
     ],
-    "practicalTakeaway": "Розглядайте можливість застосування стратегій зменшення або виключення стероїдів у відповідних пацієнтів із трансплантацією нирки, враховуючи сучасні дані про безпеку та ефективність.",
+    "practicalTakeaway": "Зменшення або відмова від стероїдів у пацієнтів з трансплантацією нирки може бути безпечним за сучасних умов, але потребує індивідуального підходу.",
     "specialty": "нефрологія",
     "tags": [
       "трансплантація",
@@ -208,26 +208,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ранкове застосування стимуляторів еритропоезу у недоношених та маловагих новонароджених",
-    "abstract": "Мета дослідження — оцінити переваги та ризики ранкового застосування стимуляторів еритропоезу (СЕ) у недоношених та маловагих новонароджених. Виявлено, що ці діти мають підвищений ризик анемії через низький рівень еритропоетину, і застосування СЕ може потенційно зменшити потребу у переливанні крові та покращити клінічні результати. Однак питання щодо їхньої ефективності та безпеки залишається відкритим.",
+    "title": "Ранкове застосування стимулюючих еритропоез у недоношених та маловагих новонароджених",
+    "abstract": "Мета дослідження — оцінити переваги та ризики ранкового застосування стимулюючих еритропоез у недоношених і маловагих новонароджених. Виявлено, що ці діти мають підвищений ризик анемії через низький рівень еритропоетину, і застосування ESAs може потенційно зменшити потребу в переливаннях крові та покращити клінічні результати. Однак питання щодо їхньої ефективності та безпеки залишається відкритим.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004863.pub7/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-22T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Early erythropoiesis-stimulating agents in preterm or low-birthweight infants.",
     "originalAbstract": "Preterm and low-birthweight infants are at risk of anemia due to a variety of factors, including low levels of erythropoietin. They may therefore benefit from erythropoiesis-stimulating agents (ESAs). However, controversy remains about their effectiveness and safety, not only in reducing blood transfusions but also in improving clinical outcomes. To assess the benefits and harms of early administration of ESAs in preterm or low-birthweight infants. We searched CENTRAL, MEDLINE, Embase, Scopus, D…",
     "keyPoints": [
-      "Дослідження аналізує ранкове застосування стимуляторів еритропоезу у недоношених та маловагих новонароджених.",
-      "Мета — визначити їхню ефективність у зменшенні крововтрат та покращенні клінічних показників.",
-      "Безпека застосування залишається предметом обговорення."
+      "Дослідження аналізує застосування ESAs у недоношених та маловагих новонароджених.",
+      "Ранкове застосування може зменшити потребу в кровозамінниках.",
+      "Безпека та ефективність застосування залишаються предметом обговорення."
     ],
-    "practicalTakeaway": "Ранкове застосування стимуляторів еритропоезу у недоношених та маловагих новонароджених потребує подальшого дослідження для визначення їхньої безпеки та ефективності.",
-    "specialty": "педіатрія",
+    "practicalTakeaway": "Ранкове застосування стимулюючих еритропоез у недоношених і маловагих новонароджених потребує подальшого вивчення для визначення його безпеки та ефективності.",
+    "specialty": "нефрологія",
     "tags": [
       "доказова медицина",
-      "неонатологія",
-      "анемія"
+      "педіатрія",
+      "аналіз"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -235,20 +235,20 @@
   },
   {
     "title": "Імунотерапія та хіміотерапія при ранньому тріпл-негативному раку молочної залози",
-    "abstract": "Дослідження порівнює ефективність імунотерапії з інгібіторами імунних контрольних точок у комбінації з хіміотерапією проти лише хіміотерапії для лікування раннього тріпл-негативного раку молочної залози. ТНБЦ є агресивною підтипом, що становить 12-17% випадків, з високим ризиком прогресування до метастазів. Нові дані свідчать, що комбінація імунотерапії та хіміотерапії може покращити відповіді на лікування та виживаність без подій.",
+    "abstract": "Дослідження порівнює ефективність імунотерапії з інгібіторами контрольних точок і хіміотерапії проти лише хіміотерапії у лікуванні раннього тріпл-негативного раку молочної залози. Триває оцінка впливу комбінації на повну патологічну відповідь та виживаність без подій.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015072.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-21T00:00:00Z",
-    "updatedAt": "2026-06-04T04:55:38Z",
+    "updatedAt": "2026-06-04T15:35:06Z",
     "originalTitle": "Immune checkpoint inhibitors and chemotherapy versus chemotherapy for early triple-negative breast cancer.",
     "originalAbstract": "Triple-negative breast cancer (TNBC), an aggressive subtype lacking oestrogen and progesterone receptors and amplification of HER2 receptors, accounts for 12% to 17% of breast cancers. Adjuvant and neoadjuvant chemotherapy improve survival; however, 30% to 40% of early-stage TNBC cases progress to metastatic disease. Recent evidence suggests that combining immune checkpoint inhibitors (PD-1/PD-L1 inhibitors) with chemotherapy may improve pathological complete response and event-free survival. To…",
     "keyPoints": [
-      "Комбінація імунотерапії з хіміотерапією може покращити результати лікування ТНБЦ.",
-      "ТНБЦ є агресивною підтипом раку молочної залози з високим ризиком прогресування.",
-      "Дослідження порівнює ефективність двох підходів у ранніх стадіях захворювання."
+      "Комбінована терапія може покращити відповіді при ранньому тріпл-негативному раку.",
+      "Триває дослідження щодо довгострокових результатів.",
+      "Результати можуть вплинути на майбутні протоколи лікування."
     ],
-    "practicalTakeaway": "Розглядання додавання імунотерапії до стандартної хіміотерапії може бути перспективним напрямком для лікування раннього ТНБЦ.",
+    "practicalTakeaway": "Застосування імунотерапії з хіміотерапією вивчається як потенційно ефективний підхід для лікування раннього тріпл-негативного раку молочної залози.",
     "specialty": "онкологія",
     "tags": [
       "ракові захворювання",
