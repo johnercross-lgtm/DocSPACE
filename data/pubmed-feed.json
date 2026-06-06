@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42246193",
-    "title": "Рослинні природні продукти у боротьбі з атрофією скелетних м'язів, спричиненою дексаметазоном",
-    "journal": "International journal of molecular medicine",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Дослідження аналізує механізми розвитку атрофії скелетних м'язів під впливом глюкокортикоїдів, зокрема дексаметазону, та можливості їхнього коригування за допомогою природних рослинних продуктів. Вивчено порушення білкового обміну, дисфункцію мітохондрій та епігенетичні зміни, що сприяють м'язовій втраті.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246193/",
+    "pmid": "42247738",
+    "title": "Низький рівень організованості та послідовності в домі у дитинстві пов'язаний із рівнем кортизолу та внутрішніми симптомами через 12 років у нащадків батьків з біполярним розладом",
+    "journal": "Psychoneuroendocrinology",
+    "publishedAt": "2026-05-25T00:00:00Z",
+    "abstract": "Дослідження показує, що низький рівень організованості та послідовності в домашньому середовищі у середньому дитинстві є потенційним ризиковим фактором для розвитку внутрішніх симптомів та підвищеного рівня кортизолу через 12 років у нащадків батьків з біполярним розладом. Виявлено, що ці фактори можуть впливати на розвиток афективних розладів у майбутньому.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247738/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Plant‑derived natural products alleviate dexamethasone‑induced skeletal muscle atrophy by modulating FoxO (Review).",
-    "originalAbstract": "Muscle atrophy (MA) is a major global health issue, and systematic strategies for its prevention and treatment are lacking. Diverse factors contribute to MA, amongst which the exogenous over‑supplementation and endogenous pathological elevation of glucocorticoids (GCs) are key causes. The present study summarizes MA induced by the GC dexamethasone (DEX) and its molecular mechanisms, including protein metabolism imbalance, mitochondrial dysfunction and abnormalities in epigenetic regulatory prote",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Low levels of organization and consistency in the home in middle childhood predicts cortisol levels and internalizing symptoms 12 years later among the offspring of parents with bipolar disorder.",
+    "originalAbstract": "The offspring of parents with bipolar disorder (OBD) are at high risk for developing affective disorders. Low levels of organization and consistency in the home (parenting structure) is associated with increased behavioral problems and hypothalamic-pituitary-adrenal (HPA) reactivity in the OBD and thus may be an important developmental risk factor. We also examined whether the cortisol response following awakening (CAR) is increased in the OBD who developed an affective disorder relative to OBD ",
     "keyPoints": [
-      "Атрофія м'язів є глобальною проблемою без ефективних системних стратегій.",
-      "Глюкокортикоїди, зокрема дексаметазон, є ключовими факторами розвитку атрофії.",
-      "Рослинні продукти можуть мати потенціал у корекції механізмів атрофії."
+      "Низький рівень організованості в домі у дитинстві пов'язаний із рівнем кортизолу через 12 років.",
+      "Такий рівень організованості є потенційним ризиковим фактором для внутрішніх симптомів.",
+      "Дослідження стосується нащадків батьків з біполярним розладом."
     ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал природних рослинних продуктів у запобіганні та лікуванні атрофії скелетних м'язів, спричиненої глюкокортикоїдами.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Важливо підтримувати структуроване та послідовне домашнє середовище у дитинстві для зниження ризику розвитку психічних розладів у майбутньому.",
+    "specialty": "психіатрія",
     "tags": [
-      "неврологія",
-      "фармакотерапія",
-      "загальна медицина"
+      "психіатрія",
+      "доказова медицина",
+      "дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42246192",
-    "title": "Регулятори ліпідного обміну у раку: роль SREBPs та перспективи терапії",
-    "journal": "Oncology reports",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Стаття аналізує роль білків SREBPs у регуляції ліпідного обміну, їх вплив на розвиток та прогресію раку. Виявлено, що порушення їхньої активності сприяє онкогенезу, що робить їх потенційними мішенями для нових терапевтичних підходів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246192/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Sterol regulatory element‑binding proteins: Master regulators of lipid metabolic reprogramming in cancer and emerging therapeutic targets (Review).",
-    "originalAbstract": "Sterol regulatory element‑binding proteins (SREBPs) are key regulatory factors of lipid synthesis. Tumor cells are highly dependent on SREBP‑driven lipid synthesis for the biogenesis of their cell membranes and signaling molecules. The aberrant activation of SREBPs is a critical event that drives tumorigenesis and progression. SREBPs are a subset of membrane‑bound proteins that function as basic helix‑loop‑helix leucine zipper (bHLH‑Zip) transcription factors. They mainly maintain the homeostasi",
-    "keyPoints": [
-      "SREBPs регулюють синтез ліпідів у клітинах раку.",
-      "Аномальна активація SREBPs сприяє розвитку пухлин.",
-      "Мішені для терапії можуть включати регуляцію активності SREBPs."
-    ],
-    "practicalTakeaway": "Дослідження SREBPs відкривають нові можливості для розробки цілеспрямованих терапій у онкології.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "біомаркери",
-      "ліпідний обмін"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246191",
-    "title": "Біліарний мульти-омікс-ландшафт: інтеграція мікробіому та метаболоміки у канцерогенезі жовчного міхура",
-    "journal": "Journal of gastroenterology and hepatology",
+    "pmid": "42247737",
+    "title": "Клінічне дослідження комбінації ультразвукової мікрохвильової абляції та лауромакроголу при тиреоїдних кістково-солідних вузлах",
+    "journal": "The Journal of surgical research",
     "publishedAt": "2026-06-05T00:00:00Z",
-    "abstract": "Ця стаття аналізує роль мікробіому та метаболоміки у розвитку раку жовчного міхура (РЖМ). Вона підкреслює важливість дисбіозу мікробіоти та метаболічних змін у процесі карциногенезу, що може сприяти розумінню патогенезу та потенційних цілей для діагностики і терапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246191/",
+    "abstract": "Дослідження оцінює ефективність поєднання ультразвукової мікрохвильової абляції (MWA) та лауромакроголу абляції (LIA) у лікуванні тиреоїдних кістково-солідних вузлів. Виявлено, що така комбінація може покращити результати лікування порівняно з окремими методами.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247737/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "The Biliary Multi-Omics Landscape: Integrating Microbiome and Metabolomics in Gallbladder Carcinogenesis.",
-    "originalAbstract": "Gallbladder cancer (GBC) is a highly aggressive malignancy with a dismal prognosis, frequently diagnosed at advanced stages. While cholelithiasis is a primary risk factor, the role of the biliary microbiome and its metabolic products in driving carcinogenesis is increasingly recognized. This review synthesizes multi-omics data to elucidate the interplay between microbial dysbiosis and metabolomic shifts in GBC. A systematic literature search was conducted on PubMed (up to January 2026) focusing ",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Randomized Clinical Trial of Ultrasound-Guided Microwave Ablation Combined With Lauromacrogol Ablation of Thyroid Cystic-Solid Nodules.",
+    "originalAbstract": "Thyroid cystic-solid nodules are common thyroid disorders. Ultrasound-guided microwave ablation (MWA) is widely used to treat benign nodules; however, its efficacy remains limited for larger nodules when used alone. While lauromacrogol ablation (LIA) can effectively address cystic nodules, the clinical value of combining MWA with LIA remains unclear. This randomized clinical trial aims to evaluate the treatment efficacy of ultrasound-guided MWA combined with LIA in treating thyroid cystic-solid ",
     "keyPoints": [
-      "Рак жовчного міхура є агресивним та часто діагностується на пізніх стадіях.",
-      "Дисбіоз мікробіоти та метаболічні зміни відіграють роль у розвитку РЖМ.",
-      "Мульти-омікс-аналіз допомагає зрозуміти взаємозв'язки між мікробіомом і метаболізмом у канцерогенезі."
+      "Комбінація MWA та LIA може підвищити ефективність лікування тиреоїдних вузлів.",
+      "MWA є поширеним методом для доброякісних вузлів, але має обмеження при великих розмірах.",
+      "Дослідження є першим, що оцінює клінічну цінність такої комбінації."
     ],
-    "practicalTakeaway": "Дослідження мульти-омікс-даних може сприяти розробці нових методів діагностики та лікування раку жовчного міхура.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "мікробіом",
-      "метаболоміка",
-      "раку жовчного міхура"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246188",
-    "title": "Подвійне таргетування метаболізму мітохондрій та сигналізації Rho GTPase для пригнічення метастазування раку",
-    "journal": "Oncology reports",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Дослідження аналізує роль систем метаболізму мітохондрій та Rho GTPase у процесі метастазування раку. Обговорюється їхня взаємодія та потенціал цільової терапії для зменшення поширення пухлин.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246188/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Dual targeting of mitochondrial metabolism and Rho GTPase signaling to suppress cancer metastasis (Review).",
-    "originalAbstract": "Despite the numerous advances in cancer therapy, disseminated neoplastic disease remains largely incurable and the primary cause of cancer‑related deaths. This process demands substantial bioenergetic and mechanical adaptability, orchestrated by two core cellular systems: Mitochondrial metabolism and Rho GTPase‑driven cytoskeletal dynamics. Traditionally studied independently, these systems form a tightly integrated, bidirectional network. Mitochondria supply ATP and reactive oxygen species (ROS",
-    "keyPoints": [
-      "Мітохондрії забезпечують енергію та ROS, що сприяють метастазуванню.",
-      "Rho GTPase регулює цитоскелет та клітинну мобільність.",
-      "Вивчення взаємодії цих систем може сприяти розробці нових терапевтичних стратегій."
-    ],
-    "practicalTakeaway": "Дослідження підкреслює важливість цільової терапії систем метаболізму та сигнальних шляхів для боротьби з метастазами раку.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "метастазування",
-      "мітохондрії"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246184",
-    "title": "Метаболічна перебудова за участю колових РНК у гастректомії: від механізмів до пошуку біомаркерів (огляд)",
-    "journal": "International journal of oncology",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Гастректомія виникає під впливом факторів, таких як інфекція Helicobacter pylori, генетична схильність та спосіб життя. Метаболічна перебудова є характерною ознакою розвитку та прогресії пухлини, дозволяючи раковим клітинам адаптувати енергетичний обмін для підтримки росту, інвазії, метастазування та резистентності до терапії. Колові РНК — це клас некодуючих РНК, які беруть участь у регуляції метаболізму у гастректомії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246184/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Metabolic remodeling by circular RNAs in gastric tumorigenesis: From mechanisms to biomarker discovery (Review).",
-    "originalAbstract": "Gastric cancer (GC), which primarily originates from gastric mucosal epithelium, is driven by factors such as Helicobacter pylori infection, genetic susceptibility and lifestyle. GC poses a serious threat to patient survival and quality of life. Metabolic reprogramming, a hallmark of tumorigenesis and progression, enables cancer cells to continuously adapt their energy metabolism to support proliferation, invasion, metastasis and drug resistance. Circular RNAs (circRNAs) are a class of non‑codin",
-    "keyPoints": [
-      "Обґрунтовано роль колових РНК у метаболічних змінах при гастректомії.",
-      "Метаболічна перебудова сприяє прогресії пухлини та резистентності до лікування.",
-      "Дослідження спрямовані на пошук біомаркерів для ранньої діагностики та терапії."
-    ],
-    "practicalTakeaway": "Дослідження колових РНК у гастректомії відкривають перспективи для розробки нових біомаркерів та терапевтичних стратегій.",
-    "specialty": "онкологія",
-    "tags": [
-      "гастроентерологія",
-      "біомаркери",
-      "метаболізм"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246182",
-    "title": "МікроРНК-215 сприяє епітеліальній до мієлінової трансформації та проліферації через регуляцію LEFTY2 у ендометріальній раковій пухлині",
-    "journal": "International journal of molecular medicine",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Дослідження стверджує, що мікроРНК-215 може сприяти процесам трансформації та проліферації клітин у ендометріальній раковій пухлині шляхом регуляції гена LEFTY2. Однак у публікації виявлено ознаки можливих порушень у представлених даних, що викликає сумніви щодо їхньої достовірності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246182/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "[Retracted] miR‑215 promotes epithelial to mesenchymal transition and proliferation by regulating LEFTY2 in endometrial cancert.",
-    "originalAbstract": "Following the publication of this paper, it was drawn to the Editor's attention by a concerned reader that western blot data shown in Fig. 1C on p. 1232 were strikingly similar to data in a paper that had previously been published in the journal Nature Cell Biology that was written by different authors at different research institutes. Upon performing an independent analysis of the data in this paper in the Editorial Office, it also came to light that the cellular images featured in Fig. 6B on p",
-    "keyPoints": [
-      "МікроРНК-215 потенційно впливає на трансформацію клітин у ендометріальній раковій пухлині.",
-      "Дослідження виявило ознаки можливих порушень у представлених даних.",
-      "Роль LEFTY2 у розвитку ендометріальної ракової пухлини потребує подальшого дослідження."
-    ],
-    "practicalTakeaway": "Необхідно ретельно перевіряти достовірність даних у дослідженнях, що стосуються молекулярних механізмів раку.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "мікроРНК",
-      "достовірність даних"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246180",
-    "title": "Клінічна характеристика пацієнтів та геномний опис вірусу респіраторного синцитіального вірусу в дорослих та дітей у північно-східній Мексиці",
-    "journal": "Journal of medical microbiology",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження аналізує клінічні прояви та геномні особливості вірусу респіраторного синцитіального вірусу (RSV) у дорослих і дітей у північно-східній Мексиці. RSV є поширеною причиною нижніх дихальних шляхів у дітей до 2 років та осіб старше 60 років, з високим ризиком госпіталізації, штучної вентиляції легень та 30-денної смертності. Враховуючи недостатню епідеміологічну інформацію про поширення RSV у Мексиці, дослідження спрямоване на уточнення його ролі у захворюваності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246180/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Clinical characterization of patients and genomic description of respiratory syncytial virus in adults and paediatric patients in a northeastern Mexican population.",
-    "originalAbstract": "Introduction. Respiratory syncytial virus (RSV) is a frequent cause of lower respiratory tract infections among children under 2 years old and adults over 60. Compared to other causes of viral pneumonia in adults, it is associated with a higher risk of intensive care unit admission, mechanical ventilation and 30-day mortality.Hypothesis/Gap Statement. Despite the global recognition of RSV as a cause of respiratory disease, the epidemiological information available on its distribution in Mexico a",
-    "keyPoints": [
-      "RSV є поширеною причиною важких респіраторних інфекцій у дітей та літніх.",
-      "Дослідження фокусується на клінічних проявах та геномних характеристиках вірусу.",
-      "Відсутня достатня епідеміологічна інформація про RSV у Мексиці."
-    ],
-    "practicalTakeaway": "Необхідні додаткові дослідження для покращення розуміння поширення та характеристик RSV у Мексиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "вірусні інфекції",
-      "епідеміологія",
-      "геноміка"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246178",
-    "title": "Заява про можливу повторну використання даних у дослідженні про Notch‑1 та колоректальний рак",
-    "journal": "Oncology reports",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Після публікації дослідження з'явилася зауваження щодо можливого повторного використання зображень у двох фігурах, що стосуються морфології клітин у дослідженні про інгібування Notch‑1 у клітинах колоректального раку. Автори були запрошені надати пояснення щодо цієї ситуації.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246178/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "[Expression of Concern] Antitumor activity of Notch‑1 inhibition in human colorectal carcinoma cells.",
-    "originalAbstract": "Following the publication of this paper, it was drawn to the Editor's attention by a concerned reader that, regarding the cell morphology experiments shown in Fig. 4C and 9B on p. 1066 and p. 1069 respectively, the 'NC' data panel in Fig. 4C appeared to match with the data shown to represent the 'Control' data panel in Fig. 9B, albeit the images appeared in these figures at different sizes. The authors have been contacted by the Editorial Office to offer an explanation for the apparent re‑use of",
-    "keyPoints": [
-      "З'явилися підозри щодо повторного використання зображень у дослідженні.",
-      "Обговорюється можливий збіг даних у двох фігурах.",
-      "Автори були запрошені надати пояснення ситуації."
-    ],
-    "practicalTakeaway": "Уважно перевіряйте зображення та дані перед публікацією, щоб уникнути підозр у їх повторному використанні.",
-    "specialty": "онкологія",
-    "tags": [
-      "PubMed",
-      "дослідження",
-      "заява"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246177",
-    "title": "Цільова терапія колоректального раку та метаболізму Т-клітин для лікування колоректального раку",
-    "journal": "Oncology reports",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Колоректальний рак є поширеним злоякісним новоутворенням шлунково-кишкового тракту, що має поганий прогноз на пізніх стадіях. Т-клітини відіграють важливу роль у імунному захисті, але пухлинні клітини пригнічують їх функцію через конкуренцію за нутрієнти та виділення інгібуючих метаболітів. Дослідження спрямовані на цільову терапію метаболічних шляхів Т-клітин для покращення лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246177/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Targeting colorectal cancer and T‑cell metabolism for the treatment of colorectal cancer (Review).",
-    "originalAbstract": "Colorectal cancer (CRC) is a malignant tumor of the digestive tract that is highly prevalent worldwide, which is associated with a poor prognosis in advanced stages and for which current treatment plans have limited efficacy. T cells serve a crucial role in immune clearance and immune evasion within the tumor microenvironment. However, tumor cells directly impair the function of T cells through nutrient competition and the release of inhibitory metabolites. Notably, targeting 'metabolic checkpoi",
-    "keyPoints": [
-      "Колоректальний рак має обмежену ефективність сучасних терапій.",
-      "Пухлинні клітини пригнічують Т-клітини через метаболічні механізми.",
-      "Цільова терапія метаболічних шляхів Т-клітин є перспективним напрямком."
-    ],
-    "practicalTakeaway": "Розробка терапій, що модулюють метаболізм Т-клітин, може покращити результати лікування колоректального раку.",
-    "specialty": "онкологія",
-    "tags": [
-      "колоректальний рак",
-      "імунна терапія",
-      "метаболізм"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42246173",
-    "title": "Вплив синього світла під час сну на глікемічний контроль та психосоціальний стан у дорослих з цукровим діабетом типу 1",
-    "journal": "Journal of sleep research",
-    "publishedAt": "2026-06-05T00:00:00Z",
-    "abstract": "Дослідження вивчало вплив синього та білого світла, що впливають на глюкозний контроль і психосоціальний стан у дорослих з цукровим діабетом типу 1. Виявлено, що освітлення перед сном і під час сну може мати вплив на ці показники.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42246173/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-05T14:37:15Z",
-    "originalTitle": "Blue Light Exposure During Sleep in Type 1 Diabetes: Impacts on Glycemic Control and Psychosocial Health.",
-    "originalAbstract": "Light exposure at night is linked to increased risk for obesity and insulin resistance in the general population. While sleep health is recognized as a key component of diabetes management, there has been less emphasis on nighttime light exposure. This study aimed to investigate the effects of blue and white light exposure immediately prior to (1 h) and during sleep (LEDS) on glycemic control and psychosocial wellbeing in adults with type 1 diabetes (T1D). Using baseline data from a randomized c",
-    "keyPoints": [
-      "Вивчено вплив синього та білого світла на глікемічний контроль у дорослих з цукровим діабетом типу 1.",
-      "Дослідження показало можливий вплив освітлення на психосоціальний стан.",
-      "Результати підкреслюють важливість контролю освітлення перед і під час сну для пацієнтів з цукровим діабетом."
-    ],
-    "practicalTakeaway": "Урахування впливу освітлення під час сну може бути важливим аспектом управління цукровим діабетом типу 1.",
+    "practicalTakeaway": "Комбінований підхід може бути перспективним для покращення результатів лікування тиреоїдних кістково-солідних вузлів.",
     "specialty": "ендокринологія",
     "tags": [
-      "цукровий діабет",
-      "синє світло",
-      "глікемічний контроль"
+      "ендокринологія",
+      "лікування вузлів",
+      "ультразвукова абляція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247736",
+    "title": "Тайкіназ білків у функціонуванні дендритних клітин при протираковій імунній відповіді",
+    "journal": "Seminars in immunology",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Дендритні клітини є ключовими компонентами імунної системи, що забезпечують зв'язок між природним та адаптивним імунітетом у боротьбі з раком. Їх функції регулюються білками-тайкіназами, які інтегрують сигнали з навколишнього середовища та внутрішніх стресових станів, контролюючи їх дозрівання, міграцію та презентацію антигенів. У статті систематизовано сучасні знання про роль тайкіназ у протираковій імунній відповіді, опираючись на аналіз актуальних досліджень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247736/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Protein tyrosine kinases in dendritic cell-mediated anti-cancer immunity.",
+    "originalAbstract": "Dendritic cells (DCs), the most proficient antigen-presenting cells, bridge innate and adaptive immunity and are critical for anti-cancer immune surveillance. Their function is precisely regulated by protein tyrosine kinases (PTKs), which integrate signals from external stimuli and internal cellular stress to control DC maturation, migration, and antigen presentation. This review systematically synthesizes current knowledge on PTK roles in DC-mediated anti-tumor immunity, with a focused analysis",
+    "keyPoints": [
+      "Тайкінази регулюють функції дендритних клітин у протираковій імунній відповіді.",
+      "Дендритні клітини є критичними для імунного нагляду за раком.",
+      "Розуміння ролі тайкіназ може сприяти розвитку імунних терапій."
+    ],
+    "practicalTakeaway": "Знання про роль білків-тайкіназ у функціонуванні дендритних клітин може допомогти у розробці нових стратегій імунної терапії раку.",
+    "specialty": "імунологія",
+    "tags": [
+      "імунологія",
+      "ракові захворювання",
+      "імунна система"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247732",
+    "title": "Уроки з досвіду раннього ревматоїдного артриту в Канаді",
+    "journal": "Seminars in arthritis and rheumatism",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження канадської когортної групи раннього ревматоїдного артриту (CATCH), започатковане у 2007 році, надає цінні дані про діагностику, лікування та рівність у доступі до медичної допомоги. Аналіз охоплює понад 3800 пацієнтів і понад 35 000 візитів, висвітлюючи ключові аспекти управління раннім ревматоїдним артритом.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247732/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Lessons from an early rheumatoid arthritis incident cohort.",
+    "originalAbstract": "The Canadian Early Arthritis Cohort (CATCH) study, a pioneering national registry established in 2007, has generated robust real-world evidence that has significantly advanced early rheumatoid arthritis (ERA) care in Canada and internationally. Data have been collected from over 3800 patients across 25 sites and >35,000 study visits. This paper synthesizes 15 key learnings from CATCH that span early diagnosis, treatment strategies, patient-reported outcomes, and health equity. Findings underscor",
+    "keyPoints": [
+      "Дослідження підкреслює важливість ранньої діагностики ревматоїдного артриту.",
+      "Виявлено значення індивідуалізованих стратегій лікування.",
+      "Показано роль рівності у доступі до медичних послуг для покращення результатів."
+    ],
+    "practicalTakeaway": "Застосування досвіду канадської когортної групи може покращити підходи до раннього виявлення та лікування ревматоїдного артриту.",
+    "specialty": "ревматологія",
+    "tags": [
+      "ревматоїдний артрит",
+      "раннє виявлення",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247731",
+    "title": "Дотримання дієтичних рекомендацій та ризик розвитку великих клітинних артеріїтів: дослідження випадок-контроль",
+    "journal": "Seminars in arthritis and rheumatism",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження виявило звʼязок між рівнем дотримання дієтичних рекомендацій та ризиком розвитку великих клітинних артеріїтів. Аналізувалися дані учасників загальнонаціонального дослідження, які згодом отримали діагноз GCA, та їх контрольні особи. Оцінювалася якість харчування за шведською дієтичною шкалою.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247731/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Adherence to dietary recommendations and the risk of developing giant cell arteritis: A nested Case-Control study.",
+    "originalAbstract": "To investigate the relation between adherence to dietary recommendations, the quantified intake of the components of these recommendations, and the risk of developing giant cell arteritis (GCA). Participants in the Malmö Diet and Cancer Study cohort who subsequently developed GCA were identified through register linkage and validated in a structured review. Four controls, matched for age, sex, and year of inclusion, were selected per case. Diet quality was assessed using the Swedish Dietary Guid",
+    "keyPoints": [
+      "Дотримання дієтичних рекомендацій може бути повʼязане з ризиком GCA.",
+      "Дослідження базується на даних шведського когортного дослідження.",
+      "Аналіз включає кількісну оцінку споживання компонентів дієти."
+    ],
+    "practicalTakeaway": "Збереження високої якості харчування може мати значення для зменшення ризику розвитку великих клітинних артеріїтів.",
+    "specialty": "ревматологія",
+    "tags": [
+      "дієтологія",
+      "загальне здоровʼя",
+      "доказова медицина"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247730",
+    "title": "Оцінка товщини ендометрію для ультразвукової діагностики неоплазій у різних групах жінок",
+    "journal": "International journal of gynecological cancer : official journal of the International Gynecological Cancer Society",
+    "publishedAt": "2026-05-08T00:00:00Z",
+    "abstract": "Дослідження порівнює діагностичну ефективність порогових значень товщини ендометрію 3 мм, 4 мм і 5 мм для виявлення ендометріальних неоплазій у жінок віком 50 років і старше. В рамках проспективного когортного дослідження, проведеного з 2014 по 2020 рік, було залучено 1170 учасниць, які пройшли ультразвукову оцінку під керівництвом сертифікованих фахівців.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247730/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Evaluating endometrial thickness for sonographic detection of neoplasia in diverse population of women.",
+    "originalAbstract": "This study aimed to compare the diagnostic performance of 3-mm, 4-mm, and 5-mm trans-vaginal ultrasound endometrial thickness thresholds for detecting endometrial neoplasia and to determine the optimal clinical cutoff. In this prospective cohort study, 1170 women aged ≥50 years referred for endometrial evaluation between February 2014 and October 2020 were included, with follow-up through January 2021. All participants underwent trans-vaginal ultrasound performed by certified sonographers across",
+    "keyPoints": [
+      "Порівнюються порогові значення товщини ендометрію для діагностики неоплазій.",
+      "Дослідження охоплює жінок віком 50+ років.",
+      "Результати допомагають визначити оптимальний клінічний поріг."
+    ],
+    "practicalTakeaway": "Вибір порогового значення товщини ендометрію впливає на точність виявлення ендометріальних неоплазій.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "діагностика",
+      "ультразвук",
+      "ендометрій"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247728",
+    "title": "Патерни когнітивних порушень у молодих пацієнтів із синдромом Стурдж-Вебер",
+    "journal": "Brain & development",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Дослідження аналізує патерни когнітивних порушень та їх зв'язки з клінічними та нейровізуальними характеристиками у молодих пацієнтів із одностороннім синдромом Стурдж-Вебер. В 46 випадках виявлено різні рівні когнітивних порушень залежно від сторони ураження мозку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247728/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Cognitive impairment patterns and associated clinical and imaging characteristics in young patients with Sturge-Weber syndrome.",
+    "originalAbstract": "Most patients with Sturge-Weber syndrome (SWS) have unilateral brain involvement associated with a wide range of neurocognitive outcomes. To evaluate cognitive deficit patterns in young patients with unilateral SWS and identify clinical and imaging variables associated with the various cognitive deficit patterns. Forty-six young patients with SWS were stratified by the side of brain involvement and assigned to four cognitive groups, based on formal neuropsychology evaluation: 1-no deficit, 2-tra",
+    "keyPoints": [
+      "Проаналізовано когнітивні порушення у молодих з синдромом Стурдж-Вебер.",
+      "Виявлено зв'язки між клінічними характеристиками та патернами порушень.",
+      "Дослідження допомагає краще зрозуміти нейропсихологічний профіль пацієнтів."
+    ],
+    "practicalTakeaway": "Розуміння патернів когнітивних порушень може сприяти більш цілеспрямованому підходу до діагностики та підтримки пацієнтів із синдромом Стурдж-Вебер.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейровізуалізація",
+      "когнітивні порушення",
+      "синдром Стурдж-Вебер"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247727",
+    "title": "Кореляція між фебрильними судомами та цитокінами у дітей: ретроспективне дослідження",
+    "journal": "Brain & development",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Мета дослідження — проаналізувати звʼязок між рівнями цитокінів та виникненням фебрильних судом у дітей після респіраторних інфекцій. У дослідженні взяли участь 209 дітей із фебрильними судомами та 108 дітей із респіраторними інфекціями без судом. Результати спрямовані на виявлення потенційних біомаркерів для прогнозування ризику судом.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247727/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Correlation between febrile seizures and cytokines in children: a retrospective study.",
+    "originalAbstract": "To analyze the correlation between cytokine levels and the occurrence of febrile seizures (FS) following respiratory tract infections in children. A total of 209 children with febrile seizures (FS) secondary to respiratory tract infections, treated at the Department of Pediatric Internal Medicine, Shaoxing People's Hospital, between January 2023 and March 2024, were enrolled as the FS group. During the same period, 108 children with respiratory tract infections but without FS were selected as th",
+    "keyPoints": [
+      "Проаналізовано звʼязок між цитокінами та фебрильними судомами.",
+      "Вивчено рівні цитокінів у дітей із судомами та без.",
+      "Дослідження сприяє розумінню імунних механізмів судом."
+    ],
+    "practicalTakeaway": "Рівні цитокінів можуть бути потенційними біомаркерами для оцінки ризику фебрильних судом у дітей.",
+    "specialty": "неврологія",
+    "tags": [
+      "цитокіни",
+      "фебрильні судоми",
+      "дослідження"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247726",
+    "title": "Рекомендації суспільства ERAS® для гінекологічної онкології: оновлення 2026 року",
+    "journal": "Gynecologic oncology",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Це третє оновлення рекомендацій суспільства ERAS® щодо оптимального періопераційного догляду при гінекологічній онкології. У дослідженні проаналізовано публікації 2018-2025 років, з акцентом на мета-аналізи, рандомізовані контрольовані дослідження та великі проспективні когортні дослідження.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247726/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Enhanced recovery after surgery (ERAS®) society guidelines for gynecologic oncology: 2026 update.",
+    "originalAbstract": "This is the third updated enhanced recovery after surgery (ERAS®) society guideline presenting a consensus for optimal perioperative care in gynecologic oncology surgery. A database search of publications using Embase and PubMed was performed (2018-2025). Studies for key elements within the ERAS gynecologic oncology protocol were selected with emphasis on meta-analyses, randomized controlled trials, and large prospective cohort studies. These studies were then reviewed and graded according to th",
+    "keyPoints": [
+      "Оновлені рекомендації ERAS® для гінекологічної онкології.",
+      "Аналіз досліджень 2018-2025 років.",
+      "Зосередження на доказових дослідженнях."
+    ],
+    "practicalTakeaway": "Застосування оновлених протоколів ERAS® може покращити періопераційний догляд у гінекологічній онкології.",
+    "specialty": "онкологія",
+    "tags": [
+      "гінекологічна онкологія",
+      "періопераційний догляд",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42247725",
+    "title": "Інгібування C3-компоненту відновлює м'язову патологію при міастенії",
+    "journal": "EBioMedicine",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Дослідження показало, що інгібування C3-компоненту комплементарної системи може відновлювати функцію м'язів у випадках міастенії, аутоімунного захворювання, при якому антитіла спричиняють пошкодження ацетилхолінових рецепторів. Вивчення механізмів у людських клітинах м'язів дозволяє краще зрозуміти потенційні терапевтичні цілі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247725/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-06T02:39:44Z",
+    "originalTitle": "Complement C3 inhibition restores myasthenia gravis AChR antibody-mediated muscle pathophysiology.",
+    "originalAbstract": "In the autoimmune disorder myasthenia gravis (MG), the nicotinic acetylcholine receptors (nAChRs) are the primary targets of pathogenic antibodies. While MG mechanisms have been extensively studied in animal models, functional insights into how antibody binding disrupts nAChR-dependent calcium signaling and the effects of complement inhibition in human muscle cells remain limited. We used real-time live-cell calcium imaging to assess the effects of cholinergic stimulation or inhibition on human ",
+    "keyPoints": [
+      "Інгібування C3-компоненту може покращити м'язову функцію при міастенії.",
+      "Дослідження проводилися на людських клітинах м'язів.",
+      "Механізми впливу антитіл на м'язи досліджувалися за допомогою живих клітинних моделей."
+    ],
+    "practicalTakeaway": "Дослідження вказують на потенціал інгібування C3-компоненту для лікування міастенії.",
+    "specialty": "неврологія",
+    "tags": [
+      "міастенія",
+      "комплементарна система",
+      "імунологія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
