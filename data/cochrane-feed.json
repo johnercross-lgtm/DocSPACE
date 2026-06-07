@@ -1,46 +1,46 @@
 [
   {
     "title": "Переміщення для профілактики пролежнів у дорослих",
-    "abstract": "Пролежні — локалізовані ушкодження шкіри або тканин, що виникають через тривалий тиск або зсув над кістковими виступами. У дорослих у будь-якому закладі охорони здоровʼя можливе їх розвиття. Факторами ризику є нерухомість, недоїдання та знижена чутливість. Регулярне переміщення пацієнтів є теоретично обґрунтованою профілактичною мірою, що входить до стандартної практики.",
+    "abstract": "Пролежні — локальні пошкодження шкіри або тканин, що виникають через тривалий тиск або зсув над кістковими виступами. У дорослих у будь-якому закладі охорони здоровʼя можливе їх розвиття. Основними факторами ризику є нерухомість, недоїдання та знижена чутливість. Регулярне переміщення пацієнтів є обґрунтованою профілактичною мірою, що входить до стандартної практики.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009958.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Repositioning for pressure injury prevention in adults.",
     "originalAbstract": "Pressure injuries (or pressure ulcers) are localised damage to skin or tissue (or both) occurring over bony prominences, resulting from prolonged pressure or shear forces (or both). Adults receiving care in any healthcare setting can develop pressure injuries. Immobility, malnutrition, and reduced sensation are some known risk factors. Regular repositioning is a theoretically sound prevention strategy that is part of standard patient care. This is the second update of a review published in 2014…",
     "keyPoints": [
       "Регулярне переміщення пацієнтів може запобігти пролежням.",
-      "Факторами ризику є нерухомість, недоїдання та знижена чутливість.",
-      "Дослідження оновлюється для підтвердження ефективності профілактики."
+      "Нерухомість, недоїдання та знижена чутливість — ключові фактори ризику.",
+      "Стандартна практика включає профілактичне переміщення для зменшення ризику."
     ],
-    "practicalTakeaway": "Застосування регулярного переміщення пацієнтів є важливою складовою профілактики пролежнів.",
+    "practicalTakeaway": "Застосування регулярного переміщення пацієнтів у догляді може знизити ризик розвитку пролежнів.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "пролежні",
       "профілактика",
+      "пролежні",
       "догляд"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Пероральне або парентеральне прийом заліза для зменшення відмов, дефіциту заліза та анемії у донорів крові",
-    "abstract": "Дефіцит заліза є важливою причиною відмов у донорів крові. Якщо залізо, втрачене під час донорства, не поповнюється, донори можуть стати залізодефіцитними. Всі донори проходять скринінг на низький рівень гемоглобіну. Деякі відмовлені донори не повертаються, особливо перший раз. Заходи, що зменшують ризик дефіциту заліза та анемії, можуть збільшити кількість активних донорів.",
+    "abstract": "Дефіцит заліза є поширеною причиною відмов у донорів крові. Відсутність поповнення заліза після кроводачі може призвести до його дефіциту. Всі донори проходять скринінг на рівень гемоглобіну. Деякі відмовлені донори не повертаються, особливо перший раз. Заходи, що зменшують ризик дефіциту заліза та анемії, можуть збільшити кількість донорів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009532.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Oral or parenteral iron supplementation to reduce deferral, iron deficiency and/or anaemia in blood donors.",
     "originalAbstract": "Iron deficiency is a significant cause of deferral in people wishing to donate blood. If iron removed from the body through blood donation is not replaced, then donors may become iron deficient. All donors are screened at each visit for low haemoglobin (Hb) levels. Some deferred blood donors do not return to donate. Deferred first-time donors are even less likely to return. Interventions that reduce the risk of iron deficiency and anaemia in blood donors will therefore increase the number of blo…",
     "keyPoints": [
-      "Дефіцит заліза спричиняє відмови у донорстві крові.",
+      "Дефіцит заліза спричиняє відмови донорів крові.",
       "Зменшення ризику залізодефіциту може збільшити кількість донорів.",
-      "Обговорюється роль перорального та парентерального прийому заліза."
+      "Обговорюється пероральне та парентеральне застосування заліза."
     ],
-    "practicalTakeaway": "Розглядається можливість застосування залізовмісних препаратів для зменшення відмов у донорів крові.",
+    "practicalTakeaway": "Застосування заходів для попередження залізодефіциту у донорів може сприяти збільшенню їхньої кількості.",
     "specialty": "доказова медицина",
     "tags": [
       "донорство крові",
@@ -52,26 +52,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ішемічне кондиціонування у трансплантації нирки",
-    "abstract": "Це протокол огляду Cochrane, мета якого — оцінити переваги та ризики застосування ізохімічного кондиціонування для покращення результатів пацієнтів та органів у процесі трансплантації нирки.",
+    "title": "Ішемічне кондиціонування при трансплантації нирки",
+    "abstract": "Це протокол для огляду Cochrane, мета якого — оцінити переваги та ризики ішемічного кондиціонування щодо результатів пацієнтів та органів при трансплантації нирки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016342/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Ischaemic conditioning to improve patient and organ outcomes after kidney transplantation.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of ischaemic conditioning on patient and organ outcomes in kidney transplantation.",
     "keyPoints": [
-      "Огляд досліджує ефективність ізохімічного кондиціонування у трансплантації нирки.",
-      "Мета — визначити вплив на виживання пацієнтів та стан трансплантованих органів.",
-      "Результати допоможуть оцінити потенційні переваги цієї технології."
+      "Огляд оцінює ефективність ішемічного кондиціонування у трансплантації нирки.",
+      "Мета — визначити вплив на результати для пацієнтів та стан органу.",
+      "Дослідження спрямовані на підтвердження або спростування користі цієї техніки."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування ізохімічного кондиціонування у трансплантації нирки.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування ішемічного кондиціонування у трансплантації нирки.",
     "specialty": "нефрологія",
     "tags": [
       "трансплантація",
       "нирки",
-      "ізохімічне кондиціонування"
+      "огляд"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -79,25 +79,25 @@
   },
   {
     "title": "Прийом вітаміну B12 для росту, розвитку та когнітивних функцій у дітей",
-    "abstract": "Д deficiency вітаміну B12 є важливою проблемою громадського здоров'я у дітей, що може бути пов'язано з анемією, порушенням росту, когнітивних функцій та розвитку. Недостатність може виникати через низький вміст у грудному молоці, недостатнє харчування та зростаючі потреби з віком. Вважається, що суплементація вітаміном B12 може мати позитивний вплив на ці показники, але систематичний огляд досліджень ще не завершений.",
+    "abstract": "Д deficiency вітаміну B12 є важливою проблемою громадського здоров'я у дітей, що може бути пов'язано з анемією, порушенням росту, когнітивних функцій та розвитку. Недостатність може виникати через низький вміст у грудному молоці, недостатнє харчування та зростаючі потреби з віком. Вживання вітаміну B12 може потенційно позитивно впливати на ці показники, оскільки він бере участь у синтезі ДНК, формуванні червоних кров'яних клітин та метаболізмі фолатів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015264.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Vitamin B12 supplementation for growth, development, and cognition in children.",
     "originalAbstract": "Vitamin B12 deficiency is an important public health problem in children, and has been associated with anaemia and impaired growth, cognition, and development. Vitamin B12 deficiency may develop in children due to lower content in breast milk, low dietary intake, and as requirements increase with age. Vitamin B12 supplementation may confer benefits to child growth and development, due to its role in DNA synthesis and methylation, red blood cell formation, and folate metabolism. However, no syste…",
     "keyPoints": [
-      "Недостатність вітаміну B12 у дітей може впливати на їхній розвиток.",
-      "Прийом вітаміну B12 може бути корисним для росту та когнітивних функцій.",
-      "Поточні дослідження ще не підтвердили однозначний ефект суплементації."
+      "Недостатність вітаміну B12 у дітей може спричиняти порушення росту та когнітивних функцій.",
+      "Прийом вітаміну B12 може мати потенційні переваги для розвитку дітей.",
+      "Дослідження ще не підтвердили однозначний ефект вітаміну B12 на ці показники."
     ],
-    "practicalTakeaway": "Потрібні додаткові дослідження для визначення ефективності прийому вітаміну B12 у дітей.",
+    "practicalTakeaway": "Потрібні додаткові дослідження для визначення ефективності вітамінної суплементації у дітей.",
     "specialty": "педіатрія",
     "tags": [
       "вітамін B12",
       "дитячий розвиток",
-      "суплементація"
+      "громадське здоров'я"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
@@ -105,51 +105,51 @@
   },
   {
     "title": "Передові методи відбору сперматозоїдів у допоміжних репродуктивних технологіях",
-    "abstract": "Дослідження аналізує застосування сучасних методів відбору сперматозоїдів у процедурах штучного запліднення, зокрема в ІКСІ. Передбачає, що ці техніки сприяють вибору сперматозоїдів з високою цілісністю ДНК та структурною цінністю, що потенційно може підвищити ймовірність запліднення та вагітності.",
+    "abstract": "Дослідження аналізує застосування сучасних технік відбору сперматозоїдів у процедурах штучного запліднення, зокрема при ICSI. Мета — підвищити ймовірність вибору сперматозоїдів з високою цілісністю ДНК та зрілістю, що потенційно може покращити результати запліднення та вагітності.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010461.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Advanced sperm selection techniques for assisted reproduction.",
     "originalAbstract": "Assisted reproductive technologies (ART), including in vitro fertilisation (IVF) and intracytoplasmic sperm injection (ICSI), combine an egg and sperm outside the body to enhance the probability of fertilisation and pregnancy. Advanced sperm selection techniques are increasingly employed in ART, most commonly in cycles utilising ICSI. Advanced sperm selection techniques are hypothesised to improve the likelihood that structurally intact and mature sperm with high DNA integrity are selected. Stra…",
     "keyPoints": [
-      "Передові техніки відбору сперматозоїдів використовуються у допоміжних репродуктивних технологіях.",
-      "Очікується, що вони покращують якість сперматозоїдів для підвищення успіху процедур.",
-      "Дослідження аналізує потенційний вплив на ймовірність запліднення та вагітності."
+      "Розглядаються сучасні техніки відбору сперматозоїдів у ART.",
+      "Мета — підвищити якість сперматозоїдів для запліднення.",
+      "Застосування технік може вплинути на результати вагітності."
     ],
-    "practicalTakeaway": "Передові техніки відбору сперматозоїдів можуть покращити якість сперматозоїдів у процедурах штучного запліднення.",
+    "practicalTakeaway": "Використання передових технік відбору сперматозоїдів у ART може потенційно покращити якість сперматозоїдів, але потребує подальших досліджень.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "репродуктологія",
       "штучне запліднення",
       "сперматозоїди"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Моделі прогнозування ризику сімейного раку молочної залози",
-    "abstract": "Жінки з сімейною історією раку молочної залози мають підвищений ризик захворювання. У клінічній практиці для оцінки ймовірності розвитку раку використовуються моделі прогнозування ризику. Наразі невідомо, які з доступних моделей найкраще працюють у жінок із сімейною історією раку молочної залози.",
+    "abstract": "Жінки з сімейною історією раку молочної залози мають підвищений ризик захворювання. У клінічній практиці для оцінки ймовірності розвитку раку використовують моделі прогнозування ризику. Наразі невідомо, яка з доступних моделей найкраще працює у жінок із сімейною історією раку молочної залози.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013185.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-01T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Risk prediction models for familial breast cancer.",
     "originalAbstract": "Women with a family history of breast cancer have an elevated risk of developing the disease. In clinical practice, the probability of developing breast cancer over a specified timeframe is frequently estimated using breast cancer risk prediction models. It is currently unclear which of the available models performs best in women with a breast cancer family history. To identify, describe, and appraise breast cancer risk prediction models developed or validated in women with a family history of b…",
     "keyPoints": [
-      "Оцінка ризику раку молочної залози у жінок із сімейною історією.",
-      "Використання моделей прогнозування ризику в клінічній практиці.",
-      "Порівняння ефективності різних моделей у цій групі жінок."
+      "Розглядаються моделі прогнозування ризику раку молочної залози.",
+      "Фокус на жінках із сімейною історією захворювання.",
+      "Оцінка ефективності різних моделей у цій групі."
     ],
-    "practicalTakeaway": "Клініцисти повинні враховувати особливості моделей прогнозування ризику для жінок із сімейною історією раку молочної залози.",
+    "practicalTakeaway": "Вибір найбільш відповідної моделі прогнозування ризику може допомогти у клінічному управлінні жінками з сімейною історією раку молочної залози.",
     "specialty": "онкологія",
     "tags": [
       "прогнозування ризику",
-      "сімейний рак молочної залози",
-      "клінічні моделі"
+      "раку молочної залози",
+      "сімейна історія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -157,21 +157,21 @@
   },
   {
     "title": "Заходи щодо припинення куріння у осіб, що проходять скринінг легень",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики заходів щодо припинення куріння у дорослих, що проходять скринінг легень із застосуванням низькодозової комп'ютерної томографії (КТ) грудної клітки.",
+    "abstract": "Це протокол огляду Cochrane, метою якого є оцінити переваги та ризики заходів щодо припинення куріння у дорослих, які проходять скринінг легень із використанням низькодозової комп'ютерної томографії (КТ) грудної клітки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016184/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Interventions for smoking cessation in people undergoing lung cancer screening.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of smoking cessation interventions in adults undergoing lung cancer screening with low-dose computed tomography (LDCT) of the chest.",
     "keyPoints": [
-      "Огляд досліджень щодо припинення куріння у скринінгу легень.",
-      "Оцінка потенційних переваг і ризиків заходів.",
-      "Фокус на дорослих, що проходять низькодозовий КТ легень."
+      "Оцінюється ефективність заходів щодо припинення куріння у скринінгу легень.",
+      "Фокус на дорослих, що проходять низькодозовий КТ.",
+      "Мета — визначити баланс користі та ризиків таких інтервенцій."
     ],
-    "practicalTakeaway": "Огляд аналізує ефективність та безпеку заходів щодо припинення куріння у дорослих, що проходять скринінг легень.",
-    "specialty": "пульмонологія",
+    "practicalTakeaway": "Огляд спрямований на визначення потенційної користі та ризиків застосування заходів щодо припинення куріння у контексті скринінгу легень.",
+    "specialty": "доказова медицина",
     "tags": [
       "куріння",
       "скринінг легень",
@@ -182,80 +182,80 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ботулотоксин тип А при підгострому та хронічному болі в шиї",
-    "abstract": "Дослідження аналізує ефективність та безпеку ін'єкцій ботулотоксину типу А для пацієнтів із підгострим та хронічним болем у шиї. Проведено пошук у кількох базах даних та реєстрах клінічних випробувань до 4 березня 2026 року, включаючи рандомізовані контрольовані дослідження.",
+    "title": "Ботулотоксин тип А для підгострого та хронічного болю в шиї",
+    "abstract": "Це дослідження оцінює ефективність та можливі ризики застосування ін'єкцій ботулотоксину тип А для пацієнтів із підгострим та хронічним болем у шиї, що не реагують на інші терапії. Проведено пошук у кількох базах даних та реєстрах клінічних досліджень до 4 березня 2026 року, включаючи рандомізовані контрольовані випробування.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008626.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Botulinum toxin type A for subacute/chronic neck pain.",
     "originalAbstract": "Botulinum toxin type A (BoNT-A) intramuscular injections are commonly administered for neck pain unresponsive to other therapies, but the benefit-harm profile remains uncertain. To assess the benefits and harms of intramuscular BoNT-A injection for people with subacute to chronic neck pain. We searched CENTRAL, MEDLINE, Embase, CINAHL and trial registers, together with reference checking, citation searching and contact with study authors up to 4 March 2026. Randomised controlled trials (RCTs), i…",
     "keyPoints": [
-      "Аналізуються дані рандомізованих досліджень щодо застосування ботулотоксину для болю в шиї.",
-      "Результати щодо користі та ризиків ін'єкцій ще потребують підтвердження.",
-      "Дослідження охоплює пацієнтів із підгострим та хронічним болем у шиї."
+      "Оцінюється ефективність ботулотоксину для болю в шиї.",
+      "Дослідження включає рандомізовані контрольовані випробування.",
+      "Результати допомагають визначити баланс користі та ризиків."
     ],
-    "practicalTakeaway": "Поточні дані не дають однозначної оцінки користі та безпеки застосування ботулотоксину типу А для болю в шиї.",
+    "practicalTakeaway": "Застосування ботулотоксину тип А для болю в шиї потребує подальших досліджень для визначення його безпеки та ефективності.",
     "specialty": "неврологія",
     "tags": [
-      "болі в шиї",
-      "ботулотоксин",
-      "клінічні дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Хірургічне лікування остеоартриту бази великого пальця руки",
-    "abstract": "Це оновлення огляду Cochrane, що оцінює ефективність та ризики різних хірургічних методів для лікування остеоартриту в області основи великого пальця руки, коли консервативне лікування вже не дає результатів. Аналіз включає рандомізовані дослідження, проведені до 19 травня 2025 року.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004631.pub6/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
-    "originalTitle": "Surgery for thumb (trapeziometacarpal joint) osteoarthritis.",
-    "originalAbstract": "Surgery is used to treat persistent pain and dysfunction due to osteoarthritis at the base of the thumb, when conservative management is no longer effective. This is an update of a Cochrane review first published in 2005. To evaluate the benefits and harms of different surgeries for people with thumb (trapeziometacarpal) osteoarthritis. We searched CENTRAL, MEDLINE and Embase up to 19 May 2025. We included randomised controlled trials (RCTs) or quasi-RCTs that compared at least two surgical tech…",
-    "keyPoints": [
-      "Огляд аналізує різні хірургічні методи для остеоартриту великого пальця.",
-      "Дослідження включають рандомізовані контрольовані випробування.",
-      "Результати допомагають оцінити користь і ризики хірургічного лікування."
-    ],
-    "practicalTakeaway": "Рішення щодо хірургічного лікування остеоартриту бази великого пальця має базуватися на індивідуальній оцінці ризиків і потенційної користі.",
-    "specialty": "хірургія",
-    "tags": [
-      "хірургія",
-      "остеоартрит",
-      "лікування"
+      "доказова медицина",
+      "хронічний біль",
+      "ін'єкції"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Фармакотерапія при посттравматичному стресовому розладі (ПТСР)",
-    "abstract": "Посттравматичний стресовий розлад (ПТСР) є поширеним та дезадаптивним станом. Дослідження показують, що ПТСР характеризується специфічними психобіологічними порушеннями, що сприяє інтересу до медикаментозного лікування. Мета аналізу — оцінити ефективність препаратів у зменшенні симптомів ПТСР у дорослих. Огляд базувався на даних з кількох медичних баз даних станом на листопад 2020 року.",
+    "title": "Хірургічне лікування остеоартриту бази великого пальця руки",
+    "abstract": "Це оновлення огляду Cochrane, що оцінює ефективність та ризики різних хірургічних методів при остеоартриті бази великого пальця руки, коли консервативне лікування вже не дає результатів. У дослідженні аналізуються результати рандомізованих контрольованих випробувань, проведених до травня 2025 року.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004631.pub6/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
+    "originalTitle": "Surgery for thumb (trapeziometacarpal joint) osteoarthritis.",
+    "originalAbstract": "Surgery is used to treat persistent pain and dysfunction due to osteoarthritis at the base of the thumb, when conservative management is no longer effective. This is an update of a Cochrane review first published in 2005. To evaluate the benefits and harms of different surgeries for people with thumb (trapeziometacarpal) osteoarthritis. We searched CENTRAL, MEDLINE and Embase up to 19 May 2025. We included randomised controlled trials (RCTs) or quasi-RCTs that compared at least two surgical tech…",
+    "keyPoints": [
+      "Огляд аналізує різні хірургічні методи для остеоартриту бази великого пальця.",
+      "Результати базуються на рандомізованих дослідженнях до травня 2025 року.",
+      "Мета — визначити переваги та ризики хірургічного лікування."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність різних хірургічних підходів для лікування остеоартриту бази великого пальця.",
+    "specialty": "хірургія",
+    "tags": [
+      "хірургія",
+      "остеоартрит",
+      "рука"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Фармакотерапія посттравматичного стресового розладу (ПТСР)",
+    "abstract": "Дослідження оцінює ефективність медикаментозного лікування для зменшення симптомів ПТСР у дорослих. Проведено пошук у кількох базах даних, включаючи CENTRAL, MEDLINE, Embase та PsycINFO, станом на листопад 2020 року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD002795.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-05-28T00:00:00Z",
-    "updatedAt": "2026-06-07T04:48:52Z",
+    "updatedAt": "2026-06-07T14:11:50Z",
     "originalTitle": "Pharmacotherapy for post traumatic stress disorder (PTSD).",
     "originalAbstract": "Posttraumatic stress disorder (PTSD) is a prevalent and disabling disorder. Evidence that PTSD is characterised by specific psychobiological dysfunctions has contributed to a growing interest in the use of medication in its treatment. To assess the effects of medication for reducing PTSD symptoms in adults with PTSD. We searched the Cochrane Central Register of Controlled Trials (CENTRAL; Issue 11, November 2020); MEDLINE (1946-), Embase (1974-), PsycINFO (1967-) and PTSDPubs (all available year…",
     "keyPoints": [
-      "Дослідження аналізують ефективність медикаментів при ПТСР.",
-      "Зібрано дані з різних медичних баз даних.",
-      "Мета — визначити вплив препаратів на симптоми ПТСР."
+      "Дослідження аналізує медикаментозне лікування ПТСР у дорослих.",
+      "Використовуються дані з кількох міжнародних баз даних.",
+      "Результати допомагають оцінити ефективність препаратів у зменшенні симптомів."
     ],
-    "practicalTakeaway": "Медикаментозне лікування може мати вплив на симптоми ПТСР, але потребує подальших досліджень.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Медикаментозне лікування може бути розглянуто для зменшення симптомів ПТСР, але потребує подальшого вивчення.",
+    "specialty": "психіатрія",
     "tags": [
       "ПТСР",
-      "фармакотерапія",
-      "дослідження"
+      "лікування",
+      "медикаменти"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
