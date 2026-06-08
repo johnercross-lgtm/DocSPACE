@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42251522",
-    "title": "Активність плазмових агонистів рецептора арилгідрокарбонового (AhR) і її звʼязок із запаленням та метаболічною дисрегуляцією при ожирінні",
-    "journal": "Diabetes/metabolism research and reviews",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження визначало рівень активності плазмових агонистів рецептора AhR та їхній звʼязок із системним запаленням і метаболічними порушеннями у людей з ожирінням. Вибрано 80 осіб без цукрового діабету з різною масою тіла. Рівень активності AhR аналізували у плазмі крові.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251522/",
+    "pmid": "42251817",
+    "title": "Фармакокінетика ксилазину та фентанілу у пацієнтів після передозування опіоїдами",
+    "journal": "Drug and alcohol dependence",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дослідження вивчало фармакокінетику ксилазину, що є адювантом у фентанілі, у 13 дорослих пацієнтів, які звернулися до двох міських відділень невідкладної допомоги США після передозування опіоїдами. Зразки крові збиралися протягом 4 годин для аналізу концентрацій. Відсутні дані про результати та висновки дослідження.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251817/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Plasma Aryl Hydrocarbon Receptor Agonist Activity Is Associated With Inflammation and Metabolic Dysregulation in Obesity: A Cross-Sectional Study.",
-    "originalAbstract": "The aryl hydrocarbon receptor (AhR) is linked to inflammation, but its plasma agonist activity and association with metabolic and inflammatory markers in obesity remain unclear. This cross-sectional study aimed to determine the level of plasma AhR agonistic activity and its association with systemic inflammation and metabolic dysregulation in obesity. Plasma samples were collected from 80 non-diabetic (39-obese, 23-overweight, and 18-normal/healthy weight) individuals. AhR agonist activity was a",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Pharmacokinetics of xylazine and fentanyl in patients presenting to the emergency department after non-fatal opioid overdose.",
+    "originalAbstract": "Xylazine is an alpha-2 agonist found as an adulterant in illicitly-manufactured fentanyl. Little information is available about its pharmacokinetics in humans. We conducted a naturalistic study with thirteen adult patients presenting to two urban, tertiary care emergency departments for suspected opioid overdose and concomitant xylazine exposure. This study was conducted at two US emergency departments in Worcester, MA. Serial blood specimens were collected over 4h at 30-60min intervals for phar",
     "keyPoints": [
-      "Активність плазмових агонистів AhR повʼязана із запаленням у ожирінні.",
-      "Дослідження проводилось на вибірці без цукрового діабету.",
-      "Рівень активності може бути маркером метаболічної дисрегуляції."
+      "Дослідження вивчало фармакокінетику ксилазину у пацієнтів після передозування.",
+      "Зразки крові збиралися протягом 4 годин для визначення концентрацій.",
+      "Дані про фармакокінетичні параметри ксилазину у людей наразі обмежені."
     ],
-    "practicalTakeaway": "Рівень активності плазмових агонистів AhR може слугувати маркером запалення та метаболічної дисрегуляції при ожирінні.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "інфекційні хвороби",
-      "метаболізм",
-      "запалення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42251521",
-    "title": "Цілеспрямовані терапії при thoracic нейроендокринних пухлинах: виклики та невдачі інгібіторів тирозинкінази",
-    "journal": "Expert opinion on pharmacotherapy",
-    "publishedAt": "2026-06-07T00:00:00Z",
-    "abstract": "Огляд аналізує роль інгібіторів тирозинкінази у лікуванні легень та тимусних карциноїдів, що належать до thoracic нейроендокринних пухлин. Вивчено клінічні дослідження, включаючи затверджені FDA/EMA препарати та дослідження у просуванні.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251521/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Targeted therapies in thoracic neuroendocrine tumors: challenges and failures of tyrosine kinase inhibition in lung and thymic carcinoids.",
-    "originalAbstract": "Lung (LCs) and thymic carcinoids (ThCs) belong to thoracic well-differentiated neuroendocrine tumors (NETs), whose therapeutic options for advanced stages are limited. In the era of precision medicine, tyrosine kinase inhibitors (TKIs) remain a key focus of clinical investigation. This review evaluates the evolving role of TKIs in this setting. This critical review analyzes the clinical evidence from pivotal trials regarding FDA/EMA-approved TKIs and those in advanced phases of clinical investig",
-    "keyPoints": [
-      "Інгібітори тирозинкінази досліджуються для лікування thoracic нейроендокринних пухлин.",
-      "Клінічні результати показують обмежену ефективність у цій групі пухлин.",
-      "Виклики включають низьку відповідь та високий рівень невдач терапії."
-    ],
-    "practicalTakeaway": "На даний час застосування інгібіторів тирозинкінази у thoracic нейроендокринних пухлинах залишається викликом, потребує подальших досліджень.",
-    "specialty": "онкологія",
-    "tags": [
-      "нейроендокринні пухлини",
-      "інгібітори тирозинкінази",
-      "клінічні дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42251520",
-    "title": "Епідеміологія та фактори ризику виявлення колоректальних поліпів у регіоні",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує поширеність, тенденції та демографічні характеристики колоректальних поліпів у регіоні з урахуванням особливостей місцевого населення та екологічних факторів. Враховано регіональні особливості, зокрема гіпоксію та етнічний склад, що можуть впливати на ризик розвитку поліпів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251520/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Epidemiology and risk factors of colorectal polyp detection: a regional, single-center retrospective study.",
-    "originalAbstract": "Colorectal polyps are the most important precursor lesions of colorectal cancer. Their epidemiological characteristics and risk factors exhibit substantial regional and population-based variations. Qinghai Province, located on the Qinghai-Tibet Plateau in China, is characterized by a unique hypoxic environment and a multi-ethnic population. However, large-scale epidemiological data on colorectal polyps in this region is limited. To characterize the detection rate, temporal trends, demographic di",
-    "keyPoints": [
-      "Рівень виявлення колоректальних поліпів має регіональні особливості.",
-      "Дослідження фокусується на регіоні з унікальними екологічними умовами.",
-      "Фактори ризику включають демографічні та екологічні характеристики."
-    ],
-    "practicalTakeaway": "Знання регіональних особливостей може допомогти у плануванні скринінгових програм.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "епідеміологія",
-      "колоректальні поліпи",
-      "регіональні дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42251519",
-    "title": "Гостре загострення хронічного риносинуситу: клінічні та мікробіологічні аспекти з Саудівського центру",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує клінічні особливості гострих загострень хронічного риносинуситу та бактеріальний профіль культур з середнього носового ходу під час загострень. Вивчення спрямоване на визначення поширеності, характеристик та мікробіологічних особливостей цього стану.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251519/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Acute exacerbation of chronic rhinosinusitis: clinical and microbiological perspectives from a Saudi tertiary care center.",
-    "originalAbstract": "Acute exacerbations of chronic rhinosinusitis (AECRS) are increasingly recognized as a distinct clinical entity that significantly impacts quality of life. Despite its clinical relevance, data on its prevalence, clinical characteristics, and underlying bacteriology remain limited. This study investigated the clinical features of AECRS and characterized the bacterial profile of middle meatus cultures during exacerbation episodes. Furthermore, characteristics of AECRS were compared across chronic ",
-    "keyPoints": [
-      "Гострі загострення хронічного риносинуситу мають значний вплив на якість життя.",
-      "Дослідження фокусувалося на бактеріальному профілі культур під час загострень.",
-      "Порівняння характеристик AECRS між різними групами хворих."
-    ],
-    "practicalTakeaway": "Знання бактеріального профілю при AECRS може допомогти у виборі терапії.",
+    "practicalTakeaway": "Інформація про фармакокінетику ксилазину у людей є обмеженою, що ускладнює оцінку ризиків та лікування випадків передозування.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "інфекційні хвороби",
-      "клінічні дослідження",
-      "мікробіологія"
+      "передозування",
+      "фентаніл",
+      "ксилазин"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42251518",
-    "title": "Вікові особливості показань та вибору хірургічного методу при гістеректомії",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує вікові тенденції у показаннях до гістеректомії та виборі хірургічного маршруту у пацієнток, які пройшли операцію у трирічному періоді в одному з провідних медичних центрів. Виявлено, що показання та методи можуть змінюватися залежно від віку пацієнток, а фактори, що впливають на вибір маршруту, визначаються незалежно від інших характеристик.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251518/",
+    "pmid": "42251813",
+    "title": "Група крові ABO та цереброваскулярні ускладнення після каротидної ангіографії та стентування: природний тромбозний маркер?",
+    "journal": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "publishedAt": "2026-06-07T00:00:00Z",
+    "abstract": "Дослідження оцінює зв'язок між групою крові ABO та ускладненнями з боку мозку після каротидної ангіографії або стентування. Виявлено потенційний зв'язок між природними антигенами групи крові та ризиком цереброваскулярних ускладнень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251813/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Age-related patterns in hysterectomy: indications and surgical route selection in a three-year tertiary-center cohort.",
-    "originalAbstract": "Hysterectomy indications and surgical route selection may vary with age due to shifting case mix. To describe age-stratified hysterectomy indications and routes and identify factors independently associated with route selection. Retrospective chart review. Single-center, tertiary-care teaching and research hospital, Department of Obstetrics and Gynecology. Hysterectomies performed for benign or premalignant indications between 2022 and 2024 were identified and verified. Patients were grouped acc",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "ABO blood group and cerebrovascular complications after carotid angiography and stenting: a natural thrombotic marker?",
+    "originalAbstract": "Carotid angioplasty and stenting (CAS) has increasingly been used as an alternative to carotid endarterectomy (CEA) in the treatment of carotid artery disease. However, neurological complications following carotid angiography or CAS remain a clinical concern. This study aimed to evaluate whether naturally occurring ABO blood group antigens and hematological parameters are associated with cerebrovascular complications after diagnostic or therapeutic carotid angiography. In this single-center retr",
     "keyPoints": [
-      "Показання до гістеректомії змінюються з віком.",
-      "Вибір хірургічного маршруту залежить від вікових особливостей.",
-      "Фактори, що впливають на вибір маршруту, визначаються незалежно від віку."
+      "Дослідження аналізує зв'язок групи крові ABO з ускладненнями після каротидної ангіографії.",
+      "Виявлено можливий зв'язок між групою крові та ризиком цереброваскулярних ускладнень.",
+      "Результати можуть допомогти у прогнозуванні ризику у пацієнтів, що проходять цю процедуру."
     ],
-    "practicalTakeaway": "Врахування вікових особливостей може допомогти у плануванні хірургічного втручання та підвищенні його ефективності.",
+    "practicalTakeaway": "Знання групи крові може бути корисним для оцінки ризику ускладнень після каротидної ангіографії.",
+    "specialty": "неврологія",
+    "tags": [
+      "каротидна ангіографія",
+      "група крові ABO",
+      "цереброваскулярні ускладнення"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42251810",
+    "title": "Інгібітор PDE5 варденафіл покращує глутаматергічну передачу через амілоїд-β та клітинний пріонний білок",
+    "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "publishedAt": "2026-06-07T00:00:00Z",
+    "abstract": "Дослідження вивчає роль інгібіторів PDE5, таких як варденафіл, у підвищенні синаптичної передачі за рахунок механізмів, залежних від амілоїд-β та клітинного пріонного білка. Це має потенційне значення для терапії когнітивних порушень, зокрема при хворобі Альцгеймера.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251810/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "The PDE5 inhibitor vardenafil enhances glutamatergic transmission through amyloid-beta and cellular prion protein.",
+    "originalAbstract": "Memory and synaptic plasticity are regulated by cyclic guanosine monophosphate (cGMP) signaling. Phosphodiesterase 5 (PDE5) inhibitors, such as vardenafil (VDF), elevate intracellular cGMP levels and represent potential therapeutics for cognitive disorders, including Alzheimer's disease (AD). However, the signaling pathways linking PDE5 inhibition to excitatory synaptic transmission remain incompletely defined. In particular, whether PDE5 inhibition engages amyloid-β (Aβ)-dependent mechanisms to",
+    "keyPoints": [
+      "Варденафіл підвищує рівень внутрішньоклітинного cGMP.",
+      "Механізми дії включають амілоїд-β та клітинний пріонний білок.",
+      "Можливий терапевтичний потенціал для когнітивних порушень."
+    ],
+    "practicalTakeaway": "Дослідження вказує на потенціал інгібіторів PDE5 у покращенні синаптичної функції при когнітивних порушеннях.",
+    "specialty": "неврологія",
+    "tags": [
+      "когнітивні порушення",
+      "PDE5 інгібітори",
+      "синаптична передача"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42251809",
+    "title": "Успішне лікування порушень відчуттів при синдромі неспокійних ніг у хворих на адренолейкодистрофію за допомогою Gunggwijohyeoleum-Jeilgagam: клінічний випадок",
+    "journal": "Explore (New York, N.Y.)",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "У статті описано випадок успішного застосування Gunggwijohyeoleum-Jeilgagam для лікування порушень відчуттів, пов’язаних із синдромом неспокійних ніг у пацієнта з адренолейкодистрофією. Традиційні методи лікування були неефективними або недоцільними.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251809/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Successful treatment of abnormal sensation associated with restless legs syndrome in adrenoleukodystrophy using Gunggwijohyeoleum-Jeilgagam: A case report.",
+    "originalAbstract": "Adrenoleukodystrophy (ALD) is a rare neurodegenerative disorder frequently associated with restless legs syndrome (RLS), particularly in patients with the adrenomyeloneuropathy (AMN) phenotype. RLS can markedly aggravate abnormal sensations, insomnia, and gait dysfunction; however, conventional treatments, such as dopamine agonists or iron supplementation, are often ineffective or inappropriate, especially in patients without iron deficiency. Herein, we report the clinical effects of herbal medi",
+    "keyPoints": [
+      "Адренолейкодистрофія часто супроводжується синдромом неспокійних ніг.",
+      "Стандартні терапії можуть бути неефективними у таких випадках.",
+      "Гербальні засоби можуть мати позитивний клінічний ефект."
+    ],
+    "practicalTakeaway": "Розглядайте альтернативні терапевтичні підходи для пацієнтів із синдромом неспокійних ніг при адренолейкодистрофії, особливо при неефективності стандартних методів.",
+    "specialty": "неврологія",
+    "tags": [
+      "адренолейкодистрофія",
+      "синдром неспокійних ніг",
+      "лікування"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42251808",
+    "title": "Управління багатовузловим зобом: значне зменшення вузлів та уникнення тиреоїдектомії — клінічний випадок",
+    "journal": "Explore (New York, N.Y.)",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Жінка 31 року з багатовузловим зобом, що був підтверджений ультразвуком, отримувала традиційне лікування у рамках дослідження. Вона була евтіротидною, з оцінкою темпераменту як Сафарі. Лікування включало застосування традиційних препаратів, що сприяли регресії вузлів, що дозволило уникнути хірургічного втручання.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251808/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Management of multinodular goitre: Significant nodular regression and avoidance of thyroidectomy-a case report.",
+    "originalAbstract": "A 31-year-old euthyroid woman presented in OPD for Unani treatment at Ayurvedic and Unani Tibbia College, New Delhi, with bilateral thyroid nodules confirmed on ultrasonography (TIRADS 3 right lobe; TIRADS 4 and TIRADS 5 left lobe; Bethesda grade 2/3) for which thyroidectomy had been informally recommended at a tertiary care referral hospital. Her Mizaj (temperament) was assessed as Safravi. Treatment comprised of Habbe Ayarij, Itrifal Ghudadi with Arqe Kasni, Majun Dabidulward, Naqooh Shahtara,",
+    "keyPoints": [
+      "Пацієнтка з багатовузловим зобом отримувала традиційне лікування.",
+      "Спостерігалося значне зменшення вузлів без хірургічного втручання.",
+      "Доказова медицина не застосовувалась у цьому випадку."
+    ],
+    "practicalTakeaway": "Традиційне лікування може сприяти регресії вузлів у багатовузловому зобі, але необхідні додаткові дослідження для підтвердження ефективності.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "зоб",
+      "традиційна медицина",
+      "клінічний випадок"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42251807",
+    "title": "Пробіотики з Lactobacillus та клінічна вагітність у жінок з безпліддям, що проходять ART: систематичний огляд і мета-аналіз",
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Мета дослідження — оцінити вплив прийому пробіотиків з Lactobacillus на ймовірність настання клінічної вагітності у жінок з безпліддям, що проходять допоміжні репродуктивні технології (ART). Проведено систематичний огляд і мета-аналіз рандомізованих контрольованих досліджень, опублікованих з 2005 по 2025 роки, порівнюючи прийом пробіотиків (вагінальних або пероральних) з плацебо або без додаткових препаратів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251807/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Lactobacillus-containing probiotics and clinical pregnancy in infertile women undergoing ART: a systematic review and meta-analysis.",
+    "originalAbstract": "To assess whether Lactobacillus-containing probiotics improve clinical pregnancy in infertile women undergoing assisted reproductive technology (ART). We conducted a systematic review and meta-analysis (PROSPERO CRD420251149619). PubMed, Embase, and Web of Science were searched from Jan 1, 2005, to Oct 31, 2025 for full-text randomised controlled trials (RCTs) in infertile adult women undergoing ART that compared Lactobacillus-containing probiotics (vaginal or oral) with placebo or no supplement",
+    "keyPoints": [
+      "Дослідження аналізує вплив пробіотиків з Lactobacillus на ймовірність клінічної вагітності у жінок з безпліддям.",
+      "Використовувалися дані рандомізованих контрольованих досліджень, опублікованих з 2005 по 2025 роки.",
+      "Результати допомагають оцінити потенційний вплив пробіотиків у контексті допоміжних репродуктивних технологій."
+    ],
+    "practicalTakeaway": "Прийом пробіотиків з Lactobacillus може мати потенційний вплив на ймовірність настання вагітності у жінок, що проходять ART, але потребуються додаткові дослідження.",
     "specialty": "акушерство і гінекологія",
     "tags": [
-      "гінекологія",
-      "хірургія",
-      "вікові особливості"
+      "пробіотики",
+      "безпліддя",
+      "репродуктивна медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42251517",
-    "title": "Діагностична цінність і обмеження КТ-направленого тонкоін'єкційного біопсійного дослідження при малих пульмональних вузлах Lung-RADS 4 до 2 см",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження оцінює точність, безпеку та фактори, що впливають на результати КТ-направленого тонкоін'єкційного біопсійного дослідження при пульмональних вузлах Lung-RADS 4 розміром до 2 см. Вивчення проведене у одному центрі, що спеціалізується на лікуванні таких випадків.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251517/",
+    "pmid": "42251806",
+    "title": "Антропометричні показники у 12-річних дітей, зачатих за допомогою свіжого та замороженого ембріонального переносу порівняно з природним зачаттям",
+    "journal": "European journal of obstetrics, gynecology, and reproductive biology",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Дослідження оцінює, чи збережуться відмінності у розмірах у 12-річних дітей, зачатих за допомогою технологій допоміжної репродукції (ТДР), порівняно з природним зачаттям. Вивчено дітей, народжених у Японії у 2008-2009 роках, з урахуванням типу зачаття.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251806/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Diagnostic utility and limitations of CT-guided transthoracic fine-needle aspiration biopsy in Lung-RADS 4 pulmonary nodules ≤2 cm.",
-    "originalAbstract": "Managing small Lung-RADS 4 pulmonary nodules is clinically challenging. While CT-guided TTFNAB is standard, its efficacy and safety for lesions ≤2 cm require further evaluation to optimize outcomes and reduce unnecessary surgeries. This study aimed to evaluate the diagnostic accuracy, safety, and factors influencing the outcomes of CT-guided TTFNAB in Lung-RADS category 4 pulmonary nodules measuring ≤2 cm. Retrospective study. Single-center, a tertiary referral center. A retrospective analysis w",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Anthropometric outcomes at 12 years after fresh versus frozen embryo transfer compared with natural conception.",
+    "originalAbstract": "To investigate whether the increased birth size linked to frozen-thawed embryo transfer (FET) compared with fresh embryo transfer (FreET) and natural conception persists at 12 years of age. This multicenter prospective cohort study included singleton children born between 2008 and 2009 at 23 JISART-affiliated facilities in Japan. Children conceived via assisted reproductive technology (ART) (FreET and FET) were compared with those conceived naturally by couples who are infertile without ART. Ove",
     "keyPoints": [
-      "Оцінена діагностична точність КТ-направленого біопсійного дослідження для вузлів ≤2 см.",
-      "Розглянуто безпеку процедури та фактори, що впливають на її результати.",
-      "Дослідження допомагає оптимізувати підходи до діагностики малих пульмональних вузлів."
+      "Діти, зачаті за допомогою замороженого ембріонального переносу, мають більші антропометричні показники у 12 років.",
+      "Розміри у дітей, зачатих за допомогою свіжого ембріонального переносу, не відрізняються від природного зачаття.",
+      "Дослідження порівнює довгострокові наслідки різних методів ЕКЗ."
     ],
-    "practicalTakeaway": "Результати дослідження можуть сприяти покращенню діагностичних стратегій при малих пульмональних вузлах Lung-RADS 4.",
-    "specialty": "пульмонологія",
+    "practicalTakeaway": "Довгострокові антропометричні результати у дітей, зачатих за допомогою ТДР, можуть залежати від типу переносу ембріона.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
+      "екстракорпоральне запліднення",
+      "антропометрія",
+      "дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42251804",
+    "title": "Ракова та неонкологічна фіброз: механізми та перспективи антіфібротичної терапії",
+    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "publishedAt": "2026-06-07T00:00:00Z",
+    "abstract": "Фіброз — це патологічне ремоделювання тканин, що характеризується тривалою активністю фібробластів та надмірним утворенням позаклітинного матриксу. Вона є ознакою неонкологічних захворювань і відіграє роль у прогресії кількох солідних пухлин, сприяючи імунній унікенції, погіршенню доставки ліків та резистентності до терапії. У статті порівнюються механізми фіброзу у різних контекстах та розглядаються нові антіфібротичні стратегії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251804/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Cancer-associated and non-neoplastic fibrosis: Comparative mechanisms and emerging antifibrotic strategies.",
+    "originalAbstract": "Fibrosis is a maladaptive tissue-remodeling process characterized by persistent fibroblast activation, excessive extracellular matrix deposition, and progressive tissue stiffening. Beyond non-neoplastic disorders, fibrosis is also a hallmark of several solid tumors, where it promotes immune evasion, impaired drug delivery, and therapeutic resistance, particularly in pancreatic, hepatocellular, colorectal, and triple-negative breast cancers. In this review, we comparatively analyze fibrosis acros",
+    "keyPoints": [
+      "Фіброз сприяє прогресії пухлин та ускладнює лікування.",
+      "Механізми фіброзу мають спільні риси у неонкологічних захворюваннях та пухлинах.",
+      "Розробляються нові терапевтичні підходи для боротьби з фіброзом у онкології."
+    ],
+    "practicalTakeaway": "Розуміння механізмів фіброзу може сприяти розвитку нових терапевтичних стратегій у онкології.",
+    "specialty": "онкологія",
+    "tags": [
+      "фіброз",
+      "онкологія",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42251799",
+    "title": "Виявлення прогалини у тестуванні на бореліоз Лайма при підвищенні його поширеності в Огайо",
+    "journal": "Diagnostic microbiology and infectious disease",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Дослідження виявило невідповідність у практиках тестування на бореліоз Лайма у пацієнтів із лицевим паралічем в Огайо, що зростає. Необхідна додаткова освіта медичних працівників щодо ендемічності бореліозу в регіоні, особливо в літні місяці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251799/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "A diagnostic gap in rising Lyme borreliosis endemicity: Lyme testing patterns among facial palsy patients in Ohio, 2022-2024.",
+    "originalAbstract": "Facial palsy is one of many manifestations of Lyme borreliosis. Data from our 3- year retrospective descriptive cohort quality improvement study suggests an opportunity for improvement between testing practices for Lyme borreliosis-associated facial palsy and Ohio's rising Lyme borreliosis incidence. Provider education regarding Ohio's Lyme borreliosis endemicity is crucial, particularly during peak summer months.",
+    "keyPoints": [
+      "Виявлено прогалину у тестуванні на бореліоз Лайма серед пацієнтів із лицевим паралічем.",
+      "Зростання поширеності бореліозу в Огайо потребує покращення практик діагностики.",
+      "Освіта медичних працівників важлива для підвищення рівня діагностики в регіоні."
+    ],
+    "practicalTakeaway": "Підвищення обізнаності та покращення тестових практик можуть сприяти більш точній діагностиці бореліозу Лайма.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "бореліоз Лайма",
       "діагностика",
-      "біопсія",
-      "пульмонологія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42251516",
-    "title": "Зв'язок між застосуванням інгібіторів протонної помпи та дефіцитом вітаміну B12: дослідження в Саудівській Аравії",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження оцінює вплив тривалого застосування інгібіторів протонної помпи (≥6 місяців) на рівень вітаміну B12 у пацієнтів первинної медичної допомоги в Ріяд, Саудівська Аравія. Виявлено потенційний зв'язок між довготривалим прийомом ППІ та зниженням рівня вітаміну B12.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251516/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Association between proton pump inhibitor use and vitamin B12 deficiency: a retrospective cohort study in primary care centers in Riyadh, Saudi Arabia.",
-    "originalAbstract": "Proton pump inhibitors (PPIs) are widely prescribed, yet their long-term effects on vitamin B12 status remain debated with inconsistent findings across studies. Data from Saudi Arabia and the Middle Eastern primary-care context are limited. To evaluate changes in serum vitamin B12 levels following ≥6 months of PPI therapy and assess the association between PPI use and vitamin B12 deficiency. Retrospective chart-review cohort study with paired pre-post design. Family Medicine clinics at King Fais",
-    "keyPoints": [
-      "Дослідження виявило можливий зв'язок між тривалим застосуванням ППІ та дефіцитом B12.",
-      "Оцінювалися зміни рівня вітаміну B12 у пацієнтів до і після застосування ППІ.",
-      "Дослідження проводилося у контексті первинної медичної допомоги в Саудівській Аравії."
-    ],
-    "practicalTakeaway": "Медики повинні враховувати можливий ризик дефіциту вітаміну B12 у пацієнтів, які тривалий час приймають інгібітори протонної помпи.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "вітамін B12",
-      "інгібітори протонної помпи",
-      "дефіцит вітаміну B12"
+      "епідеміологія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42251515",
-    "title": "Порівняльна виживаність у пацієнтів з T4N0 та T2-3N1 неметастатичним колоректальним раком",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує довгострокові онкологічні результати у пацієнтів з неметастатичним колоректальним раком, зокрема порівнює виживаність у тих, хто має T4N0 та T2-3N1 стадії. Виявлено, що результати у пацієнтів з T4N0 можуть бути подібними або гіршими, ніж у тих з позитивними лімфатичними вузлами.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251515/",
+    "pmid": "42251798",
+    "title": "Терапія інкретинами та готовність до трансплантації: роль BMI та фізіологічних резервів",
+    "journal": "Transplantation reviews (Orlando, Fla.)",
+    "publishedAt": "2026-06-06T00:00:00Z",
+    "abstract": "Дослідження аналізує вплив терапії інкретинами на підготовку до трансплантації органів. Висвітлюється роль показника BMI у визначенні кандидатів, а також можливості застосування GLP-1 RAs та GIP/GLP-1 агоністів для зниження ваги. Вказується, що перехід через поріг BMI не обовʼязково означає готовність до трансплантації з точки зору фізіологічних резервів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251798/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Comparative overall survival in T4N0 and T2-3N1 non-metastatic colon cancer: a retrospective cohort study.",
-    "originalAbstract": "The prognostic significance of pathological T stage relative to nodal involvement in colon cancer remains controversial. Emerging evidence suggests that patients with T4N0 disease may experience outcomes comparable to or worse than those with node-positive disease. This study aimed to compare long-term oncologic outcomes between patients with non-metastatic T4N0 colon cancer and those with T2-3N1 disease. Retrospective. Single-center. Retrospective analysis of patients with histologically confir",
+    "updatedAt": "2026-06-08T03:27:51Z",
+    "originalTitle": "Incretin therapy and transplant readiness: Distinguishing BMI-based access from physiologic reserve in solid organ transplantation.",
+    "originalAbstract": "Obesity and metabolic disease frequently shape transplant candidacy, and body mass index (BMI) remains embedded in evaluation and listing criteria. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonists now offer non-surgical pathways to clinically meaningful weight loss, including among candidates previously limited by BMI thresholds. However, in transplantation, crossing a BMI cutoff does not necessarily establish readin",
     "keyPoints": [
-      "Дослідження порівнює результати у пацієнтів з різними стадіями колоректального раку.",
-      "Пацієнти з T4N0 можуть мати результати, подібні або гірші, ніж з позитивними лімфатичними вузлами.",
-      "Аналіз проведено у рамках ретроспективного дослідження одного центру."
+      "BMI використовується для оцінки кандидатів на трансплантацію.",
+      "Терапія інкретинами може допомогти знизити вагу у кандидатів.",
+      "Перехід через BMI-поріг не гарантує фізіологічної готовності до трансплантації."
     ],
-    "practicalTakeaway": "Результати дослідження підкреслюють важливість врахування стадії T у прогнозуванні та лікуванні колоректального раку.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Враховуйте фізіологічний резерв пацієнта, а не лише показник BMI, при підготовці до трансплантації.",
+    "specialty": "сімейна медицина",
     "tags": [
-      "онкологія",
-      "дослідження",
-      "прогноз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42251514",
-    "title": "Встановлення та валідація референсних інтервалів для індексу нейтрофільного CD64 у здорової дорослої популяції Гуансі, Китай",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження встановило та підтвердило референсні інтервали для індексу нейтрофільного CD64, що є потенційним біомаркером інфекційних захворювань, у здорових дорослих у Гуансі за допомогою проточної цитометрії. Всього було залучено 494 здорових дорослих віком від 18 до 83 років.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251514/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Establishment and validation of reference intervals for the neutrophil CD64 index in a healthy adult population from Guangxi, China.",
-    "originalAbstract": "The neutrophil CD64 (nCD64) index is a potent biomarker for infectious diseases; however, the lack of standardized reference intervals (RIs) limits its clinical utility. This study aimed to establish and validate reference intervals (RIs) for the nCD64 index specifically for the Guangxi population using flow cytometry. Cross-sectional study. Conducted in Guangxi, China. A total of 494 healthy adults (aged 18-83 years) were enrolled. Peripheral blood nCD64 expression was measured via flow cytomet",
-    "keyPoints": [
-      "Визначено референсні інтервали для індексу нейтрофільного CD64 у здорових дорослих.",
-      "Дослідження проведено у Гуансі, Китай, з використанням проточної цитометрії.",
-      "Результати можуть покращити діагностику інфекційних захворювань."
-    ],
-    "practicalTakeaway": "Встановлені референсні інтервали для індексу нейтрофільного CD64 можуть допомогти у діагностиці інфекційних захворювань.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "біомаркери",
-      "інфекційні захворювання",
-      "діагностика"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42251513",
-    "title": "Вибір розміру ендотрахеальної трубки у критичних пацієнтів: досвід однієї лікарні в Саудівській Аравії за 4 роки",
-    "journal": "Annals of Saudi medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує практики вибору розміру ендотрахеальної трубки у дорослих пацієнтів у відділенні інтенсивної терапії. Вивчено фактори, що впливають на цей процес, у рамках однорічної ретроспективної когортної роботи.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42251513/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-07T13:41:12Z",
-    "originalTitle": "Endotracheal tube size selection in critically ill patients: a 4-year single-center experience in Saudi Arabia.",
-    "originalAbstract": "Intubation is a critical aspect of airway management and supportive care for intensive care unit (ICU) patients. Inappropriate size of endotracheal tubes (ETT) affects the patient's airway, it is crucial to choose an appropriate size for each patient. This study aimed to assess current practices of ETT size. for adult ICU patients and to explore factors associated with it. Single-center, retrospective cohort study at King Fahad Hospital of the University, Saudi Arabia. A retrospective review was",
-    "keyPoints": [
-      "Проаналізовано практики вибору розміру ендотрахеальної трубки у дорослих у відділенні інтенсивної терапії.",
-      "Вивчено фактори, що впливають на вибір розміру трубки.",
-      "Дослідження проведено у Саудівській Аравії за 4 роки."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають покращити підходи до підбору розміру ендотрахеальної трубки у критичних пацієнтів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інтенсивна терапія",
-      "ендотрахеальна трубка",
-      "практики"
+      "трансплантація",
+      "вага",
+      "інкретини"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
