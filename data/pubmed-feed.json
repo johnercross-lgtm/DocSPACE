@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42253138",
-    "title": "Третє покоління секвенування геному ендобактерії Corynebacterium kroppenstedtii subsp. demodicis",
-    "journal": "Environmental microbiology reports",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження з використанням технології PacBio розкриває деталі взаємодії мікроба з людським мешканцем Demodex folliculorum. Ендобактерія може сприяти виживанню кліщів у несприятливих умовах, таких як UV-випромінювання та косметика.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253138/",
+    "pmid": "42258998",
+    "title": "Вплив пренатального прийому протисудомних препаратів на ризик нейророзвиткових порушень у потомства: загальнонаціональне дослідження в Південній Кореї",
+    "journal": "Seizure",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Дослідження аналізувало звʼязок між пренатальним прийомом протисудомних препаратів (ПП) та ризиком розвитку нейророзвиткових порушень у дітей у Південній Кореї. Використовуючи дані національної страхової бази, було досліджено понад 3,6 мільйонів пар матері та дитини за період 2009-2021 років. Результати вказують на потенційний звʼязок між вживанням ПП під час вагітності та підвищеним ризиком нейророзвиткових порушень у потомства.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258998/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Third Generation Genome Sequencing of the Endobacterium Corynebacterium kroppenstedtii subsp. demodicis Reveals Details of Its Microbe-Host-Interaction With the Most Complex Human Commensal, Demodex folliculorum.",
-    "originalAbstract": "Demodex mites inhabit the pilosebaceous unit despite harsh environmental conditions including UV radiation, variable salinity, and cosmetics. Their recently characterized endobacterium may contribute to this resilience. This study aimed to elucidate mechanisms of the microbe-host interaction that help mites withstand environmental stress. The genome of Corynebacterium kroppenstedtii subsp. demodicis was sequenced using PacBio technology and annotated via MicroScope. Metabolic and symbiotic trait",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Prenatal exposure to Antiseizure Medications for all indications and the risk of neurodevelopmental disorders in offspring: a nationwide population-based cohort study in South Korea.",
+    "originalAbstract": "Antiseizure medications (ASMs) are used during pregnancy for both epilepsy and non-epilepsy indications, yet the neurodevelopmental safety of prenatal ASM exposure remains uncertain, particularly in Asian populations. We evaluated the risk of neurodevelopmental disorders (NDDs) following in utero ASM exposure using a nationwide Korean database. This population-based cohort study (2009-2021) used the Korea National Health Insurance Database to identify 3663,052 mother-infant pairs. ASM exposure w",
     "keyPoints": [
-      "Застосування секвенування третього покоління для аналізу геному бактерії.",
-      "Виявлення потенційних механізмів симбіозу між мікробом і кліщем.",
-      "Можливий внесок бактерії у стійкість Demodex folliculorum до навколишніх факторів."
+      "Дослідження виявило можливий звʼязок між пренатальним прийомом протисудомних препаратів та нейророзвитковими порушеннями.",
+      "Використано дані загальнонаціональної страхової бази Південної Кореї за період 2009-2021 років.",
+      "Результати підкреслюють важливість ретельного обґрунтування призначення ПП вагітним."
     ],
-    "practicalTakeaway": "Розуміння взаємодії мікроба з людським мешканцем може допомогти у дослідженні стійкості кліщів до зовнішніх впливів.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Необхідно враховувати потенційні ризики при призначенні протисудомних препаратів вагітним, особливо з урахуванням можливого впливу на нейророзвиток дитини.",
+    "specialty": "неврологія",
     "tags": [
-      "мікробіологія",
-      "геноміка",
-      "мікробіота"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253137",
-    "title": "Синтез первинних тіоамідів шляхом вставки CS₂ у альдоксими",
-    "journal": "Organic letters",
-    "publishedAt": "2026-06-08T00:00:00Z",
-    "abstract": "Дослідження демонструє реакцію альдоксимів з CS₂ у присутності DBU та TBACl, що дозволяє отримувати первинні тіоаміди. Реакція протікає без металів, за м'яких умов та з широким спектром субстратів. Показано її застосування у синтезі активного препарату Febuxostat та проміжних продуктів для SRT2104. Моделювання на основі DFT розкриває роль бази та TBACl у процесі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253137/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Synthesis of Primary Thioamides by the Insertion of CS2 into Aldoximes.",
-    "originalAbstract": "Aldoximes react with CS2 in the presence of DBU and TBACl, providing access to primary thioamides. This unprecedented reaction proceeds under metal-free and mild conditions and tolerates a broad range of substrates. Its robustness has been demonstrated on the synthesis of active drug Febuxostat (gout) and an advanced intermediate in the synthesis of SRT2104 (type 2 diabetes). Computational studies, based on DFT calculations, have revealed the roles of both the base and TBACl in the reaction and ",
-    "keyPoints": [
-      "Реакція альдоксимів з CS₂ у присутності DBU та TBACl.",
-      "Можливість синтезу первинних тіоамідів у м'яких умовах.",
-      "Застосування у виробництві лікарських препаратів."
-    ],
-    "practicalTakeaway": "Ця реакція може бути корисною для синтезу первинних тіоамідів у фармацевтичній промисловості.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "синтез",
-      "тіоаміди",
-      "фарма"
+      "нейророзвиткові порушення",
+      "протисудомні препарати",
+      "вагітність"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42253136",
-    "title": "Розбіжності у протоколах вимірювання артеріального тиску в офісі за міжнародними рекомендаціями",
-    "journal": "Journal of hypertension",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Дослідження порівнює вісім протоколів вимірювання артеріального тиску, рекомендованих різними міжнародними керівництвами, у 826 пацієнтів із гіпертонією. Виявлено значні розбіжності у процедурних деталях та аналізі, що може впливати на клінічну практику.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253136/",
+    "pmid": "42258996",
+    "title": "Пацієнтсько-орієнтована консультація у нейроонкології: мета-синтез досвіду пацієнтів із пухлинами мозку",
+    "journal": "Patient education and counseling",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "Мета-синтез узагальнює якісні дані щодо досвіду пацієнтів із пухлинами мозку у процесі прийняття лікувальних рішень, щоб визначити ключові елементи пацієнт-центричної консультаційної моделі. Вивчення базується на систематичному пошуку та критичній оцінці досліджень у базах даних до 15 червня 2025 року.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258996/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Discrepancies in office blood pressure measurement protocols across international guidelines: \"Houston, we've got a problem.\".",
-    "originalAbstract": "Office blood pressure (OBP) remains a cornerstone of hypertension management. However, contemporary hypertension guidelines recommend different OBP measurement protocols, which vary in procedural details and analytical approaches, and the clinical implications of these differences remain unclear. We compared eight guideline-recommended OBP protocols (Japanese, Korean, ISH, NICE, ESC/Brazilian, ESH, Chinese, and ACC/AHA) in 826 treated hypertensive outpatients (age = 60.2 ± 14.3 years; 40.4% men)",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Patient-centered consultation in neuro-oncology: A qualitative meta-synthesis of brain tumor patients' experiences with treatment decision-making.",
+    "originalAbstract": "This meta-synthesis integrates qualitative evidence on how brain tumor patients' experiences of treatment decision-making consultations in order to identify the essential elements of a patient-centered consultation framework tailored to their needs. We used a Thomas and Harden's approach. Systematic search was conducted in Web of Science, PubMed, Embase, and Scopus for studies until June 15th, 2025. All included studies were critically appraised using the Joanna Briggs Institute (JBI) Critical A",
     "keyPoints": [
-      "Порівняно 8 протоколів вимірювання АТ за міжнародними рекомендаціями.",
-      "Виявлено суттєві розбіжності у процедурних деталях.",
-      "Можливий вплив на діагностику та управління гіпертонією."
+      "Досліджено досвід пацієнтів із пухлинами мозку у процесі прийняття рішень.",
+      "Визначено ключові елементи пацієнт-центричної консультації.",
+      "Застосовано систематичний підхід та критичну оцінку досліджень."
     ],
-    "practicalTakeaway": "Необхідно враховувати різницю у протоколах вимірювання АТ для покращення діагностики та лікування гіпертонії.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Розуміння досвіду пацієнтів допомагає формувати більш індивідуалізовані підходи у нейроонкологічних консультаціях.",
+    "specialty": "неврологія",
     "tags": [
-      "гіпертонія",
-      "вимірювання АТ",
-      "міжнародні рекомендації"
+      "пацієнтська освіта",
+      "нейроонкологія",
+      "дослідження"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42253133",
-    "title": "Куркумін зменшує ниркову фіброз через вплив на сигнальні шляхи та мікробіом",
-    "journal": "Molecular nutrition & food research",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження показало, що куркумін, природний поліфенол, здатний знижувати ниркову фіброзу, пригнічуючи сигнальні шляхи S100A8/A9-TLR4 у макрофагах. Це відбувається через вплив на метаболіти мікробіоти кишечника, зокрема коротколанцюгові жирні кислоти. Такий механізм може сприяти захисту нирок при хронічних захворюваннях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253133/",
+    "pmid": "42258995",
+    "title": "Модельно-інформований підхід до розробки економічних стратегій дозування пембролізумабу",
+    "journal": "European journal of cancer (Oxford, England : 1990)",
+    "publishedAt": "2026-05-23T00:00:00Z",
+    "abstract": "Дослідження аналізує можливість зниження вартості лікування пембролізумабом за допомогою альтернативних схем дозування, зберігаючи при цьому терапевтичну ефективність. Використано модель фармакокінетики для оцінки відповідності рівнів експозиції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258995/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Curcumin Inhibits Renal Fibrosis by Suppressing S100A8/A9-TLR4 Signaling via Gut Microbiota-Derived Short-Chain Fatty Acid in Macrophages.",
-    "originalAbstract": "Renal fibrosis, a pivotal pathological process in chronic kidney disease (CKD), is closely associated with inflammatory responses and gut microbiota dysbiosis. Curcumin (CUR), a natural polyphenol derived from turmeric, shows anti-inflammatory and microbiota-modulating properties. However, its potential to attenuate renal fibrosis via gut microbiota-derived metabolites remains unclear. In this study, we investigated the mechanisms underlying the renoprotective effects of CUR, using a murine mode",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Model-informed approaches to develop drug cost-saving dosing strategies for pembrolizumab.",
+    "originalAbstract": "The increasing use of pembrolizumab in oncological treatments results in substantial healthcare costs. The recently approved subcutaneous (SC) pembrolizumab formulation remains expensive. The aim of this study was to evaluate alternative SC pembrolizumab dosing strategies that reduce costs while maintaining equivalent exposure and improving convenience. A previously published population pharmacokinetic model was used to evaluate alternative dosing strategies achieving exposure equivalent to the ",
     "keyPoints": [
-      "Куркумін пригнічує сигнальні шляхи, пов'язані з нирковою фіброзою.",
-      "Мікробіота кишечника відіграє роль у механізмі дії куркуміну.",
-      "Дослідження проводилось на мишах з моделлю хронічної хвороби нирок."
+      "Розглядаються альтернативні схеми дозування пембролізумабу.",
+      "Модель фармакокінетики забезпечує збереження терапевтичної експозиції.",
+      "Мета — зменшити витрати на лікування без втрати ефективності."
     ],
-    "practicalTakeaway": "Прийом куркуміну може мати потенційний захисний ефект при хронічних захворюваннях нирок, але потрібні додаткові дослідження.",
+    "practicalTakeaway": "Модельно-інформований підхід може допомогти оптимізувати дозування дорогих препаратів для зниження витрат.",
+    "specialty": "онкологія",
+    "tags": [
+      "економіка в медицині",
+      "лікування раку",
+      "фармацевтичні дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258994",
+    "title": "Комбінований лікувальний підхід при ускладнених саркомах: результати дослідження",
+    "journal": "European journal of cancer (Oxford, England : 1990)",
+    "publishedAt": "2026-06-06T00:00:00Z",
+    "abstract": "Дослідження оцінювало безпечність та активність комбінації анлотинібу та торіпамаб у пацієнтів з ускладненими саркомами, включаючи рідкісні форми. Проведено у чотирьох центрах Китаю, участники отримували анлотиніб та торіпамаб кожні три тижні. Основною метою було визначення частки об'єктивних відповідей за RECIST 1.1.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258994/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Anlotinib plus toripalimab in patients with advanced bone and soft tissue sarcomas including ultra-rare sarcomas: A multicenter, single-arm, phase 2 trial.",
+    "originalAbstract": "Treatment options for advanced sarcomas, particularly ultra-rare sarcomas (URS), remain limited. This study evaluated the activity and safety of anlotinib combined with toripalimab in a histologically diverse sarcoma population. This single-arm, phase 2 clinical trial was conducted at four centers in China. Participants received anlotinib (12 mg on days 1-14) in combination with toripalimab (240 mg on day 1) every 3 weeks. The primary endpoint was objective response rate (ORR) by RECIST 1.1. Sec",
+    "keyPoints": [
+      "Дослідження оцінювало ефективність комбінації анлотинібу та торіпамаб.",
+      "Вивчалась безпечність лікування у пацієнтів з ускладненими саркомами.",
+      "Результати стосуються різних гістологічних типів сарком."
+    ],
+    "practicalTakeaway": "Комбінація анлотинібу та торіпамаб може бути перспективною для лікування ускладнених сарком, включаючи рідкісні форми.",
+    "specialty": "онкологія",
+    "tags": [
+      "саркома",
+      "лікування",
+      "клінічне дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258992",
+    "title": "Ліналліптин та/або α-пінен зменшують нефротоксичність цисплатину у щурів через регуляцію митофагії",
+    "journal": "The Journal of pharmacology and experimental therapeutics",
+    "publishedAt": "2026-05-05T00:00:00Z",
+    "abstract": "Дослідження виявило потенційний профілактичний ефект ліналліптину та α-пінену на функціональні, біохімічні та структурні зміни нирок у щурів, спричинені цисплатином. Вивчено їхній вплив на механізми митофагії, що може зменшити токсичність препарату.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258992/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Linagliptin and/or α-pinene attenuate cisplatin nephrotoxicity in rats via modulating phosphatase and tensin homolog-induced kinase 1/Parkin/microtubule-associated proteins 1A/1B light chain 3II/SQSTM1/sequestosome-1-assisted mitophagy.",
+    "originalAbstract": "Acute kidney injury is considered the most harmful and prevalent type of cisplatin-induced nephrotoxicity. In the current research, the potential prophylactic effects of linagliptin and/or α-pinene were investigated on cisplatin-induced functional, biochemical, and structural changes in rat kidneys. Forty Sprague-Dawley male rats were separated into five groups (n = 8): (1) normal group; (2) model group (cisplatin 7.5 mg/kg, i.p., single dose); (3) linagliptin group (3 mg/kg, p.o. for 18 days); ",
+    "keyPoints": [
+      "Ліналліптин та α-пінен потенційно зменшують нефротоксичність цисплатину.",
+      "Дослідження проведено на щурах із моделлю гострої ниркової недостатності.",
+      "Механізм дії пов'язаний із регуляцією митофагії в клітинах нирок."
+    ],
+    "practicalTakeaway": "Можливе застосування ліналліптину та α-пінену для зменшення нефротоксичних ефектів цисплатину.",
     "specialty": "нефрологія",
     "tags": [
-      "ниркова фіброза",
-      "мікробіота",
-      "куркумін"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253131",
-    "title": "Ретинальні судинні ознаки для короткострокового прогнозування пологів при гіпертензивних розладах вагітності",
-    "journal": "Journal of hypertension",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Дослідження виявило, що поєднання кількісних характеристик ретинальних судин з рівнем sFlt-1/PlGF та клінічними даними може покращити прогнозування пологів протягом двох тижнів у жінок з гіпертензивними розладами вагітності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253131/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Retinal vascular features enhance short-term prediction of delivery in hypertensive disorders of pregnancy.",
-    "originalAbstract": "Hypertensive disorders of pregnancy (HDP) are a significant global health concern requiring effective strategies for risk stratification. We hypothesized that integrating quantitative retinal vascular features with the soluble fms-like tyrosine kinase-1 (sFlt-1)/placental growth factor (PlGF) ratio and clinical data would significantly improve the prediction of delivery within 2 weeks due to HDP progression. This prospective cohort study enrolled 54 hospitalized patients with HDP who underwent s",
-    "keyPoints": [
-      "Ретинальні судинні ознаки потенційно допомагають прогнозувати пологи у вагітних з гіпертензією.",
-      "Комбінування судинних характеристик з біомаркерами підвищує точність прогнозу.",
-      "Дослідження проводилось у госпіталізованих пацієнток з гіпертензивними розладами вагітності."
-    ],
-    "practicalTakeaway": "Використання ретинальних судинних ознак у поєднанні з біомаркерами може покращити короткострокове прогнозування пологів у вагітних з гіпертензією.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "вагітність",
-      "гіпертензія",
-      "прогнозування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253130",
-    "title": "Вплив температури культивування на виробництво бактерицидних речовин та безпеку бактерій з антимікробним і пробіотичним потенціалом",
-    "journal": "Molecular nutrition & food research",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження оцінювало безпеку, виробництво бактерицидних речовин та пробіотичний потенціал чотирьох штамів бактерій, ізольованих із artisanal сирів. Експерименти проводили при 37°C та 39°C для моделювання фізіологічних та теплових стресів. Всі штами були фенотипічно безпечними.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253130/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Influence of Culturing Temperature on Bacteriocin Production and Safety Behavior on Bacteriocinogenic cocci With Antimicrobial and Probiotic Potential.",
-    "originalAbstract": "The selection of novel probiotic candidates requires rigorous evaluation of safety and functional properties. This study aimed to assess safety, bacteriocin production and probiotic potential of four bacterial strains isolated from artisanal cheeses: Enterococcus faecium ST02JL and ST03JL, Lactococcus garvieae ST04JL, and Staphylococcus epidermidis ST0409KOC. Experiments were conducted at 37°C and 39°C to simulate physiological and thermal stress conditions. All strains were phenotypically safe,",
-    "keyPoints": [
-      "Досліджували чотири штами бактерій із сирів.",
-      "Проводили експерименти при двох температурах.",
-      "Всі штами виявилися безпечними та потенційно пробіотичними."
-    ],
-    "practicalTakeaway": "Вибір умов культивування може впливати на виробництво бактерицидних речовин і безпеку бактерій з пробіотичним потенціалом.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "бактеріологія",
-      "пробіотики",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253129",
-    "title": "Інтеграція обовʼязкового тестування гемоглобіну A1c у процес донорства крові для раннього виявлення цукрового діабету та підвищення обізнаності донорів",
-    "journal": "Transfusion",
-    "publishedAt": "2026-06-08T00:00:00Z",
-    "abstract": "Дослідження показало, що понад 10% дорослих мають цукровий діабет, з яких майже половина не діагностована. Впровадження тестування HbA1c у центрах крові може сприяти ранньому виявленню захворювання та підвищенню обізнаності донорів щодо їхнього стану здоровʼя.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253129/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Integrating routine hemoglobin A1c screening in blood donation: A strategy for early diabetes detection and donor health awareness.",
-    "originalAbstract": "More than 1 in 10 adults worldwide have diabetes, with nearly 50% undiagnosed. Hemoglobin A1c (HbA1c) testing is widely available to identify disease status and blood donation centers can play a pivotal role in public health promotion with routine screening. We performed a prospective observational study implementing HbA1c testing at a community blood center over a 1-year period. Demographic data and history of pre-diabetes/diabetes status were collected. Donors with abnormally elevated HbA1c wi",
-    "keyPoints": [
-      "Більше половини дорослих з цукровим діабетом залишаються недіагностованими.",
-      "Обовʼязкове тестування HbA1c у центрах крові може допомогти у ранньому виявленні діабету.",
-      "Рутинне скринінгове тестування у донорських центрах сприяє профілактиці та підвищенню обізнаності."
-    ],
-    "practicalTakeaway": "Впровадження тестування HbA1c у центрах крові може допомогти у ранньому виявленні цукрового діабету та підвищенні обізнаності донорів.",
-    "specialty": "ендокринологія",
-    "tags": [
-      "діабет",
-      "скринінг",
-      "донорство крові"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253126",
-    "title": "Звʼязок між індексом C-реактивного білка-тригліцерид-глюкоза та несприятливими кардіоваскулярними наслідками у пацієнтів з гострим коронарним синдромом та попереднім коронарним шунтуванням",
-    "journal": "Mediators of inflammation",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує звʼязок між індексом C-реактивного білка-тригліцерид-глюкоза та ризиком несприятливих кардіоваскулярних подій у пацієнтів з гострим коронарним синдромом, які раніше перенесли коронарне шунтування. Виявлено, що системне запалення та інсулінорезистентність відіграють роль у прогресії атеросклерозу та ускладненнях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253126/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Association Between C-Reactive Protein-Triglyceride Glucose Index and Adverse Cardiovascular Outcomes in Acute Coronary Syndrome Patients With Prior Coronary Artery Bypass Grafting.",
-    "originalAbstract": "Patients with acute coronary syndrome (ACS) who have previously undergone coronary artery bypass grafting (CABG) represent a complex, high-risk population characterized by a substantial burden of atherosclerosis and a marked propensity for recurrent ischemic events. The pathophysiological interplay between systemic inflammation and insulin resistance serves as a key mediator driving the progression of atherosclerosis and the destabilization of atherosclerotic plaques. However, the prognostic imp",
-    "keyPoints": [
-      "Індекс C-реактивного білка-тригліцерид-глюкоза може бути прогностичним маркером у пацієнтів з гострим коронарним синдромом.",
-      "Запалення та інсулінорезистентність сприяють прогресії атеросклерозу та ускладненням.",
-      "Пацієнти з попереднім шунтуванням мають підвищений ризик несприятливих кардіоваскулярних подій."
-    ],
-    "practicalTakeaway": "Врахування індексу C-реактивного білка-тригліцерид-глюкоза може допомогти у прогнозуванні ризику у пацієнтів з гострим коронарним синдромом та попереднім шунтуванням.",
-    "specialty": "кардіологія",
-    "tags": [
-      "кардіологія",
-      "інфекційні хвороби",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253124",
-    "title": "Перевищення рівня ендотеліну-1 у мишей підвищує альтернативні ізоформи Vegfa через Khdrbs3",
-    "journal": "Journal of hypertension",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Дослідження показало, що у мишей з індукованим підвищенням ендотеліну-1 у ендотелії спостерігається підвищення рівня VEGFA164 та VEGFA188, що пов'язано з підвищенням експресії Khdrbs3. Це може впливати на судинну функцію та пошкодження.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253124/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Endothelin-1 overexpression in mice increases vascular Vegfa164 and Vegfa188 alternative splice isoforms via enhanced Khdrbs3 expression.",
-    "originalAbstract": "Mice with tamoxifen-inducible endothelium-restricted human endothelin-1 (ET-1) overexpression (ieET-1) exhibited blood pressure elevation after 3  weeks and 3  months, and vascular injury after 3  months. We hypothesised that ET-1 overexpression-induced vascular injury is mediated by gene expression dysregulation. Male ieET-1 mice and mice expressing a tamoxifen-inducible Cre recombinase in endothelial cells were induced with tamoxifen and studied 3-week and 3-month post-treatment. MicroRNA and ",
-    "keyPoints": [
-      "Підвищення ендотеліну-1 сприяє зміні сплайсингу VEGFA.",
-      "Зміни в експресії Khdrbs3 можуть бути механізмом впливу.",
-      "Дослідження проводили на мишах з індукованим підвищенням ET-1."
-    ],
-    "practicalTakeaway": "Зміни у регуляції VEGFA та Khdrbs3 можуть мати значення для досліджень судинних захворювань.",
-    "specialty": "кардіологія",
-    "tags": [
-      "судинна система",
-      "генно-експресійні механізми",
-      "VEGFA"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42253122",
-    "title": "Часовий аспект радикальної хірургії при випадковому раку жовчного міхура",
-    "journal": "ANZ journal of surgery",
-    "publishedAt": "2026-06-08T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив часу проведення радикальної хірургії при випадковому раку жовчного міхура на виживання без захворювання та загальну виживаність. Вивчено дані пацієнтів, які перенесли завершальну операцію у період з 2012 по 2022 роки. Результати вказують на необхідність подальшого дослідження оптимальних термінів хірургічного втручання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42253122/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-08T15:38:52Z",
-    "originalTitle": "Timing of Curative Resection in Incidental Carcinoma of the Gall Bladder: Does It Really Matter?",
-    "originalAbstract": "There is conflicting data in the literature regarding the optimal timing of curative surgery in incidental gallbladder cancer (IGBC). The aim of this study was to assess the impact of the timing of surgery in IGBC on disease-free (DFS) and overall survival (OS). Data of all patients of IGBC who underwent completion radical cholecystectomy from January 2012 to December 2022 was retrieved from a prospectively maintained electronic database. Patients were divided into two groups based on the interv",
-    "keyPoints": [
-      "Аналізується вплив часу операції на виживання при випадковому раку жовчного міхура.",
-      "Дослідження охоплює пацієнтів, оперованих у 2012-2022 роках.",
-      "Результати підкреслюють важливість подальших досліджень щодо оптимальних термінів хірургії."
-    ],
-    "practicalTakeaway": "Оптимальний час проведення радикальної хірургії при випадковому раку жовчного міхура потребує подальшого вивчення для покращення результатів лікування.",
-    "specialty": "хірургія",
-    "tags": [
-      "ракові захворювання",
-      "жовчний міхур",
-      "хірургія"
+      "нефротоксичність",
+      "лікування ниркових ушкоджень",
+      "механізми митофагії"
     ],
     "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258990",
+    "title": "Дослідження ефективності третинної терапії при метастатичному колоректальному раку",
+    "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+    "publishedAt": "2026-05-05T00:00:00Z",
+    "abstract": "Це дослідження порівнює результати застосування тирозинкіназних інгібіторів (регорефеніб або фрукінтібініб) з повторним застосуванням хіміотерапії у пацієнтів з метастатичним колоректальним раком, що не відповідають попереднім лікуванням. Аналіз проведено на основі даних за період з квітня 2018 по червень 2023 року, включаючи 107 пацієнтів із середнім спостереженням 6,6 місяців.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258990/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "A Real-World Study: Effect of the Third-Line Therapy of Fruquintinib or Regorafenib Therapy Versus Rechallenge Chemotherapy in Metastatic Colorectal Cancer.",
+    "originalAbstract": "Third-line treatment options for metastatic colorectal cancer (mCRC) remain limited. Chemotherapy rechallenge has shown efficacy in this setting, but direct comparisons with tyrosine kinase inhibitors (TKIs) are lacking. This real-world study aimed to retrospectively compare TKI (regorafenib/fruquintinib) versus rechallenge chemotherapy in refractory mCRC. From April 2018 to June 2023, 107 mCRC patients receiving third-line therapy were analyzed (median follow-up: 6.6 months). Endpoints included",
+    "keyPoints": [
+      "Порівнюються тирозинкіназні інгібітори та хіміотерапія у третинному лікуванні.",
+      "Дослідження проведено у реальних умовах з 107 пацієнтами.",
+      "Результати допомагають оцінити ефективність різних підходів у цій групі хворих."
+    ],
+    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір терапії у пацієнтів з метастатичним колоректальним раком, що не відповідають попереднім лікуванням.",
+    "specialty": "онкологія",
+    "tags": [
+      "онкологія",
+      "лікування раку",
+      "метастатичний колоректальний рак"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258989",
+    "title": "Психометрична оцінка NFOSI-18 у дослідженні рецидивуючого раку яєчників GY004",
+    "journal": "Gynecologic oncology",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Дослідження оцінює надійність та валідність інструментів для вимірювання симптомів та якості життя пацієнтів із рецидивуючим раком яєчників, з урахуванням сучасних цілеспрямованих терапій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258989/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Psychometric evaluation of the NFOSI-18 disease related symptoms - Physical, NFOSI-18 Total, and FACT GP5 in the recurrent ovarian cancer phase III study GY004.",
+    "originalAbstract": "Patient-reported outcomes (PROs) are critical in recurrent ovarian cancer, where symptom burden and quality of life (QOL) influence treatment decisions. Given limited psychometric validation of PROs in patients receiving modern targeted therapies, we conducted a comprehensive evaluation of the NCCN/FACT Ovarian Symptom Index-18 (NFOSI-18), including both Total and disease-related symptoms (DRS-P) subscale scores, and a single-item about side effect (GP5), to assess their reliability and validity",
+    "keyPoints": [
+      "Оцінено психометричні властивості NFOSI-18.",
+      "Розглянуто підскали для симптомів та побічних ефектів.",
+      "Зосереджено на пацієнтських звітах у контексті лікування."
+    ],
+    "practicalTakeaway": "Валідація PRO-інструментів важлива для точного оцінювання симптомів та якості життя у дослідженнях раку яєчників.",
+    "specialty": "онкологія",
+    "tags": [
+      "доказова медицина",
+      "онкологія",
+      "пацієнтські звіти"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258987",
+    "title": "Ефективність транскраніальної фотобіомодуляції та трансуральної вагусної стимуляції у зменшенні тяги до алкоголю",
+    "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Дослідження аналізує потенціал неінвазивних нейромодулюючих технологій, таких як транскраніальна фотобіомодуляція (tPBM) та трансуральна вагусна стимуляція (taVNS), у зниженні тяги до алкоголю. Вивчено їхній вплив окремо та у комбінації, щоб визначити їхню ефективність у корекції нейронних механізмів, що сприяють залежності.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258987/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "The effectiveness of transcranial photobiomodulation therapy (tPBM) and transauricular vagus nerve stimulation (taVNS) on reducing alcohol craving.",
+    "originalAbstract": "Alcohol craving plays a central role in sustaining alcohol use and contributing to relapse. Noninvasive neuromodulation techniques such as transcranial photobiomodulation (tPBM) and transauricular vagus nerve stimulation (taVNS) may target craving-related neural circuits through complementary cortical and subcortical mechanisms. However, their relative and combined effects on craving and related symptoms remain unclear. To compare the effects of tPBM, taVNS, and combined tPBM + taVNS on alcohol ",
+    "keyPoints": [
+      "Досліджуються неінвазивні методи зменшення тяги до алкоголю.",
+      "Розглядається вплив транскраніальної фотобіомодуляції та вагусної стимуляції.",
+      "Мета — визначити ефективність окремо та у комбінації."
+    ],
+    "practicalTakeaway": "Дослідження допомагає зрозуміти потенціал неінвазивних нейромодулюючих технологій у лікуванні алкогольної залежності.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейронаука",
+      "залежність",
+      "нейромодулювання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258986",
+    "title": "Мікропластики як носії вірусів у насиченому кварцовому піску: вплив на інфекційність та мобільність вірусів",
+    "journal": "Journal of hazardous materials",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження в лабораторії вивчало роль мікропластиків у збереженні та перенесенні вірусів у ґрунті. Виявлено, що мікропластики можуть зменшувати інфекційність вірусів та сприяти їхній мобільності у грунтових умовах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258986/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Microplastics as vectors for virus transport in saturated quartz sand: Reduced PRD1 bacteriophage infectivity and enhanced mobility.",
+    "originalAbstract": "Microplastics originating from pellets, paints, fragmented macroplastics, textiles, tire wear, and personal care products enter sewage and can aggregate with viruses during treatment. After sludge application, these aggregates may infiltrate soils and enter groundwater, yet their aggregation mechanisms and effects on virus survival and transport remain unclear. To address this gap, we conducted a laboratory study to examine the effect of microplastics on virus persistence and transport in ground",
+    "keyPoints": [
+      "Мікропластики можуть агрегірувати з вірусами у системах очищення стічних вод.",
+      "Взаємодія мікропластиків з вірусами може впливати на їхню здатність проникати у ґрунти та воду.",
+      "Дослідження показують, що мікропластики можуть змінювати поведінку вірусів у навколишньому середовищі."
+    ],
+    "practicalTakeaway": "Необхідно враховувати роль мікропластиків у поширенні вірусів у навколишньому середовищі.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "мікропластики",
+      "віруси",
+      "забруднення навколишнього середовища"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42258985",
+    "title": "Спільне існування резистентних та вірулентних плазмід у Escherichia coli ST602 з позитивним на blaNDM-5 у Китаї",
+    "journal": "Journal of hazardous materials",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Дослідження показало поширення бактерій Escherichia coli з резистентністю до карбапенемів та вірулентними властивостями у різних секторах у Китаї. Виявлено штам ST602, що містить плазміди з генами резистентності та вірулентності, у рамках інтегрованої системи фермерства качок і яєць.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258985/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-09T02:38:52Z",
+    "originalTitle": "Co-occurrence of resistance and virulence plasmids in a blaNDM-5-positive Escherichia coli ST602 clone across One Health sectors in China.",
+    "originalAbstract": "Carbapenem-resistant bacteria circulating across human, animal, and environmental sectors are a growing public health concern. We investigated blaNDM-5-positive Escherichia coli ST602 from an integrated duck-egg farming ecosystem in China using whole-genome sequencing with plasmid characterization. Among 44 representative carbapenem-resistant E. coli (CREC) isolates selected from a larger collection of 103 CREC isolates, seven belonged to ST602 and formed a genetically related O103:H21 cluster r",
+    "keyPoints": [
+      "Виявлено поширення E. coli з резистентністю до карбапенемів у різних секторах.",
+      "Штам ST602 містить плазміди з генами резистентності та вірулентності.",
+      "Дослідження підкреслює важливість моніторингу міжсекторної передачі бактерій."
+    ],
+    "practicalTakeaway": "Необхідно посилювати контроль за поширенням резистентних бактерій у сільському господарстві та навколишньому середовищі.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "резистентність",
+      "плазміди",
+      "міжсекторна передача"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
