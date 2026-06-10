@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42261752",
-    "title": "Геноміка для покращення скринінгу новонароджених",
-    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Скринінг новонароджених є важливим досягненням громадського здоров'я, що дозволяє виявляти та лікувати серйозні генетичні захворювання на ранніх стадіях. Розширення можливостей скринінгу включає застосування платформ з мас-спектрометрією. Геномний скринінг використовує секвенування ДНК для підвищення точності та охоплення виявлення генетичних станів, що потребують втручання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261752/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Genomics to Enhance Newborn Screening ?",
-    "originalAbstract": "Newborn screening is a major public health achievement, enabling early detection and treatment of serious medical conditions before onset of irreversible damage to health. The scope of newborn screening has continuously expanded with the addition and innovations in screening platforms including tandem mass spectrometry. Genomic newborn screening provides another platform using genomic DNA sequencing as a first-tier test to improve and expand screening for actionable genetic conditions. Genome co",
-    "keyPoints": [
-      "Геномний скринінг може розширити можливості виявлення генетичних захворювань у новонароджених.",
-      "Застосування секвенування ДНК дозволяє покращити ранню діагностику.",
-      "Розширення скринінгу сприяє більшій профілактиці та лікуванню генетичних станів."
-    ],
-    "practicalTakeaway": "Геномний скринінг має потенціал для покращення раннього виявлення генетичних захворювань у новонароджених.",
-    "specialty": "педіатрія",
-    "tags": [
-      "геноміка",
-      "скринінг новонароджених",
-      "генетичні захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261750",
-    "title": "Роль Kir4.1/Kir5.1 у регуляції впливу ангіотензину-II на Na-Cl-ко-транспортер",
-    "journal": "Current opinion in nephrology and hypertension",
+    "pmid": "42263382",
+    "title": "Нові підходи до вибору ендокринної терапії при гормонорецептор-позитивному метастатичному раку молочної залози",
+    "journal": "Breast (Edinburgh, Scotland)",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "abstract": "Обговорюється роль каналів Kir4.1/Kir5.1 у дистальному звивистому канальці нирки у посередництві впливу ангіотензину-II на експресію та активність Na-Cl-ко-транспортеру (NCC). Відсутність AT1aR у ниркових канальцях не впливає на базову активність Kir4.1.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261750/",
+    "abstract": "Розуміння біології гормонорецептор-позитивного/HER2-негативного метастатичного раку молочної залози сприяє вдосконаленню підходів до ендокринної терапії. Стандартною першою лінією залишаються комбінації ендокринної терапії з інгібіторами циклин-залежних кінеаз. Однак, швидкий розвиток досліджень у цій галузі відкриває нові можливості для оптимізації лікування та прогнозування відповіді пацієнтів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263382/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "The role of kir4.1/Kir5.1 in mediating the effect of angiotensin-II on Na-Cl-cotransporter.",
-    "originalAbstract": "Angiotensin-II plays an important role in regulating thiazide-sensitive Na-Cl-cotransporter (NCC) encoded by Slc12A3. Moreover, inwardly-rectifying-K+ (Kir) channels 4.1/Kir5.1 encoded by Kcnj10 and Kcnj16 have been shown to determine NCC expression/activity. This review discusses the role of Kir4.1/Kir5.1 of distal-convoluted-tubule (DCT) in mediating the effect of angiotensin-II on NCC expression/activity. Deletion of kidney-tubule AT1aR has no significant effect on baseline-activity of Kir4.1",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "New perspectives on endocrine therapy suitability for hormone receptor-positive metastatic breast cancer in clinical practice.",
+    "originalAbstract": "Hormone receptor-positive/HER2-negative advanced breast cancer (ABC) is a heterogeneous and dynamic disease. Endocrine therapy (ET) + cyclin-dependent kinase 4/6 inhibitors remain the standard-of-care first-line therapy for ABC. However, the treatment landscape is rapidly evolving as our understanding of the complex biology underlying this common subtype advances. Predicting how a patient's cancer might respond to ET across lines of therapy and understanding optimal sequencing in clinical practi",
     "keyPoints": [
-      "Канали Kir4.1/Kir5.1 визначають регуляцію NCC під впливом ангіотензину-II.",
-      "Видалення AT1aR у ниркових канальцях не змінює базову активність Kir4.1.",
-      "Обговорюється механізм регуляції NCC у контексті ренін-ангиотензинової системи."
+      "Ендокринна терапія з інгібіторами циклин-залежних кінеаз є стандартом для метастатичного раку молочної залози.",
+      "Біологічна різноманітність підтипу ускладнює прогнозування відповіді на терапію.",
+      "Дослідження спрямовані на визначення оптимальної послідовності лікування та індивідуалізації терапії."
     ],
-    "practicalTakeaway": "Розуміння ролі Kir4.1/Kir5.1 може допомогти у розробці нових стратегій для лікування гіпертензії.",
-    "specialty": "нефрологія",
+    "practicalTakeaway": "Застосування сучасних підходів до вибору ендокринної терапії може покращити результати лікування гормонорецептор-позитивного метастатичного раку молочної залози.",
+    "specialty": "онкологія",
     "tags": [
-      "ниркова регуляція",
-      "ангіотензин-II",
-      "Na-Cl-ко-транспортер"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261748",
-    "title": "Роль рецептора чутливості до кальцію у регуляції транспорту кальцію у товстій висхідній частині петлі Генле",
-    "journal": "Current opinion in nephrology and hypertension",
-    "publishedAt": "2026-06-04T00:00:00Z",
-    "abstract": "Рецептор чутливості до кальцію (CASR) є ключовим регулятором балансу кальцію. У нирках він безпосередньо впливає на реабсорбцію кальцію у товстій висхідній частині петлі Генле (ТАЛ). Огляд зосереджений на ролі CASR у ТАЛ та його впливі на регуляцію ниркового транспорту кальцію і системний кальцієвий гомеостаз. Дослідження показують, що підвищення рівня кальцію в крові сприяє збільшенню виведення кальцію з сечею через активність CASR, зокрема шляхом зменшення парціальної проникності кальцію у ТАЛ",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261748/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Role of the calcium-sensing receptor in regulating calcium transport in the thick ascending limb.",
-    "originalAbstract": "The calcium-sensing receptor (CASR) is a principal regulator of calcium balance. In the kidney, it directly modulates calcium reabsorption in the thick ascending limb (TAL). This review focuses on the CASR in TAL, its role in regulating renal calcium transport and hence systemic calcium homeostasis. Functional studies demonstrate that hypercalcemia-induced increases in urinary calcium excretion depend on renal CASR signaling, primarily through reduced paracellular calcium permeability in the TAL",
-    "keyPoints": [
-      "CASR регулює баланс кальцію у нирках.",
-      "Підвищення кальцію в крові збільшує його виведення через CASR.",
-      "Зміни у CASR впливають на реабсорбцію кальцію у ТАЛ."
-    ],
-    "practicalTakeaway": "Розуміння ролі CASR у нирках може допомогти у розробці стратегій для корекції порушень кальцієвого гомеостазу.",
-    "specialty": "нефрологія",
-    "tags": [
-      "калієвий обмін",
-      "ниркова функція",
-      "гомеостаз"
+      "ракова терапія",
+      "ендокринна терапія",
+      "метастатичний рак"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42261746",
-    "title": "Ожиріння, зайнятість та економічна продуктивність у Європі: систематичний огляд літератури",
-    "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Мета дослідження — визначити зв’язок між індексом маси тіла (ІМТ) та результатами зайнятості у європейському контексті. Проведено систематичний огляд літератури для аналізу впливу ожиріння на економічну продуктивність та зайнятість.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261746/",
+    "pmid": "42263379",
+    "title": "Телегідлайнг у управлінні дихальними шляхами у позаробітніх умовах: рандомізоване дослідження симуляцій",
+    "journal": "The Journal of emergency medicine",
+    "publishedAt": "2026-05-10T00:00:00Z",
+    "abstract": "Дослідження оцінює вплив реального часу телегідлайнгу від експерта на успішність ендотрахеальної інтубації у недосвідчених медичних працівників під час транспортировки пацієнтів у позаробітних умовах. Виявлено, що підтримка експерта може підвищити ймовірність успіху процедур.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263379/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Obesity, Employment, and Economic Productivity in Europe: A Systematic Literature Review.",
-    "originalAbstract": "The economic burden that obesity places on society, both directly and indirectly, is considerable. It is acknowledged that obesity is associated with decreased economic productivity; however, the evidence examining the exact relationship between obesity and key metrics of employment in the European context remains to be consolidated. A systematic literature review was performed to determine the association between body mass index (BMI) and employment outcomes. Searches were conducted across thre",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Teleguidance-Facilitated Airway Management in Prehospital Emergency Medical Services: A High-Fidelity Randomized Controlled Simulation Study.",
+    "originalAbstract": "Managing difficult airways in prehospital settings is particularly challenging, especially in rural or resource-limited environments and during patient transport. Inexperienced providers performing endotracheal intubation (ETI) during ambulance transport may have lower success rates, highlighting the potential value of real-time expert support. This study aimed to evaluate the effectiveness of real-time teleguidance from a remote airway expert in improving ETI success among inexperienced operato",
     "keyPoints": [
-      "Ожиріння пов’язане з зниженням економічної продуктивності.",
-      "Докази щодо впливу ожиріння на зайнятість у Європі потребують узагальнення.",
-      "Дослідження аналізують зв’язок між ІМТ та показниками працевлаштування."
+      "Реальний час телегідлайнг може покращити успіх ендотрахеальної інтубації.",
+      "Недосвідчені оператори мають нижчий рівень успіху без підтримки.",
+      "Дослідження проведено у симуляційних умовах для підвищення безпеки пацієнтів."
     ],
-    "practicalTakeaway": "Необхідні додаткові дослідження для уточнення впливу ожиріння на зайнятість у європейському контексті.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "економіка",
-      "зайнятість",
-      "ожиріння"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261745",
-    "title": "Вплив мінімально інвазивної та традиційної стернотомії на косметичні результати після кардіохірургії: систематичний огляд та мета-аналіз",
-    "journal": "Perfusion",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Дослідження порівнює косметичні результати шрамів у дорослих пацієнтів після мінімально інвазивної кардіохірургії та традиційної стернотомії. Аналіз включає систематичний огляд та мета-аналіз доступних досліджень.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261745/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Scar-specific outcomes following minimally invasive versus conventional median sternotomy in cardiac surgery: A systematic review and meta-analysis.",
-    "originalAbstract": "BackgroundWith improved cardiac surgical outcomes, attention has shifted to patient-centred outcomes, including cosmetic appearances of surgical scars. Minimally invasive cardiac surgery (MICS) is often promoted for its cosmetic benefits, yet empirical evidence remains limited. This study aimed to systematically evaluate scar-specific outcomes comparing MICS to conventional full median sternotomy (FMS) in adult cardiac surgery.MethodsA systematic review and meta-analysis was conducted following ",
-    "keyPoints": [
-      "Мінімально інвазивна кардіохірургія може мати переваги у косметичних результатах порівняно з традиційною стернотомією.",
-      "Докази щодо переваг мінімально інвазивних підходів обмежені та потребують подальших досліджень.",
-      "Результати вказують на можливу різницю у зовнішньому вигляді шрамів між методами, але висновки потребують підтвердження."
-    ],
-    "practicalTakeaway": "При виборі методу кардіохірургії слід враховувати косметичні очікування пацієнтів, проте необхідні додаткові дослідження для підтвердження переваг мінімально інвазивних підходів.",
-    "specialty": "кардіологія",
-    "tags": [
-      "хірургія",
-      "доказова медицина",
-      "кардіохірургія"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261743",
-    "title": "Пацієнти з сприятливим прогнозом після хірургічного лікування при проміжному стадії гепатоцелюлярної карциноми",
-    "journal": "Journal of investigative surgery : the official journal of the Academy of Surgical Research",
-    "publishedAt": "2026-12-01T00:00:00Z",
-    "abstract": "Дослідження аналізувало 170 пацієнтів із проміжною стадією гепатоцелюлярної карциноми, які перенесли хірургічне втручання. Виявлено, що рівень альфа-фетопротеїну понад 50 нг/мл та виконання великої резекції є предикторами виживання. Результати допомагають ідентифікувати пацієнтів із сприятливим прогнозом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261743/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Patients with Favorable Prognosis among Those Selected for Liver Resection for Intermediate-Stage Hepatocellular Carcinoma.",
-    "originalAbstract": "Many studies have reported preoperative predictors of overall survival (OS) of patients undergoing liver resection (LR) for Barcelona Clinic Liver Cancer (BCLC) stage B hepatocellular carcinoma (HCC); however, their results are inconsistent. We included 170 patients with BCLC stage B undergoing LR during 2011-2021. Multivariate analysis showed that alpha-fetoprotein (AFP) >50 ng/ml (hazard ratio [HR] = 1.959; 95% confidence interval [CI] = 1.156-3.319; p = 0.012), undergoing major resection (HR ",
-    "keyPoints": [
-      "Виявлено фактори, що впливають на виживання після хірургічного лікування гепатоцелюлярної карциноми.",
-      "Рівень альфа-фетопротеїну понад 50 нг/мл асоціюється з меншим шансом виживання.",
-      "Виконання великої резекції є предиктором кращого прогнозу."
-    ],
-    "practicalTakeaway": "При плануванні хірургічного лікування гепатоцелюлярної карциноми слід враховувати рівень AFP та обсяг резекції.",
-    "specialty": "хірургія",
-    "tags": [
-      "онкологія",
-      "доказова медицина",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261741",
-    "title": "Генетична характеристика тромбофлегії Гланцмана: нові мутації igta2b у туніській когорті",
-    "journal": "Blood coagulation & fibrinolysis : an international journal in haemostasis and thrombosis",
-    "publishedAt": "2026-06-04T00:00:00Z",
-    "abstract": "Дослідження вивчало молекулярні та клінічні особливості тромбофлегії Гланцмана у туніській вибірці. Виявлено нові мутації гена ITGA2B у пацієнтів з цим спадковим захворюванням, що спричиняє порушення функції тромбоцитів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261741/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Genetic characterization of Glanzmann thrombasthenia: insights from novel igta2b mutations in a Tunisian patient cohort.",
-    "originalAbstract": "Glanzmann thrombasthenia is an inherited platelet disorder resulting from defects in the integrin αIIbβ3 complex due to mutations in the ITGA2B or ITGB3 genes. This study aimed to elucidate the molecular and clinical characteristics of Glanzmann thrombasthenia in a Tunisian cohort. Twelve patients from 11 unrelated families were evaluated using clinical examination, platelet function assays, and comprehensive genetic analysis. Genomic DNA was extracted from peripheral blood, and the entire codin",
-    "keyPoints": [
-      "Виявлено нові мутації гена ITGA2B у туніських пацієнтів з тромбофлегією Гланцмана.",
-      "Здійснено генетичний аналіз у 12 пацієнтів з 11 родин.",
-      "Дослідження сприяє розумінню молекулярних механізмів захворювання."
-    ],
-    "practicalTakeaway": "Генетичний аналіз може допомогти у діагностиці та розумінні спадкових форм тромбофлегії Гланцмана.",
-    "specialty": "гематологія",
-    "tags": [
-      "генетика",
-      "тромбоцитопатія",
-      "спадкові захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261740",
-    "title": "Міоми матки як недооцінений фактор ризику венозної тромбоемболії: огляд",
-    "journal": "Blood coagulation & fibrinolysis : an international journal in haemostasis and thrombosis",
-    "publishedAt": "2026-06-04T00:00:00Z",
-    "abstract": "Міоми матки є поширеним гінекологічним станом, зазвичай асоційованим із рясними менструальними кровотечами та тиском у тазу. Однак нові дані свідчать, що великі міоми можуть сприяти розвитку венозної тромбоемболії (ВТЕ) через механічне здавлення тазових вен та нижньої порожнистої вени, що викликає венозний застій і тромбоз.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261740/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Uterine fibroids as an underrecognized risk factor for venous thromboembolism: a narrative review.",
-    "originalAbstract": "Uterine fibroids are a prevalent gynecologic condition traditionally associated with heavy menstrual bleeding and pelvic pressure. However, emerging evidence suggests that large uterine fibroids may also contribute to venous thromboembolism (VTE) by causing mechanical compression of pelvic veins and the inferior vena cava, leading to venous stasis and subsequent thrombosis. This narrative review aims to consolidate current knowledge, discuss diagnostic strategies and management approaches for fi",
-    "keyPoints": [
-      "Великі міоми матки можуть бути фактором ризику ВТЕ.",
-      "Механізм пов'язаний із механічним здавлення вен.",
-      "Потрібна увага до діагностики та управління цим станом."
-    ],
-    "practicalTakeaway": "У пацієнток із великими міомами матки слід враховувати можливий ризик розвитку венозної тромбоемболії.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "гінекологія",
-      "венозна тромбоемболія",
-      "міоми"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42261737",
-    "title": "Мультифазна радіонуклідна терапія та мікронейрохірургічне управління гліомами типу 5 інсулярної та паралімбічної зони",
-    "journal": "Cancer biotherapy & radiopharmaceuticals",
-    "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Дослідження аналізує застосування інтегрованого підходу, що поєднує планування, мікронейрохірургічне видалення та радіонуклідну терапію для лікування гліом типу 5 у інсулярній та паралімбічній зонах. Вивчено 38 дорослих пацієнтів із цим діагнозом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261737/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Radionuclide Therapy Integrated Multimodal Transsylvian Microneurosurgical Management of Type 5 Insular and Paralimbic Gliomas for Precision Oncology.",
-    "originalAbstract": "Type 5 insular and paralimbic gliomas are surgically challenging because resection is limited by perforator-rich vascular anatomy and eloquent subcortical pathways, often leaving clinically relevant residual disease. We evaluated a precision-oncology workflow integrating multimodal preoperative planning, transsylvian microneurosurgical resection, and postoperative radionuclide-oriented stratification. This retrospective study included 38 adults with type 5 insular and paralimbic gliomas treated ",
-    "keyPoints": [
-      "Розглядається комплексний підхід до лікування гліом типу 5.",
-      "Застосовується транссильвіанна мікронейрохірургія та радіонуклідна терапія.",
-      "Дослідження включає аналіз 38 дорослих пацієнтів."
-    ],
-    "practicalTakeaway": "Інтеграція мультимодального планування та терапії може покращити управління гліомами типу 5.",
+    "practicalTakeaway": "Використання телегідлайнгу у позаробітних умовах може підвищити ефективність управління дихальними шляхами.",
     "specialty": "неврологія",
     "tags": [
+      "екстрена медицина",
+      "телегідлайнг",
+      "інтенсивна терапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263377",
+    "title": "Ризики екстреного резекцій колоректального раку за віковими групами: аналіз машинного навчання",
+    "journal": "Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract",
+    "publishedAt": "2026-06-09T00:00:00Z",
+    "abstract": "Дослідження аналізує вікові профілі ризику для екстрених резекцій колоректального раку, враховуючи клінічні та соціодемографічні фактори. Виявлено, що ризики різняться залежно від вікових груп, що має значення для профілактики та планування лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263377/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Age-stratified risk profiles for emergency colorectal cancer resection: A machine-learning analysis.",
+    "originalAbstract": "Emergency colorectal cancer resection (ECCR) is associated with worse perioperative and oncologic outcomes than elective surgery. As the incidence of colorectal cancer rises among younger adults and disparities persist across the life course, we examined how clinical and sociodemographic factors intersect to shape ECCR risk across age groups. We conducted a retrospective cohort study of adult colorectal cancer resection admissions in the National Inpatient Sample between 2018 and 2022. Multivari",
+    "keyPoints": [
+      "Ризик екстрених резекцій колоректального раку варіює за віковими групами.",
+      "Соціодемографічні фактори впливають на ризик у різних вікових категоріях.",
+      "Машинне навчання допомагає ідентифікувати групи з підвищеним ризиком."
+    ],
+    "practicalTakeaway": "Урахування вікових та соціодемографічних факторів може покращити профілактику та планування лікування колоректального раку.",
+    "specialty": "онкологія",
+    "tags": [
       "онкологія",
-      "нейрохірургія",
-      "радіонуклідна терапія"
+      "доказова медицина",
+      "сучасні дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263375",
+    "title": "Вплив неінвазивної стимуляції мозку на ходу та пластичність кортикоспінального шляху у дітей та підлітків з церебральним паралічем: систематичний огляд",
+    "journal": "Neurophysiologie clinique = Clinical neurophysiology",
+    "publishedAt": "2026-06-09T00:00:00Z",
+    "abstract": "Церебральний параліч є основною причиною неврологічних розладів у дітей, часто супроводжується порушеннями збудливості кортикоспінального шляху, що сприяє аномальним моделям ходьби та обмежує мобільність. Огляд досліджень показує, що неінвазивна стимуляція мозку може бути корисною у реабілітації, хоча доказова база залишається обмеженою.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263375/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Effects of non-invasive brain stimulation on gait and corticospinal plasticity in children and adolescents with cerebral palsy: A systematic review.",
+    "originalAbstract": "Cerebral palsy (CP) is the main cause of neuromotor disorders in children and is frequently associated with altered corticospinal excitability, contributing to abnormal gait patterns that limit mobility and quality of life. Therefore, gait training is central to pediatric rehabilitation. Non-invasive brain stimulation (NIBS) has emerged as a complementary modality, although evidence regarding its effects on locomotor function in children remains scarce. This review examined NIBS effects on locom",
+    "keyPoints": [
+      "Дослідження вивчали вплив неінвазивної стимуляції мозку на ходьбу у дітей з церебральним паралічем.",
+      "Показано потенціал для покращення моторних функцій, але доказів недостатньо для широкого застосування.",
+      "Необхідні додаткові дослідження для визначення ефективності та безпеки методів."
+    ],
+    "practicalTakeaway": "Неінвазивна стимуляція мозку може мати перспективи у реабілітації дітей з церебральним паралічем, але потребує подальших досліджень.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейрофізіологія",
+      "доказова медицина",
+      "реабілітація"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42261735",
-    "title": "Розвʼязання проблеми лімфедеми після гінекологічних онкологічних операцій: важливість для громадського здоровʼя",
-    "journal": "Ginekologia polska",
+    "pmid": "42263372",
+    "title": "Моделі лікування у літніх пацієнтів з множинною мієломою в США: аналіз національної бази даних",
+    "journal": "Current problems in cancer",
     "publishedAt": "2026-06-09T00:00:00Z",
-    "abstract": "Лімфедема залишається значною проблемою після гінекологічних онкологічних процедур, спричиняючи соціальну ізоляцію та обмеження щоденної активності. Відсутня достатня інформація щодо її поширеності у країнах Східної Європи. Це дослідження аналізує випадки у жінок, які перенесли такі операції.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42261735/",
+    "abstract": "Дослідження аналізує патерни лікування пацієнтів з множинною мієломою віком 70 років і старше у США, використовуючи дані Національної бази даних раку за період 2004–2021 років. Виявлено різноманітність підходів до терапії у цій групі, що підкреслює важливість персоналізованих стратегій лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263372/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-09T14:37:30Z",
-    "originalTitle": "Addressing lymphedema post gynecological cancer surgery: a public health imperative.",
-    "originalAbstract": "Lymphedema has emerged as a significant health challenge, often resulting in social isolation and the restriction of daily activities. Despite advancements in surgical techniques, it remains a notable consequence of oncologic treatment, particularly following gynecological procedures. However, there is a notable lack of reliable information regarding secondary lymphedema after gynecological oncologic treatment from Eastern European countries. This retrospective study was conducted among women wh",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Patterns of care for older multiple myeloma patients in the U.S.: An analysis of the national cancer database.",
+    "originalAbstract": "This study highlights the vital role of personalized treatment strategies in managing multiple myeloma (MM) among older patients, a population greatly affected by this disease. We conducted a retrospective analysis using data from the National Cancer Database (NCDB) collected between 2004 and 2021. Multiple myeloma patients ≥70 years were included in the analysis, as this age threshold aligns with NCDB categorization and reflects a group with higher clinical complexity. Utilizing a data analysis",
     "keyPoints": [
-      "Лімфедема є поширеним ускладненням після гінекологічних онкологічних операцій.",
-      "Недостатньо даних щодо її поширеності у країнах Східної Європи.",
-      "Дослідження спрямоване на оцінку поширеності та наслідків лімфедеми."
+      "Аналіз охоплює пацієнтів віком 70 років і старше.",
+      "Використано дані за період 2004–2021 років.",
+      "Підкреслюється різноманітність підходів до лікування."
     ],
-    "practicalTakeaway": "Необхідно підвищувати обізнаність та розробляти стратегії для профілактики та управління лімфедемою у жінок після гінекологічних онкологічних процедур.",
-    "specialty": "громадське здоровʼя",
+    "practicalTakeaway": "Необхідність врахування вікових особливостей при плануванні терапії множинної мієломи у літніх пацієнтів.",
+    "specialty": "онкологія",
     "tags": [
-      "ліпедема",
-      "гінекологія",
-      "онкологія"
+      "онкологія",
+      "лікування",
+      "старші пацієнти"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263371",
+    "title": "Самонастроєний однорідний здоровий ядро: подолання гетерогенності у біомедичних даних",
+    "journal": "Artificial intelligence in medicine",
+    "publishedAt": "2026-06-05T00:00:00Z",
+    "abstract": "Дослідження розглядає проблему гетерогенності у здорових біомедичних популяціях, яка може погіршувати точність класифікації захворювань. Автори пропонують розподілити здорову когорт у дві підгрупи: межеві здорові зразки, що розташовані ближче до хворої групи у просторі ознак, та самонастроєне однорідне здорове ядро (H2C), яке характеризується високою однорідністю.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263371/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Self-tuned healthy homogeneous core: Addressing heterogeneities in biomedical datasets.",
+    "originalAbstract": "Heterogeneity within healthy biomedical populations can degrade disease-classification performance by distorting the decision boundary between healthy and diseased cohorts. In this study, the healthy cohort is decomposed into two subtypes: borderline healthy samples, defined operationally as healthy-labeled subjects that lie closer to the diseased distribution in the learned feature space, and a representative subset termed the self-tuned Homogeneous Healthy Core (H2C), characterized by high int",
+    "keyPoints": [
+      "Гетерогенность у здорових популяціях може знижувати точність діагностики.",
+      "Запропоновано розділити здорову когорт на межеві зразки та однорідне ядро.",
+      "Метод спрямований на покращення класифікаційних моделей у біомедичних дослідженнях."
+    ],
+    "practicalTakeaway": "Врахування гетерогенності у здорових популяціях може покращити точність моделей класифікації у біомедичних дослідженнях.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "біомедичні дані",
+      "класифікація",
+      "гетерогенность"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263370",
+    "title": "Чутливі порушення та синдроми стиснення нервів у пацієнтів з боковим аміотрофічним склерозом за даними електродіагностики",
+    "journal": "Neuromuscular disorders : NMD",
+    "publishedAt": "2026-05-22T00:00:00Z",
+    "abstract": "Дослідження виявило частоту чутливих порушень і синдромів стиснення нервів у пацієнтів з боковим аміотрофічним склерозом (БАС) за допомогою електродіагностичних досліджень. У 114 пацієнтів аналізувалися демографічні дані, супутні захворювання та симптоми, пов’язані з чутливістю та автономною функцією.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263370/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Sensory abnormalities and entrapment neuropathies identified by nerve conduction studies in patients with amyotrophic lateral sclerosis.",
+    "originalAbstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder primarily affecting motor neurons; however, non-motor symptoms, including sensory and autonomic disturbances, are increasingly recognized. This retrospective cross-sectional study evaluated the frequency of sensory and entrapment neuropathies in 114 patients with ALS using electrodiagnostic (EDX) studies. Demographic characteristics, comorbidities, and sensory and autonomic symptoms were documented. Electrophysiological evidence",
+    "keyPoints": [
+      "У пацієнтів з БАС виявлено чутливі порушення та синдроми стиснення нервів.",
+      "Дослідження базується на ретроспективному аналізі електродіагностичних даних.",
+      "Чутливі симптоми можуть бути частиною спектра проявів БАС."
+    ],
+    "practicalTakeaway": "Електродіагностика може виявити чутливі порушення у пацієнтів з БАС, що важливо для комплексної оцінки стану.",
+    "specialty": "неврологія",
+    "tags": [
+      "неврологія",
+      "діагностика",
+      "БАС"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263369",
+    "title": "Візуальне картографування патернів заміщення м'язів на МРТ у генетичних міопатіях за допомогою зниження розмірності",
+    "journal": "Neuromuscular disorders : NMD",
+    "publishedAt": "2026-06-03T00:00:00Z",
+    "abstract": "Дослідження оцінює застосування технік зниження розмірності для перетворення складних даних МРТ заміщення м'язів у низькорозмірні візуальні карти, що відображають схожість пацієнтів із генетичними міопатіями. Аналіз включає великий мультицентричний набір даних з 975 пацієнтів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263369/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Visual mapping of muscle MRI fatty replacement patterns in genetic myopathies using dimensionality reduction.",
+    "originalAbstract": "Muscle MRI is a complementary diagnostic tool in genetic myopathies; however, its interpretation remains challenging because numerous muscles must be assessed simultaneously, and disease-specific patterns overlap. This study evaluated whether dimensionality reduction techniques (DRT) can transform complex muscle MRI fatty replacement data into meaningful low-dimensional visual maps of patient similarity. We analyzed a large multicenter dataset comprising 975 patients with genetically confirmed d",
+    "keyPoints": [
+      "Застосування технік зниження розмірності для аналізу МРТ у генетичних міопатіях.",
+      "Створення візуальних карт для порівняння пацієнтів за патернами заміщення м'язів.",
+      "Дослідження базується на даних 975 пацієнтів із підтвердженою генетикою."
+    ],
+    "practicalTakeaway": "Застосування технік зниження розмірності може допомогти у візуалізації та інтерпретації даних МРТ у генетичних міопатіях.",
+    "specialty": "неврологія",
+    "tags": [
+      "МРТ",
+      "генетичні міопатії",
+      "зниження розмірності"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263361",
+    "title": "Конфлікт навколо передньої комісури: досвід десятирічної роботи з вродженими ларингеальними вебами",
+    "journal": "International journal of pediatric otorhinolaryngology",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "У статті описується досвід лікування вроджених ларингеальних вебів у дітей за десять років у одному центрі. Веби виникають через неповне відновлення ларингеальної порожнини та вимагають балансування між забезпеченням прохідності дихальних шляхів і збереженням голосових функцій. Проаналізовано результати застосування протоколу лікування та довгострокові наслідки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263361/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "The anterior commissure conundrum: A decade of single-institutional experience in the management of congenital laryngeal webs.",
+    "originalAbstract": "Congenital laryngeal webs are rare laryngeal anomalies resulting from incomplete re-canalization of the primitive larynx. They present a significant therapeutic challenge, requiring a delicate balance between establishing a patent airway and preserving vocal function. This study details a ten-year, single-surgeon experience at a tertiary care centre to evaluate the efficacy of a graded management protocol and long-term outcomes. A retrospective chart review was conducted for 23 pediatric patient",
+    "keyPoints": [
+      "Розглянуто досвід лікування вроджених ларингеальних вебів у дітей.",
+      "Обговорюється баланс між прохідністю дихальних шляхів і збереженням голосу.",
+      "Проаналізовано довгострокові результати застосування протоколу лікування."
+    ],
+    "practicalTakeaway": "Досвід показує важливість індивідуального підходу та довгострокового спостереження у лікуванні вроджених ларингеальних вебів.",
+    "specialty": "педіатрія",
+    "tags": [
+      "вроджені аномалії",
+      "ларингеальні веби",
+      "досвід лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42263360",
+    "title": "Трансоральний ендоскопічний підхід при кістах щитоподібного протоку у дітей: техніка, безпека та можливості",
+    "journal": "International journal of pediatric otorhinolaryngology",
+    "publishedAt": "2026-06-06T00:00:00Z",
+    "abstract": "Дослідження оцінює можливості, безпеку та результати модифікованого трансорального ендоскопічного підходу для видалення кіст щитоподібного протоку у педіатричних пацієнтів. Вибірка включає 20 дітей, які пройшли цю процедуру у період з листопада 2023 по жовтень 2024 року.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42263360/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-10T02:52:34Z",
+    "originalTitle": "Transoral endoscopic approach for thyroglossal duct cysts in pediatric patients: Technique, safety, and feasibility.",
+    "originalAbstract": "The Sistrunk procedure for thyroglossal duct cyst (TGDC) resection leaves a visible neck scar. Transoral endoscopic approaches offer potential cosmetic advantages, but pediatric data remain limited. This study evaluated the feasibility, safety, and outcomes of a modified transoral endoscopic vestibular approach for pediatric TGDC. We retrospectively review 20 pediatric patients undergoing TGDC resection between November 2023 and October 2024. Seven underwent transoral endoscopic vestibular resec",
+    "keyPoints": [
+      "Модифікований трансоральний ендоскопічний підхід може бути безпечним для дітей.",
+      "Дослідження підтверджує можливість застосування цього методу у педіатрії.",
+      "Процедура має потенційні косметичні переваги порівняно з традиційним методом."
+    ],
+    "practicalTakeaway": "Модифікований трансоральний ендоскопічний підхід може бути альтернативою традиційним методам видалення кіст щитоподібного протоку у дітей.",
+    "specialty": "хірургія",
+    "tags": [
+      "хірургія",
+      "педіатрія",
+      "ендоскопія"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
