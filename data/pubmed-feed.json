@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42268677",
-    "title": "Глобальний вплив забруднення повітря на неінфекційні захворювання у людей віком 65 років і старше (1990–2021)",
-    "journal": "QJM : monthly journal of the Association of Physicians",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження оцінює глобальний обсяг захворювань, пов’язаних із забрудненням повітря, у людей віком 65 років і старше за період з 1990 по 2021 роки та прогнозує тенденції до 2031 року. Аналіз базується на даних дослідження глобальної навантаженості хвороб (GBD 2021).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268677/",
+    "pmid": "42273874",
+    "title": "Діагностична точність візуального огляду з оцтовою кислотою проти Пап-тесту у скринінгу раку шийки матки серед ВІЛ-позитивних жінок у сільській Нігерії",
+    "journal": "African journal of reproductive health",
+    "publishedAt": "2026-06-11T00:00:00Z",
+    "abstract": "Дослідження порівнює чутливість і специфічність візуального огляду з оцтовою кислотою (VIA) та Пап-тесту для виявлення передракових і ракових уражень шийки матки у ВІЛ-позитивних жінок у сільській Нігерії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273874/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Global burden of non-communicable diseases attributable to ambient fine particulate matter pollution in adults aged 65 years and older from 1990 to 2021.",
-    "originalAbstract": "Older adults are an important group affected by both non-communicable diseases (NCDs) and ambient fine particulate matter pollution (ambient PM2.5). This study aimed to estimate the disease burden of NCDs attributable to ambient PM2.5 among adults aged 65 years and older from 1990 to 2021 globally, and forecast to 2031. The data were extracted from Global Burden of Disease Study (GBD) 2021 project. The estimated annual percentage change (EAPC) was used to measure the temporal trend. The Bayesian",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Diagnostic accuracy of visual inspection with acetic acid versus Papanicolaou smear in cervical cancer screening among HIV-positive women in rural Nigeria.",
+    "originalAbstract": "Cervical cancer remains a significant reproductive and public health concern, particularly among women living with Human Immunodeficiency Virus (HIV) in low-resource settings like Irrua community in Edo State Nigeria. This study aimed to compare the sensitivity and specificity of visual inspection with acetic acid (VIA) and the Papanicolaou smear (Pap smear) as screening methods for premalignant and malignant cervical lesions in HIV-positive women. A comparative cross-sectional design was employ",
     "keyPoints": [
-      "Забруднення повітря сприяє зростанню неінфекційних захворювань у літніх.",
-      "Обсяг захворювань зростає з 1990 року та прогнозується подальше збільшення.",
-      "Дослідження базується на глобальних даних та використовує сучасні статистичні методи."
+      "Порівнюються методи скринінгу раку шийки матки у ВІЛ-позитивних жінок.",
+      "Дослідження визначає точність VIA та Пап-тесту.",
+      "Зосереджено на сільській місцевості Нігерії."
     ],
-    "practicalTakeaway": "Важливо враховувати вплив забруднення повітря на здоровʼя літніх людей при формуванні політик та профілактичних заходів.",
+    "practicalTakeaway": "Візуальний огляд з оцтовою кислотою може бути корисним методом скринінгу у ресурсозалежних умовах.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "скринінг раку шийки матки",
+      "ВІЛ-позитивні жінки",
+      "діагностичні методи"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42273873",
+    "title": "Клінічна цінність екзомного секвенування у дітей із підозрою на рідкісне генетичне захворювання",
+    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+    "publishedAt": "2026-06-10T00:00:00Z",
+    "abstract": "Дослідження аналізує вплив екзомного секвенування (ES) на подальші клінічні рішення у дітей із підозрою на рідкісне генетичне захворювання. Модель симуляції для 523 пацієнтів показує, що ES може змінювати рішення щодо призначення або уникнення додаткових тестів, що відображає його клінічну корисність.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273873/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Clinical Utility of Exome Sequencing: Post-Exome Testing Decision Changes in the Management of Children with Suspected Rare Genetic Disease.",
+    "originalAbstract": "This study investigates a previously unquantified aspect of health economic evaluations of exome sequencing (ES): post-ES testing decisions change (P-TDC), a measure of clinical utility that captures how ES influences downstream decisions on ordering and avoiding tests. A decision analytic simulation model was developed for 523 suspected rare genetic disease pediatric patients, simulating four strategies (ES positioned from first to fourth in the diagnostic testing sequence). The primary outcome",
+    "keyPoints": [
+      "ES може впливати на подальші клінічні рішення.",
+      "Модель дослідження включала 523 пацієнти.",
+      "Зміни у рішеннях залежать від порядку застосування ES."
+    ],
+    "practicalTakeaway": "Врахування впливу екзомного секвенування на клінічні рішення може покращити управління пацієнтами з підозрою на рідкісні генетичні захворювання.",
     "specialty": "доказова медицина",
     "tags": [
-      "забруднення повітря",
-      "неінфекційні захворювання",
-      "старіння"
+      "генетика",
+      "діагностика",
+      "клінічна практика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42268676",
-    "title": "Клінічне дослідження неоад'ювантної терапії при раку підшлункової залози",
-    "journal": "The oncologist",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження оцінювало безпеку та потенційну ефективність комбінації препаратів NABPLAGEM та паракальцитолу у пацієнтів з раком підшлункової залози без попереднього лікування. Мета — зменшення рецидивів та подовження виживаності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268676/",
+    "pmid": "42273871",
+    "title": "Асоціація когнітивних порушень та APOE ε4 із рівнем амілоїду у когорті Hispanic та не Hispanic White",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Мета дослідження — визначити, чи повʼязаний генетичний маркер APOE ε4 з рівнем амілоїду в мозку по-різному у когорті Hispanic та не Hispanic White. Аналізовано дані 17 017 учасників із пʼяти досліджень, що використовували позитронну емісійну томографію для оцінки амілоїду. Виявлено слабкі асоціації між APOE ε4 та когнітивними порушеннями у Hispanic, що потребує подальших досліджень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273871/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "A phase II clinical trial of albumin-bound paclitaxel, cisplatin, gemcitabine (NABPLAGEM) and paricalcitol as neoadjuvant therapy in pancreatic cancer.",
-    "originalAbstract": "For patients with untreated pancreatic ductal adenocarcinoma (PDAC), chemotherapy before surgery (\"neoadjuvant therapy\") has shown benefit in reducing recurrence and prolonging survival. Targeting the vitamin D receptor (VDR) with analogs such as paricalcitol may improve chemotherapy effectiveness. This study evaluated the efficacy and safety of neoadjuvant albumin-bound paclitaxel (nab-paclitaxel) plus cisplatin plus gemcitabine (NABPLAGEM) plus paricalcitol (NCT03138720). Participants were ≥18",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Association of cognitive impairment and APOE ε4 with Centiloids in Hispanic and non-Hispanic White cohorts.",
+    "originalAbstract": "Weak associations of apolipoprotein E (APOE) ε4 with cognitive impairment have been reported in Hispanic cohorts. To determine if APOE ε4 associates with brain amyloid load differently in Hispanic and non-Hispanic White (NHW) cohorts, we analyzed reported Centiloid values from studies that conducted amyloid positron emission tomography. This meta-analysis included 17,017 participants (8.4% Hispanic) from five source studies. Analysis of covariance and logistic regression models adjusting for age",
     "keyPoints": [
-      "Дослідження фази II оцінювало неоад'ювантну терапію раку підшлункової залози.",
-      "Комбінація NABPLAGEM та паракальцитолу виявилася безпечною.",
-      "Мета — підвищити ефективність хіміотерапії та покращити результати лікування."
+      "Досліджено звʼязок APOE ε4 із рівнем амілоїду у різних етнічних групах.",
+      "Виявлено слабкі асоціації у когорті Hispanic.",
+      "Результати підкреслюють необхідність додаткових досліджень для уточнення ролі генетичних факторів."
     ],
-    "practicalTakeaway": "Комбінація NABPLAGEM та паракальцитолу може бути перспективною для подальших досліджень у лікуванні раку підшлункової залози.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "хіміотерапія",
-      "клінічні дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42268675",
-    "title": "Зміни пам'яті у футболістів залежно від позиції та історії контузій",
-    "journal": "Brain injury",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив повторних ударів по голові на пам'ять спортсменів американського футболу порівняно з не контактними спортсменами протягом сезону. Виявлено, що зміни у функції пам'яті залежать від позиції гравця та попередніх травм голови.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268675/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Memory alterations over a football season are dependent on athlete position-type and prior concussion history.",
-    "originalAbstract": "Lifetime accumulation of subconcussive head trauma has been linked to neurodegenerative processes, however it is only recently that measurable alterations in brain function after short bouts of repetitive head impacts have been acknowledged. The primary aim of this study was to compare changes in memory function between American Football athletes exposed to repetitive head impacts and non-contact athletes over the course of a single collegiate athletics season, including changes driven by specif",
-    "keyPoints": [
-      "Зміни пам'яті у футболістів залежать від позиції та історії травм.",
-      "Повторні удари по голові можуть викликати короткочасні зміни у когнітивних функціях.",
-      "Дослідження підкреслює важливість врахування індивідуальних факторів у спортивних травмах."
-    ],
-    "practicalTakeaway": "Врахування позиції гравця та історії травм може бути важливим для моніторингу когнітивних змін у спортсменів.",
+    "practicalTakeaway": "Результати дослідження свідчать про різницю у звʼязку між генетичним маркером APOE ε4 та амілоїдом у мозку у різних етнічних групах, що може впливати на підходи до діагностики та профілактики когнітивних порушень.",
     "specialty": "неврологія",
     "tags": [
-      "травми голови",
-      "пам'ять",
-      "спорт"
+      "генетика",
+      "когнітивні порушення",
+      "амилоїд"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42268674",
-    "title": "Безпека та імуногенність бустерної дози вакцини COVAC-2 у здорових дорослих",
-    "journal": "Human vaccines & immunotherapeutics",
-    "publishedAt": "2026-12-01T00:00:00Z",
-    "abstract": "Дослідження фази 1 оцінювало безпеку та імунну відповідь після введення бустерної дози вакцини COVAC-2, що містить рекомбінний білковий субодиницю SARS-CoV-2 з ад'ювантом Sepivac SWE™, у дорослих, раніше вакцинованих проти COVID-19. Учасники отримували одну дозу (10 або 25 мкг) або плацебо, з моніторингом до 180-го дня.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268674/",
+    "pmid": "42273870",
+    "title": "Роль перифокального набряку та судинності у прогнозуванні м'якотканих метастазів: радіологічна оцінка 196 уражень",
+    "journal": "Current medical imaging",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження аналізує радіологічні ознаки, що допомагають диференціювати м'якоткані метастази від доброякісних уражень. Вивчено 196 випадків із урахуванням структурованих даних для визначення ефективних параметрів діагностики.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273870/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Safety and immunogenicity of a booster dose of COVAC-2, a Sepivac SWE™ adjuvanted SARS-CoV-2 recombinant protein vaccine in previously vaccinated healthy adults; a randomized controlled multicentre trial.",
-    "originalAbstract": "This Phase 1 clinical trial evaluated the safety and immunogenicity of COVAC-2, a recombinant protein subunit vaccine as a heterologous booster in adults previously immunized with authorized COVID-19 vaccines (NCT05226702). COVAC-2 contains the SARS-CoV-2 S1 spike protein subunit adjuvanted with Sepivac SWE™, an open-access oil-in-water adjuvant. Sixty participants were randomized to receive a single intramuscular dose of COVAC-2 (10 µg or 25 µg) or placebo, with follow-up through Day 180. The v",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "The Role of Perilesional Edema and Vascularity in Predicting Soft Tissue Metastases: Radiological Evaluation of 196 Lesions.",
+    "originalAbstract": "Soft tissue metastases are rare lesions seen in the course of systemic malignancies and pose diagnostic challenges. Radiological findings are heterogeneous, and standardized criteria are needed for reliable differentiation from benign lesions. While the diagnostic importance of perilesional changes is emphasized in the current literature, comprehensive analyses considering the clustered data structure are lacking. In this study, we aimed to determine effective radiological parameters for disting",
     "keyPoints": [
-      "Дослідження оцінювало безпеку та імунну відповідь вакцини COVAC-2.",
-      "Вакцина містить рекомбінний білковий субодиницю з ад'ювантом Sepivac SWE™.",
-      "Результати стосуються дорослих, раніше вакцинованих проти COVID-19."
+      "Розглядаються радіологічні ознаки для диференціації метастазів.",
+      "Проаналізовано 196 уражень із урахуванням структурованих даних.",
+      "Зосереджено увагу на перифокальному набряку та судинності."
     ],
-    "practicalTakeaway": "Дослідження показало, що бустерна доза вакцини COVAC-2 є безпечною та викликає імунну відповідь у дорослих.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "COVID-19",
-      "вакцинація",
-      "клінічне дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42268671",
-    "title": "Вплив гідраденіту підсумкового на сексуальну функцію: багатосередове дослідження",
-    "journal": "International journal of dermatology",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження оцінює рівень сексуальної дисфункції у пацієнтів із гідраденітом підсумкового та її зв’язок із характеристиками захворювання і пацієнтів. Виявлено, що гідраденіт негативно впливає на сексуальну функцію, що може мати наслідки для якості життя.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268671/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "The Impact of Hidradenitis Suppurativa on Sexual Function: A Multicentered Cross-Sectional Study.",
-    "originalAbstract": "Hidradenitis suppurativa (HS) is a disease that impairs the quality of life (QoL), sexual functioning, and fertility of the patients. The relationship between disease characteristics and sexual function remains insufficiently characterized. The aim of this study is to evaluate the rate of sexual dysfunction among HS patients; and to evaluate its relationship to disease or patient characteristics. In this multi-centered cross-sectional study, patients were asked to complete a structured online qu",
-    "keyPoints": [
-      "Гідраденіт підсумков знижує сексуальну функцію.",
-      "Зв’язок між характеристиками захворювання і сексуальною дисфункцією потребує додаткового дослідження.",
-      "Дослідження проводилось у багатосередовому форматі."
-    ],
-    "practicalTakeaway": "Медичні працівники повинні враховувати можливий вплив гідраденіту підсумкового на сексуальну функцію пацієнтів.",
-    "specialty": "дерматологія",
-    "tags": [
-      "сексуальна дисфункція",
-      "гідраденіт підсумков",
-      "якість життя"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42268667",
-    "title": "Порушення харчової поведінки та вейпінг у студентів коледжу: роль статі",
-    "journal": "Journal of American college health : J of ACH",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між вейпінгом та порушеннями харчової поведінки у студентів коледжу, порівнюючи спортсменів та неспортсменів у США. Виявлено, що ризики можуть залежати від статі та статусу спортсмена, що підкреслює важливість врахування цих факторів у профілактиці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268667/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Disordered eating and vaping in athlete and non-athlete college students: Does sex matter?",
-    "originalAbstract": "Vaping prevalence is rising among young adults, with linked evidence to disordered eating. Given the unique pressures of performance and body image in athletics, this study examines vaping-eating disorder (ED) risk associations comparing college athletes and non-athletes. Data was gathered from U.S. college students in the 2021-2022 Healthy Minds Study. Students reported past-30-day vaping and completed the SCOFF (Sick, Control, One, Fat, Food) questionnaire. Logistic regressions tested vaping-E",
-    "keyPoints": [
-      "Зв'язок між вейпінгом та порушеннями харчової поведінки може залежати від статі.",
-      "Студенти-спортсмени можуть мати різний ризик порушень харчової поведінки.",
-      "Дослідження базується на даних з США за 2021-2022 роки."
-    ],
-    "practicalTakeaway": "Врахування статі та статусу спортсмена важливі для профілактики порушень харчової поведінки у студентів.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "порушення харчової поведінки",
-      "вейпінг",
-      "студенти коледжу"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42268666",
-    "title": "Програмовані самопідсилювальні літаніди-ДНК з зображенням літанідів для мультиплексного визначення варіантів сплайсінгу у гліомі на рівні окремих клітин",
-    "journal": "Analytical chemistry",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Запропоновано новий підхід із використанням програмованих літанідів-ДНК для чутливого та мультиплексного визначення варіантів сплайсінгу MDM2 у клітинних моделях гліоми на рівні окремих клітин. Метод дозволяє точніше аналізувати різноманіття білкових ізоформ, що сприяє розумінню гетерогенності пухлин.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268666/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Programmable Self-Priming Lanthanide-DNA Probes Enabling Multiplexed Single-Cell Quantification of Glioma Splice Variants.",
-    "originalAbstract": "Alternative splicing generates multiple mRNA isoforms, driving protein diversity and tumor heterogeneity. However, achieving multiplexed quantification of splice variants at single-cell resolution remains a significant challenge. Herein, we present a programmable self-priming lanthanide-labeled DNA probe (PSPLn) strategy for sensitive, multiplexed single-cell quantification of MDM2 splice variants in glioma-related cell models. By precisely tuning the number of adenines in the probe sequence and",
-    "keyPoints": [
-      "Запропоновано новий метод для визначення варіантів сплайсінгу у клітинах гліоми.",
-      "Використання літанідів-ДНК забезпечує мультиплексний аналіз.",
-      "Метод дозволяє досліджувати гетерогенність пухлин на рівні окремих клітин."
-    ],
-    "practicalTakeaway": "Використання програмованих літанідів-ДНК може покращити дослідження пухлинної гетерогенності.",
+    "practicalTakeaway": "Радіологічна оцінка перифокального набряку та судинності може сприяти більш точній диференціації м'якотканих метастазів.",
     "specialty": "онкологія",
     "tags": [
-      "діагностика",
-      "молекулярна біологія",
-      "гліома"
+      "радіологія",
+      "метастази",
+      "діагностика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42268665",
-    "title": "Мультиомічний аналіз для виявлення біомаркерів MASLD",
-    "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження з використанням мультиомічних підходів та машинного навчання спрямоване на визначення ключових генів і біомаркерів для моніторингу прогресії метаболічно асоційованого жирового захворювання печінки (MASLD). Виявлено динамічні білкові біомаркери, що можуть сприяти ранньому виявленню та спостереженню за розвитком захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268665/",
+    "pmid": "42273868",
+    "title": "Переклад та адаптація опитувальника пильності дихання для респіраторних захворювань",
+    "journal": "Danish medical journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження присвячене перекладу та культурній адаптації опитувальника пильності дихання (Breathe-VQ) з англійської на данську мову. Пильність дихання, що пов'язана з тривогою, може погіршувати симптоми у пацієнтів з хронічною обструктивною хворобою легень, астмою та порушеннями дихального патерну. Впровадження інструменту сприятиме більш широкому застосуванню у клінічній практиці та дослідженнях.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273868/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Integrative Multi-Omics Analysis Elucidates the Progressive Disease Landscape and Reveals Dynamic Protein Biomarkers for MASLD Surveillance.",
-    "originalAbstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide, encompassing a continuum ranging from simple steatosis to steatohepatitis, hepatic fibrosis, and cirrhosis. Despite the complex and heterogeneous pathogenesis, effective therapeutic targets remain elusive. In this study, we sought to identify and validate critical genes implicated in MASLD progression through multi-omics integration and machine learning algorithms. Analysis rev",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Translation of the Breathing Vigilance Questionnaire for respiratory diseases.",
+    "originalAbstract": "Breathing vigilance - a heightened focus on breathing, which is linked to anxiety - potentially exacerbates symptoms in people with respiratory conditions, e.g., chronic obstructive pulmonary disease, asthma and breathing pattern disorder. The Breathing Vigilance Questionnaire (Breathe-VQ) was developed in English but requires translation and cross-cultural adaptation for broader use. We aimed to translate and cross-culturally adapt the Breathe-VQ into Danish. Following established translation g",
     "keyPoints": [
-      "Виявлено біомаркери для MASLD за допомогою мультиомічних даних.",
-      "Застосовано машинне навчання для аналізу прогресії захворювання.",
-      "Результати можуть покращити моніторинг MASLD."
+      "Опитувальник Breathe-VQ перекладено та адаптовано для данської культури.",
+      "Пильність дихання може погіршувати симптоми респіраторних захворювань.",
+      "Мета дослідження — забезпечити інструмент для міжнародних досліджень."
     ],
-    "practicalTakeaway": "Мультиомічний аналіз і машинне навчання допомагають ідентифікувати біомаркери для MASLD.",
-    "specialty": "гематологія",
-    "tags": [
-      "біомаркери",
-      "MASLD",
-      "мультиоміч"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42268664",
-    "title": "Розвиток досліджень у сільській медицині: важливість компетенцій для досліджень у сільських районах",
-    "journal": "The Journal of rural health : official journal of the American Rural Health Association and the National Rural Health Care Association",
-    "publishedAt": "2026-03-01T00:00:00Z",
-    "abstract": "Ця публікація наголошує на необхідності розвитку компетенцій у сфері досліджень сільського здоров'я для покращення медичної допомоги ветеранам у сільській місцевості. Враховуючи унікальні виклики та обмеження доступу до медичних послуг, важливо зосередитися на дослідженнях, що враховують специфіку сільських районів, щоб забезпечити рівний доступ до ефективних медичних рішень.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268664/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Cultivating the Field of Rural Health Research: The Case for Rural Health Research Competencies.",
-    "originalAbstract": "Rural Veterans face unique healthcare barriers and challenges despite an increased need for care. The U.S. Department of Veterans Affairs (VA) has long invested in research to improve Veteran health and healthcare delivery; however, rural Veterans remain underrepresented in research, limiting the equitable translation of evidence into rural settings. Rural-specific research is, therefore, essential in improving rural Veterans' health. This commentary argues for the development of rural health re",
-    "keyPoints": [
-      "Різні виклики у сфері охорони здоров'я для ветеранів у сільській місцевості.",
-      "Недостатня репрезентативність сільських ветеранів у дослідженнях.",
-      "Потреба у розвитку компетенцій для проведення сільськоорієнтованих досліджень."
-    ],
-    "practicalTakeaway": "Розвиток компетенцій у сфері сільського здоров'я є ключовим для покращення досліджень та медичної допомоги ветеранам у сільській місцевості.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "доказова медицина",
-      "загальне здоров'я",
-      "сільське здоров'я"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42268661",
-    "title": "Зв'язки між часом у різних видах активності та когнітивними результатами у літніх людей: аналіз композиційних даних",
-    "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження аналізує звʼязки між часом, проведеним у різних видах активності, та когнітивним здоровʼям у літніх. Використано метод аналізу композиційних даних для оцінки даних, отриманих за допомогою акселерометрів, що дозволяє точніше враховувати співвідношення між різними видами активності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42268661/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T03:25:04Z",
-    "originalTitle": "Associations of Accelerometry-Derived Time in Major Activity Intensities with Cognitive Outcomes: A Compositional Data Analysis Approach.",
-    "originalAbstract": "Physical activity (PA), sedentary behavior (SB), and sleep are modifiable lifestyle factors linked to cognitive health. Prior research has largely relied on self-report to measure these constructs or ignored the compositional nature of these data. We applied compositional data analysis (CoDA) to quantify the association between accelerometry-derived measures of time in major activity domains and cognitive outcomes among older adults. Participants were 927 older adults (M age = 82.71 years, SD = ",
-    "keyPoints": [
-      "Використано аналіз композиційних даних для дослідження активності.",
-      "Обʼєкт дослідження — літні особи, середній вік 82,7 років.",
-      "Звʼязки між часом у активності та когнітивним здоровʼям досліджуються у контексті модифікованих способів життя."
-    ],
-    "practicalTakeaway": "Застосування аналізу композиційних даних дозволяє краще розуміти вплив різних видів активності на когнітивне здоровʼя у літніх.",
+    "practicalTakeaway": "Переклад та адаптація інструментів вимірювання важливі для міжнародних досліджень у сфері респіраторних захворювань.",
     "specialty": "доказова медицина",
     "tags": [
-      "активність",
-      "когнітивне здоровʼя",
-      "аналітика даних"
+      "переклад",
+      "адаптація",
+      "респіраторні захворювання"
+    ],
+    "priorityScore": 5,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42273867",
+    "title": "Консенсус щодо ключових понять у аудіометрії",
+    "journal": "Danish medical journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Мета дослідження — розробити консенсусний навчальний план з аудіометрії та інтерпретації слухових тестів, використовуючи структурований метод Delphi. Це дозволить заповнити прогалини у підготовці фахівців, визначивши основні поняття для трьох груп навчання: медичних студентів, молодших орл-лікарів та орл-спеціалістів із аудіології. Процес включав три раунди Delphi для формування змісту.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273867/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Consensus on key concepts in audiometry.",
+    "originalAbstract": "To develop a consensus-based curriculum for audiometry and hearing test interpretation, adopting a structured Delphi methodology. The goal was to address gaps in audiological training by defining key concepts that should be taught to three learner groups: medical students (i.e. all doctors), early otorhinolaryngology residents (i.e., all ORL specialists) and ORL specialists with a subspecialty in audiology (medical audiology subspecialists). A three-round Delphi process was used, and content exp",
+    "keyPoints": [
+      "Розроблено консенсусний навчальний план з аудіометрії.",
+      "Визначено ключові поняття для трьох груп фахівців.",
+      "Застосовано метод Delphi для формування змісту."
+    ],
+    "practicalTakeaway": "Враховуйте визначені ключові поняття при підготовці фахівців з аудіометрії.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "освіта",
+      "аудіологія",
+      "методологія"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42273866",
+    "title": "Переклад та валідність шкали симптомів хронічного г graft-versus-host disease у Данії",
+    "journal": "Danish medical journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження присвячене перекладу та оцінці психометричних властивостей шкали симптомів хронічного г graft-versus-host disease (cGVHD), що використовується для оцінки симптомів у пацієнтів. Вперше вона була перекладена на данську мову з використанням методів переднього та зворотного перекладу, а також когнітивних інтерв'ю. Оцінка валідності проводилася на основі даних, зібраних у пацієнтів на початку дослідження та через 7-10 днів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273866/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Translation and validation of the Lee Chronic Graft-versus-Host Disease Symptom Scale in Denmark.",
+    "originalAbstract": "Chronic graft-versus-host disease (cGVHD) impairs quality of life after allogeneic haematopoietic stem cell transplantation. This study aimed to translate the Lee cGVHD Symptom Scale, a validated patient-reported outcome measure, into Danish and evaluate its psychometric properties. The scale was translated using forward-backward translation and cognitive debriefing interviews. Questionnaire data from the Danish version were collected at baseline and after 7-10 days. Construct validity was asses",
+    "keyPoints": [
+      "Переклад шкали cGVHD на данську мову.",
+      "Оцінка психометричних властивостей інструменту.",
+      "Використання для оцінки симптомів у пацієнтів з г graft-versus-host disease."
+    ],
+    "practicalTakeaway": "Переклад та валідність шкали симптомів cGVHD дозволяють її застосування у данському контексті для моніторингу симптомів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "переклад",
+      "валідація",
+      "інструмент"
     ],
     "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42273864",
+    "title": "Діагностична точність поширених діагнозів інфекційних захворювань у відомостях швидкої допомоги",
+    "journal": "Danish medical journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження оцінює точність діагнозів інфекційних захворювань у медичних записах, що використовуються для досліджень. Аналізовано діагнози пневмонії, інфекцій сечовивідних шляхів та інфекцій шкіри у пацієнтів з гострим перебігом. Результати допомагають визначити надійність діагностування у швидкій допомозі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273864/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Diagnostic accuracy of common infectious disease discharge diagnoses from emergency department.",
+    "originalAbstract": "Discharge diagnoses in Danish medical records are transferred to health data registries and are often used for research. However, discharge diagnoses of common acute infections have not yet been validated. This study aimed to evaluate the diagnostic accuracy of discharge diagnoses in medical records related to general infectious conditions, including community-acquired pneumonia, urinary tract infections and skin and soft tissue infections, in a population of acutely admitted medical patients. T",
+    "keyPoints": [
+      "Оцінена діагностична точність поширених інфекційних захворювань у медичних записах.",
+      "Дослідження стосується пацієнтів з гострим перебігом інфекцій.",
+      "Результати важливі для досліджень, що базуються на медичних даних."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають оцінити надійність діагнозів інфекційних захворювань у медичних записах швидкої допомоги.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "діагностика",
+      "інфекційні захворювання",
+      "швидка допомога"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42273863",
+    "title": "Мінімально інвазивна вентральна сітчаста ректопексія",
+    "journal": "Danish medical journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження аналізує результати мінімально інвазивних методів лікування ректальної пролапсу — лапароскопічної та роботизованої вентральної ректопексії — за п’ять років у одному центрі. Вивчено операційні дані, ускладнення та рецидиви.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273863/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Minimally invasive ventral mesh rectopexy.",
+    "originalAbstract": "Rectal prolapse significantly impairs the quality of life, particularly in elderly women. Minimally invasive ventral mesh rectopexy (VMR) has emerged as a preferred surgery, offering anatomical correction and improved post-operative outcomes. This study evaluated operative details, complications and recurrence rates following laparoscopic VMR (LVMR) and robotic VMR (RVMR) at a single tertiary care centre over a five-year period. A retrospective analysis of patients undergoing LVMR or RVMR betwee",
+    "keyPoints": [
+      "Ректальний пролапс значно погіршує якість життя, особливо у літніх жінок.",
+      "Мінімально інвазивні методи, зокрема лапароскопічна та роботизована ректопексія, мають переваги у відновленні.",
+      "Дослідження базується на ретроспективному аналізі операцій за п’ять років."
+    ],
+    "practicalTakeaway": "Мінімально інвазивні методи лікування ректального пролапсу демонструють позитивні результати та низький рівень ускладнень.",
+    "specialty": "хірургія",
+    "tags": [
+      "хірургія",
+      "гастроентерологія",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42273862",
+    "title": "Зшивання за допомогою натяжної стрічки при переломах надколінка",
+    "journal": "Danish medical journal",
+    "publishedAt": "2026-05-20T00:00:00Z",
+    "abstract": "Дослідження порівнює результати використання не металевої техніки фіксації натяжною стрічкою (STBF) з традиційною металевою пров'язкою (TBW) при переломах надколінка. Основна увага приділяється ускладненням та необхідності повторних операцій з видалення імплантатів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42273862/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-11T15:45:28Z",
+    "originalTitle": "Suture tension-band fixation for patella fractures.",
+    "originalAbstract": "Metallic tension-band wiring with K-wires and cerclage: tension-band wiring (TBW) remains the gold standard for surgery for patella fractures. Re-operation due to symptomatic implants is common. Non-metallic options, such as suture tension-band fixation (STBF), could be a solution. This study aimed to compare an STBF group with a TBW group with respect to complications and implant removal, and to describe the clinical results of the STBF group. All patient files with a patella fracture operated ",
+    "keyPoints": [
+      "STBF може зменшити кількість ускладнень, пов'язаних з металевими імплантатами.",
+      "Порівнюються клінічні результати двох методик.",
+      "Дослідження базується на аналізі медичних карт пацієнтів із переломами надколінка."
+    ],
+    "practicalTakeaway": "Не металеві методи фіксації, такі як натяжна стрічка, можуть бути перспективною альтернативою для лікування переломів надколінка.",
+    "specialty": "хірургія",
+    "tags": [
+      "переломи",
+      "фіксація",
+      "хірургія"
+    ],
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
