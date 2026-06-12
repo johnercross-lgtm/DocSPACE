@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42273874",
-    "title": "Діагностична точність візуального огляду з оцтовою кислотою проти Пап-тесту у скринінгу раку шийки матки серед ВІЛ-позитивних жінок у сільській Нігерії",
-    "journal": "African journal of reproductive health",
+    "pmid": "42275749",
+    "title": "Психопатологія, когнітивні та соціальні функції при низькому рівні психозу: дослідження випадок-контроль",
+    "journal": "Journal of psychiatric research",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Дослідження аналізує психопатологічні, когнітивні та соціальні характеристики у осіб з підвищеним ризиком психозу, а також потенційні біомаркери на основі ERP-індексів. Вивчено зв'язки між ERP-індексами та різними аспектами функціонування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275749/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Psychopathology, cognitive and social function, and ERP indices at the lower state of psychosis continuum: a case control study.",
+    "originalAbstract": "Psychotic-like experiences (PLEs) have been widely used for high-risk population screening in community. However, current knowledge on PLEs is still limited. This study aimed to examine multidimensional psychopathology and function in this population, and to explore the potential biomarkers of PLEs among event-related potential (ERP) indices as well as the associations of ERP indices with multidimensional performances. Subclinical symptoms, cognitive and social function, as well as auditory P300",
+    "keyPoints": [
+      "Досліджено психопатологію та функціональні показники у високоризикових осіб.",
+      "Аналізовано потенційні біомаркери на основі ERP-індексів.",
+      "Виявлено зв'язки між ERP-індексами та когнітивними і соціальними функціями."
+    ],
+    "practicalTakeaway": "Дослідження сприяє розумінню біомаркерів і характеристик високоризикових осіб для раннього виявлення психозу.",
+    "specialty": "психіатрія",
+    "tags": [
+      "психопатологія",
+      "ERP",
+      "психоз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42275746",
+    "title": "Вплив стимулятора Smoothened на розвиток черепно-лицевої області у мишей",
+    "journal": "International dental journal",
     "publishedAt": "2026-06-11T00:00:00Z",
-    "abstract": "Дослідження порівнює чутливість і специфічність візуального огляду з оцтовою кислотою (VIA) та Пап-тесту для виявлення передракових і ракових уражень шийки матки у ВІЛ-позитивних жінок у сільській Нігерії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273874/",
+    "abstract": "Дослідження вивчало вплив надмірної активації Hedgehog (Hh) сигналізації на розвиток черепно-лицевої області у мишей. Вагітним мишам вводили стимулятор Smoothened Agonist (SAG) у різні терміни між Е7.5 та Е12.5. Виявлено, що підвищена активність Hh сигналізації може впливати на формування структур обличчя, зокрема сприяти розвитку заздалегідь визначених аномалій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275746/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Diagnostic accuracy of visual inspection with acetic acid versus Papanicolaou smear in cervical cancer screening among HIV-positive women in rural Nigeria.",
-    "originalAbstract": "Cervical cancer remains a significant reproductive and public health concern, particularly among women living with Human Immunodeficiency Virus (HIV) in low-resource settings like Irrua community in Edo State Nigeria. This study aimed to compare the sensitivity and specificity of visual inspection with acetic acid (VIA) and the Papanicolaou smear (Pap smear) as screening methods for premalignant and malignant cervical lesions in HIV-positive women. A comparative cross-sectional design was employ",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Effects of Smoothened Agonist Exposure on Murine Craniofacial Development.",
+    "originalAbstract": "While inhibition of Hedgehog (Hh) signalling is known to cause cleft lip, the effects of its hyperactivation on craniofacial development remain systematically unexplored. Pregnant mice received a single intraperitoneal injection of Smoothened Agonist (SAG) (25 mg/kg) at various time points between E7.5 and E12.5. A median cleft lip model was established at E10.5. Mechanisms were assessed by analysing cell proliferation (PHH3, Ki67), apoptosis (TUNEL), and expression of cell cycle regulators (Cyc",
     "keyPoints": [
-      "Порівнюються методи скринінгу раку шийки матки у ВІЛ-позитивних жінок.",
-      "Дослідження визначає точність VIA та Пап-тесту.",
-      "Зосереджено на сільській місцевості Нігерії."
+      "Дослідження показало, що надмірна активація Hedgehog сигналізації може впливати на розвиток черепно-лицевої області у мишей.",
+      "Використання стимулятора Smoothened Agonist у вагітних мишей дозволило моделювати аномалії розвитку.",
+      "Результати сприяють глибшому розумінню ролі Hedgehog сигналізації у ембріональному розвитку."
     ],
-    "practicalTakeaway": "Візуальний огляд з оцтовою кислотою може бути корисним методом скринінгу у ресурсозалежних умовах.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "скринінг раку шийки матки",
-      "ВІЛ-позитивні жінки",
-      "діагностичні методи"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42273873",
-    "title": "Клінічна цінність екзомного секвенування у дітей із підозрою на рідкісне генетичне захворювання",
-    "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив екзомного секвенування (ES) на подальші клінічні рішення у дітей із підозрою на рідкісне генетичне захворювання. Модель симуляції для 523 пацієнтів показує, що ES може змінювати рішення щодо призначення або уникнення додаткових тестів, що відображає його клінічну корисність.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273873/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Clinical Utility of Exome Sequencing: Post-Exome Testing Decision Changes in the Management of Children with Suspected Rare Genetic Disease.",
-    "originalAbstract": "This study investigates a previously unquantified aspect of health economic evaluations of exome sequencing (ES): post-ES testing decisions change (P-TDC), a measure of clinical utility that captures how ES influences downstream decisions on ordering and avoiding tests. A decision analytic simulation model was developed for 523 suspected rare genetic disease pediatric patients, simulating four strategies (ES positioned from first to fourth in the diagnostic testing sequence). The primary outcome",
-    "keyPoints": [
-      "ES може впливати на подальші клінічні рішення.",
-      "Модель дослідження включала 523 пацієнти.",
-      "Зміни у рішеннях залежать від порядку застосування ES."
-    ],
-    "practicalTakeaway": "Врахування впливу екзомного секвенування на клінічні рішення може покращити управління пацієнтами з підозрою на рідкісні генетичні захворювання.",
+    "practicalTakeaway": "Дослідження підкреслює важливість регуляції Hedgehog сигналізації під час вагітності для запобігання розвитку аномалій обличчя у потомства.",
     "specialty": "доказова медицина",
     "tags": [
       "генетика",
-      "діагностика",
-      "клінічна практика"
+      "ембріологія",
+      "розвиток"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42273871",
-    "title": "Асоціація когнітивних порушень та APOE ε4 із рівнем амілоїду у когорті Hispanic та не Hispanic White",
-    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Мета дослідження — визначити, чи повʼязаний генетичний маркер APOE ε4 з рівнем амілоїду в мозку по-різному у когорті Hispanic та не Hispanic White. Аналізовано дані 17 017 учасників із пʼяти досліджень, що використовували позитронну емісійну томографію для оцінки амілоїду. Виявлено слабкі асоціації між APOE ε4 та когнітивними порушеннями у Hispanic, що потребує подальших досліджень.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273871/",
+    "pmid": "42275745",
+    "title": "Валідація OHIP-5 для рівноправного стоматологічного обслуговування у Нігерії",
+    "journal": "International dental journal",
+    "publishedAt": "2026-06-11T00:00:00Z",
+    "abstract": "Дослідження спрямоване на переклад та оцінку інструменту OHIP-5, короткої опитувальника для оцінки якості життя, пов'язаної з усмішкою та станом зубів, у контексті нігерійських мов. Це важливо для забезпечення рівного доступу до стоматологічної допомоги в країнах з обмеженими ресурсами, враховуючи мовні та культурні бар'єри.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275745/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Association of cognitive impairment and APOE ε4 with Centiloids in Hispanic and non-Hispanic White cohorts.",
-    "originalAbstract": "Weak associations of apolipoprotein E (APOE) ε4 with cognitive impairment have been reported in Hispanic cohorts. To determine if APOE ε4 associates with brain amyloid load differently in Hispanic and non-Hispanic White (NHW) cohorts, we analyzed reported Centiloid values from studies that conducted amyloid positron emission tomography. This meta-analysis included 17,017 participants (8.4% Hispanic) from five source studies. Analysis of covariance and logistic regression models adjusting for age",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Validating OHIP-5 for Equitable Oral Healthcare in Nigeria.",
+    "originalAbstract": "Healthcare access in low- and middle-income countries (LMICs) is constrained by structural and socio-cultural barriers, including language. Oral health, despite its importance to general health, is often overlooked in universal health coverage efforts. The Oral Health Impact Profile (OHIP-5) is a brief patient-reported outcome measure (PROM) for oral health-related quality of life (OHRQoL) but has not been adapted into indigenous Nigerian languages. This study aimed to translate and evaluate the",
     "keyPoints": [
-      "Досліджено звʼязок APOE ε4 із рівнем амілоїду у різних етнічних групах.",
-      "Виявлено слабкі асоціації у когорті Hispanic.",
-      "Результати підкреслюють необхідність додаткових досліджень для уточнення ролі генетичних факторів."
+      "OHIP-5 є коротким інструментом для оцінки якості життя, пов'язаної з усмішкою.",
+      "Дослідження фокусується на перекладі та валідності інструменту у нігерійських мовах.",
+      "Забезпечення мовної адаптації сприяє рівності у доступі до стоматологічної допомоги."
     ],
-    "practicalTakeaway": "Результати дослідження свідчать про різницю у звʼязку між генетичним маркером APOE ε4 та амілоїдом у мозку у різних етнічних групах, що може впливати на підходи до діагностики та профілактики когнітивних порушень.",
-    "specialty": "неврологія",
+    "practicalTakeaway": "Переклад та валідність інструментів оцінки якості життя важливі для забезпечення рівного доступу до стоматологічної допомоги у країнах з різноманітною мовною середою.",
+    "specialty": "сімейна медицина",
     "tags": [
-      "генетика",
-      "когнітивні порушення",
-      "амилоїд"
+      "стоматологія",
+      "здоровʼя населення",
+      "інструменти оцінки"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42275732",
+    "title": "Розповсюдженість, геномна різноманітність та зростання антимікробної резистентності Taylorella asinigenitalis у розведенні ослів Grand Noir du Berry",
+    "journal": "Veterinary microbiology",
+    "publishedAt": "2026-06-06T00:00:00Z",
+    "abstract": "Дослідження виявило, що Taylorella asinigenitalis, грамнегативна бактерія, поширена в геніталіях ослів, має високу геномну різноманітність та зростаючу антимікробну резистентність. Хоча вважається непатогенною, вона близька до збудника контагіозного метриту у коней і може бути повʼязана з ендометритом.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275732/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Prevalence, genomic diversity and emerging antimicrobial resistance of Taylorella asinigenitalis in Grand Noir du Berry breeding donkeys.",
+    "originalAbstract": "Taylorella asinigenitalis is a fastidious Gram-negative bacterium of the equine genital tract, found more commonly in donkeys than horses. Although considered non-pathogenic, it is closely related to Taylorella equigenitalis, the agent of contagious equine metritis, and has been linked to experimental and natural cases of endometritis. The SAFRAN project (French acronym for \"Sauvegarde de la fertilité de l'âne\", meaning \"Preservation of donkey fertility\"), launched in 2024 by the French National",
+    "keyPoints": [
+      "Taylorella asinigenitalis поширена у ослів, рідше у коней.",
+      "Бактерія має високу геномну різноманітність.",
+      "Спостерігається зростання антимікробної резистентності."
+    ],
+    "practicalTakeaway": "Необхідно моніторити поширення та резистентність Taylorella asinigenitalis у популяціях ослів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "ветеринарія",
+      "мікробіологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42275725",
+    "title": "Фур'є трансформна інфрачервона спектроскопія для діагностики інфекційних захворювань та ідентифікації мікробів: систематичний огляд (2015–2025)",
+    "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Цей систематичний огляд аналізує застосування фур'є трансформної інфрачервоної спектроскопії (FTIR) для ідентифікації мікробів, розрізнення штамів та діагностики інфекційних захворювань у людській популяції на основі досліджень, опублікованих у період з 2015 по 2025 рік.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275725/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Fourier transform infrared spectroscopy (FTIR) for human infectious disease diagnosis, microbial identification and strain discrimination: a systematic review (2015-2025).",
+    "originalAbstract": "Infectious diseases remain a persistent and evolving public health challenge, driven by factors such as antimicrobial resistance, emerging pathogens and environmental changes. In this context, this systematic review aims to analyze the analytical performance of Fourier Transform Infrared Spectroscopy (FTIR) for the microbiological identification, strain discrimination and diagnosis of human infectious diseases, based on studies published between 2015 and 2025. The review followed PRISMA guidelin",
+    "keyPoints": [
+      "FTIR досліджується для ідентифікації мікробів та діагностики інфекцій.",
+      "Огляд охоплює дослідження за 2015–2025 роки.",
+      "Застосування FTIR може покращити швидкість та точність діагностики."
+    ],
+    "practicalTakeaway": "FTIR має потенціал для швидкої та точної ідентифікації мікробів у клінічних умовах.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "діагностика",
+      "мікробіологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42275722",
+    "title": "Аналіз поліцитемії вера у двох колумбійських центрах",
+    "journal": "Blood cells, molecules & diseases",
+    "publishedAt": "2026-06-06T00:00:00Z",
+    "abstract": "Дослідження описує демографічні, клінічні, гематологічні та терапевтичні характеристики пацієнтів із поліцитемією вера у двох спеціалізованих центрах Колумбії, що дозволяє краще зрозуміти цю хворобу у латинській популяції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275722/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "A real-world analysis of polycythemia vera at two comprehensive cancer centers in Cali, Colombia.",
+    "originalAbstract": "Polycythemia vera (PV) is a chronic myeloproliferative neoplasm characterized by the clonal proliferation of hematopoietic stem cells, primarily driven by JAK2 mutations. Even though there are established diagnostic and therapeutic standards, there is not a lot of information about the clinical and molecular features of PV in Latin America. Our aim was to characterize the demographic, clinical, hematological, and treatment characteristics of patients with polycythemia vera at a specialized hemat",
+    "keyPoints": [
+      "Досліджено характеристики пацієнтів із поліцитемією вера у Колумбії.",
+      "Зібрано дані про демографію, клінічний стан та лікування.",
+      "Результати сприяють розумінню особливостей захворювання у латинській популяції."
+    ],
+    "practicalTakeaway": "Зібрані дані допомагають краще орієнтуватися у характеристиках поліцитемії вера у латинській популяції.",
+    "specialty": "гематологія",
+    "tags": [
+      "поліцитемія вера",
+      "діагностика",
+      "лікування"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42273870",
-    "title": "Роль перифокального набряку та судинності у прогнозуванні м'якотканих метастазів: радіологічна оцінка 196 уражень",
-    "journal": "Current medical imaging",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує радіологічні ознаки, що допомагають диференціювати м'якоткані метастази від доброякісних уражень. Вивчено 196 випадків із урахуванням структурованих даних для визначення ефективних параметрів діагностики.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273870/",
+    "pmid": "42275718",
+    "title": "Електрохімічний сенсор для визначення канаміцину з використанням Ag-Ti₃C₂Tx MXene та роздільної аптамерної стратегії",
+    "journal": "Talanta",
+    "publishedAt": "2026-06-11T00:00:00Z",
+    "abstract": "Розроблено високочутливий електрохімічний аптасенсор для визначення канаміцину у реальних зразках. Використано Ag-Ti₃C₂Tx MXene, синтезований шляхом in-situ відновлення срібних наночастинок на поверхні двовимірних MXene-ніздрів, що забезпечує підвищену чутливість та селективність. Стратегія роздільного аптамеру дозволяє зменшити вплив складних матриць на результати аналізу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275718/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "The Role of Perilesional Edema and Vascularity in Predicting Soft Tissue Metastases: Radiological Evaluation of 196 Lesions.",
-    "originalAbstract": "Soft tissue metastases are rare lesions seen in the course of systemic malignancies and pose diagnostic challenges. Radiological findings are heterogeneous, and standardized criteria are needed for reliable differentiation from benign lesions. While the diagnostic importance of perilesional changes is emphasized in the current literature, comprehensive analyses considering the clustered data structure are lacking. In this study, we aimed to determine effective radiological parameters for disting",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Ag-Ti3C2Tx MXene mediated H2O2 reduction for electrochemical biosensing of kanamycin in real samples based on split aptamer engineering strategy.",
+    "originalAbstract": "To resolve the conflict between multidimensional interferences derived from complex matrices and the stringent requirements for trace-level detection sensitivity, a novel electrochemical aptasensor was constructed for highly sensitive kanamycin (KANA) detection based on a split aptamer engineering strategy. Ag-Ti3C2Tx MXene, synthesized via in-situ reduction of silver nanoparticles onto the surface of two-dimensional MXene nanosheets, is employed for electrode decoration. This composite possesse",
     "keyPoints": [
-      "Розглядаються радіологічні ознаки для диференціації метастазів.",
-      "Проаналізовано 196 уражень із урахуванням структурованих даних.",
-      "Зосереджено увагу на перифокальному набряку та судинності."
+      "Розроблено новий електрохімічний сенсор для канаміцину.",
+      "Використано Ag-Ti₃C₂Tx MXene для покриття електродів.",
+      "Стратегія роздільного аптамеру підвищує точність у складних зразках."
     ],
-    "practicalTakeaway": "Радіологічна оцінка перифокального набряку та судинності може сприяти більш точній диференціації м'якотканих метастазів.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Застосування Ag-Ti₃C₂Tx MXene та роздільної аптамерної стратегії може покращити точність визначення антимікробних препаратів у складних зразках.",
+    "specialty": "доказова медицина",
     "tags": [
-      "радіологія",
-      "метастази",
-      "діагностика"
+      "електрохімія",
+      "біосенсори",
+      "аналіз"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42273868",
-    "title": "Переклад та адаптація опитувальника пильності дихання для респіраторних захворювань",
-    "journal": "Danish medical journal",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "abstract": "Дослідження присвячене перекладу та культурній адаптації опитувальника пильності дихання (Breathe-VQ) з англійської на данську мову. Пильність дихання, що пов'язана з тривогою, може погіршувати симптоми у пацієнтів з хронічною обструктивною хворобою легень, астмою та порушеннями дихального патерну. Впровадження інструменту сприятиме більш широкому застосуванню у клінічній практиці та дослідженнях.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273868/",
+    "pmid": "42275715",
+    "title": "Вплив резистентного крохмалю з високовмісного пшеничного зерна порівняно з інуліном на мікробіоту та імунні відповіді у людському кишечнику",
+    "journal": "Food chemistry",
+    "publishedAt": "2026-06-02T00:00:00Z",
+    "abstract": "Дослідження оцінювало антиоксидантні та протизапальні властивості резистентного крохмалю з високовмістного пшеничного зерна у порівнянні з інуліном у моделі людського кишечнику (ARCOL), доповненій кров'яними лейкоцитами. Обидва компоненти сприяли підвищенню рівня протизапальних маркерів у ферментаційних супінатах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275715/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Translation of the Breathing Vigilance Questionnaire for respiratory diseases.",
-    "originalAbstract": "Breathing vigilance - a heightened focus on breathing, which is linked to anxiety - potentially exacerbates symptoms in people with respiratory conditions, e.g., chronic obstructive pulmonary disease, asthma and breathing pattern disorder. The Breathing Vigilance Questionnaire (Breathe-VQ) was developed in English but requires translation and cross-cultural adaptation for broader use. We aimed to translate and cross-culturally adapt the Breathe-VQ into Danish. Following established translation g",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Impact of resistant starch from high amylose wheat compared to inulin on human gut microbiota and host immune responses using an artificial colon associated to human leukocytes.",
+    "originalAbstract": "Cooked High Amylose Wheat (HAW) products are dietary sources of resistant starch (RS). While its effects on gut microbiota are known, links to immune responses remain unclear. This study evaluated the antioxidant and anti-inflammatory properties of RS from HAW compared to inulin using a human colon model (ARCOL) coupled with blood leukocytes. ARCOL was supplemented for 7 days and fermentation supernatants incubated with leukocytes to measure inflammatory markers. Both RS and inulin increased sho",
     "keyPoints": [
-      "Опитувальник Breathe-VQ перекладено та адаптовано для данської культури.",
-      "Пильність дихання може погіршувати симптоми респіраторних захворювань.",
-      "Мета дослідження — забезпечити інструмент для міжнародних досліджень."
+      "Резистентний крохмаль з високовмістного пшеничного зерна може мати протизапальні властивості.",
+      "Дослідження проводилось у моделі людського кишечнику з додаванням кров'яних лейкоцитів.",
+      "Обидва досліджувані компоненти підвищували рівень протизапальних маркерів."
     ],
-    "practicalTakeaway": "Переклад та адаптація інструментів вимірювання важливі для міжнародних досліджень у сфері респіраторних захворювань.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Резистентний крохмаль з високовмістного пшеничного зерна може мати потенціал для підтримки імунної функції через вплив на мікробіоту та запальні процеси.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "переклад",
-      "адаптація",
-      "респіраторні захворювання"
+      "мікробіота",
+      "імунна відповідь",
+      "резистентний крохмаль"
     ],
-    "priorityScore": 5,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42273867",
-    "title": "Консенсус щодо ключових понять у аудіометрії",
-    "journal": "Danish medical journal",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "abstract": "Мета дослідження — розробити консенсусний навчальний план з аудіометрії та інтерпретації слухових тестів, використовуючи структурований метод Delphi. Це дозволить заповнити прогалини у підготовці фахівців, визначивши основні поняття для трьох груп навчання: медичних студентів, молодших орл-лікарів та орл-спеціалістів із аудіології. Процес включав три раунди Delphi для формування змісту.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273867/",
+    "pmid": "42275712",
+    "title": "Вплив ізоляту сироваткового білка на структуру та функцію ліпід-амілозного комплексу у тістечках з олеогелем діацилгліцеролу",
+    "journal": "Food chemistry",
+    "publishedAt": "2026-06-06T00:00:00Z",
+    "abstract": "Дослідження показало, що додавання ізоляту сироваткового білка до тіста для випічки з олеогелем діацилгліцеролу підвищує рівень резистентного крохмалю з 42,86% до 51,24%, що може зменшити швидкість засвоєння крохмалю та потенційно знизити постпрандіальне підвищення рівня цукру в крові.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275712/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Consensus on key concepts in audiometry.",
-    "originalAbstract": "To develop a consensus-based curriculum for audiometry and hearing test interpretation, adopting a structured Delphi methodology. The goal was to address gaps in audiological training by defining key concepts that should be taught to three learner groups: medical students (i.e. all doctors), early otorhinolaryngology residents (i.e., all ORL specialists) and ORL specialists with a subspecialty in audiology (medical audiology subspecialists). A three-round Delphi process was used, and content exp",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Effect of whey protein isolates on lipid-amylose complex structure and function in diacylglycerol oleogel cakes.",
+    "originalAbstract": "In bakeries, margarines are often replaced by oleogels that contain less saturated and trans fatty acids, the latter are considered as harmful ingredients to health. However, oleogels increase starch digestibility of baked products, leading to high postprandial blood sugar. An option is to add whey proteins to reduce starch digestibility. When whey protein isolate was 1.8% (w/w) in cake batter, resistant starch increased from 42.86 to 51.24%, with the consequence of reduced starch digestibility.",
     "keyPoints": [
-      "Розроблено консенсусний навчальний план з аудіометрії.",
-      "Визначено ключові поняття для трьох груп фахівців.",
-      "Застосовано метод Delphi для формування змісту."
+      "Додавання сироваткового білка підвищує рівень резистентного крохмалю у тістечках.",
+      "Зменшується швидкість засвоєння крохмалю та потенційно знижується рівень цукру в крові.",
+      "Дослідження стосується застосування у виробництві безтрансжирних продуктів."
     ],
-    "practicalTakeaway": "Враховуйте визначені ключові поняття при підготовці фахівців з аудіометрії.",
-    "specialty": "акушерство і гінекологія",
+    "practicalTakeaway": "Використання ізоляту сироваткового білка у випічці з олеогелем може сприяти зниженню швидкості засвоєння крохмалю.",
+    "specialty": "гастроентерологія",
     "tags": [
-      "освіта",
-      "аудіологія",
-      "методологія"
+      "харчова наука",
+      "здорове харчування",
+      "крохмаль"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42273866",
-    "title": "Переклад та валідність шкали симптомів хронічного г graft-versus-host disease у Данії",
-    "journal": "Danish medical journal",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "abstract": "Дослідження присвячене перекладу та оцінці психометричних властивостей шкали симптомів хронічного г graft-versus-host disease (cGVHD), що використовується для оцінки симптомів у пацієнтів. Вперше вона була перекладена на данську мову з використанням методів переднього та зворотного перекладу, а також когнітивних інтерв'ю. Оцінка валідності проводилася на основі даних, зібраних у пацієнтів на початку дослідження та через 7-10 днів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273866/",
+    "pmid": "42275706",
+    "title": "Антикоагуляція при хронічній хворобі нирок у кінцевій стадії",
+    "journal": "Thrombosis research",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Пацієнти з хронічною хворобою нирок у кінцевій стадії мають підвищений ризик тромбоемболічних ускладнень та одночасно схильність до кровотеч. Це ускладнює управління станами, що потребують антикоагуляції. У статті підсумовуються сучасні дані щодо застосування антикоагулянтів для запобігання інсульту при фібриляції передсердь та лікування венозних тромбоемболій, а також обговорюються практичні аспекти клінічної практики.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42275706/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Translation and validation of the Lee Chronic Graft-versus-Host Disease Symptom Scale in Denmark.",
-    "originalAbstract": "Chronic graft-versus-host disease (cGVHD) impairs quality of life after allogeneic haematopoietic stem cell transplantation. This study aimed to translate the Lee cGVHD Symptom Scale, a validated patient-reported outcome measure, into Danish and evaluate its psychometric properties. The scale was translated using forward-backward translation and cognitive debriefing interviews. Questionnaire data from the Danish version were collected at baseline and after 7-10 days. Construct validity was asses",
+    "updatedAt": "2026-06-12T02:59:02Z",
+    "originalTitle": "Anticoagulation in end-stage renal disease.",
+    "originalAbstract": "Patients with end-stage renal disease face an increased thromboembolic risk but also have heightened susceptibility to bleeding. This dual risk poses a distinct challenge in managing conditions requiring anticoagulation. In this article, we summarize the most recent evidence on anticoagulation for patients with end-stage renal disease, focusing on stroke prevention in atrial fibrillation and the management of venous thromboembolic disease, and we highlight practical considerations for clinical d",
     "keyPoints": [
-      "Переклад шкали cGVHD на данську мову.",
-      "Оцінка психометричних властивостей інструменту.",
-      "Використання для оцінки симптомів у пацієнтів з г graft-versus-host disease."
+      "Ризик тромбоемболії та кровотеч у пацієнтів з кінцевою стадією хронічної хвороби нирок.",
+      "Обґрунтування застосування антикоагулянтів для профілактики інсульту при фібриляції передсердь.",
+      "Особливості управління венозними тромбоемболіями у цій групі пацієнтів."
     ],
-    "practicalTakeaway": "Переклад та валідність шкали симптомів cGVHD дозволяють її застосування у данському контексті для моніторингу симптомів.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "При управлінні пацієнтами з кінцевою стадією хронічної хвороби нирок важливо враховувати баланс між ризиком тромбоемболії та кровотечі при призначенні антикоагулянтів.",
+    "specialty": "нефрологія",
     "tags": [
-      "переклад",
-      "валідація",
-      "інструмент"
+      "тромбоз",
+      "антикоагулянти",
+      "ниркова недостатність"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42273864",
-    "title": "Діагностична точність поширених діагнозів інфекційних захворювань у відомостях швидкої допомоги",
-    "journal": "Danish medical journal",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "abstract": "Дослідження оцінює точність діагнозів інфекційних захворювань у медичних записах, що використовуються для досліджень. Аналізовано діагнози пневмонії, інфекцій сечовивідних шляхів та інфекцій шкіри у пацієнтів з гострим перебігом. Результати допомагають визначити надійність діагностування у швидкій допомозі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273864/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Diagnostic accuracy of common infectious disease discharge diagnoses from emergency department.",
-    "originalAbstract": "Discharge diagnoses in Danish medical records are transferred to health data registries and are often used for research. However, discharge diagnoses of common acute infections have not yet been validated. This study aimed to evaluate the diagnostic accuracy of discharge diagnoses in medical records related to general infectious conditions, including community-acquired pneumonia, urinary tract infections and skin and soft tissue infections, in a population of acutely admitted medical patients. T",
-    "keyPoints": [
-      "Оцінена діагностична точність поширених інфекційних захворювань у медичних записах.",
-      "Дослідження стосується пацієнтів з гострим перебігом інфекцій.",
-      "Результати важливі для досліджень, що базуються на медичних даних."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають оцінити надійність діагнозів інфекційних захворювань у медичних записах швидкої допомоги.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "діагностика",
-      "інфекційні захворювання",
-      "швидка допомога"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42273863",
-    "title": "Мінімально інвазивна вентральна сітчаста ректопексія",
-    "journal": "Danish medical journal",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "abstract": "Дослідження аналізує результати мінімально інвазивних методів лікування ректальної пролапсу — лапароскопічної та роботизованої вентральної ректопексії — за п’ять років у одному центрі. Вивчено операційні дані, ускладнення та рецидиви.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273863/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Minimally invasive ventral mesh rectopexy.",
-    "originalAbstract": "Rectal prolapse significantly impairs the quality of life, particularly in elderly women. Minimally invasive ventral mesh rectopexy (VMR) has emerged as a preferred surgery, offering anatomical correction and improved post-operative outcomes. This study evaluated operative details, complications and recurrence rates following laparoscopic VMR (LVMR) and robotic VMR (RVMR) at a single tertiary care centre over a five-year period. A retrospective analysis of patients undergoing LVMR or RVMR betwee",
-    "keyPoints": [
-      "Ректальний пролапс значно погіршує якість життя, особливо у літніх жінок.",
-      "Мінімально інвазивні методи, зокрема лапароскопічна та роботизована ректопексія, мають переваги у відновленні.",
-      "Дослідження базується на ретроспективному аналізі операцій за п’ять років."
-    ],
-    "practicalTakeaway": "Мінімально інвазивні методи лікування ректального пролапсу демонструють позитивні результати та низький рівень ускладнень.",
-    "specialty": "хірургія",
-    "tags": [
-      "хірургія",
-      "гастроентерологія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42273862",
-    "title": "Зшивання за допомогою натяжної стрічки при переломах надколінка",
-    "journal": "Danish medical journal",
-    "publishedAt": "2026-05-20T00:00:00Z",
-    "abstract": "Дослідження порівнює результати використання не металевої техніки фіксації натяжною стрічкою (STBF) з традиційною металевою пров'язкою (TBW) при переломах надколінка. Основна увага приділяється ускладненням та необхідності повторних операцій з видалення імплантатів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42273862/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-11T15:45:28Z",
-    "originalTitle": "Suture tension-band fixation for patella fractures.",
-    "originalAbstract": "Metallic tension-band wiring with K-wires and cerclage: tension-band wiring (TBW) remains the gold standard for surgery for patella fractures. Re-operation due to symptomatic implants is common. Non-metallic options, such as suture tension-band fixation (STBF), could be a solution. This study aimed to compare an STBF group with a TBW group with respect to complications and implant removal, and to describe the clinical results of the STBF group. All patient files with a patella fracture operated ",
-    "keyPoints": [
-      "STBF може зменшити кількість ускладнень, пов'язаних з металевими імплантатами.",
-      "Порівнюються клінічні результати двох методик.",
-      "Дослідження базується на аналізі медичних карт пацієнтів із переломами надколінка."
-    ],
-    "practicalTakeaway": "Не металеві методи фіксації, такі як натяжна стрічка, можуть бути перспективною альтернативою для лікування переломів надколінка.",
-    "specialty": "хірургія",
-    "tags": [
-      "переломи",
-      "фіксація",
-      "хірургія"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
