@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42283161",
-    "title": "Вплив преднізону на затриману парез лицьового нерва після видалення акустичної невроми",
-    "journal": "The Laryngoscope",
+    "pmid": "42284682",
+    "title": "Прогнозування накопичення амілоїд-β та віку початку Альцгеймерової хвороби за генетичним ризиком і резилієнтністю",
+    "journal": "EBioMedicine",
     "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Мета дослідження — визначити, чи застосування курсу преднізону після операції з видалення акустичної невроми зменшує ризик розвитку затриманого парезу лицьового нерва. Проведено ретроспективне дослідження з використанням випадків та контролів серед пацієнтів, які перенесли операцію через різні доступи. Включені пацієнти з нормальним функціонуванням лицьового нерва перед операцією та при виписці. Аналіз показав, що застосування преднізону може бути пов'язане з зниженням частоти ускладнень.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283161/",
+    "abstract": "Дослідження аналізує можливість прогнозування накопичення амілоїд-β у мозку та віку початку Альцггеймерової хвороби на основі полігенних балів, створених за даними геномних асоціаційних досліджень. Виявлено, що ці генетичні показники можуть допомогти визначити ризик та час розвитку патології, що потенційно сприяє ранньому втручанню.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284682/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Association Between Prednisone and Delayed Facial Nerve Palsy After Acoustic Neuroma Resection.",
-    "originalAbstract": "To evaluate whether discharge with a prednisone taper is associated with a reduced incidence of delayed facial nerve palsy (DFP) following acoustic neuroma resection. We conducted a retrospective weighted case-control study of patients undergoing acoustic neuroma resection via middle fossa, retrosigmoid, or translabyrinthine approaches. Inclusion was restricted to patients with normal facial nerve function (House-Brackmann grade I) preoperatively and at discharge. Cases were patients who develop",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Predicting accumulation and age at onset of amyloid-β from genetic risk and resilience for Alzheimer's disease.",
+    "originalAbstract": "Accumulation of brain amyloid beta (Aβ), a key pathological hallmark of Alzheimer's disease (AD), begins decades before cognitive symptoms. Being able to predict the risk of Aβ accumulation, or the age at which Aβ exceeds a critical threshold, may enable intervention to delay or prevent onset of AD. Using published genome-wide association studies (GWASs), we developed polygenic scores (PGS) for AD risk (PGSrisk) and resilience (PGSresilience), and tested whether these predicted (i) if an individ",
     "keyPoints": [
-      "Дослідження вивчало вплив преднізону після операції акустичної невроми.",
-      "Застосування преднізону може зменшити ризик затриманого парезу лицьового нерва.",
-      "Ретроспективний аналіз включав пацієнтів з нормальним функціонуванням лицьового нерва перед і після операції."
+      "Розроблено полігенні бали для оцінки ризику та резилієнтності до Альцгеймерової хвороби.",
+      "Полігенні бали можуть прогнозувати накопичення амілоїд-β у мозку.",
+      "Можливість раннього визначення ризику для цілей профілактики."
     ],
-    "practicalTakeaway": "Застосування курсу преднізону після операції з видалення акустичної невроми може зменшити ризик розвитку затриманого парезу лицьового нерва.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейрохірургія",
-      "лікарські засоби",
-      "ускладнення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42283160",
-    "title": "Застосування хлоргексидину на поверхні полімерних мембран із наночастинками ZnO для повʼязок для ран",
-    "journal": "ACS applied materials & interfaces",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Розроблено електроспінені полімерні мембрани з полікапролактону (ПКА), що містять 1-5% наночастинок ZnO. Поверхня мембран функціоналізована карбоксильними групами для ковалентного звʼязування хлоргексидину (CHX) за допомогою карбодиміду. Аналіз показав, що функціоналізація підвищує здатність поглинати CHX, а наночастинки ZnO сприяють переносу заряду.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283160/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Chlorhexidine Surface-Immobilized via a Carboxylated Polymer Layer on ZnO Nanoparticle-Containing Polycaprolactone Fibers for Wound Dressings.",
-    "originalAbstract": "We developed electrospun polycaprolactone (PCL) membranes containing 1-5 wt % ZnO nanoparticles (NPs), the surface of which was plasma-functionalized with carboxyl groups for covalent immobilization of chlorhexidine (CHX) via carbodiimide chemistry. Quantum-chemical analysis revealed that carboxyl functionalization, followed by 1-ethyl-3-(3-(dimethylamino)propyl)carbodiimide (EDC) activation, significantly enhanced CHX sorption, while ZnO NPs promoted charge transfer and increased the electrophi",
-    "keyPoints": [
-      "Розроблено мембрани з наночастинками ZnO та функціоналізованою поверхнею.",
-      "Звʼязування хлоргексидину покращує антимікробні властивості.",
-      "Можливе застосування у повʼязках для ран."
-    ],
-    "practicalTakeaway": "Технологія дозволяє створювати антимікробні повʼязки для ран із покращеними властивостями.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "ранові повʼязки",
-      "нанотехнології"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42283153",
-    "title": "Ранній початок ожиріння та навантаження на серце незалежно від кардіометаболічних ризиків",
-    "journal": "Clinical obesity",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив віку початку ожиріння на довгострокові серцево-судинні ризики. Виявлено, що ожиріння, яке починається в ранньому дорослому віці, асоціюється з підвищеним навантаженням на серце незалежно від традиційних кардіометаболічних факторів ризику.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283153/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Early-Onset Obesity and Heart Failure Burden Independent of Cardiometabolic Risk Factors.",
-    "originalAbstract": "The timing of obesity onset may influence long-term cardiovascular risk. Whether obesity beginning in early adulthood differs from obesity acquired later in life with respect to cardiometabolic and cardiovascular outcomes remains uncertain. We analysed adults with obesity (BMI ≥ 30 kg/m2) from the National Health and Nutrition Examination Survey (NHANES) 2017-2020. Participants were classified as having early-onset obesity (with obesity at approximately age 25) or adult-onset obesity (with obesi",
-    "keyPoints": [
-      "Ранній початок ожиріння пов'язаний з підвищеним ризиком серцевої недостатності.",
-      "Вплив ожиріння на серце незалежний від рівня холестерину, артеріального тиску та інших метаболічних факторів.",
-      "Раннє виявлення та профілактика ожиріння можуть зменшити довгострокове навантаження на серце."
-    ],
-    "practicalTakeaway": "Враховуйте вік початку ожиріння при оцінці серцево-судинного ризику.",
-    "specialty": "кардіологія",
-    "tags": [
-      "ожиріння",
-      "серце",
-      "кардіоваскулярні ризики"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42283152",
-    "title": "Покращення ефективності вимірювання індексу тяжкості кашлю за допомогою теорії відповіді на тестові елементи",
-    "journal": "The Laryngoscope",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження застосовує теорію відповіді на тестові елементи для визначення найбільш інформативних питань у індексі тяжкості кашлю (CSI). Аналіз порівнює характеристики 5- та 10-питальників, щоб оптимізувати їх використання у клінічній практиці.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283152/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Improving Measurement Efficiency of the Cough Severity Index With Item Response Theory.",
-    "originalAbstract": "The larynx is central to voice, breathing, swallowing, and cough-such that routinely tracking related outcomes can introduce burden. Within these assessments, the Cough Severity Index (CSI) is frequently deployed. We thus utilized item response theory (IRT) to determine: (1) which items confer the most information, (2) if proposed 5-item scales yield substantially differing discrimination and location parameters, compared to the 10-item instrument, and (3) whether a subset of items has more favo",
-    "keyPoints": [
-      "Визначено найбільш інформативні питання у CSI.",
-      "Порівняно характеристики 5- та 10-питальників.",
-      "Обґрунтовано можливість скорочення інструменту без втрати інформації."
-    ],
-    "practicalTakeaway": "Застосування теорії відповіді на тестові елементи може підвищити ефективність оцінки тяжкості кашлю.",
+    "practicalTakeaway": "Генетичні показники можуть бути корисними для прогнозування ризику розвитку Альцгеймерової хвороби та визначення оптимального часу для профілактичних заходів.",
     "specialty": "доказова медицина",
     "tags": [
-      "клінічні дослідження",
-      "інструментальні методи",
-      "кашу"
+      "генетика",
+      "нейродегенеративні захворювання",
+      "прогнозування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42283151",
-    "title": "Центрикулярна мембранна сітка у C. elegans може виконувати роль фільтра для мікротрубочок",
-    "journal": "Journal of cell science",
+    "pmid": "42284681",
+    "title": "Сезонний імунітет, спричинений вакциною, зберігає крос-реактивність до підкладу H3N2 K у дорослих",
+    "journal": "EBioMedicine",
     "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження виявляє, що у ранніх ембріонах C. elegans навколо центросом формуються щільні мембранні структури, звані центрикулярною сіткою, що впливають на їхню структуру та здатність до нуклеації мікротрубочок. Ця сітка розташована поруч із перицентріолярним матеріалом і короткими пери-центросомальними мікротрубочками.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283151/",
+    "abstract": "Дослідження показало, що імунітет, сформований сезонною вакцинацією проти грипу, зберігає здатність реагувати на підкладу H3N2 K у дорослих. Виявлено, що попередній імунітет до цього підкладу посилюється після вакцинації, що підвищує рівень антитіл у двічі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284681/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "The centriculum, a membrane reticulum that surrounds C. elegans centrosomes, may serve as a microtubule filter.",
-    "originalAbstract": "Centrosomes are cytoplasmic microtubule-nucleating structures. They are considered membraneless organelles, but in several cell types they are surrounded by ER-derived membrane. In C. elegans early embryos, this membrane forms a dense membrane reticulum, named the centriculum, that affects centrosome structure and microtubule nucleating capacity. The centriculum is adjacent to the centrosome's pericentriolar material (PCM) and to abundant, short peri-centrosomal microtubules. Here we show that w",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Seasonal vaccine-induced immunity shows preserved cross-reactivity to H3N2 subclade K in adults.",
+    "originalAbstract": "Influenza A subclade K viruses caused high infection rates in the 2025/2026 Northern Hemisphere season, raising concerns about antigenic drift and reduced vaccine effectiveness. We measured antibody responses in matched human pre- and post-vaccination sera, selected from two observational cohort studies of adults, against both a vaccine-like as well as subclade K isolates. Pre-existing immunity to subclade K variants was noted with seasonal influenza vaccination further boosting titres two-fold ",
     "keyPoints": [
-      "Центросоми у C. elegans оточені мембранною сіткою, яка називається центрикулярною.",
-      "Ця структура може виконувати роль фільтра для мікротрубочок.",
-      "Дослідження вказують на її вплив на структуру центросом та їхню функцію."
+      "Вакцинація сприяє підвищенню рівня антитіл до підкладу H3N2 K.",
+      "Попередній імунітет до підкладу K існував до вакцинації.",
+      "Вакцинація подвоює рівень антитіл у дорослих."
     ],
-    "practicalTakeaway": "Розуміння ролі центрикулярної сітки може допомогти у дослідженнях механізмів організації мікротрубочкових мереж у клітинах.",
-    "specialty": "неврологія",
-    "tags": [
-      "мікротрубочки",
-      "центросоми",
-      "клітинна структура"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42283147",
-    "title": "Регуляція поверхневих білків Leishmania через ядерний білок ESB1",
-    "journal": "Journal of cell science",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження показує, що у Leishmania mexicana ядерний білок ESB1 впливає на регуляцію білків δ-амастинів, які є ключовими компонентами поверхневого покриву паразитів, необхідного для їх патогенності. Генетична організація цих білків у ко-транскрибованих масивах ускладнює контроль їх експресії, але ESB1 може відігравати роль у регуляції їх рівнів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283147/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Regulation of Leishmania surface coat proteins by the nuclear protein ESB1.",
-    "originalAbstract": "Unicellular Leishmania parasites cause leishmaniases and require a life cycle stage-specific surface coat for pathogenesis. A major protein component of this coat is δ-amastins, which are human infective amastigote life cycle stage-specific transmembrane glycoproteins. Leishmania genes are encoded in co-transcribed gene arrays with little gene-specific transcriptional control. Here, we show that the Leishmania mexicana ortholog of ESB1, a nuclear protein we previously identified in the related p",
-    "keyPoints": [
-      "ESB1 регулює поверхневі білки Leishmania.",
-      "δ-амастини важливі для патогенності паразитів.",
-      "Генетична організація у масивах ускладнює контроль експресії."
-    ],
-    "practicalTakeaway": "Розуміння регуляції поверхневих білків Leishmania може допомогти у розробці нових стратегій боротьби з лейшманіозом.",
+    "practicalTakeaway": "Сезонна вакцинація зберігає здатність викликати імунну відповідь проти підкладу H3N2 K.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "інфекційні хвороби",
-      "мікробіологія",
-      "паразитологія"
+      "грип",
+      "імунітет",
+      "вакцинація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42283146",
-    "title": "Що таке клінічно значущі зміни у стресі при цукровому діабеті?",
-    "journal": "Diabetes, obesity & metabolism",
+    "pmid": "42284679",
+    "title": "Копійно-числові події у червоподібних хордомах: класифікація за біологічною суттю",
+    "journal": "Neoplasia (New York, N.Y.)",
     "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження визначає мінімальні клінічно важливі різниці (MCID) у шкалі Problem Areas in Diabetes (PAID) для оцінки стресу у пацієнтів з цукровим діабетом 1 типу. Виявлено, що зміни у показниках можуть свідчити про погіршення, стабільність або покращення стану за рік.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283146/",
+    "abstract": "Дослідження аналізує геномні зміни у червоподібних хордомах, що дозволяє розподілити пухлини на чотири біологічно обґрунтовані групи. Аналіз проведено на двох незалежних когортах пацієнтів із черепним оснуванням, використовуючи різні платформи — мікроскопію метилювання ДНК та секвенування всього геному.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284679/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "What Is a Clinically Meaningful Change in Diabetes Distress? Findings for Diabetes Care and Research From the SFDT1 Cohort.",
-    "originalAbstract": "Diabetes distress (DD) is common and evolves heterogeneously over time. We aimed to estimate minimal clinically important differences (MCID) for the Problem Areas in Diabetes (PAID) scale and its sub-dimensions and to identify predictors of worsening over 1 year in people with type 1 diabetes (PwT1D). MCIDs for PAID total and sub-dimension scores were derived using the standard error of measurement approach. One-year DD worsening, stability and improvement were defined using the ±1 MCID threshol",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "The copy-number events in skull base chordoma stratify tumours into four biologically coherent groups.",
+    "originalAbstract": "Chordoma, a rare sarcoma of notochordal origin, exhibits slow growth and local aggressiveness. While copy-number (CN) events are recognized as key chordoma drivers, no comprehensive classification, based on CN, has yet been developed. Here, we establish a robust, reproducible genomic subtyping of chordoma, based on CN events. Two independent skull base chordoma cohorts (N = 32, N = 71) were analyzed, utilizing distinct analytical platforms, DNA methylation microarrays and whole-genome sequencing",
     "keyPoints": [
-      "Визначено мінімальні клінічно важливі різниці для шкали PAID.",
-      "Зміни у показниках можуть сигналізувати про погіршення або покращення стану.",
-      "Дослідження фокусується на пацієнтах з цукровим діабетом 1 типу."
+      "Виявлено чотири біологічно обґрунтовані групи червоподібних хордом.",
+      "Дослідження базується на аналізі копійних числових подій у геномі.",
+      "Результати сприяють глибшому розумінню біології пухлин і потенційно впливають на терапевтичний підхід."
     ],
-    "practicalTakeaway": "Використання шкали PAID допомагає оцінити зміни у рівні стресу у пацієнтів з цукровим діабетом 1 типу.",
+    "practicalTakeaway": "Класифікація за копійними числовими подіями може допомогти у подальшому дослідженні та лікуванні червоподібних хордом.",
+    "specialty": "онкологія",
+    "tags": [
+      "геноміка",
+      "онкологія",
+      "біологічна класифікація"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42284677",
+    "title": "Розробка платформи",
+    "journal": "Biosensors & bioelectronics",
+    "publishedAt": "2026-06-10T00:00:00Z",
+    "abstract": "Дослідження присвячене створенню платформи",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284677/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Development of a gut-on-a-chip platform to monitor dynamic GLP-1 secretion from primary intestinal tissue.",
+    "originalAbstract": "Secreted by enteroendocrine L-cells along the intestinal epithelium, glucagon-like peptide-1 (GLP-1) is a key regulator of glucose and energy homeostasis in health, obesity and type 2 diabetes. Understanding the stimuli and mechanisms governing GLP-1 secretion is fundamental to the development of novel therapies for metabolic disorders. Mechanistic studies have, hitherto, relied largely on well-based static incubation of immortalised cell lines or primary intestinal tissues, approaches that have",
+    "keyPoints": [
+      "Розроблено платформу для моніторингу секреції GLP-1 з первинної кишкової тканини.",
+      "GLP-1 є важливим регулятором глюкози та енергетичного обміну.",
+      "Новий підхід дозволяє краще зрозуміти механізми стимуляції секреції GLP-1."
+    ],
+    "practicalTakeaway": "Розроблена платформа може сприяти дослідженням механізмів секреції GLP-1 та розробці нових терапій для метаболічних порушень.",
     "specialty": "ендокринологія",
     "tags": [
-      "діабет",
-      "стрес",
-      "оцінка стану"
+      "метаболізм",
+      "глюкоза",
+      "секреція"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42283143",
-    "title": "Зв'язок між грипом та діагнозом Паркінсона: систематичний огляд та мета-аналіз",
-    "journal": "Neurodegenerative disease management",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Цей систематичний огляд та мета-аналіз досліджував можливий зв'язок між попереднім грипом та підвищеним ризиком розвитку хвороби Паркінсона. Аналіз включав сім досліджень із восьми когорт, використовуючи частотний та байєсівський підходи.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283143/",
+    "pmid": "42284676",
+    "title": "Контрольоване електричне посилення в сенсорі на основі PMOS для хімічних та біологічних досліджень",
+    "journal": "Biosensors & bioelectronics",
+    "publishedAt": "2026-05-28T00:00:00Z",
+    "abstract": "У дослідженні запропоновано стратегія нелінійного зчитування, яка дозволяє електричне посилення чутливості в одному PMOS-транзисторі. Зміни порогової напруги залежать квадратично від потенціалу тіла, що забезпечує додаткове посилення від змін поверхневого електрохімічного потенціалу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284676/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Association between influenza infection and subsequent Parkinson's disease diagnosis: a systematic review and meta-analysis.",
-    "originalAbstract": "As infectious agents may be associated with neurodegenerative diseases, this systematic review and meta-analysis investigated whether prior influenza infection is associated with an increased odds of subsequent Parkinson's disease (PD) diagnosis. We searched PubMed, Web of Science, and Scopus for observational studies examining influenza infection and later PD diagnosis. Seven studies (comprising eight cohorts) were analyzed using frequentist and Bayesian random-effects meta-analyses. Meta-regre",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Effortless and controllable electrical amplification in single-PMOS sensor for chemical and biological sensing.",
+    "originalAbstract": "We report an effective nonlinear readout body-coupled modulation strategy that enables electrical amplification of sensitivity in a single p-channel metal-oxide semiconductor (PMOS) field-effect transistor (FET). The threshold voltage exhibits a quadratic dependence on the body potential (VB) by dynamically biasing the body terminal instead of the gate, thus providing an extra electrical amplification from the intrinsic electrochemical surface potential changes. Implemented on a commercial PMOS ",
     "keyPoints": [
-      "Досліджено зв'язок між грипом і хворобою Паркінсона.",
-      "Використано систематичний огляд та мета-аналіз.",
-      "Результати потребують подальшого підтвердження."
+      "Запропоновано новий спосіб підсилення сигналу в сенсорі на основі PMOS.",
+      "Зміни порогової напруги квадратично залежать від потенціалу тіла.",
+      "Стратегія підвищує чутливість до поверхневих електрохімічних змін."
     ],
-    "practicalTakeaway": "Потрібні додаткові дослідження для підтвердження можливого зв'язку між грипом та хворобою Паркінсона.",
+    "practicalTakeaway": "Використання цієї стратегії може покращити чутливість електрохімічних сенсорів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "біоелектроніка",
+      "сенсори",
+      "електрохімія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42284675",
+    "title": "Поле-ефект транзисторів для електрофізіологічного моніторингу серцево-судинної та нервової систем",
+    "journal": "Biosensors & bioelectronics",
+    "publishedAt": "2026-06-07T00:00:00Z",
+    "abstract": "Дослідження розглядає застосування польових ефект транзисторів (FET) у електрофізіологічних сенсорах для моніторингу серцево-судинної та нервової систем. Вони пропонують потенціал для покращення точності та стабільності вимірювань у порівнянні з традиційними методами.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284675/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Field-effect transistors for electrophysiological monitoring of cardiac and nervous system.",
+    "originalAbstract": "Electrophysiological signals are fundamental to elucidating the functional states and pathological mechanisms of the cardiac and nervous system. Yet, conventional techniques are constrained by inherent trade-offs between high-throughput capabilities, signal-to-noise ratio (SNR), and long-term stability. To address these challenges, field-effect transistor (FET)-based electrophysiological sensors have gained prominence as a powerful platform for cardiac and neural monitoring, distinguished by the",
+    "keyPoints": [
+      "FET-сенсори використовуються для електрофізіологічного моніторингу.",
+      "Вони мають переваги у точності та стабільності.",
+      "Дослідження зосереджене на серцево-судинній та нервовій системах."
+    ],
+    "practicalTakeaway": "Використання FET-сенсорів може покращити точність та довгострокову стабільність електрофізіологічних вимірювань.",
     "specialty": "неврологія",
     "tags": [
-      "інфекційні хвороби",
-      "нейрологія",
-      "доказова медицина"
+      "біомедична електроніка",
+      "сенсори",
+      "кардіологія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42283142",
-    "title": "Підхід до видалення антигенів для оптимізації збереження позаклітинного матриксу у моделюванні гортані у мишей",
-    "journal": "The Laryngoscope",
+    "pmid": "42284665",
+    "title": "Вища освіта та розвиток компетентностей у ролі провайдерів передового досвіду: огляд досліджень",
+    "journal": "Journal of medical imaging and radiation sciences",
     "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження порівнює методи обробки тканин для створення каркасів гортані та стравоходу у мишей, зосереджуючись на збереженні позаклітинного матриксу та видаленні імуногенної речовини. Виявлено, що метод видалення антигенів сприяє кращому збереженню колагену та зменшенню залишкового ДНК.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283142/",
+    "abstract": "Дослідження показують, що звʼязок між вищою освітою та якістю роботи провайдерів передового досвіду у сфері охорони здоровʼя залишається недостатньо вивченим і розпорошеним. Це дослідження спрямоване на аналіз існуючих доказів для покращення освіти та підготовки у сферах радіаційної терапії та інших професіях. Огляд базується на протоколі, зареєстрованому у відкритій науковій платформі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284665/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Antigen Removal Approach to Murine Larynx Engineering Optimizes Extracellular Matrix Preservation.",
-    "originalAbstract": "To compare antigen removal processing with conventional sodium dodecyl sulfate decellularization for generating laryngotracheoesophageal scaffolds, focusing on preservation of extracellular matrix integrity and removal of immunogenic material. Laryngotracheoesophageal complexes were harvested from C57BL/6 mice and processed using either antigen removal or sodium dodecyl sulfate-based protocols. Scaffolds were analyzed for residual double-stranded DNA content, collagen preservation, glycosaminogl",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Graduate education and competency development in advanced practice provider roles: A scoping review.",
+    "originalAbstract": "The evidence base supporting the relationship between graduate education and the quality of advanced practice (AP) in healthcare remains limited and often fragmented across professional contexts. This project sought to understand more fully what evidence can provide insight to guide AP education and training in radiation therapy and other professions. The protocol was registered with the Open Science Framework, https://doi.org/10.17605/OSF.IO/37J4S. Professions such as nursing, radiation therapy",
     "keyPoints": [
-      "Порівнювали два методи обробки тканин для створення каркасів гортані у мишей.",
-      "Метод видалення антигенів забезпечує краще збереження позаклітинного матриксу.",
-      "Обраний підхід зменшує імуногенні компоненти тканин."
+      "Доказова база щодо впливу вищої освіти на якість роботи провайдерів обмежена.",
+      "Дослідження охоплює професії у сфері радіаційної терапії та інші.",
+      "Мета — визначити, як освіта може покращити підготовку провайдерів передового досвіду."
     ],
-    "practicalTakeaway": "Вибір методу обробки тканин впливає на збереження структурних компонентів та імуногенність каркасів у тканинній інженерії.",
+    "practicalTakeaway": "Необхідні додаткові дослідження для визначення впливу вищої освіти на якість роботи провайдерів у сфері охорони здоровʼя.",
     "specialty": "доказова медицина",
     "tags": [
-      "тканинна інженерія",
+      "освіта",
+      "професійна підготовка",
+      "охорона здоровʼя"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42284660",
+    "title": "Вплив шкільних покарань на когнітивне здоровʼя у зрілому віці: медіаційний аналіз",
+    "journal": "Social science & medicine (1982)",
+    "publishedAt": "2026-06-04T00:00:00Z",
+    "abstract": "Дослідження аналізує звʼязок між застосуванням шкільних покарань (відсторонення, виключення) у молодості та когнітивним здоровʼям у середньому віці, з урахуванням ролі освітніх шляхів протягом життя. Використовуючи дані американського дослідження, автори визначають, чи послідовність освітніх досягнень посередньо впливає на цей звʼязок.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284660/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Examining associations between school suspension and expulsion in early life and later-life cognitive health: A mediation analysis of lifecourse educational pathways.",
+    "originalAbstract": "Exclusionary school discipline (e.g., suspension, expulsion) - a documented facilitator of structural marginalization - is associated with lower midlife cognitive health, a predictor of later-life dementia risk. No studies have examined through which mechanisms this might unfold. Using National Longitudinal Survey of Youth (1979) data, a study of US adults followed prospectively since adolescence (N = 8138), we evaluated if lifecourse educational trajectories mediate this relationship. First, we",
+    "keyPoints": [
+      "Шкільні покарання у молодості повʼязані з нижчим когнітивним здоровʼям у зрілому віці.",
+      "Освітні шляхи протягом життя можуть посередньо впливати на цей звʼязок.",
+      "Дослідження підкреслює важливість освітніх факторів у формуванні когнітивного здоровʼя."
+    ],
+    "practicalTakeaway": "Розуміння ролі освітніх шляхів може допомогти у розробці стратегій для підтримки когнітивного здоровʼя.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "доказова медицина",
+      "психічне здоровʼя",
+      "освіта"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42284652",
+    "title": "Поширеність та прогностична цінність циркулюючих пухлинних клітин у пацієнтів з раннім раком молочної залози, що отримують неоад'ювантну хіміотерапію",
+    "journal": "Clinical breast cancer",
+    "publishedAt": "2026-05-14T00:00:00Z",
+    "abstract": "Дослідження виявило, що циркулюючі пухлинні клітини (ЦПК) часто зустрічаються у пацієнтів з раком молочної залози. Однак їхній клінічний значущість у ранніх стадіях досліджується за допомогою менш чутливих методів. Вивчення проводилось у рамках однопрофільної перспективної когортної роботи, де оцінювалися поширеність і прогностична роль ЦПК у пацієнтів, що отримують неоад'ювантну хіміотерапію.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284652/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Prevalence and Prognostic Implications of Circulating Tumor Cells Among Patients Undergoing Neoadjuvant Chemotherapy for Early-Stage Breast Cancer.",
+    "originalAbstract": "Circulating tumor cells (CTCs) are frequently detected in patients with breast cancer, but key studies investigating their clinical significance in early-stage disease rely on less-sensitive methods for CTC detection. To evaluate the prevalence and prognostic implications of CTCs in patients undergoing NAC for early-stage breast cancer. This was a single-center prospective cohort study. Patients with early-stage breast cancer who were planned to receive NAC were enrolled. CTCs were measured befo",
+    "keyPoints": [
+      "ЦПК часто виявляються у пацієнтів з раком молочної залози.",
+      "Дослідження оцінювало їхню поширеність перед початком хіміотерапії.",
+      "Вивчалась прогностична цінність ЦПК у ранніх стадіях захворювання."
+    ],
+    "practicalTakeaway": "Виявлення циркулюючих пухлинних клітин може мати значення для прогнозування результатів лікування у пацієнтів з раннім раком молочної залози.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракові захворювання",
+      "діагностика",
+      "прогнозування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42284650",
+    "title": "Крововилив у підпаутинному просторі спричиняє розширення про-запальних лімфоцитних підтипів у спинномозковій рідині: дослідження-пілот",
+    "journal": "Immunobiology",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Дослідження показує, що крововилив у підпаутинному просторі мозку сприяє розширенню про-запальних лімфоцитних підтипів у спинномозковій рідині. Це може мати значення для розуміння імунних механізмів у розвитку ускладнень після розриву мозкової аневризми.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284650/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-13T02:51:27Z",
+    "originalTitle": "Subarachnoid hemorrhage induces expansion of pro-inflammatory lymphocyte subsets in human cerebrospinal fluid: a pilot study.",
+    "originalAbstract": "Despite recent advances in treatment, subarachnoid hemorrhage from a ruptured brain aneurysm (aSAH) remains a significant cause of morbidity and mortality worldwide. While some early effects of aneurysm rupture (direct trauma to brain tissue, for example) are unrelated to the immune response, research suggests that some early and many delayed effects of aSAH such as vasospasm, delayed cerebral ischemia, chronic neurological decline, are at least partially immune mediated. Cytokines, neutrophils,",
+    "keyPoints": [
+      "Крововилив у підпаутинному просторі активує імунну відповідь.",
+      "Розширення про-запальних лімфоцитних підтипів може впливати на ускладнення.",
+      "Дослідження є попереднім і потребує подальшого підтвердження."
+    ],
+    "practicalTakeaway": "Розуміння імунних змін після крововиливу може допомогти у розробці нових стратегій лікування ускладнень.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейронаука",
       "імунологія",
-      "хірургія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42283140",
-    "title": "Рідкісне, але потенційно небезпечне: клінічний вплив пневмотораксу після тиреоїдектомії та паротиреоїдектомії",
-    "journal": "The Laryngoscope",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження аналізує частоту виникнення пневмотораксу після тиреоїдектомії та паротиреоїдектомії та його вплив на клінічні результати. Використовуючи дані американської дослідницької мережі, вивчено пацієнтів віком від 18 років, які перенесли ці операції з 2000 по 2025 рік. Результати свідчать про рідкість ускладнення, але можливу його значущість для прогнозу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283140/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-12T14:47:09Z",
-    "originalTitle": "Rare But Risky: Clinical Impacts of Pneumothorax After Thyroidectomy and Parathyroidectomy.",
-    "originalAbstract": "Postoperative pneumothorax (PPTX) after thyroidectomy (TD) or parathyroidectomy (PT) is rare and primarily described in case reports with limited data on its prognostic significance in large populations. We aim to assess the incidence of PPTX and its association with clinical outcomes following TD or PT. We queried the TriNetX United States Research Network, identifying patients ≥ 18 years of age who underwent open TD or PT between January 2000 and December 2025. Patients were separated by devel",
-    "keyPoints": [
-      "Пневмоторакс після тиреоїдектомії та паротиреоїдектомії є рідкісним ускладненням.",
-      "Дослідження базується на аналізі даних американської дослідницької мережі.",
-      "Вивчено вплив пневмотораксу на клінічні результати у великій популяції пацієнтів."
-    ],
-    "practicalTakeaway": "Медики повинні бути обізнані про можливість розвитку пневмотораксу після тиреоїдектомії та паротиреоїдектомії, хоча й рідко.",
-    "specialty": "ендокринологія",
-    "tags": [
-      "пневмоторакс",
-      "тиреоїдектомія",
-      "паротиреоїдектомія"
+      "інтенсивна терапія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
