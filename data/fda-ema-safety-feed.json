@@ -5,14 +5,14 @@
     "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/disruptions-availability-breast-biopsy-needles-letter-health-care-providers",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Disruptions in Availability of Breast Biopsy Needles - Letter to Health Care Providers",
     "originalAbstract": "The FDA issued a LHCP to notify providers that Stereotactic Breast Biopsy Needles (product code KNW) are experiencing a supply disruption.",
     "keyPoints": [
       "Перебої у постачанні голок для біопсії молочної залози (код KNW)",
-      "Інформація від FDA",
-      "Затримки у постачанні"
+      "Інформація від FDA, лист для медичних працівників",
+      "Діє з невказаного періоду"
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
@@ -26,135 +26,135 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Корекція щодо апаратів анестезії Draeger A350/A350XL",
-    "abstract": "Draeger випустила корекцію для апаратів анестезії через виробничу помилку, що може призвести до несправності вентилятора.",
+    "title": "Корекція анестезійних апаратів Draeger A350/A350XL",
+    "abstract": "Draeger випускає корекцію для апаратів через виробничу помилку, що може призвести до несправності вентилятора.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/anesthesia-machine-correction-draeger-inc-issues-correction-atlan-a350-and-a350xl-anesthesia",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Anesthesia Machine Correction: Draeger, Inc. Issues Correction for Atlan A350 and A350XL Anesthesia Workstations",
     "originalAbstract": "Draeger is correcting additional anesthesia workstations due to a manufacturing error that may cause the ventilator to fail before or during use.",
     "keyPoints": [
-      "Випуск корекції для апаратів Draeger A350/A350XL",
-      "Можлива несправність вентилятора через виробничу помилку",
-      "Інформація актуальна для медичних закладів, що використовують ці апарати"
+      "Випуск корекції для моделей Draeger A350 і A350XL",
+      "Модель може мати несправність вентилятора через виробничу помилку",
+      "Інформація від FDA"
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній статистиці щодо безпеки медичного обладнання.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "анестезія",
-      "виробнича помилка",
-      "Draeger"
+      "медичне обладнання",
+      "безпека",
+      "корекція"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Виробник Beekeeper’s Naturals відкликає назальний спрей через мікробне забруднення",
-    "abstract": "Компанія Beekeeper’s Naturals проводить добровільний відклик продукту через виявлення мікробного забруднення. Відкликання стосується лоту, проданого через Amazon.",
+    "title": "Виробник Beekeeper’s Naturals відкликає сольовий назальний спрей через мікробне забруднення",
+    "abstract": "Компанія Beekeeper’s Naturals проводить добровільний відклик продукції через виявлення мікробного забруднення.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/beekeepers-naturals-issues-voluntary-nationwide-recall-beekeepers-naturals-saline-nasal-spray-sold",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Beekeeper’s Naturals Issues Voluntary Nationwide Recall of Beekeeper’s Naturals Saline Nasal Spray Sold Through Amazon Due to Microbial Contamination",
     "originalAbstract": "FOR IMMEDIATE RELEASE – June 11, 2026, Covina, CA - Beekeeper’s Naturals is voluntarily recalling lot # 5950, Exp. Date 02/2028 of Beekeeper’s Naturals Saline Nasal Spray, sold only through Amazon, to the consumer level. This lot, produced at a third-party manufacturer, tested above our acceptable",
     "keyPoints": [
       "Відкликання стосується лоту #5950, термін придатності 02/2028.",
-      "Продукт вироблений стороннім виробником.",
-      "Забруднення виявлено під час тестування."
+      "Продукт продавали через Amazon.",
+      "Забруднення виявлено у продукції, виробленій стороннім виробником."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці про відклики медичних засобів.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "відкликання",
-      "назальний спрей",
       "мікробне забруднення",
-      "FDA"
+      "назальний спрей",
+      "Amazon"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Рекомендації FDA щодо пейсмейкерів Accolade від Boston Scientific",
-    "abstract": "FDA опублікувала рекомендації щодо пристроїв Accolade та можливості їх ранньої заміни.",
+    "title": "Рекомендації FDA щодо акумуляторів Accolade від Boston Scientific",
+    "abstract": "FDA опублікувала рекомендації щодо пристроїв типу акумуляторів Accolade та можливості їх ранньої заміни.",
     "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
     "originalAbstract": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
     "keyPoints": [
-      "FDA рекомендує моніторинг пристроїв Accolade від Boston Scientific.",
-      "Можливий ризик необхідності ранньої заміни пристроїв.",
-      "Джерело: FDA, США."
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені рекомендації щодо пристроїв Accolade.",
-    "specialty": "кардіологія",
-    "tags": [
-      "пейсмейкер",
-      "FDA",
-      "Boston Scientific",
-      "безпека",
-      "серцева медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення комплектів Medline через компонент з Гідрохлорид бупівакаїну",
-    "abstract": "Medline оновлює комплекти, видаляючи компонент з Гідрохлорид бупівакаїну, що підлягає відкликанню.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-bupivacaine-hydrochloride",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
-    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Kits Containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP",
-    "originalAbstract": "Medline is correcting affected convenience kits by removing recalled Bupivacaine Hydrochloride in Dextrose Injection components.",
-    "keyPoints": [
-      "Компонент з Гідрохлорид бупівакаїну видаляється з комплектів.",
-      "Виправлення стосується комплектів Medline.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Виробник оновлює комплекти, що містять компонент з Гідрохлорид бупівакаїну.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медикаменти",
-      "відкликання",
-      "фармацевтика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Корекція серцевого насосу: Abiomed оновлює контролери Impella",
-    "abstract": "Компанія Abiomed випустила оновлення для деяких автоматичних контролерів Impella через можливі проблеми безпеки.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-correction-abiomed-issues-correction-automated-impella-controllers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
-    "originalTitle": "Heart Pump Correction: Abiomed Issues Correction for Automated Impella Controllers",
-    "originalAbstract": "Certain AIC units require hardware updates to address potential safety concerns that could lead to a delay or loss of hemodynamic support.",
-    "keyPoints": [
-      "Оновлення стосується певних моделей AIC.",
-      "Можливі проблеми безпеки, що впливають на підтримку гемодинаміки.",
-      "Джерело: FDA."
+      "FDA рекомендує перевіряти стан пристроїв Accolade від Boston Scientific.",
+      "Можлива необхідність ранньої заміни пристроїв.",
+      "Публікація стосується безпеки та моніторингу пристроїв."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "кардіологія",
     "tags": [
-      "серцевий насос",
+      "кардіологія",
       "безпека",
-      "медичне обладнання",
+      "пристрої",
+      "FDA",
+      "Boston Scientific"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Корекція комплектів Medline через Bupivacaine Hydrochloride",
+    "abstract": "Medline виправляє комплекти, видаляючи компоненти з відкликаним Bupivacaine Hydrochloride.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-bupivacaine-hydrochloride",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
+    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Kits Containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP",
+    "originalAbstract": "Medline is correcting affected convenience kits by removing recalled Bupivacaine Hydrochloride in Dextrose Injection components.",
+    "keyPoints": [
+      "Виправлення стосується комплектів Medline.",
+      "Використовуються компоненти з Bupivacaine Hydrochloride.",
+      "Дія відбувається у відповідності з відкликом."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичні комплекти",
+      "відкликання",
+      "лікарські засоби"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Корекція серцевого насоса: Abiomed оновлює контролери Impella",
+    "abstract": "Компанія Abiomed випустила оновлення для автоматичних контролерів Impella через можливі проблеми безпеки.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-correction-abiomed-issues-correction-automated-impella-controllers",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
+    "originalTitle": "Heart Pump Correction: Abiomed Issues Correction for Automated Impella Controllers",
+    "originalAbstract": "Certain AIC units require hardware updates to address potential safety concerns that could lead to a delay or loss of hemodynamic support.",
+    "keyPoints": [
+      "Деякі моделі AIC потребують апаратних оновлень.",
+      "Можливі проблеми безпеки можуть спричинити затримки або втрату підтримки гемодинаміки.",
+      "Оновлення стосується контролерів Impella, виробництво яких здійснює Abiomed."
+    ],
+    "practicalTakeaway": "Матеріал фіксує оновлені показники за період випуску контролерів Impella.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцевий насос",
       "Impella",
-      "FDA"
+      "безпека",
+      "апаратне оновлення",
+      "Abiomed"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -166,23 +166,21 @@
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-positive-pressure-breathing-device-issue-baxter",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Early Alert: Positive Pressure Breathing Device Issue from Baxter",
     "originalAbstract": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
     "keyPoints": [
       "Модель: Volara від Baxter",
-      "Проблема: витоки повітря і медикаментів",
-      "Вплив: зниження оксигенації та ефективності небулайзера"
+      "Можливі витоки повітря і медикаментів",
+      "Джерело: FDA"
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "Baxter",
-      "Volara",
-      "небулайзер",
-      "медикаменти",
-      "витоки"
+      "медична техніка",
+      "інфекційні хвороби",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -190,49 +188,49 @@
   },
   {
     "title": "FDA оновила етикетку для препарату alli (орлістат)",
-    "abstract": "FDA затвердила зміни до етикетки препарату для схуднення alli (орлістат) 60 мг, щоб попередити про ризик гострої ниркової недостатності.",
+    "abstract": "FDA затвердила зміни у маркуванні препарату для схуднення alli (орлістат) 60 мг, щоб попередити про ризик гострої ниркової недостатності.",
     "url": "http://www.fda.gov/safety/medical-product-safety-information/fda-approves-labeling-changes-over-counter-otc-weight-loss-drug-alli-orlistat-warn-risk-kidney",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "FDA Approves Labeling Changes for Over-the-Counter (OTC) Weight Loss Drug alli (Orlistat) to Warn of Risk of Kidney Stones and Kidney Injury",
     "originalAbstract": "The FDA has approved changes to the Drugs Facts Label of the over-the-counter (OTC) weight loss drug, alli (orlistat) 60 mg capsules, to warn of risks of acute kidney injury, which is a rare side effect of the medication. The labeling now advises consumers to ask a health care provider before using",
     "keyPoints": [
       "Зміни внесені до етикетки препарату alli (орлістат) 60 мг.",
       "Попередження про ризик гострої ниркової недостатності.",
-      "Рішення ухвалене FDA для інформування споживачів."
+      "FDA рекомендує консультуватися з лікарем перед застосуванням."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Інформація допомагає орієнтуватися у потенційних ризиках препарату.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "FDA",
-      "орлістат",
+      "лікарські засоби",
       "схуднення",
-      "ризик нирки"
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з набором дихальних контурів Hamilton Medical",
-    "abstract": "Вентиляційні контури можуть спричинити обструкцію, що впливає на вентиляцію пацієнта.",
+    "title": "Проблема з комплектами дихальних контурів Hamilton Medical",
+    "abstract": "Виявлено проблему з комплектами дихальних контурів для вентиляторів, що може спричинити обструкцію та недостатню вентиляцію.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-set-issue-hamilton-medical",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Early Alert: Breathing Circuit Set Issue from Hamilton Medical",
     "originalAbstract": "The ventilator breathing circuits are intended to connect a ventilator to a patient tube or mask. Obstruction may result in inadequate ventilation",
     "keyPoints": [
-      "Проблема стосується набору дихальних контурів Hamilton Medical.",
-      "Обструкція може призвести до недостатньої вентиляції.",
-      "Джерело — FDA."
+      "Проблема з комплектами дихальних контурів Hamilton Medical",
+      "Може спричинити обструкцію та недостатню вентиляцію",
+      "Джерело: FDA"
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Ця інформація допомагає орієнтуватися в актуальній ситуації щодо безпеки медичного обладнання.",
     "specialty": "інфекційні хвороби",
     "tags": [
+      "безпека обладнання",
       "вентиляція",
       "медичне обладнання",
       "FDA"
@@ -242,127 +240,126 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відбір партій антисептиків BD через мікробіологічне забруднення",
-    "abstract": "Компанія BD проводить добровільний відклик продукції через можливе грибкове забруднення.",
+    "title": "Відбір партій ChloraPrep™ та FREPP™ через мікробне забруднення",
+    "abstract": "BD проводить добровільний відклик продукції через можливе мікробне забруднення. Відбір стосується конкретних партій.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bd-issues-nationwide-recall-specific-lots-chlorapreptm-clear-single-sterile-1-ml-and-frepptm-clear",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "BD Issues Nationwide Recall for Specific Lots of ChloraPrep™ Clear Single Sterile 1 mL and FREPP™ Clear 1.5 mL Applicators Due to Microbial Contamination",
     "originalAbstract": "FRANKLIN LAKES, N.J. (June 06, 2026) – BD (Becton, Dickinson and Company) is voluntarily recalling lot 4032183 of ChloraPrep™ Clear 1 mL Single Sterile and lot 4073005 of FREPP™ Clear 1.5 mL applicators with paper lidding to the consumer level. These products are being recalled due to fungal contami",
     "keyPoints": [
-      "Відбір партій: 4032183 і 4073005.",
-      "Продукція: ChloraPrep™ та FREPP™ applicators.",
-      "Період: червень 2026 року."
+      "Відбір торкнувся партій 4032183 і 4073005.",
+      "Продукція включає ChloraPrep™ та FREPP™.",
+      "Причина — можливе мікробне забруднення."
     ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за червень 2026 року.",
+    "practicalTakeaway": "Публікація фіксує оновлені показники за вказаний період.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "відкликання",
-      "антисептики",
-      "мікробіологічне забруднення"
+      "відбір",
+      "забруднення",
+      "медична продукція",
+      "BD"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання систем анестезії GE HealthCare через ризик неефективної вентиляції",
-    "abstract": "GE HealthCare випускає корекцію для систем Carestation через можливість недостатньої вентиляції у режимі VCV.",
+    "title": "Відгук систем анестезії GE Healthcare через ризик неефективної вентиляції",
+    "abstract": "GE HealthCare оновлює Carestations через можливість недостатньої вентиляції у режимі VCV. Інші режими залишаються без змін.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/anesthesia-delivery-systems-recall-ge-healthcare-issues-correction-certain-carestations-due-risk",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Anesthesia Delivery Systems Recall: GE HealthCare Issues Correction for Certain Carestations due to Risk of Ineffective Ventilation When Used in Volume Control Ventilation (VCV) Mode",
     "originalAbstract": "GE HealthCare is correcting Carestations that may not ventilate properly in VCV mode. The issue is clearly indicated by alarms; other modes remain effective.",
     "keyPoints": [
-      "Випуск корекції для систем Carestation від GE HealthCare.",
-      "Проблема пов'язана з режимом вентиляції VCV.",
+      "Відгук стосується Carestations GE Healthcare.",
+      "Проблема виникає у режимі VCV.",
       "Інші режими вентиляції залишаються ефективними."
     ],
-    "practicalTakeaway": "Виробник випустив оновлення для систем Carestation, яке усуває ризик неефективної вентиляції у режимі VCV.",
+    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній статистиці щодо безпеки медичного обладнання.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "анестезія",
-      "відкликання",
-      "GE HealthCare",
-      "вентиляція"
+      "безпека обладнання",
+      "відгук",
+      "GE Healthcare",
+      "анестезія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з системою реанімації новонароджених від GE Healthcare",
-    "abstract": "У деяких системах реанімації може виникати ослаблення важеля регулятора кисню, що впливає на концентрацію поданого кисню.",
+    "title": "Проблема з системою реанімації для немовлят від GE Healthcare",
+    "abstract": "У системах реанімації для немовлят можливе ослаблення важеля регулятора кисню, що впливає на концентрацію поданого кисню.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-infant-resuscitation-system-issue-ge-healthcare",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Early Alert: Infant Resuscitation System Issue from GE HealthCare",
     "originalAbstract": "The air-oxygen blender knob shaft on certain integrated and stand-alone Resuscitation systems can loosen, affecting the delivered oxygen concentration",
     "keyPoints": [
-      "Проблема стосується систем реанімації від GE Healthcare.",
-      "Може виникати ослаблення важеля регулятора кисню.",
-      "Зазначена проблема стосується інтегрованих та автономних систем."
+      "Проблема виявлена у системах реанімації для немовлят від GE Healthcare",
+      "Можливе ослаблення важеля регулятора кисню",
+      "Джерело: FDA"
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Ця інформація допомагає орієнтуватися в актуальній ситуації щодо безпеки медичного обладнання.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "реанімація",
-      "новонароджені",
-      "GE Healthcare",
-      "безпека",
-      "медична техніка"
+      "немовлята",
+      "безпека обладнання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відбір партій Gas-X Extra Strength Softgels через можливе забруднення",
-    "abstract": "Haleon проводить добровільний відбір чотирьох партій препарату через потенційне забруднення. Відбір стосується продукту, розповсюдженого у квітні 2026 року.",
+    "title": "Відгук про Gas-X Extra Strength Softgels від Haleon",
+    "abstract": "Haleon проводить добровільний відгук чотирьох партій препарату Gas-X через можливу забрудненість.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/haleon-issues-voluntary-nationwide-recall-gas-x-extra-strength-softgels-125mg-120-ct-and-72-ct",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Haleon Issues Voluntary Nationwide Recall of Gas-X Extra Strength Softgels 125mg, 120 ct. and 72 ct.",
     "originalAbstract": "WARREN, N.J., June 4, 2026 — Haleon (NYSE: HLN) is voluntarily recalling four lots of Gas-X Extra Strength Softgels 125mg, 120 ct. and 72 ct. distributed on or about April 13, 2026 to the consumer level. The lots are being recalled due to potential contamination with a diluted propylene glycol-based",
     "keyPoints": [
-      "Відбір стосується чотирьох партій Gas-X, розповсюджених у квітні 2026 року.",
-      "Препарат має потенційне забруднення пропіленгліколем.",
-      "Відбір проводиться на рівні споживача."
+      "Відгук стосується чотирьох партій Gas-X, розповсюджених у квітні 2026 року.",
+      "Препарат може бути забруднений розведеним пропіленгліколем.",
+      "Відгук охоплює рівень споживачів у США."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "громадське здоровʼя",
+    "specialty": "фармакотерапія",
     "tags": [
-      "фармацевтика",
-      "відбір",
+      "відгук",
+      "препарат",
       "забруднення",
-      "Gas-X",
-      "2026"
+      "Haleon",
+      "Gas-X"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з інсуліновими помпами Omnipod",
-    "abstract": "Деякі помпи Omnipod можуть мати пошкодження трубки, що спричиняє витік інсуліну.",
+    "title": "Попередження: проблема з інсуліновою помпою Omnipod",
+    "abstract": "Деякі моделі Omnipod Pod можуть мати пошкодження трубки, що спричиняє витік інсуліну.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-insulin-pump-issue-insulet",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Early Alert: Insulin Pump Issue from Insulet",
     "originalAbstract": "Certain Omnipod Pods may have a tear in the tubing that allows insulin to leak outside the Pod instead of being delivered to the body.",
     "keyPoints": [
-      "Модель: Omnipod Pods",
-      "Проблема: пошкодження трубки, витік інсуліну",
+      "Модель: Omnipod Pod",
+      "Проблема: пошкодження трубки",
       "Джерело: FDA"
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
@@ -378,74 +375,73 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ризик відмови системи Hintermann Series H3 при тотальній щиколотковій заміні",
-    "abstract": "FDA повідомляє про вищий за очікуваний ризик відмови пристрою Hintermann Series H3 при ТАР.",
+    "title": "Ризик відмови системи Hintermann Series H3 при тотальній заміні гомілковостопного суглоба",
+    "abstract": "FDA повідомляє про підвищений ризик відмови пристрою Hintermann Series H3 при застосуванні для тотальної заміни гомілковостопного суглоба.",
     "url": "http://www.fda.gov/medical-devices/safety-communications/update-hintermann-series-h3-total-ankle-replacement-has-higher-expected-risk-device-failure-fda",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "UPDATE: Hintermann Series H3 Total Ankle Replacement Has a Higher-Than-Expected Risk of Device Failure: FDA Safety Communication",
     "originalAbstract": "Learn more about recommendations for patients who are considering a Hintermann Series H3 TAR system or who have one; recommendations for health care providers.",
     "keyPoints": [
       "FDA попереджає про ризик відмови Hintermann Series H3",
-      "Інформація для пацієнтів та медичних працівників",
-      "Джерело: FDA"
+      "Застосовується для тотальної заміни гомілковостопного суглоба",
+      "Інформація стосується пацієнтів і медичних працівників"
     ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за період після рекомендацій щодо Hintermann Series H3.",
-    "specialty": "хірургія",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "щиколотка",
-      "імплантати",
       "FDA",
-      "безпека"
+      "запобігання відмові",
+      "гомілковостоп"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Корекція комплектів анестезії BD: видалення ампул бупівакаїну",
-    "abstract": "BD оновлює комплекти для спінальної анестезії, видаляючи ампули бупівакаїну.",
+    "title": "Корекція набору для анестезії: BD видаляє ампули бупівакаїну з наборів",
+    "abstract": "BD випускає корекцію для наборів спінальної анестезії, видаляючи компоненти ампул бупівакаїну.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/anesthesia-kit-correction-becton-dickinson-issues-correction-bd-spinal-trays-containing-bupivacaine",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Anesthesia Kit Correction: Becton Dickinson Issues Correction for BD Spinal Trays Containing Bupivacaine Ampules",
     "originalAbstract": "BD is correcting affected Spinal Trays by removing Bupivacaine ampule components",
     "keyPoints": [
-      "Компанія BD випускає оновлення для комплектів спінальної анестезії.",
-      "У комплекті видаляють ампули бупівакаїну.",
-      "Інформація стосується продуктів, випущених компанією BD."
+      "Випуск корекції стосується наборів для спінальної анестезії BD.",
+      "Відбувається видалення ампул бупівакаїну з наборів.",
+      "Джерело — FDA."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "анестезія",
-      "BD",
-      "медичне обладнання"
+      "безпека",
+      "фармація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Комунікації щодо безпеки медичних пристроїв 2024",
-    "abstract": "Огляд запланованих комунікацій FDA з питань безпеки медичних пристроїв у 2024 році.",
+    "title": "Комунікації з безпеки медичних виробів 2024",
+    "abstract": "Публікація містить оновлений перелік комунікацій щодо безпеки медичних пристроїв у 2024 році.",
     "url": "http://www.fda.gov/medical-devices/safety-communications/2024-safety-communications",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "2024 Safety Communications",
     "originalAbstract": "Listing of Medical Device 2024 Safety Communications",
     "keyPoints": [
-      "Рік публікації: 2024",
-      "Тематика: безпека медичних пристроїв",
-      "Джерело: FDA"
+      "Перелік комунікацій за 2024 рік.",
+      "Оновлення щодо безпеки медичних виробів.",
+      "Джерело: FDA."
     ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за 2024 рік.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "медичні пристрої",
@@ -458,17 +454,17 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з набором для катетеризації Abiomed",
-    "abstract": "Довготривале використання набору Abiomed 14Fr Low Profile може спричинити утворення тромбів.",
+    "title": "Проблема з набором для катетеризації Abiomed 14Fr Low Profile",
+    "abstract": "Тривале використання набору може спричинити утворення тромбів.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-catheter-introducer-kit-issue-abiomed",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Early Alert: Catheter Introducer Kit Issue from Abiomed",
     "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation",
     "keyPoints": [
-      "Довготривале використання набору Abiomed 14Fr Low Profile",
+      "Тривалість використання набору Abiomed 14Fr Low Profile",
       "Може спричинити утворення тромбів",
       "Джерело: FDA"
     ],
@@ -486,24 +482,24 @@
   },
   {
     "title": "Виправлення щодо дитячих ліжок KayserBetten",
-    "abstract": "Компанія KayserBetten повідомила про можливість самостійного регулювання дитячих ліжок без блокування ручних керувань.",
+    "abstract": "Компанія KayserBetten випустила корекцію для моделей KayserBett IDA через ризик самостійного регулювання ліжка дітьми.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pediatric-care-bed-correction-kayserbetten-issues-correction-kayserbett-ida-beds",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Pediatric Care Bed Correction: KayserBetten Issues Correction for KayserBett IDA Beds",
     "originalAbstract": "If the hand controls to adjust the bed are not locked, children could adjust the bed and become entrapped.",
     "keyPoints": [
-      "Випуск стосується дитячих ліжок KayserBetten.",
-      "Можливість самостійного регулювання без блокування керувань.",
+      "Ризик самостійного регулювання ліжка дітьми.",
+      "Модель: KayserBett IDA.",
       "Джерело: FDA."
     ],
-    "practicalTakeaway": "Важливо забезпечити блокування ручних керувань для безпеки дітей.",
-    "specialty": "громадське здоровʼя",
+    "practicalTakeaway": "Виправлення допомагає орієнтуватися в актуальній безпековій інформації.",
+    "specialty": "педіатрія",
     "tags": [
-      "безпека",
       "дитячі ліжка",
+      "безпека дітей",
       "FDA"
     ],
     "priorityScore": 8,
@@ -511,53 +507,54 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Dexcom виявила крадіжку відбракуваних сенсорів G7",
-    "abstract": "Компанія Dexcom повідомила про крадіжку частини відбракуваних сенсорів G7, що були призначені для знищення.",
+    "title": "Dexcom виявила крадіжку списаних сенсорів G7",
+    "abstract": "Компанія DexCom повідомила про крадіжку частини списаних сенсорів G7, призначених для утилізації.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/dexcom-uncovers-theft-scrapped-product-notifies-potentially-impacted-users",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-16T17:32:12Z",
-    "updatedAt": "2026-06-16T17:32:12Z",
+    "publishedAt": "2026-06-16T21:27:16Z",
+    "updatedAt": "2026-06-16T21:27:16Z",
     "originalTitle": "Dexcom Uncovers Theft of Scrapped Product, Notifies Potentially Impacted Users",
     "originalAbstract": "SAN DIEGO – MAY 26, 2026 – DexCom, Inc. (Nasdaq: DXCM), the global leader in glucose biosensing, announced today through ongoing quality and accounting reviews it recently identified certain lots of Dexcom G7 sensors originally designated as scrap and intended for destruction were stolen during the",
     "keyPoints": [
-      "Крадіжка сталась під час перевірки якості та обліку.",
-      "Викрадені лоти сенсорів G7 були позначені як відбракувані.",
-      "Інформація про крадіжку стосується продуктів, призначених для знищення."
+      "Крадіжка сталась під час виробничих процесів.",
+      "Зазначені лоти були позначені як списані.",
+      "Інформація про крадіжку надана FDA."
     ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за період крадіжки відбракуваних продуктів.",
+    "practicalTakeaway": "Публікація фіксує оновлені показники за період крадіжки списаних продуктів.",
     "specialty": "інфекційні хвороби",
     "tags": [
+      "Dexcom",
       "крадіжка",
       "сенсори G7",
-      "знищення"
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Засідання Ради керівників EMA, червень 2026",
-    "abstract": "Обговорено підтримку EMA африканських регуляторів у зв'язку з епідемією Еболи у ДР Конго.",
+    "title": "Засідання Ради керівників EMA у червні 2026 року",
+    "abstract": "Обговорено підтримку EMA африканських регуляторів щодо епідемії Еболи у ДР Конго.",
     "url": "https://www.ema.europa.eu/en/news/ema-management-board-highlights-june-2026-meeting",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-06-15T09:20:01Z",
-    "updatedAt": "2026-06-16T17:32:13Z",
+    "updatedAt": "2026-06-16T21:27:21Z",
     "originalTitle": "EMA Management Board: highlights of June 2026 meeting",
     "originalAbstract": "Crisis preparedness and responseThe Management Board welcomed EMA’s support to African regulators in the context of the Ebola outbreak in the Democratic Republic of Congo and…",
     "keyPoints": [
       "Засідання відбулося у червні 2026 року.",
-      "Обговорено кризовий реагування та підтримку регуляторів.",
-      "Джерело: EMA."
+      "Обговорено підтримку EMA у боротьбі з Еболою в ДР Конго.",
+      "Розглядалися питання кризового реагування та підготовки."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "EMA",
+      "Ебола",
       "криза",
-      "епідемія",
-      "ДР Конго",
+      "регулятори",
       "2026"
     ],
     "priorityScore": 8,
@@ -565,21 +562,21 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Підсумки засідання PRAC 8-11 червня 2026 року",
-    "abstract": "PRAC підсумував дані щодо ризику нейророзвиткових порушень у дітей, народжених від чоловіків, що лікувалися вальпроатом.",
+    "title": "Підсумки засідання PRAC 8-11 червня 2026",
+    "abstract": "PRAC виявив невідповідність у даних щодо ризику нейророзвиткових порушень у дітей, народжених від чоловіків, що лікувалися вальпроатом.",
     "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2026",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-06-12T12:00:00Z",
-    "updatedAt": "2026-06-16T17:32:13Z",
+    "updatedAt": "2026-06-16T21:27:21Z",
     "originalTitle": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2026",
     "originalAbstract": "PRAC concludes evidence of potential risk of neurodevelopmental disorders in children born to men treated with valproate is inconsistent Committee recommends updating product…, Agenda Agenda of the PRAC meeting 8-11 June 2026Draft Reference Number: EMA/PRAC/115322/2026…, PRAC statistics: June 2026 , , Glossary Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspect of a known association between…",
     "keyPoints": [
-      "Засідання PRAC відбулося 8-11 червня 2026 року",
-      "Дані щодо ризику нейророзвиткових порушень є суперечливими",
-      "Розглядалися сигнали безпеки препаратів"
+      "Засідання PRAC відбулося 8-11 червня 2026 року.",
+      "Дані щодо ризику нейророзвиткових порушень є суперечливими.",
+      "Рекомендується оновлення інформації про препарат."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки ліків.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "фармакологія",
@@ -592,18 +589,18 @@
   },
   {
     "title": "Звіт EMA за 2025 рік про схвалення ліків",
-    "abstract": "EMA опублікувала щорічний звіт за 2025 рік, що відображає високий рівень схвалення нових медикаментів.",
+    "abstract": "Звіт EMA за 2025 рік фіксує високий рівень схвалення людських і ветеринарних препаратів.",
     "url": "https://www.ema.europa.eu/en/news/emas-2025-annual-report-shows-strong-approval-numbers-human-veterinary-medicines",
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-06-11T11:00:00Z",
-    "updatedAt": "2026-06-16T17:32:13Z",
+    "updatedAt": "2026-06-16T21:27:21Z",
     "originalTitle": "EMA’s 2025 annual report shows strong approval numbers for human and veterinary medicines",
     "originalAbstract": "Today, EMA released its 2025 annual report, highlighting progress in bringing innovative, safe and effective medicines to patients. The report outlines the most important…",
     "keyPoints": [
       "Звіт EMA за 2025 рік.",
       "Високий рівень схвалення ліків.",
-      "Інноваційні та безпечні препарати."
+      "Фокус на інноваційних, безпечних і ефективних препаратах."
     ],
     "practicalTakeaway": "Публікація фіксує оновлені показники за 2025 рік.",
     "specialty": "інфекційні хвороби",
@@ -612,7 +609,7 @@
       "ліки",
       "схвалення",
       "2025",
-      "звіт"
+      "звіти"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -625,21 +622,20 @@
     "source": "EMA",
     "category": "drug_safety",
     "publishedAt": "2026-06-03T12:52:00Z",
-    "updatedAt": "2026-06-16T17:32:13Z",
+    "updatedAt": "2026-06-16T21:27:21Z",
     "originalTitle": "EMA, AMA and African regulatory authorities join forces on Ebola outbreak response",
     "originalAbstract": "EMA’s Emergency Task Force (ETF) is engaging with the African Medicines Agency (AMA) and its national regulatory authorities (NRAs), leveraging expertise from the WHO-AFRO…",
     "keyPoints": [
-      "EMA ETF співпрацює з AMA та національними регуляторами Африки",
-      "Об'єднання ресурсів для реагування на спалах Еболи",
-      "Співпраця з ВООЗ-AFRO"
+      "EMA ETF співпрацює з AMA та NRAs.",
+      "Залучено експертизу ВООЗ-AFRO.",
+      "Діяльність спрямована на реагування на Еболу."
     ],
-    "practicalTakeaway": "Співпраця міжнародних регуляторів сприяє посиленню реагування на спалахи інфекційних хвороб.",
+    "practicalTakeaway": "Співпраця між регуляторами та міжнародними організаціями сприяє покращенню реагування на епідемії.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "Ебола",
-      "міжнародна співпраця",
-      "регуляторна діяльність",
-      "спалах"
+      "регуляторна співпраця",
+      "міжнародна медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
