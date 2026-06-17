@@ -1,76 +1,76 @@
 [
   {
     "title": "Клінічна ефективність телепармакії у пацієнтів з неінфекційними захворюваннями у амбулаторних умовах",
-    "abstract": "Телепармакія, що передбачає дистанційне ведення пацієнтів за допомогою телефонних, відео або цифрових платформ під керівництвом фармацевта, може покращити дотримання режиму лікування та клінічні результати у пацієнтів з неінфекційними захворюваннями, такими як гіпертонія, діабет і астма. Однак залишається невизначеним її клінічний ефект та можливість поширення.",
+    "abstract": "Телепармакія, що передбачає віддалене ведення пацієнтів за допомогою телефонних, відео або цифрових платформ під керівництвом фармацевта, може покращити дотримання режиму лікування та клінічні результати у хворих з неінфекційними захворюваннями, такими як гіпертонія, діабет та астма. Однак залишається невизначеним її клінічна ефективність та можливість застосування у ширшій практиці.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015136.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-12T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Clinical effectiveness of telepharmacy services in patients with non-communicable diseases in ambulatory care settings.",
     "originalAbstract": "Non-communicable diseases (NCDs), such as hypertension, diabetes, and asthma, require continuous medication management. However, medication adherence remains suboptimal. Telepharmacy-defined as pharmacist-led care delivered remotely via telephone, video, or digital platforms-may improve adherence and clinical outcomes while addressing access barriers, but uncertainty remains regarding clinical effectiveness and generalisability. A systematic review is warranted to assess whether telepharmacy imp…",
     "keyPoints": [
-      "Телепармакія може покращити дотримання лікування у пацієнтів з неінфекційними захворюваннями.",
-      "Вплив телепармакії на клінічні результати залишається недостатньо дослідженим.",
-      "Докази щодо загальної ефективності телепармакії потребують системної оцінки."
+      "Телепармакія може покращити дотримання режиму лікування.",
+      "Вплив на клінічні результати залишається невизначеним.",
+      "Потреба у систематичному аналізі ефективності."
     ],
-    "practicalTakeaway": "Необхідні додаткові дослідження для визначення клінічної ефективності телепармакії у пацієнтів з неінфекційними захворюваннями.",
-    "specialty": "фармакотерапія",
+    "practicalTakeaway": "Необхідні додаткові дослідження для підтвердження клінічної ефективності телепармакії.",
+    "specialty": "доказова медицина",
     "tags": [
-      "телепармакія",
-      "неінфекційні захворювання",
-      "клінічна ефективність"
+      "телемедицина",
+      "фармація",
+      "неінфекційні захворювання"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Терапевтична вітректомія при неінфекційних уєлітах",
-    "abstract": "Цей протокол досліджує ефективність та можливі ризики парпланової вітректомії (ППВ), з або без додаткової медикаментозної терапії, порівняно з лише медикаментозним лікуванням для пацієнтів з неінфекційним проміжним, заднім або пануєлітом, ускладненим тривалим запаленням або кістозним макулярним набряком.",
+    "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити переваги та ризики парпланової вітректомії (ППВ), з або без додаткової медикаментозної терапії, порівняно з лише медикаментозним лікуванням, при неінфекційних проміжних, задніх уєлітах або пануєлітах, ускладнених тривалим запаленням або кістозним макулярним oedema.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016357/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-11T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Therapeutic vitrectomy for non-infectious uveitis.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of pars plana vitrectomy (PPV), with or without adjunctive medical therapy, compared with medical therapy alone, for non-infectious intermediate uveitis, posterior uveitis, or panuveitis complicated by persistent inflammation or cystoid macular oedema (CMO).",
     "keyPoints": [
-      "Досліджується ефективність вітректомії при неінфекційних уєлітах.",
-      "Розглядається додавання медикаментозної терапії.",
-      "Фокус на пацієнтах з ускладненнями у вигляді запалення або макулярного набряку."
+      "Огляд досліджень щодо ППВ при неінфекційних уєлітах.",
+      "Порівняння ефективності та безпеки з медикаментозною терапією.",
+      "Фокус на ускладнення у вигляді запалення або макулярного oedema."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити роль вітректомії у лікуванні неінфекційних уєлітів.",
+    "practicalTakeaway": "Результати досліджень допоможуть визначити роль парпланової вітректомії у лікуванні неінфекційних уєлітів.",
     "specialty": "онкологія",
     "tags": [
-      "хірургія",
-      "інфекційні хвороби",
-      "доказова медицина"
+      "доказова медицина",
+      "офтальмологія",
+      "хірургія"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Синя проти білої світлової терапії при трансуретральній резекції нім'язового раку сечового міхура",
-    "abstract": "Дослідження аналізує ефективність використання синього світла під час трансуретральної резекції раку сечового міхура порівняно з білим світлом. Основні виклики у лікуванні NMIBC — рецидив і прогресування хвороби. Впровадження синього світла має на меті покращити стадіювання та забезпечити повне видалення пухлини. Нові дані, опубліковані з 2021 року, дозволяють краще оцінити цю технологію.",
+    "abstract": "Дослідження оцінює вплив синього світла під час трансуретральної резекції раку сечового міхура на запобігання рецидиву та прогресуванню захворювання. Відзначається, що застосування синього світла може покращити стадіювання та забезпечити більш повне видалення пухлини.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013776.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-11T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Blue versus white light for transurethral resection of non-muscle invasive bladder cancer.",
     "originalAbstract": "Disease recurrence and progression remain major challenges in the treatment of non-muscle invasive bladder cancer (NMIBC). Blue light-enhanced transurethral resection of bladder cancer (TURBT) is an approach to improve staging and achieve a complete resection of NMIBC. Since the first version of this review was published in 2021, new evidence on this topic has become available. To assess the effects of blue light-enhanced TURBT compared to white light-based TURBT in the treatment of non-muscle i…",
     "keyPoints": [
-      "Аналізує ефективність синього світла при резекції NMIBC.",
-      "Мета — зменшити рецидив і прогресування хвороби.",
-      "Доступні нові дані з 2021 року."
+      "Дослідження порівнює синє та біле світло під час резекції раку сечового міхура.",
+      "Мета — зменшити рецидиви та прогресування захворювання.",
+      "Нові дані з'явилися з 2021 року."
     ],
-    "practicalTakeaway": "Використання синього світла під час трансуретральної резекції може покращити результати лікування NMIBC.",
+    "practicalTakeaway": "Враховуйте можливість застосування синього світла під час трансуретральної резекції для покращення результатів лікування.",
     "specialty": "урологія",
     "tags": [
       "онкологія",
-      "урологія",
+      "хірургія",
       "доказова медицина"
     ],
     "priorityScore": 8,
@@ -78,25 +78,25 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Радіотерапія при раку шийки матки з урахуванням збереження кісткового мозку",
-    "abstract": "Це протокол для огляду Cochrane, що досліджує переваги та ризики радіотерапії з урахуванням збереження кісткового мозку у жінок з локально поширеним раком шийки матки, які отримують одночасну хіміотерапію. Основна мета — порівняти ефективність та безпеку такої терапії з традиційною. Другорядні цілі — аналіз впливу на гостру гематологічну токсичність та інші клінічні характеристики.",
+    "title": "Радіотерапія з збереженням кісткового мозку у жінок з раком шийки матки",
+    "abstract": "Це протокол для аналізу, що оцінює переваги та ризики радіотерапії з збереженням кісткового мозку порівняно з традиційною у жінок з локально поширеним раком шийки матки, які отримують одночасну хіміотерапію. Основна увага приділяється впливу на гостру гемато-лікарну токсичність та інші показники кровотворної системи.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016258/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-11T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Bone marrow-sparing radiotherapy in women with cervical cancer treated with radiochemotherapy.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: Primary objective To evaluate the benefits and harms of bone marrow-sparing radiotherapy compared with non-bone marrow-sparing radiotherapy in women with locally advanced cervical cancer treated with concurrent chemoradiotherapy. Secondary objectives To investigate whether effects differ according to clinical, histopathological, and technical characteristics, focusing on: acute haematologic toxicity; acute ga…",
     "keyPoints": [
-      "Досліджується вплив радіотерапії з урахуванням збереження кісткового мозку у жінок з раком шийки матки.",
-      "Основна увага — баланс між користю та потенційними ризиками такої терапії.",
-      "Результати допоможуть визначити ефективність та безпеку підходу."
+      "Оцінюється вплив радіотерапії з збереженням кісткового мозку.",
+      "Фокус на гостру гемато-лікарну токсичність.",
+      "Досліджуються різні клінічні та технічні характеристики."
     ],
-    "practicalTakeaway": "Результати дослідження можуть вплинути на підходи до радіотерапії у жінок з раком шийки матки.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність та безпечність радіотерапії з збереженням кісткового мозку у лікуванні раку шийки матки.",
     "specialty": "онкологія",
     "tags": [
-      "радіотерапія",
       "онкологія",
+      "радіотерапія",
       "доказова медицина"
     ],
     "priorityScore": 8,
@@ -104,52 +104,52 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ранні заходи для запобігання прееклампсії у вагітних з підвищеним ризиком: мережевий мета-аналіз",
-    "abstract": "Це протокол для аналізу, що має на меті порівняти та ранжувати переваги й ризики різних заходів для запобігання прееклампсії у вагітних з підвищеним ризиком, які перебувають до 16+6 тижнів вагітності, за допомогою мережевого мета-аналізу.",
+    "title": "Ранні заходи для профілактики прееклампсії у вагітних з підвищеним ризиком: мережевий мета-аналіз",
+    "abstract": "Цей протокол передбачає проведення мережевого мета-аналізу для порівняння та ранжування переваг і ризиків різних інтервенцій для запобігання прееклампсії у вагітних з підвищеним ризиком, які перебувають до 16+6 тижнів вагітності.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016355/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-09T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Early interventions for the prevention of preeclampsia in pregnant women at increased risk: a network meta-analysis.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To compare and rank the benefits and harms of interventions for the prevention of preeclampsia in pregnant women at increased risk who are up to 16+6 weeks of gestation, using network meta-analysis.",
     "keyPoints": [
-      "Мета — порівняти ефективність заходів для запобігання прееклампсії.",
-      "Фокус — вагітні до 16+6 тижнів з підвищеним ризиком.",
-      "Використання мережевого мета-аналізу для ранжування заходів."
+      "Мета — порівняти ефективність інтервенцій для профілактики прееклампсії.",
+      "Використовується мережевий мета-аналіз.",
+      "Фокус — вагітні до 16+6 тижнів з підвищеним ризиком."
     ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення найбільш ефективних заходів для запобігання прееклампсії у вагітних з підвищеним ризиком.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективні заходи для профілактики прееклампсії у вагітних з підвищеним ризиком.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "прееклампсія",
-      "запобігання",
-      "вагітність"
+      "профілактика",
+      "мета-аналіз"
     ],
-    "priorityScore": 3,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Перерозташування для профілактики пролежнів у дорослих",
-    "abstract": "Пролежні — локалізовані ушкодження шкіри або тканин, що виникають через тривалий тиск або зсув над кістковими виступами. Вразливими до їх розвитку є дорослі, які отримують медичну допомогу у будь-якому закладі охорони здоровʼя. Факторами ризику є нерухомість, недоїдання та знижена чутливість. Регулярне перерозташування пацієнтів є теоретично обґрунтованою профілактичною мірою, що входить до стандартної практики.",
+    "abstract": "Пролежні — локальні пошкодження шкіри або тканин, що виникають над кістковими виступами через тривалий тиск або зсув. У дорослих у будь-якому закладі охорони здоровʼя можливе їх розвиття. Відомі фактори ризику включають нерухомість, недоїдання та знижене відчуття. Регулярне перерозташування пацієнтів є теоретично обґрунтованою профілактичною мірою, що входить до стандартної практики.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009958.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Repositioning for pressure injury prevention in adults.",
     "originalAbstract": "Pressure injuries (or pressure ulcers) are localised damage to skin or tissue (or both) occurring over bony prominences, resulting from prolonged pressure or shear forces (or both). Adults receiving care in any healthcare setting can develop pressure injuries. Immobility, malnutrition, and reduced sensation are some known risk factors. Regular repositioning is a theoretically sound prevention strategy that is part of standard patient care. This is the second update of a review published in 2014…",
     "keyPoints": [
-      "Пролежні виникають через тривалий тиск або зсув.",
-      "Регулярне перерозташування є профілактичною мірою.",
-      "Дослідження оновлене вдруге з 2014 року."
+      "Регулярне перерозташування може запобігти пролежням.",
+      "Фактори ризику включають нерухомість та недоїдання.",
+      "Дослідження оновлюється з 2014 року."
     ],
-    "practicalTakeaway": "Застосування регулярного перерозташування може знизити ризик розвитку пролежнів у дорослих.",
+    "practicalTakeaway": "Застосування регулярного перерозташування є важливою складовою профілактики пролежнів у дорослих.",
     "specialty": "інфекційні хвороби",
     "tags": [
       "профілактика",
       "пролежні",
-      "догляд за пацієнтами"
+      "догляд"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -157,20 +157,20 @@
   },
   {
     "title": "Пероральне або парентеральне прийом заліза для зменшення відмов, дефіциту заліза та анемії у донорів крові",
-    "abstract": "Дефіцит заліза є важливою причиною відмов у донорів крові. Якщо залізо, втрачене під час здачі крові, не поповнюється, донори можуть стати залізодефіцитними. Всі донори проходять скринінг на низький рівень гемоглобіну. Деякі відмовлені донори не повертаються, особливо перший раз. Заходи, що зменшують ризик дефіциту заліза та анемії, можуть збільшити кількість донорів.",
+    "abstract": "Дефіцит заліза є поширеною причиною відмов у донорів крові. Якщо залізо, втрачане під час здачі крові, не компенсувати, донори можуть стати залізодефіцитними. Всі донори проходять скринінг на низький рівень гемоглобіну. Деякі відмовлені донори не повертаються, особливо перший раз. Заходи, що зменшують ризик дефіциту заліза та анемії, можуть збільшити кількість донорів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009532.pub3/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Oral or parenteral iron supplementation to reduce deferral, iron deficiency and/or anaemia in blood donors.",
     "originalAbstract": "Iron deficiency is a significant cause of deferral in people wishing to donate blood. If iron removed from the body through blood donation is not replaced, then donors may become iron deficient. All donors are screened at each visit for low haemoglobin (Hb) levels. Some deferred blood donors do not return to donate. Deferred first-time donors are even less likely to return. Interventions that reduce the risk of iron deficiency and anaemia in blood donors will therefore increase the number of blo…",
     "keyPoints": [
-      "Дефіцит заліза спричиняє відмови у донорів крові.",
-      "Залізо, втрачене при здачі крові, потрібно поповнювати.",
-      "Заходи для зменшення дефіциту заліза можуть збільшити кількість донорів."
+      "Дефіцит заліза спричиняє відмови донорів крові.",
+      "Зменшення ризику залізодефіциту може збільшити кількість донорів.",
+      "Важливо враховувати тип прийому заліза для підтримки донорської бази."
     ],
-    "practicalTakeaway": "Застосування перорального або парентерального прийому заліза може знизити ризик дефіциту заліза у донорів крові.",
+    "practicalTakeaway": "Застосування перорального або парентерального прийому заліза може знизити ризик відмов у донорів крові.",
     "specialty": "доказова медицина",
     "tags": [
       "донорство крові",
@@ -183,77 +183,77 @@
   },
   {
     "title": "Ішемічне кондиціонування при трансплантації нирки",
-    "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити потенційні переваги та ризики застосування ішемічного кондиціонування для покращення результатів пацієнтів та органів у процесі трансплантації нирки.",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг та ризиків ішемічного кондиціонування щодо результатів пацієнтів та органів у випадках трансплантації нирки.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016342/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-04T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Ischaemic conditioning to improve patient and organ outcomes after kidney transplantation.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of ischaemic conditioning on patient and organ outcomes in kidney transplantation.",
     "keyPoints": [
-      "Оцінюється вплив ішемічного кондиціонування на результати трансплантації нирки.",
+      "Огляд досліджує вплив ішемічного кондиціонування при трансплантації нирки.",
       "Мета — визначити потенційні переваги та ризики процедури.",
-      "Дослідження зосереджені на пацієнтах, що отримують трансплантацію нирки."
+      "Результати допоможуть оцінити її застосовність у клінічній практиці."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність і безпечність ішемічного кондиціонування у трансплантації нирки.",
+    "practicalTakeaway": "Докази щодо ефективності ішемічного кондиціонування у трансплантації нирки наразі оцінюються.",
     "specialty": "нефрологія",
     "tags": [
       "трансплантація",
       "нирки",
-      "огляд"
+      "інтервенційна медицина"
     ],
-    "priorityScore": 8,
+    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Прийом вітаміну B12 для росту, розвитку та когнітивних функцій у дітей",
-    "abstract": "Д deficiency вітаміну B12 є важливою проблемою громадського здоров'я у дітей, що може бути пов'язано з анемією, порушенням росту, когнітивних функцій та розвитку. Недостатність може виникати через низький вміст у грудному молоці, недостатнє споживання з їжею та зростаючі потреби з віком. Вживання вітаміну B12 може потенційно позитивно впливати на ці показники, оскільки він бере участь у синтезі ДНК, формуванні червоних кров'яних клітин та метаболізмі фолату.",
+    "abstract": "Д deficiency вітаміну B12 є важливою проблемою громадського здоров'я у дітей, що може бути пов'язано з анемією, порушенням росту, когнітивних функцій та розвитку. Недостатність може виникати через низький вміст у грудному молоці, недостатнє споживання з їжею та зростаючі потреби з віком. Вживання вітаміну B12 може потенційно позитивно впливати на ці показники, оскільки він бере участь у синтезі ДНК, формуванні червоних кров'яних клітин та метаболізмі фолатів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015264.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Vitamin B12 supplementation for growth, development, and cognition in children.",
     "originalAbstract": "Vitamin B12 deficiency is an important public health problem in children, and has been associated with anaemia and impaired growth, cognition, and development. Vitamin B12 deficiency may develop in children due to lower content in breast milk, low dietary intake, and as requirements increase with age. Vitamin B12 supplementation may confer benefits to child growth and development, due to its role in DNA synthesis and methylation, red blood cell formation, and folate metabolism. However, no syste…",
     "keyPoints": [
-      "Недостатність вітаміну B12 у дітей може спричиняти порушення росту та розвитку.",
-      "Прийом вітаміну B12 може мати потенційний позитивний вплив на когнітивні функції.",
-      "Дослідження щодо ефективності вітамінної терапії у дітей тривають."
+      "Недостатність вітаміну B12 у дітей може спричиняти порушення розвитку.",
+      "Прийом вітаміну B12 може підтримувати нормальний ріст і когнітивні функції.",
+      "Дослідження ще не довели ефективність суплементації вітаміном B12 у цій групі."
     ],
-    "practicalTakeaway": "Обґрунтованість застосування вітаміну B12 для підтримки розвитку у дітей потребує подальших досліджень.",
+    "practicalTakeaway": "Потрібні додаткові дослідження для визначення ефективності прийому вітаміну B12 у дітей.",
     "specialty": "педіатрія",
     "tags": [
       "вітамін B12",
       "дитячий розвиток",
-      "питання здоров'я"
+      "громадське здоровʼя"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Передові методи відбору сперматозоїдів для допоміжних репродуктивних технологій",
-    "abstract": "Дослідження аналізує застосування сучасних методів відбору сперматозоїдів у допоміжних репродуктивних технологіях, зосереджуючись на їхній здатності підвищити ймовірність вибору структурно цілісних та зрілих сперматозоїдів з високою цілісністю ДНК, особливо у циклах з ІКСІ.",
+    "title": "Передові методи відбору сперматозоїдів для допоміжної репродукції",
+    "abstract": "Дослідження аналізує застосування передових методів відбору сперматозоїдів у технологіях допоміжної репродукції, зокрема при ІКСІ. Ці методи спрямовані на підвищення ймовірності вибору структурно цілісних та зрілих сперматозоїдів з високою цілісністю ДНК, що потенційно може покращити результати запліднення.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010461.pub4/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-02T00:00:00Z",
-    "updatedAt": "2026-06-16T17:14:20Z",
+    "updatedAt": "2026-06-17T05:01:45Z",
     "originalTitle": "Advanced sperm selection techniques for assisted reproduction.",
     "originalAbstract": "Assisted reproductive technologies (ART), including in vitro fertilisation (IVF) and intracytoplasmic sperm injection (ICSI), combine an egg and sperm outside the body to enhance the probability of fertilisation and pregnancy. Advanced sperm selection techniques are increasingly employed in ART, most commonly in cycles utilising ICSI. Advanced sperm selection techniques are hypothesised to improve the likelihood that structurally intact and mature sperm with high DNA integrity are selected. Stra…",
     "keyPoints": [
-      "Передові методи відбору сперматозоїдів застосовуються у допоміжних репродуктивних технологіях.",
-      "Очікується, що вони підвищують ймовірність вибору сперматозоїдів з високою цілісністю ДНК.",
-      "Дослідження аналізує їхню ефективність у підвищенні шансів на запліднення та вагітність."
+      "Передові методи відбору сперматозоїдів застосовуються у допоміжній репродукції.",
+      "Ці методи спрямовані на вибір сперматозоїдів з високою цілісністю ДНК.",
+      "Дослідження аналізує їхню ефективність у підвищенні ймовірності успішного запліднення."
     ],
-    "practicalTakeaway": "Використання сучасних методів відбору сперматозоїдів може покращити якість сперматозоїдів у допоміжних репродуктивних процедурах.",
+    "practicalTakeaway": "Передові методи відбору сперматозоїдів потенційно можуть покращити результати допоміжної репродукції.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "репродуктологія",
-      "сімейна медицина",
-      "доказова медицина"
+      "запліднення",
+      "сперматозоїди"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
