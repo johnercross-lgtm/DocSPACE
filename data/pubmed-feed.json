@@ -1,264 +1,281 @@
 [
   {
-    "pmid": "42302346",
-    "title": "Development and validation of a risk-stratified prediction model for post-stroke vascular dementia: Clinical management value analysis.",
-    "journal": "Clinical neurology and neurosurgery",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Post-stroke vascular dementia (VaD) affects 20-30% of ischemic stroke survivors within the first year, yet existing prediction models lack comprehensive integration of novel blood biomarkers and validated risk stratification strategies. This study aimed to develop and temporally validate a risk-stratified prediction model incorporating clinical, neuroimaging, and serum biomarker variables. This retrospective cohort study comprised a development cohort (n = 998, 2020-2022) and temporal validation",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302346/",
+    "pmid": "42306884",
+    "title": "Грип як рідше виявлена причина гемофагічної лімфогістіоцитозу: систематичний огляд випадків",
+    "journal": "European journal of haematology",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Гемофагічна лімфогістіоцитоз (ГЛГ) — це небезпечний стан з підвищеною запальною реакцією, що може бути спричинений вірусними інфекціями. У дослідженні проаналізовано 29 публікацій, що містять 47 випадків ГЛГ, асоційованих з грипом. Вік пацієнтів коливався від дитячого до дорослого.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306884/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z"
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Influenza as a Less Commonly Recognized Cause of Hemophagocytic Lymphohistiocytosis: A Systematic Review of Case Reports and Case Series.",
+    "originalAbstract": "Hemophagocytic lymphohistiocytosis (HLH) is a life-threatening hyper-inflammatory condition that can be triggered by viral infections. However, influenza is not commonly recognized as a cause of HLH, and there is no comprehensive synthesis of influenza-associated HLH in the literature to guide clinicians. We conducted a systematic search of Pubmed and Embase to identify case reports and case series on influenza-associated HLH, and included 29 articles involving 47 patients. Their age ranged from",
+    "keyPoints": [
+      "Грип може бути причиною ГЛГ, але рідко визнається.",
+      "Проаналізовано 47 випадків з 29 публікацій.",
+      "Дослідження допомагає краще розуміти зв'язок грипу та ГЛГ."
+    ],
+    "practicalTakeaway": "Урахування грипу як потенційної причини ГЛГ може покращити діагностику та управління цим станом.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "грип",
+      "гемофагічна лімфогістіоцитоз",
+      "інфекційні хвороби"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42302345",
-    "title": "Вплив пренатального впливу частинок PM2.5 на нейророзвиток дитини: роль материнських метаболітів та середземноморської дієти",
-    "journal": "Ecotoxicology and environmental safety",
-    "publishedAt": "2026-06-15T00:00:00Z",
-    "abstract": "Дослідження аналізує зв'язок між пренатальним впливом компонентів PM2.5 та затримками у нейророзвитку дітей, з урахуванням ролі материнських метаболітів та впливу середземноморської дієти. Вивчено 6661 пару мати-дитина у когорті Hefei, визначаючи асоціації між рівнями забруднення та клінічно діагностованими затримками у розвитку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302345/",
+    "pmid": "42306882",
+    "title": "Зниження кількості випадків RSV у немовлят після рекомендації застосування нірсевімабу в Німеччині",
+    "journal": "Influenza and other respiratory viruses",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Після впровадження нірсевімабу у сезоні 2024/2025 у Німеччині спостерігалося зниження активності вірусу респіраторного синцитіального у немовлят до 50% у первинній та 50-70% у вторинній допомозі. Найбільше зменшення зафіксовано у дітей до 6 місяців. Зменшилася важкість захворювання, зокрема зменшення кількості госпіталізацій до відділень інтенсивної терапії та тривалості перебування у стаціонарі. Аналіз послідовностей вірусу виявив чотири відомі поліморфізми у зоні звʼязування нірсевімабу, жоден",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306882/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Prenatal exposure to PM2.5 specific constituents and child neurodevelopmental delay: The role of maternal metabolites and mediterranean diet.",
-    "originalAbstract": "Prenatal exposure to fine particulate matter (PM2.5) constituents has been associated with impaired neurodevelopment, yet constituent-specific perturbations in maternal metabolism during pregnancy and their associations with child neurodevelopmental outcomes remain unclear. Among 6661 mother-child pairs in the Maternal and Infant Health Cohort in Hefei (MIH‑Hefei), we estimated associations between prenatal exposure to major PM2.5 constituents and clinically diagnosed neurodevelopmental delay (N",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Reduction in Respiratory Syncytial Virus (RSV)-Related Outpatient and Inpatient Cases Among Infants During the Initial 2024/2025 Season Following Nirsevimab Recommendation in Germany.",
+    "originalAbstract": "After introducing nirsevimab during the 2024/2025 respiratory syncytial virus (RSV) season in Germany, RSV activity in infants under 1 year dropped by 50% in primary care and 50%-70% in secondary care. Inpatients under 6 months showed the greatest reduction. RSV severity decreased with fewer RSV-associated ICU admissions and shorter hospital stays. RSV sequence analysis identified four known polymorphisms in the nirsevimab binding site among inpatients; none associated with resistance. These fin",
     "keyPoints": [
-      "Пренатальний вплив частинок PM2.5 може бути пов'язаний із нейророзвитковими порушеннями у дітей.",
-      "Материнські метаболіти та дієта можуть відігравати роль у цьому зв'язку.",
-      "Дослідження базується на аналізі великої когортної групи у Китаї."
+      "Застосування нірсевімабу зменшило кількість випадків RSV у немовлят.",
+      "Зменшення випадків було найбільшим у дітей до 6 місяців.",
+      "Вірусна генетика показала відсутність резистентних мутацій."
     ],
-    "practicalTakeaway": "Необхідні додаткові дослідження для визначення механізмів впливу компонентів PM2.5 на нейророзвиток.",
+    "practicalTakeaway": "Впровадження профілактики нірсевімабом може суттєво знизити захворюваність RSV у немовлят.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "RSV",
+      "профілактика",
+      "немовлята"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42306881",
+    "title": "Оцінка страху руху при м'язово-скелетних розладах: систематичний огляд",
+    "journal": "Expert review of pharmacoeconomics & outcomes research",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Страх руху є важливим психологічним фактором у пацієнтів з м'язово-скелетними розладами, що може погіршувати клінічні результати. У дослідженні проаналізовано та порівняно психометричні властивості основних шкал для вимірювання страху руху. Виконано систематичний огляд літератури згідно з PRISMA, з аналізом досліджень, опублікованих у відповідних базах даних.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306881/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Outcome measures for fear of movement in individuals with musculoskeletal disorders: a systematic review with meta- analysis.",
+    "originalAbstract": "Fear of movement is a significant psychological factor in musculoskeletal disorders, negatively impacting clinical outcome. Currently there are many assessment tools measuring the fear of movement. This systematic review aims to analyze and compare the psychometric properties of the main scales used to measure fear of movement in populations with musculoskeletal disorders. A systematic literature review was conducted following the PRISMA criteria, analyzing studies published in the following dat",
+    "keyPoints": [
+      "Проаналізовано основні шкали для вимірювання страху руху.",
+      "Порівняно психометричні характеристики інструментів.",
+      "Значущість страху руху для клінічних результатів."
+    ],
+    "practicalTakeaway": "Вибір відповідної шкали для оцінки страху руху може покращити діагностику та планування лікування у пацієнтів з м'язово-скелетними розладами.",
     "specialty": "неврологія",
     "tags": [
-      "загальнонаціональний",
-      "доказова медицина",
-      "екотоксикологія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42302339",
-    "title": "Реальний вплив кардіоваскулярних ускладнень після терапії імунними чекпойнтами у пацієнтів з раком",
-    "journal": "Lung cancer (Amsterdam, Netherlands)",
-    "publishedAt": "2026-06-14T00:00:00Z",
-    "abstract": "Дослідження аналізує частоту кардіоваскулярних ускладнень у пацієнтів, які отримували імунні чекпойнт-інгібітори, та їхній вплив на смертність і можливість відновлення терапії. Вивчено 29 503 пацієнти у реальних умовах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302339/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Real-world burden of cardiovascular events following immune checkpoint inhibitor therapy: impact on mortality and treatment resumption in 29,503 patients.",
-    "originalAbstract": "Immune checkpoint inhibitors (ICIs) have transformed cancer therapy but can cause rare, severe cardiotoxicity. The real-world incidence and impact of a broader spectrum of cardiovascular events remains poorly defined. This study aims to evaluate the real-world incidence of cardiovascular events following ICI therapy, explore predictive biomarkers, and assess the impact of treatment interruptions. A retrospective observational study using Optum's de-identified Market Clarity Data was conducted in",
-    "keyPoints": [
-      "Кардіоваскулярні ускладнення виникають у пацієнтів, що отримують імунні чекпойнт-інгібітори.",
-      "Ускладнення можуть впливати на ризик смерті та рішення про повторний початок терапії.",
-      "Дослідження базується на аналізі реальних клінічних даних."
-    ],
-    "practicalTakeaway": "Врахування ризику кардіоваскулярних ускладнень важливе для управління пацієнтами, що отримують імунні чекпойнт-інгібітори.",
-    "specialty": "онкологія",
-    "tags": [
-      "кардіологія",
-      "онкологія",
-      "доказова медицина"
+      "оцінка",
+      "страх руху",
+      "м'язово-скелетні розлади"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42302333",
-    "title": "Збереження меніска у епоху біологічних технологій: розробка кількісної моделі для персоналізованого підходу",
-    "journal": "The Knee",
-    "publishedAt": "2026-06-16T00:00:00Z",
-    "abstract": "Мета дослідження — створити кількісну модель прийняття рішень щодо ремонту або резекції меніска, яка враховує біомеханічні, клінічні та біологічні фактори. Це сприятиме стандартизації вибору лікування у менісковій хірургії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302333/",
+    "pmid": "42306880",
+    "title": "Аналіз десяти років досвіду з догляду за еклампсією у Норвегії (2013–2022)",
+    "journal": "Acta obstetricia et gynecologica Scandinavica",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Мета дослідження — оцінити практики догляду за еклампсією у двох норвезьких університетських лікарнях та визначити можливості для підвищення якості медичної допомоги. Вивчено випадки госпіталізації жінок з діагнозом еклампсія та зафіксованими генералізованими судомами за період 2013–2022 років.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306880/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Meniscal preservation in the age of biologics: toward a quantitative decision algorithm for personalized repair.",
-    "originalAbstract": "Despite advances in arthroscopic repair and biologic augmentation, surgical indication for meniscal tears remains heterogeneous. No standardized framework currently integrates biomechanical, clinical, and biological determinants to guide repair versus resection. To develop a quantitative decision model-the Meniscal Preservation Score (MPS)-that unifies biomechanical and biological evidence to stratify reparability potential and standardize treatment selection in meniscal surgery. A systematic ev",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Learning opportunities in eclampsia care: A ten-year audit from Norway, 2013-2022.",
+    "originalAbstract": "The World Health Organization recommends surveillance, including audits with case reviews of severe maternal morbidities such as eclampsia, to improve obstetric outcomes. We aimed to audit eclampsia and to identify learning opportunities in eclampsia care in Norway. Our study population included all women discharged with a diagnosis of eclampsia (ICD-10: O15) and with a documented generalized seizure in medical records at two university hospitals in Norway from 2013 to 2022. An eclampsia working",
     "keyPoints": [
-      "Розроблено модель для оцінки можливості ремонту меніска.",
-      "Модель враховує біомеханічні та біологічні дані.",
-      "Це сприятиме персоналізованому підходу до лікування."
+      "Проаналізовано випадки еклампсії у двох норвезьких лікарнях за десять років.",
+      "Виявлено можливості для підвищення якості догляду та безпеки пацієнток.",
+      "Результати сприяють покращенню протоколів лікування еклампсії."
     ],
-    "practicalTakeaway": "Впровадження кількісної моделі може допомогти у стандартизації рішення щодо лікування меніскових пошкоджень.",
-    "specialty": "хірургія",
+    "practicalTakeaway": "Аналіз досвіду допомоги при еклампсії дозволяє визначити напрямки для підвищення безпеки та якості медичного обслуговування.",
+    "specialty": "акушерство і гінекологія",
     "tags": [
-      "меніск",
-      "біологічні технології",
-      "хірургія"
+      "еклампсія",
+      "медичний аудит",
+      "догляд"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42302331",
-    "title": "Аналіз профілів особистості та вживання канабісу серед молодих дорослих у США",
-    "journal": "Addictive behaviors",
-    "publishedAt": "2026-05-21T00:00:00Z",
-    "abstract": "Дослідження вивчало профілі особистості молодих дорослих у США та їх зв’язок із вживанням канабісу та намірами щодо його вживання. За допомогою аналізу латентних профілів було визначено різні типи особистісних характеристик, що асоціювалися з поведінкою, пов’язаною з канабісом.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302331/",
+    "pmid": "42306876",
+    "title": "Очистка двовуглецевої РНК-мікроскопії з in vitro транскрипції mRNA за допомогою гель-хроматографії",
+    "journal": "Biomedical chromatography : BMC",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Двовуглецева РНК (dsRNA) є побічним продуктом при in vitro транскрипції mRNA, що може викликати імунну відповідь та знижувати ефективність вакцин. Представлено метод гель-хроматографії з розмір-ексклюзією, який дозволяє ефективно розділяти dsRNA від mRNA, досягаючи чіткої базової роздільної здатності.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306876/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Latent profile analysis of personality characteristics among US young adults in relation to cannabis use and intentions over time.",
-    "originalAbstract": "Young adults may use cannabis for distinct reasons, for example, related to their personalities or lifestyles. This study examined young adults' personality profiles and associations with cannabis use-related outcomes. Using 3 waves of survey data (2023-2024) among 4,031 US young adults (Mage = 26.29, 59.8% female, 19.4% Hispanic, 14.0% Black, 14.1% Asian), latent profile analysis was conducted based on 5 personality characteristics (emotional stability, extraversion, openness, agreeableness, co",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Purification of Double-Stranded RNA Impurities From In Vitro-Transcribed mRNA Using Size-Exclusion Chromatography.",
+    "originalAbstract": "dsRNA is a highly immunogenic byproduct generated during in vitro transcription of mRNA, leading to unwanted immunostimulatory responses and reduced vaccine efficacy. Removal of dsRNA impurities from mRNA is challenging, as they share similar physicochemical properties. Here, we present a lab-scale size-exclusion chromatography method that effectively separates dsRNA impurities from mRNA. This method achieves baseline resolution between dsRNA impurities and mRNA (resolution factor of 1.6) while ",
     "keyPoints": [
-      "Вивчено профілі особистості молодих дорослих у США.",
-      "Знайдено зв’язки між особистісними характеристиками та вживанням канабісу.",
-      "Результати допомагають краще зрозуміти мотивації та поведінку щодо канабісу."
+      "Метод використовує гель-хроматографію для розділення dsRNA та mRNA.",
+      "Забезпечує базову роздільну здатність між двома компонентами.",
+      "Може застосовуватися для очищення mRNA від dsRNA побічних продуктів."
     ],
-    "practicalTakeaway": "Розуміння особистісних профілів може сприяти розробці цілеспрямованих профілактичних програм щодо вживання канабісу.",
+    "practicalTakeaway": "Застосування гель-хроматографії з розмір-ексклюзією може покращити очищення mRNA від dsRNA побічних продуктів.",
     "specialty": "доказова медицина",
     "tags": [
-      "психіатрія",
-      "наркотики",
-      "поведінка"
+      "мікробіологія",
+      "технології очищення",
+      "молекулярна біологія"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42302329",
-    "title": "Мультиплексна платформа для виявлення біомаркерів на основі золото-цинкового протопорфірину: потенціал для ранньої діагностики та післяопераційного моніторингу раку простати",
-    "journal": "Biosensors & bioelectronics",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Раннє виявлення та лікування раку простати є ключовими для покращення результатів. Тестування крові на рівень простат-специфічного антигену (PSA) має обмеження через вплив неракових станів. Розроблено нову систему детекції з використанням золото-цинкового протопорфірину (Au/ZnPP), яка визначає білки у крові через їхню взаємодію з цим з'єднанням.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302329/",
+    "pmid": "42306870",
+    "title": "3D-архітектура геному та епігенетичне регулювання ідентичності ліній у прогресії передміхурової залози",
+    "journal": "Endocrinology",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Дослідження аналізує роль тривимірної архітектури геному та епігенетичних механізмів у визначенні лінійної ідентичності клітин у прогресії передміхурової залози, з особливим акцентом на стадію кастраційно-резистентного раку. Вивчення сприяє розумінню молекулярних змін, що лежать в основі переходу до агресивних форм раку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306870/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Multiplex biomarker detection platform based on zinc protoporphyrin-modified gold electrodes: Application potential for early diagnosis and postoperative monitoring of prostate cancer.",
-    "originalAbstract": "Early detection and treatment of prostate cancer are essential for improving outcomes. Blood tests measuring prostate-specific antigen (PSA) are commonly used to assess cancer risk. However, PSA levels can be affected by non-cancer conditions, leading to possible misdiagnosis and stress for patients. To improve accuracy, a new detection system using gold electrodes modified with zinc protoporphyrin (Au/ZnPP) was developed. This system detects proteins in blood by using the interaction between zi",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "3D Genome Architecture and Epigenetic Regulation of Lineage Identity in Advanced Prostate Cancer.",
+    "originalAbstract": "Prostate cancer development and progression depend on androgen receptor (AR) signaling. Therefore, androgen-deprivation therapy (ADT) and AR signaling inhibitors (ARSIs) are standard therapies for advanced or metastatic disease. Although these treatments are initially effective, prostate cancer inevitably progresses to a lethal stage termed castration-resistant prostate cancer (CRPC). In the majority of patients, CRPC occurs via re-activation of AR signaling (CRPC-AR). However, lineage plasticit",
     "keyPoints": [
-      "Розроблено нову систему для виявлення біомаркерів у крові.",
-      "Використовує золото-цинковий протопорфірин для підвищення точності.",
-      "Має потенціал для ранньої діагностики та моніторингу раку простати."
+      "Розглядається роль 3D-архітектури геному у прогресії раку передміхурової залози.",
+      "Аналізуються епігенетичні механізми, що регулюють ідентичність клітин у контексті прогресії.",
+      "Дослідження фокусується на стадії кастраційно-резистного раку та механізмах його розвитку."
     ],
-    "practicalTakeaway": "Ця платформа може покращити точність діагностики раку простати та допомогти у післяопераційному контролі.",
-    "specialty": "онкологія",
-    "tags": [
-      "діагностика",
-      "біомаркери",
-      "ракові захворювання"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42302328",
-    "title": "Машинне навчання для раннього виявлення раку сечового міхура за допомогою кольорового сенсорного масиву на основі органічних летких сполук у сечі",
-    "journal": "Biosensors & bioelectronics",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження розробило штучний сенсорний масив із кольоровими датчиками, що використовує машинне навчання для скринінгу раку сечового міхура за аналізом летких органічних сполук у сечі. Сенсорний масив складається з восьми реактивних барвників у наноматеріалах, що реагують на леткі сполуки, що потенційно дозволяє неінвазивне раннє виявлення захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302328/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Machine-learning-assisted artificial olfactory colorimetric sensor array for bladder cancer early detection from urinary volatile organic compounds.",
-    "originalAbstract": "Bladder cancer (BC) remains difficult to detect non-invasively because current diagnostic methods are either invasive or insufficiently sensitive for early-stage disease. In this study, we developed a machine-learning-assisted artificial olfactory colorimetric sensor array (CSA) for urinary volatile organic compound (VOC)-based BC screening. The CSA was fabricated by integrating eight cross-reactive dyes into electrospun poly(vinylidene fluoride) (PVDF) nanofibrous membranes. The porous and hydr",
-    "keyPoints": [
-      "Розроблено сенсорний масив для виявлення раку сечового міхура.",
-      "Використовує машинне навчання для аналізу летких сполук у сечі.",
-      "Може сприяти неінвазивному скринінгу захворювання."
-    ],
-    "practicalTakeaway": "Технологія може бути використана для неінвазивного скринінгу раку сечового міхура на основі аналізу сечі.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "ракові захворювання",
-      "діагностика",
-      "біоелектроніка"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42302327",
-    "title": "Гіпоксія-активований PROTAC для подвійної інгібіції FAK та EGFR у терапії раку",
-    "journal": "Neoplasia (New York, N.Y.)",
-    "publishedAt": "2026-06-16T00:00:00Z",
-    "abstract": "Дослідження описує розробку гіпоксія-чутливого PROTAC (hrFP-E), який спрямований на деградацію фокальної адгезії kinase (FAK) та інгібування рецептора епідермального фактору росту (EGFR). Це створює новий підхід до терапії раку, що враховує механічні та хімічні фактори мікросередовища пухлини.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302327/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Hypoxia-activated PROTAC for dual inhibition of FAK and EGFR enables synergistic mechano-chemical cancer therapy.",
-    "originalAbstract": "Mechanical abnormalities in the tumor microenvironment (TME), such as matrix stiffening and hypoxia, drive tumor invasion and therapy resistance. Yet targeting these cues with spatial precision remains challenging. Here we present a hypoxia-responsive dual-warhead PROTAC (hrFP-E) that couples focal adhesion kinase (FAK) degradation with inhibition of epidermal growth factor receptor (EGFR), introducing a mechano-chemical therapy paradigm. hrFP-E is equipped with a nitroreductase (NTR)-sensitive ",
-    "keyPoints": [
-      "Розроблено гіпоксія-чутливий PROTAC для терапії раку.",
-      "Препарат спрямований на деградацію FAK та інгібування EGFR.",
-      "Може забезпечити синергічний ефект у лікуванні раку."
-    ],
-    "practicalTakeaway": "Розробка гіпоксія-активних препаратів може покращити цільову терапію раку.",
+    "practicalTakeaway": "Розуміння молекулярних механізмів прогресії раку передміхурової залози може сприяти розробці нових терапевтичних стратегій.",
     "specialty": "онкологія",
     "tags": [
       "ракові захворювання",
-      "таргетна терапія",
-      "мікросередовище пухлини"
+      "геноміка",
+      "епігенетика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42302326",
-    "title": "Інгібування сигналізації PERK пригнічує прогресію гепатоцелюлярної карциноми та блокує стромальну активацію, залежну від GP73-GRP78",
-    "journal": "Neoplasia (New York, N.Y.)",
-    "publishedAt": "2026-06-16T00:00:00Z",
-    "abstract": "Дослідження показало, що селективне інгібування сенсора ER-стресу PERK за допомогою AMG-PERK суттєво обмежує розвиток пухлин у моделі хімічно індукованої гепатоцелюлярної карциноми. Інгібування PERK зменшувало пухлинний обсяг, проліферацію та життєздатність клітин у живих організмах, а також гальмувало ріст HCC-клітин.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302326/",
+    "pmid": "42306861",
+    "title": "Вільний тріодтиронін як додатковий маркер стану щитоподібної залози у пацієнтів без щитоподібної залози на левотироксині",
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Дослідження аналізує можливість використання serum free triiodothyronine (FT3) як додаткового біохімічного маркера для оцінки периферійного стану щитоподібної залози у пацієнтів без щитоподібної залози, які отримують левотироксин. Виявлено, що рівень FT3 може бути корисним для моніторингу терапії та визначення стану гормональної регуляції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306861/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Inhibition of PERK signaling suppresses tumor progression and blocks GP73-GRP78-dependent stromal activation in hepatocellular carcinoma.",
-    "originalAbstract": "Endoplasmic reticulum (ER) stress contributes to hepatocellular carcinoma (HCC) progression and promotes the development of a pro-tumorigenic microenvironment. Here, we demonstrate that selective inhibition of the ER-stress sensor PERK using AMG-PERK substantially restrains tumor development when administered during early carcinogenesis in a chemically induced HCC model. PERK inhibition reduced tumor burden, proliferation, and cell viability in vivo, and impaired the growth of HCC cells and pati",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Serum free triiodothyronine as an adjunctive marker for thyroid hormone status in athyreotic patients on levothyroxine.",
+    "originalAbstract": "Athyreotic patients receiving levothyroxine (LT4) for hypothyroidism sometimes exhibit low serum free triiodothyronine (FT3) levels despite normal TSH, and experience hypothyroid-like symptoms and signs, suggesting reduced peripheral thyroid hormone action. The present study aimed to identify the most reliable biochemical marker for assessing peripheral thyroid hormone status in such patients. This was a single-center retrospective, cross-sectional study of athyreotic patients on LT4. Patients w",
     "keyPoints": [
-      "Інгібування PERK зменшує пухлинний обсяг і проліферацію у моделі HCC.",
-      "AMG-PERK пригнічує розвиток гепатоцелюлярної карциноми.",
-      "Блокування PERK впливає на стромальну активність, залежну від GP73-GRP78."
+      "Рівень serum FT3 може допомагати оцінити стан щитоподібної залози у пацієнтів без залози.",
+      "Дослідження вказує на потенціал FT3 як додаткового маркера при терапії левотироксином.",
+      "Значення TSH не завжди відображає периферійний гормональний статус."
     ],
-    "practicalTakeaway": "Інгібування PERK може бути перспективним напрямком у терапії гепатоцелюлярної карциноми.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Врахування рівня serum FT3 може покращити моніторинг терапії у пацієнтів без щитоподібної залози.",
+    "specialty": "ендокринологія",
     "tags": [
-      "онкологія",
-      "доказова медицина",
-      "гепатологія"
+      "ендокринологія",
+      "щитоподібна залоза",
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42302324",
-    "title": "Міоелектрична активність шлунка та автономна дисфункція у дітей з ІБД та ІБС: дослідження кореляції",
-    "journal": "Autonomic neuroscience : basic & clinical",
-    "publishedAt": "2026-06-15T00:00:00Z",
-    "abstract": "У дослідженні взяли участь 62 дитини: 18 з запальним захворюванням кишечника, 28 з синдромом подразненого кишечника та 18 здорових. Проведено електрогастрографію та оцінку автономної нервової системи. Різниць у параметрах ЕГГ між групами не виявлено. У дітей з ІБС спостерігалося підвищення постпрандіальної нормагастрії. Звʼязок між симптомами автономної дисфункції та активністю шлунка не був статистично значущим.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42302324/",
+    "pmid": "42306860",
+    "title": "Обстеження делірію у відділенні швидкої допомоги: бар'єри та фактори сприяння",
+    "journal": "Emergency medicine Australasia : EMA",
+    "publishedAt": "2026-06-01T00:00:00Z",
+    "abstract": "Дослідження виявило, що скринінг делірію у пацієнтів віком 65 років і старше у міському відділенні швидкої допомоги часто не відповідає національним стандартам. Аналіз практик та бар'єрів показав необхідність покращення процесів відповідно до австралійського стандарту клінічної допомоги при делірії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306860/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-17T03:32:13Z",
-    "originalTitle": "Gastric myoelectrical activity and autonomic dysfunction in children with IBD and IBS: An electrogastrographic and autonomic correlation study.",
-    "originalAbstract": "Sixty-two children (18 with inflammatory bowel disease [IBD], 28 with irritable bowel syndrome [IBS], 18 healthy controls) underwent pre- and postprandial electrogastrography and autonomic assessment with the Composite Autonomic Symptom Score-31 (COMPASS-31) and Composite Autonomic Severity Scale (CASS). No between-group differences in EGG parameters were observed. Children with IBS showed increased postprandial normogastria. Higher autonomic symptom burden correlated with lower postprandial pow",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Delirium Screening in the Emergency Department: Barriers, Enablers and Alignment With Clinical Standards-A Mixed-Methods Study.",
+    "originalAbstract": "Delirium is common and serious among older adults in emergency departments (EDs) yet screening often falls short of national expectations. This study evaluated current delirium screening practices in a metropolitan ED and identified barriers and enablers to implementing screening in line with the Australian Delirium Clinical Care Standard. A mixed-methods quality assurance study was conducted in The Prince Charles Hospital ED. A retrospective audit of 238 medical records for patients aged ≥ 65 y",
     "keyPoints": [
-      "У дослідженні не виявлено різниць у параметрах електрогастрографії між групами.",
-      "Діти з синдромом подразненого кишечника мали підвищену постпрандіальну нормагастрію.",
-      "Звʼязок між симптомами автономної дисфункції та активністю шлунка був слабким або відсутнім."
+      "Делірій поширений серед літніх пацієнтів у відділеннях швидкої допомоги.",
+      "Практики скринінгу часто не відповідають стандартам.",
+      "Потреба у впровадженні системних змін для покращення виявлення делірію."
     ],
-    "practicalTakeaway": "Результати свідчать про відсутність значущих змін у міоелектричній активності шлунка у дітей з ІБД та ІБС, що ускладнює використання електрогастрографії для діагностики автономної дисфункції у цій групі.",
-    "specialty": "гастроентерологія",
+    "practicalTakeaway": "Підвищення відповідності практик скринінгу делірію стандартам може покращити раннє виявлення та управління цим станом.",
+    "specialty": "неврологія",
     "tags": [
-      "IBD",
-      "IBS",
-      "автономна дисфункція"
+      "діагностика",
+      "відділення швидкої допомоги",
+      "старіння"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42306859",
+    "title": "Діагностика та лікування фронтотемпоральної деменції: огляд",
+    "journal": "Neurodegenerative disease management",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Фронтотемпоральна деменція (ФТД) — це група нейродегенеративних захворювань, що характеризуються прогресивною деградацією фронтальних та/або скроневих часток мозку. Вона має різноманітні клінічні прояви та обмежену специфічність біомаркерів, що ускладнює діагностику та терапію. Враховуючи складність діагностичних та лікувальних підходів, важливо враховувати особливості кожного випадку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306859/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Diagnosis and management of frontotemporal dementia: a narrative review.",
+    "originalAbstract": "Frontotemporal dementia (FTD) is an umbrella term that encompasses a group of clinically heterogeneous neurodegenerative disorders. It is biologically referred to as Frontotemporal lobar degeneration (FTLD) and is characterized by progressive degeneration of frontal and/or temporal lobes. FTD poses substantial diagnostic and therapeutic challenges due to its heterogeneous clinical presentations, limited biomarker specificity, and overlap with other neurodegenerative and psychiatric diseases. Thi",
+    "keyPoints": [
+      "ФТД — група нейродегенеративних захворювань з різноманітними клінічними проявами.",
+      "Діагностика ускладнена через низьку специфічність біомаркерів та перекриття з іншими хворобами.",
+      "Розуміння особливостей ФТД важливе для правильного підходу до діагностики та лікування."
+    ],
+    "practicalTakeaway": "Урахування клінічної різноманітності та обмежень біомаркерів є ключовим для діагностики та управління ФТД.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейродегенеративні захворювання",
+      "діагностика",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42306858",
+    "title": "Одноядерне РНК-секвенування виявляє зміни у скелетних м'язах у чоловіків з синдромом Клайнфельтера під впливом терапії тестостероном",
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "Дослідження застосувало одноядерне РНК-секвенування для аналізу біопсій м'язів у чоловіків з синдромом Клайнфельтера до та після року терапії тестостероном. Виявлено багатомолекулярні зміни у тканинах м'язів, що свідчить про вплив терапії на мікросередовище м'язових клітин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42306858/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-17T15:14:05Z",
+    "originalTitle": "Single nucleus RNA sequencing reveals testosterone replacement therapy-associated multicellular remodelling of skeletal muscle in hypogonadal men with Klinefelter Syndrome.",
+    "originalAbstract": "Klinefelter syndrome (KS) is characterized by hypogonadism, resulting in metabolic disturbances and altered body composition, including reduced muscle mass. Although testosterone replacement therapy (TRT) is a standard treatment, its effects on skeletal muscle remain incompletely understood. Single-nucleus RNA-sequencing was applied to vastus lateralis biopsies from patients with KS (n = 4), collected at the time of diagnosis and again after one year of TRT. Reference material was retrieved from",
+    "keyPoints": [
+      "Досліджено вплив терапії тестостероном на м'язи у чоловіків з синдромом Клайнфельтера.",
+      "Виявлено зміни у багатомолекулярних профілях клітин м'язової тканини.",
+      "Результати допомагають краще зрозуміти механізми дії терапії на м'язову тканину."
+    ],
+    "practicalTakeaway": "Результати дослідження свідчать про складний вплив терапії тестостероном на м'язову тканину у чоловіків з синдромом Клайнфельтера.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "синдром Клайнфельтера",
+      "тестостеронова терапія",
+      "скелетні м'язи"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
