@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42308591",
-    "title": "Втрата пальмітоїлінгу впливає на взаємодію між OATP1B1 та OATP1B3",
-    "journal": "Drug metabolism and disposition: the biological fate of chemicals",
-    "publishedAt": "2026-05-16T00:00:00Z",
-    "abstract": "Дослідження вивчало роль посттрансляційної модифікації пальмітоїлінгу у функції та взаємодії транспортних білків OATP1B1 і OATP1B3 у печінці. Виявлено, що втрата пальмітоїлінгу може впливати на їхню взаємодію, що потенційно впливає на транспорт ліків.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308591/",
+    "pmid": "42312491",
+    "title": "scParadise: точна багаторівнева ідентифікація клітин та імпутація модальностей у одноклітинних даних",
+    "journal": "Nucleic acids research",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Розроблено інструмент scParadise для покращення аналізу одноклітинних RNA-даних. Він забезпечує багаторівневу ідентифікацію клітин, визначення невідомих типів та відновлення відсутніх модальностей, що сприяє більш точному інтерпретуванню клітинних станів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312491/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "Loss of palmitoylation impacts the interaction between the organic anion transporting polypeptide (OATP) 1B1 and OATP1B3.",
-    "originalAbstract": "The organic anion transporting polypeptide (OATP) 1B1 and OATP1B3 are hepatic transporters that mediate the uptake of numerous therapeutics like antibiotics and statins. Various post-translational modifications, eg, phosphorylation and glycosylation, have been shown to impact OATP1B1 and OATP1B3 function and localization. S-palmitoylation (also known as S-acylation or palmitoylation) is a reversible post-translational modification that adds palmitic acid (C16:0) to cysteine residues and can infl",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "scParadise: tunable, highly accurate multi-level cell type annotation, unknown cell type identification, and modality imputation.",
+    "originalAbstract": "In single-cell biology, the main limitation has shifted from data generation to converting sparse, heterogeneous single-cell RNA sequencing (scRNA-seq) datasets into accurate cell types, interpretable multi-omic states, and reproducible conclusions. To address these challenges, we present scParadise, which transforms scRNA-seq data to a new scientific knowledge. scParadise comprises three integrated tools: scAdam, a multi-level cell type annotation tool with unknown cell type identification; scE",
     "keyPoints": [
-      "Пальмітоїлінг є важливою посттрансляційною модифікацією для OATP1B1 і OATP1B3.",
-      "Втрата пальмітоїлінгу може змінювати їхню взаємодію.",
-      "Це може впливати на транспорт ліків у печінці."
+      "Засіб для точнішої ідентифікації клітин у одноклітинних даних.",
+      "Можливість визначення невідомих клітинних типів.",
+      "Імпутація відсутніх модальностей для комплексного аналізу."
     ],
-    "practicalTakeaway": "Розуміння ролі пальмітоїлінгу у функції транспортних білків може допомогти у розробці нових стратегій для оптимізації доставки ліків.",
-    "specialty": "фармакотерапія",
+    "practicalTakeaway": "scParadise допомагає підвищити точність аналізу одноклітинних даних та розширити можливості інтерпретації клітинних станів.",
+    "specialty": "доказова медицина",
     "tags": [
-      "біохімія",
-      "транспортні білки",
-      "ліки"
+      "одноклітинна біологія",
+      "аналіз даних",
+      "біоінформатика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312489",
+    "title": "Проміжні продукти рРНК асоціюються з перебудовою ядерця у C. elegans",
+    "journal": "Nucleic acids research",
+    "publishedAt": "2026-06-08T00:00:00Z",
+    "abstract": "Дослідження показують, що процеси обробки та транскрипції рРНК впливають на структуру ядерця у нематоді C. elegans. Зокрема, накопичення передрРНК 27SA2 супроводжується формуванням кільцевих структур та вакуолей у ядерці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312489/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "rRNA intermediates associate with nucleolar reshaping in C. elegans.",
+    "originalAbstract": "The nucleolus is a multilayered organelle essential for ribosome biogenesis, yet how ribosomal RNA (rRNA) events coordinate its organization remains unclear. We previously reported that the accumulation of 27SA2 pre-rRNA upon class I RPLs (large subunit ribosomal proteins) depletion accompanies the formation of nucleolar rings and vacuoles in Caenorhabditis elegans. Here, we systematically investigated the effects of pre-18S rRNA processing and rRNA transcription on nucleolar structure and repor",
+    "keyPoints": [
+      "Обробка та транскрипція рРНК впливають на структуру ядерця.",
+      "Накопичення передрРНК 27SA2 асоціюється з перебудовою ядерця.",
+      "Дослідження сприяють розумінню організації ядерця у клітинах."
+    ],
+    "practicalTakeaway": "Розуміння механізмів перебудови ядерця може допомогти у дослідженнях рибосомної біогенезу.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "молекулярна біологія",
+      "клітинна біологія",
+      "генетика"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42308590",
-    "title": "Випадково виявлений нерозшитий грудний аортальний аневризм у собаки з підозрою на аортальну порушення",
-    "journal": "Journal of veterinary cardiology : the official journal of the European Society of Veterinary Cardiology",
-    "publishedAt": "2026-05-25T00:00:00Z",
-    "abstract": "У статті описано випадкове виявлення аневризми грудної аорти у 12-річної собаки породи Шиба-іну, яка була без симптомів і мала підозру на аортальну порушення. Це рідкісне явище у собак, оскільки зазвичай аневризми супроводжуються ускладненнями, такими як розшиття або розрив.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308590/",
+    "pmid": "42312474",
+    "title": "Рукапариб — інгібітор PARP для лікування метастатичного кастраційно-резистентного раку простати з BRCA-мутацією",
+    "journal": "Future oncology (London, England)",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "Рукапариб (RUBRACAⓇ) — перший затверджений FDA інгібітор полімерази PARP для чоловіків з метастатичним кастраційно-резистентним раком простати, асоційованим з мутаціями BRCA. Його ефективність у пацієнтів з пошкодженням репарації ДНК підтверджена у дослідженнях TRITON2 і TRITON3. У TRITON2 рукапариб демонстрував значущу протипухлинну активність у чоловіків з BRCA-мутацією, з об'єктивними відповідями у пацієнтів з гетерогенним генетичним фоном.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312474/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "Incidentally diagnosed non-dissecting thoracic aortic aneurysm in a dog with suspected aortic valve abnormality.",
-    "originalAbstract": "A thoracic aortic aneurysm (TAA) is a relatively common cardiovascular disorder in humans. However, it is rarely reported in dogs. To date, several reported canine cases are associated with clinical signs and severe complications, such as aortic dissection and rupture. Herein, we report an incidentally diagnosed TAA in an asymptomatic elderly dog with suspected aortic valve abnormality. A 12-year-old spayed female Shiba Inu was referred for the evaluation of anorexia and vomiting. It was subsequ",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "Rucaparib - drug evaluation: a PARP inhibitor for the treatment of BRCA-mutated metastatic castration-resistant prostate cancer.",
+    "originalAbstract": "Rucaparib (RUBRACAⓇ) is the first FDA-approved poly (ADP-ribose) polymerase (PARP) inhibitor for men with BRCA mutation-associated metastatic castration-resistant prostate cancer (mCRPC). Rucaparib's efficacy in patients with mCRPC associated with DNA damage repair (DDR) deficiency was demonstrated in the TRITON2 and TRITON3 trials. In TRITON2, rucaparib demonstrated meaningful antitumor activity in men with measurable BRCA-mutated disease, with objective responses observed across both germline ",
     "keyPoints": [
-      "Аневризма грудної аорти у собак є рідкісним діагнозом.",
-      "Зазвичай супроводжується серйозними ускладненнями.",
-      "Випадкове виявлення можливо у безсимптомних тварин."
+      "Рукапариб — перший затверджений PARP-інгібітор для раку простати з BRCA-мутацією.",
+      "Дослідження TRITON2 підтвердили його протипухлинну активність.",
+      "Застосування показане у пацієнтів з мутаціями BRCA та метастатичним раком простати."
     ],
-    "practicalTakeaway": "Обстеження на аневризму може бути важливим у безсимптомних собак із підозрою на аортальні порушення.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Рукапариб може бути ефективним варіантом лікування для пацієнтів з BRCA-мутацією та метастатичним раком простати.",
+    "specialty": "онкологія",
     "tags": [
-      "кардіологія",
-      "собаки",
+      "онкологія",
+      "лікування раку",
+      "PARP-інгібітори"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312473",
+    "title": "Інгаляційна нанотерапія для цільового перепрограмування макрофагів у хронічному обструктивному бронхіті",
+    "journal": "Biomacromolecules",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "Дослідження присвячене розробці інгаляційної нанотерапії для лікування хронічного обструктивного бронхіту (ХОБ). Вона використовує глутатіон-чутливі наночастинки для цільового перепрограмування макрофагів у легенях, що може сприяти зменшенню запалення та покращенню функції дихальної системи. Такий підхід має потенціал для більш ефективного та цілеспрямованого лікування ХОБ.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312473/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "Glutathione-Responsive Inhalable Nanotherapeutics for Targeted Macrophage Reprogramming in Chronic Obstructive Pulmonary Disease.",
+    "originalAbstract": "Chronic inflammation of the airways plays a crucial role in disease progression and symptom exacerbation in patients with chronic obstructive pulmonary disease (COPD). Nitric oxide (NO) relaxes airway smooth muscle and regulates the inflammatory response. The multifunctional therapeutic effects of NO are highly attractive for COPD treatment. However, the practical difficulties in long-term and targeted administration remain a limitation. This work presents an inhaled nanotherapeutic, termed AIR ",
+    "keyPoints": [
+      "Розроблено інгаляційний наноматеріал для лікування ХОБ.",
+      "Механізм дії базується на перепрограмуванні макрофагів.",
+      "Може покращити контроль запалення у легенях."
+    ],
+    "practicalTakeaway": "Інгаляційна нанотерапія з глутатіоном може стати перспективним напрямком у лікуванні хронічних запальних захворювань легень.",
+    "specialty": "пульмонологія",
+    "tags": [
+      "інгаляційна терапія",
+      "нанотехнології",
+      "запальні захворювання легень"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312467",
+    "title": "Порівняння моделей умовної автогрегресії для бінарного картографування випадків денге в Індонезії",
+    "journal": "Geospatial health",
+    "publishedAt": "2026-02-02T00:00:00Z",
+    "abstract": "Дослідження аналізує застосування байєсівських моделей умовної автогрегресії для картографування поширеності денге в Індонезії. Враховувалися провінційні дані за 2023 рік, зокрема температура та кількість працівників охорони здоровʼя. Просторова залежність підтверджена статистичним показником Moran's I=0.4689 (p=0.021). Моделі були побудовані з використанням пріорів Besag-York-Mollié та Leroux.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312467/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "Comparing conditional autoregressive models for Bayesian spatial mapping of dengue cases in Indonesia.",
+    "originalAbstract": "Dengue Haemorrhagic Fever (DHF) remains a public health burden in Indonesia with substantial provincial variation. We modelled province-level DHF counts in 2023 using Bayesian spatial conditional autoregressive Poisson models with population offsets. Predictors were average annual temperature (per 1°C) and the number of public health workers (province-level count). Spatial dependence was supported by Moran's I=0.4689 (p=0.021). We fitted models using Besag-York-Mollié (BYM) and Leroux priors via",
+    "keyPoints": [
+      "Дослідження застосовує байєсівські моделі для картографування денге.",
+      "Враховуються провінційні фактори, такі як температура та кількість медичних працівників.",
+      "Статистична залежність між районами підтверджена показником Moran's I."
+    ],
+    "practicalTakeaway": "Використання байєсівських моделей умовної автогрегресії може покращити аналіз поширеності інфекційних захворювань.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "епідеміологія",
+      "просторова статистика",
+      "інфекційні захворювання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312466",
+    "title": "Обмежена інформація про взаємодію ленакапавіру з іншими препаратами у ВІЛ-позитивних пацієнтів",
+    "journal": "International journal of STD & AIDS",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "У статті описано два випадки можливих взаємодій між довготривалим підшкірним введенням ленакапавіру та іншими препаратами у пацієнтів з ВІЛ. Враховуючи обмежені дані, необхідна обережність при застосуванні ленакапавіру у комбінації з іншими ліками.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312466/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "A precautionary tale of lenacapavir drug-drug interactions: A case series of two persons living with HIV receiving long-acting injections.",
+    "originalAbstract": "Lenacapavir is now approved for highly treatment experienced persons living with HIV (PLWH) and for HIV pre-exposure prophylaxis (PrEP). Limited lenacapavir clinical data exist with real-world drug-drug interactions. We report two possible drug-drug interactions with ambulatory lenacapavir subcutaneous injections in two PLWH prescribed long-acting injection therapy. Case 1 describes a PLWH prescribed clopidogrel after an acute cerebrovascular event receiving an antiretroviral (ARV) regimen inclu",
+    "keyPoints": [
+      "Описано два випадки можливих взаємодій ленакапавіру з іншими препаратами.",
+      "Обмежені клінічні дані про взаємодії у реальних умовах.",
+      "Потреба у подальших дослідженнях для визначення безпеки та ефективності."
+    ],
+    "practicalTakeaway": "При застосуванні ленакапавіру у пацієнтів з ВІЛ слід враховувати можливі взаємодії з іншими препаратами.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "ВІЛ/СНІД",
+      "лікування",
+      "взаємодії препаратів"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312461",
+    "title": "Фасциальна невропатія у пацієнтів із рецидивуючою болючою офтальмоплегічною невропатією",
+    "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "Дослідження аналізує випадки залучення неофтальмічних моторних черепних нервів, таких як трійчастий, лицевий або під'язиковий нерв, у пацієнтів із рецидивуючою болючою офтальмоплегічною невропатією (RPON). Вісім пацієнтів із відповідними діагностичними критеріями були досліджені для визначення частоти та клінічного значення мультичерепних нервових уражень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312461/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "Facial Neuropathy in Patients with Recurrent Painful Ophthalmoplegic Neuropathy.",
+    "originalAbstract": "Involvement of non-ocular motor cranial nerves, such as the trigeminal, facial or hypoglossal nerves, has rarely been reported in recurrent painful ophthalmoplegic neuropathy (RPON). This study aimed to determine the incidence and clinical significance of multi-cranial nerve involvement in RPON. Eight patients (females = 5; mean age = 53.3 ± 15.6 years) who met International Classification of Headache Disorders-3 diagnostic criteria for RPON were enrolled at a single tertiary hospital. Repeated ",
+    "keyPoints": [
+      "Досліджено випадки залучення неофтальмічних нервів у RPON.",
+      "Виявлено, що мультичерепні нерви можуть бути залучені у цій патології.",
+      "Значення таких уражень для клінічної картини потребує подальшого вивчення."
+    ],
+    "practicalTakeaway": "У пацієнтів із рецидивуючою болючою офтальмоплегічною невропатією можливо залучення кількох черепних нервів, що слід враховувати при діагностиці та моніторингу.",
+    "specialty": "неврологія",
+    "tags": [
+      "неврологія",
+      "черепно-мозкові нерви",
       "діагностика"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312458",
+    "title": "Канада та пандемічна угода: очікування світу",
+    "journal": "International journal of social determinants of health and health services",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "У статті аналізується роль Канади у переговорах щодо пандемічної угоди, ініційованої ВООЗ у грудні 2021 року, з метою уникнення нерівності у розподілі вакцин під час пандемії COVID-19. Автори досліджують комунікацію уряду Канади з внутрішніми зацікавленими сторонами щодо позицій країни під час цих переговорів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312458/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "The World Expected More of Canada: Canada and the Pandemic Agreement.",
+    "originalAbstract": "In an attempt to avoid the inequitable outcome of the COVID-19 pandemic whereby High-Income Countries received the overwhelming majority of vaccine doses after they became available, the World Health Organization initiated negotiations in December 2021 on a legally binding Pandemic Agreement. This paper uses a variety of documents and personal experience to examine how the Canadian government communicated with its domestic stakeholders about the stances that Canada was taking during the negotiat",
+    "keyPoints": [
+      "Канада брала участь у переговорах щодо пандемічної угоди ВООЗ.",
+      "Мета — запобігти нерівності у розподілі вакцин під час пандемії.",
+      "Стаття аналізує внутрішню комунікацію уряду Канади щодо цих переговорів."
+    ],
+    "practicalTakeaway": "Розуміння ролі Канади у глобальних переговорах щодо пандемічної угоди може допомогти у формуванні більш ефективної політики у сфері глобальної охорони здоровʼя.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "глобальна охорона здоровʼя",
+      "переговори ВООЗ",
+      "пандемічна угода"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42308589",
-    "title": "RetiMap: автоматизовані вимірювання судинної мережі сітківки зв'язують мікросудинну структуру з метаболічним здоров'ям та прогнозують ризик серцево-судинних захворювань",
-    "journal": "JACC. Basic to translational science",
-    "publishedAt": "2026-06-17T00:00:00Z",
-    "abstract": "Дослідження показує, що знімки очного дна дозволяють неінвазивно візуалізувати мікросудини сітківки з високою роздільною здатністю. За допомогою штучного інтелекту можна отримати кількісні показники судинної мережі, що відкриває нові можливості для виявлення біомаркерів системного здоров'я. У великій здоровій популяції досліджувалися зв'язки між характеристиками судин сітківки, клінічними фенотипами та прогнозуванням ризику серцево-судинних захворювань.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308589/",
+    "pmid": "42312457",
+    "title": "Глобальні тенденції досліджень у сублингвальній імунотерапії алергічного риніту: бібліометричний аналіз",
+    "journal": "Immunotherapy",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "Дослідження аналізує світові дослідження у сфері сублингвальної імунотерапії для лікування алергічного риніту. Використано дані з бази Web of Science (1993-2024) та інструменти для візуалізації дослідницьких колаборацій і тематичних напрямків.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312457/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "RetiMap: Automated Retinal Vascular Measures Link Microvascular Structure to Metabolic Health and Predict Cardiovascular Risk.",
-    "originalAbstract": "Fundus imaging enables noninvasive, high-resolution visualization of the retinal microvasculature. Advances in artificial intelligence (AI) now allow for extraction of quantitative vascular metrics from retinal images, offering new opportunities for identifying systemic health biomarkers. This study sought to characterize retinal microvascular features in a large healthy population and assess their associations with diverse clinical phenotypes and evaluate their ability to predict incident cardi",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "Exploring global research trends in sublingual immunotherapy of allergic rhinitis: a comprehensive bibliometric analysis.",
+    "originalAbstract": "Sublingual immunotherapy (SLIT) is a well-established, safe, and patient-friendly treatment for allergic rhinitis. This study aims to provide a comprehensive bibliometric analysis of global research trends and emerging hotspots in SLIT for allergic rhinitis. Relevant publications were sourced from the Web of Science Core Collection (1993-2024). VOSviewer, CiteSpace, and the R \"bibliometrix\" package were used to visualize research collaborations, leading contributors, and thematic developments. T",
     "keyPoints": [
-      "Використання знімків сітківки для оцінки мікросудинної структури.",
-      "Автоматизовані вимірювання з використанням штучного інтелекту.",
-      "Можливість прогнозування ризику серцево-судинних захворювань."
+      "Аналіз досліджень показує зростання інтересу до сублингвальної імунотерапії.",
+      "Визначено основних авторів і країни-лідери у цій галузі.",
+      "Виявлено ключові теми та напрямки розвитку досліджень."
     ],
-    "practicalTakeaway": "Автоматизовані аналізи судин сітківки можуть слугувати біомаркерами для оцінки ризику серцево-судинних захворювань.",
+    "practicalTakeaway": "Дослідження демонструє активізацію світових досліджень у сфері сублингвальної імунотерапії алергічного риніту.",
+    "specialty": "імунологія",
+    "tags": [
+      "доказова медицина",
+      "алергія",
+      "біометрика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42312456",
+    "title": "Програма обміну для молодих фахівців у галузі вроджених серцевих захворювань: співпраця для розвитку кадрового потенціалу",
+    "journal": "Cardiology in the young",
+    "publishedAt": "2026-06-18T00:00:00Z",
+    "abstract": "Описано досвід запуску програми обміну для молодих спеціалістів у галузі вроджених серцевих захворювань, спрямованої на розвиток лідерських навичок та мережевих зв'язків. Така ініціатива має потенціал підтримати професійний розвиток та поширення наукових досліджень у цій сфері.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42312456/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-18T14:56:02Z",
+    "originalTitle": "The congenital heart early-career exchange programme: collaboration to advance faculty development.",
+    "originalAbstract": "Developing the next generation of leaders in congenital cardiology is critical to advancing the field. Increasingly, it is recognised that earlier opportunities to establish professional networks, gain unique skills, and disseminate scientific work can be highly beneficial. While cross-institutional collaboration has been successful in supporting quality improvement, it has not been widely used in other areas. We describe our initial experience with a multi-centre congenital heart early-career e",
+    "keyPoints": [
+      "Програма спрямована на розвиток майбутніх лідерів у галузі вроджених серцевих захворювань.",
+      "Міжцентрова співпраця може підтримати професійний розвиток та обмін досвідом.",
+      "Запропоновано модель для підтримки кадрового потенціалу у цій галузі."
+    ],
+    "practicalTakeaway": "Мультицентрові програми обміну можуть сприяти розвитку лідерських навичок у молодих фахівців.",
     "specialty": "кардіологія",
     "tags": [
-      "біомаркери",
-      "штучний інтелект",
-      "серцево-судинні захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308587",
-    "title": "Зміни у структурі сну з віком у дітей та підлітків: дослідження з клінічної полісомнографії",
-    "journal": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Дослідження аналізує вікові зміни у структурі сну, його консолідації та фрагментації у великій когорті дітей та підлітків, що проходили клінічну полісомнографію. Вивчено зв'язок між цими змінами та ступенем порушень дихання під час сну.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308587/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "Age-related changes in sleep macroarchitecture across childhood and adolescence in a paediatric clinical polysomnography cohort.",
-    "originalAbstract": "To characterise age-related changes in sleep macroarchitecture, consolidation and fragmentation across childhood and adolescence in a large real-world paediatric clinical polysomnography cohort, and to examine their relationship with respiratory disturbance severity. We performed a retrospective observational analysis of 419 polysomnographies from children aged 1-18 years at a tertiary sleep unit between January 2023 and December 2024. Participants were categorised as toddlers, pre-schoolers, sc",
-    "keyPoints": [
-      "Вікові зміни у структурі сну у дітей та підлітків досліджено на основі 419 полісомнографій.",
-      "Зміни у сні пов'язані з віком, зокрема у структурі та фрагментації.",
-      "Вивчено зв'язок між змінами сну та ступенем порушень дихання під час сну."
-    ],
-    "practicalTakeaway": "Розуміння вікових змін у структурі сну може допомогти у діагностиці та управлінні порушеннями сну у дітей та підлітків.",
-    "specialty": "неврологія",
-    "tags": [
-      "світовий досвід",
-      "дитячий сон",
-      "полісомнографія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308586",
-    "title": "Білий документ щодо радіотерапії у Франції: десять цілей для її зміцнення",
-    "journal": "Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique",
-    "publishedAt": "2026-06-17T00:00:00Z",
-    "abstract": "Радіотерапія є ключовим методом лікування раку, що щорічно допомагає вилікувати близько 220 000 пацієнтів у Франції та забезпечує довгостроковий контроль захворювання. Технологічний прогрес, зокрема зображення-направлена радіотерапія та нові високодозові техніки, змінює клінічну практику та покращує результати лікування, водночас ставлячи нові виклики.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308586/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "White paper on radiotherapy in France: Ten objectives to strengthen one of the major modalities of cancer treatment.",
-    "originalAbstract": "Radiotherapy is a major component of cancer treatment and contributing to the cure of approximately 220,000 patients annually in France, and to sustained long-term disease control in a substantial proportion of patients. Continuous technological advances - including image-guided radiotherapy, adaptive radiotherapy, and emerging ultra-high dose rate techniques - are transforming clinical practice and improving therapeutic outcomes. However, these innovations also raise important challenges relate",
-    "keyPoints": [
-      "Радіотерапія щорічно допомагає вилікувати близько 220 000 пацієнтів у Франції.",
-      "Технологічний прогрес покращує терапевтичні результати.",
-      "Застосування нових технік ставить важливі виклики для практики."
-    ],
-    "practicalTakeaway": "Подальший розвиток радіотерапії вимагає врахування нових технологій та викликів для покращення результатів лікування.",
-    "specialty": "онкологія",
-    "tags": [
-      "радіотерапія",
-      "онкологія",
-      "медичні технології"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308585",
-    "title": "Мукормікоз: небезпечна інвазивна грибкова інфекція",
-    "journal": "Diagnostic microbiology and infectious disease",
-    "publishedAt": "2026-06-10T00:00:00Z",
-    "abstract": "Мукормікоз є серйозною інвазивною грибковою інфекцією, що переважно уражає імунокомпрометованих пацієнтів, зокрема з погано контролюваним цукровим діабетом, гематоонкологічними захворюваннями або після трансплантації органів. Можливі ускладнення включають ураження орбіти та центральної нервової системи. Мета дослідження — описати епідеміологічні, клінічні, діагностичні, терапевтичні характеристики та результати випадків мукормікозу у спеціалізованому медичному центрі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308585/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "Mucormycosis: A life-threatening invasive fungal infection.",
-    "originalAbstract": "Mucormycosis is a life-threatening invasive fungal infection that primarily affects immunocompromised individuals, particularly those with poorly controlled diabetes mellitus, hematological malignancies, or solid organ transplants. Severe complications, including orbital and central nervous system involvement, may occur. The aim of this study was to describe the epidemiological, clinical, diagnostic, therapeutic, and outcome characteristics of mucormycosis cases in a tertiary care center. We con",
-    "keyPoints": [
-      "Мукормікоз уражає імунокомпрометованих пацієнтів.",
-      "Можливі ускладнення — ураження орбіти та ЦНС.",
-      "Дослідження описує характеристики випадків у спеціалізованому центрі."
-    ],
-    "practicalTakeaway": "Важливо швидко діагностувати та лікувати мукормікоз у високоризикових пацієнтів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "грибкові інфекції",
-      "імунокомпрометація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308584",
-    "title": "Імплант для дитячої остеотомії стегнової кістки з інтеграцією TPMS демонструє структурну можливість та покращене розподілення навантаження: дослідження in silico",
-    "journal": "Computers in biology and medicine",
-    "publishedAt": "2026-06-17T00:00:00Z",
-    "abstract": "Дослідження показало, що 3D-друковані клітинні архітектури з регульованими механічними властивостями відкривають нові можливості для оптимізації ортопедичних імплантів. У випадку дитячої остеотомії стегнової кістки, традиційні імпланти забезпечують стабільність, але їх висока жорсткість зменшує передачу навантаження до зростаючої кістки, що може спричинити стрес-шилдінг. Архітектури з TPMS-решітками мають сприятливий баланс міцності та жорсткості, що потенційно покращує функціональність імпланті",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308584/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "A TPMS-integrated paediatric proximal femoral osteotomy implant demonstrates structural feasibility and improved load sharing: An in silico proof-of-concept study.",
-    "originalAbstract": "Additively manufactured (AM)-enabled cellular architectures with tuneable mechanical properties offer new opportunities for design optimisation in orthopaedic implants. In paediatric proximal femoral osteotomy (PFO), conventional implants provide structural integrity and fixation stability, but their high stiffness reduces load transfer to the growing bone (stress shielding). Triply periodic minimal surface (TPMS) lattices exemplify AM-enabled architectures with favourable strength-to-stiffness ",
-    "keyPoints": [
-      "Дослідження підтверджує структурну можливість використання TPMS-архітектур у дитячих імплантах.",
-      "TPMS-решітки забезпечують покращене розподілення навантаження.",
-      "Модель демонструє потенціал для зменшення стрес-шилдінгу в зростаючих кістках."
-    ],
-    "practicalTakeaway": "Інтеграція TPMS у дизайн дитячих імплантів може покращити їх функціональність та зменшити ризик ускладнень.",
-    "specialty": "хірургія",
-    "tags": [
-      "імплант",
-      "остеотомія",
-      "3D-друк"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308583",
-    "title": "Історичний огляд відкриття людських клітин зубного фолікула для регенеративної стоматології",
-    "journal": "Archives of oral biology",
-    "publishedAt": "2026-06-12T00:00:00Z",
-    "abstract": "Ця оглядова стаття підсумовує понад два десятиліття досліджень людських клітин зубного фолікула (DFCs), зосереджуючись на їх біологічних характеристиках, регенеративних можливостях та потенційних застосуваннях у стоматології та імунотерапії. Аналіз охоплює літературу з пропедевтики тварин з 1990-х років та дослідження DFC з 2005 року, з особливим акцентом на ізоляцію, характеристику, культивування та терапевтичний потенціал клітин.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308583/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "A historical perspective on the discovery of human dental follicle cells for regenerative dentistry.",
-    "originalAbstract": "This narrative review aims to summarize and contextualize more than two decades of research on human dental follicle cells (DFCs), focusing on their biological characteristics, regenerative capacity, and potential applications in dentistry and immunotherapy. Articles were selected based on the literature of non-human propedeutics since the 1990s and human DFC research since its inception in 2005. The focus was set on the isolation, characterization, cultivation, and therapeutic prospects of DFCs",
-    "keyPoints": [
-      "Дослідження охоплює понад 20 років вивчення людських клітин зубного фолікула.",
-      "Зосереджено на їх біологічних характеристиках та потенціалі для регенерації.",
-      "Розглядаються можливості застосування у стоматології та імунотерапії."
-    ],
-    "practicalTakeaway": "Дослідження людських клітин зубного фолікула мають потенціал для розвитку нових методів регенеративної стоматології.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "стоматологія",
-      "регенеративна медицина",
-      "клітинні дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308582",
-    "title": "Запалення внутрішньої жирової тканини при ендометріальній раковині",
-    "journal": "Cancer treatment and research communications",
-    "publishedAt": "2026-06-17T00:00:00Z",
-    "abstract": "Обґрунтовано, що ожиріння є головним фактором ризику розвитку ендометріальної раковини. Однак індекс маси тіла не враховує всі аспекти метаболічної та запальної активності жирової тканини. У дослідженні аналізувалися розміри адипоцитів та утворення короноподібних структур у внутрішній жировій тканині, а також їх зв'язки з розподілом жирової тканини, супутніми захворюваннями та характеристиками пухлини.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308582/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "Visceral adipose tissue inflammation in endometrial cancer.",
-    "originalAbstract": "Obesity is the largest risk factor for endometrial cancer. Body Mass Index (BMI) does not fully capture obesity's metabolic and inflammatory complexity. Adipocyte hypertrophy and crown-like structures reflect adipose tissue dysfunction and obesity-associated chronic inflammation. We aimed to investigate adipocyte size and crown-like structures in visceral adipose tissue, and explore their associations with adipose tissue distribution, obesity-related comorbidities, and tumor characteristics in w",
-    "keyPoints": [
-      "Обґрунтовано зв'язок запалення жирової тканини з ендометріальною раковиною.",
-      "Розміри адипоцитів та короноподібні структури відображають функціональний стан жирової тканини.",
-      "Дослідження сприяє розумінню ролі запалення у розвитку та прогресії ендометріальної раковини."
-    ],
-    "practicalTakeaway": "Розуміння ролі запалення внутрішньої жирової тканини може вплинути на підходи до профілактики та лікування ендометріальної раковини.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "онкологія",
-      "запалення",
-      "жирова тканина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42308579",
-    "title": "Віртуальні хірургічні засідання Grand Rounds сприяють міждисциплінарній та міжпрофесійній співпраці",
-    "journal": "Journal of surgical education",
-    "publishedAt": "2026-06-17T00:00:00Z",
-    "abstract": "Перехід хірургічних засідань Grand Rounds на віртуальний або гібридний формат дозволив збільшити відвідуваність, залучити ширше географічне коло учасників та зменшити перерви у клінічній роботі. Це також сприяло більшій міждисциплінарній та міжпрофесійній участі, включаючи всіх членів хірургічних спеціальностей.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42308579/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-18T03:24:32Z",
-    "originalTitle": "Virtual Surgical Grand Rounds Allow Greater Multidisciplinary and Interprofessional Education and Collaboration.",
-    "originalAbstract": "Over the past few years, Surgical Grand Rounds across the country have been overwhelmingly transitioned from in-person to a virtual or hybrid format. This has been shown to have improved attendance, allowed for greater geographical diversity of speakers and learners, and led to less disruption of clinical duties. At our institution we have used the opportunity to embrace more multidisciplinary and interprofessional involvement by opening sessions to include all members of our surgical specialtie",
-    "keyPoints": [
-      "Віртуальні засідання підвищили відвідуваність та географічну різноманітність.",
-      "Зменшилися перерви у клінічній діяльності.",
-      "Збільшилась міждисциплінарна та міжпрофесійна участь."
-    ],
-    "practicalTakeaway": "Використання віртуальних форматів хірургічних засідань може покращити залучення та співпрацю між різними спеціальностями.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "медична освіта",
-      "міждисциплінарна співпраця",
-      "віртуальні засідання"
+      "професійний розвиток",
+      "міжцентрова співпраця",
+      "лідерство"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
