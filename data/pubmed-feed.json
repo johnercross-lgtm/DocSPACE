@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42325084",
-    "title": "Коментар до Traffic Light: Src у несподіваному світлі",
-    "journal": "Traffic (Copenhagen, Denmark)",
-    "publishedAt": "2026-09-01T00:00:00Z",
-    "abstract": "Аналіз топологічної інверсії Src демонструє нові можливості розуміння ролі цієї кіназної молекули у ракових процесах, відкриваючи несподівані аспекти її функціонування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325084/",
+    "pmid": "42331382",
+    "title": "Роль IL-10, виробленого CD8 T-клітинами, у залученні NK-клітин та антитуморній імунній відповіді після терапії anti-VEGFR-2/PD-1",
+    "journal": "Journal for immunotherapy of cancer",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Дослідження виявило, що комбінація терапії, спрямованої на ангіогенез та імунний контроль, викликає ранню імунну відповідь у пухлинах колоректального раку. Виявлено, що IL-10, вироблений CD8 T-клітинами, сприяє залученню природних клітин-кілерів (NK-клітин) та активує антитуморний імунітет. Це підкреслює важливість імунних механізмів у ефективності комбінованих терапій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331382/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Traffic Light Commentary-Src in the Upside Down: A Kinase Turned Inside Out.",
-    "originalAbstract": "Just as Antelope Canyon transforms familiar rock into an unexpected hidden landscape, the topological inversion of Src reveals an unforeseen extracellular facet of kinase signaling in cancer. Antelope Canyon, Arizona, USA, credit Julie Gavard.",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "IL-10 secretion by CD8 T cells orchestrates early NK cell recruitment and antitumor immunity after anti-VEGFR-2/PD-1 therapy.",
+    "originalAbstract": "The combination of antiangiogenic therapy with immune checkpoint blockade has demonstrated significant clinical benefits in various cancers, however, the precise mechanisms of action on the immune system are not fully understood. In particular, the early intratumoral immune responses induced by angiogenesis inhibition remain unclear. Using preclinical models of colorectal cancer, we examined the immune changes elicited by combined vascular endothelial growth factor receptor-2 (VEGFR-2) and progr",
     "keyPoints": [
-      "Топологічна інверсія Src відкриває нові перспективи у дослідженні раку.",
-      "Src може мати зовнішню функцію, що раніше не враховувалась.",
-      "Дослідження підкреслює важливість вивчення молекулярних механізмів у контексті раку."
+      "IL-10, вироблений CD8 T-клітинами, відіграє ключову роль у ранній імунній відповіді.",
+      "Комбінована терапія anti-VEGFR-2/PD-1 активує залучення NK-клітин до пухлини.",
+      "Результати підкреслюють важливість імунних механізмів у терапевтичній ефективності."
     ],
-    "practicalTakeaway": "Розуміння топологічних змін Src може сприяти розвитку нових підходів у терапії раку.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Розуміння імунних механізмів у терапії може сприяти покращенню стратегій лікування раку.",
+    "specialty": "імунологія",
     "tags": [
       "ракові захворювання",
-      "мікросередовище клітин",
-      "молекулярна біологія"
+      "імунна відповідь",
+      "терапія"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42325083",
-    "title": "Роль miR-335-5p у редиференціації тиреоїдних раків з мутацією BRAF p.V600E",
-    "journal": "Molecular oncology",
+    "pmid": "42331381",
+    "title": "Лікування метастатичного NSCLC після неефективності анти-PD-1 терапії: дослідження RECLAIM",
+    "journal": "Journal for immunotherapy of cancer",
     "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження аналізує участь мікроРНК miR-335-5p у процесах редиференціації тиреоїдних раків з мутацією BRAF p.V600E. Мутація активує шлях RAS/BRAF/MEK/ERK, сприяючи деградації диференціації клітин та неконтрольованому росту. Відомо, що інгібітори MEK та BRAF можуть відновити диференціацію та підвищити чутливість пухлин до радіоактивного йоду, але механізми компенсації обмежують їхню ефективність. Виявлення ключових регуляторних генів, зокрема switch генів, може допомогти у розумінні процесів ред",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325083/",
+    "abstract": "Дослідження оцінює ефективність та безпеку комбінації іпілімумабу та ніволумабу з субаблятивною радіотерапією у пацієнтів з метастатичним немелкоклітинним раком легень з низькою або відсутньою експресією PD-L1, що не відповідали на попередню терапію анти-PD-1.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331381/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "The role of miR-335-5p in the redifferentiation of BRAF p.V600E thyroid cancers.",
-    "originalAbstract": "The BRAF p.V600E mutation activates the RAS/BRAF/MEK/ERK pathway, leading to cancer cell dedifferentiation and uncontrolled growth. In radioiodine-refractory thyroid cancers, MEK and/or BRAF inhibitors can induce redifferentiation, resensitizing tumors to radioiodine. However, compensatory mechanisms limit this efficacy. We used the SWitchMiner software to identify a small pool of regulatory genes, called switch genes, critically associated with drastic changes in cell phenotypes, using TCGA tra",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "Rescue by radiotherapy and anti-CTLA4/PD-1 after failure of anti-PD-1 therapy in patients with metastatic NSCLC: the phase II RECLAIM trial.",
+    "originalAbstract": "Response to anti-programmed cell death protein-1 (anti-PD-1) immunotherapy remains limited in patients with metastatic non-small cell lung cancer (NSCLC), whose tumors exhibit low or absent programmed death-ligand 1 (PD-L1) expression, and subsequent second-line therapy has poor efficacy. To address this limitation, we evaluated the efficacy and safety of combined ipilimumab and nivolumab (IPI/NIVO) with subablative radiotherapy (RT) in patients with metastatic NSCLC with negative or low PD-L1 e",
     "keyPoints": [
-      "Мутація BRAF p.V600E активує шлях RAS/BRAF/MEK/ERK.",
-      "Інгібітори MEK та BRAF можуть сприяти редиференціації.",
-      "Роль miR-335-5p у регуляції цих процесів досліджується."
+      "Комбінована терапія іпілімумабом і ніволумабом з радіотерапією досліджується для пацієнтів з метастатичним NSCLC.",
+      "Дослідження зосереджене на пацієнтах з низькою або відсутньою експресією PD-L1.",
+      "Мета — оцінити ефективність та безпеку такої терапії у випадках неефективності попередніх анти-PD-1 препаратів."
     ],
-    "practicalTakeaway": "Дослідження підкреслює потенціал miR-335-5p як мішені для підвищення ефективності терапії тиреоїдних раків з мутацією BRAF.",
+    "practicalTakeaway": "Комбінована терапія іпілімумабом і ніволумабом з радіотерапією може бути перспективним варіантом для пацієнтів з метастатичним NSCLC, які не відповіли на попередні анти-PD-1 терапії.",
     "specialty": "онкологія",
     "tags": [
-      "тиреоїдні раки",
-      "мікроРНК",
-      "редиференціація"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42325077",
-    "title": "Пацієнтські результати після vNOTES та лапароскопічної гінекологічної хірургії: порівняльний аналіз функції статевих органів, якості життя та самооцінки",
-    "journal": "Minimally invasive therapy & allied technologies : MITAT : official journal of the Society for Minimally Invasive Therapy",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження порівнює вплив vNOTES та традиційної лапароскопії на функцію статевих органів, якість життя та самооцінку пацієнток після операцій на матці та трубах. Аналіз охоплює дані пацієнток, які пройшли відповідні хірургічні втручання у період з січня 2022 по серпень 2023 року.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325077/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Patient-centered outcomes after vNOTES and laparoscopic gynecological surgery: a comparative analysis of sexual function, quality of life, and self-esteem.",
-    "originalAbstract": "This study aimed to investigate and compare the postoperative effects of vaginal natural orifice transluminal endoscopic surgery (vNOTES) and conventional laparoscopy on patients' sexual function, quality of life, and self-esteem for benign indications. Data from patients who underwent hysterectomies and tubal surgeries using either vNOTES or conventional laparoscopy between January 2022 and August 2023 were analyzed and compared. The primary outcomes were sexual function, quality of life, and s",
-    "keyPoints": [
-      "Дослідження порівнює вплив двох методів хірургії на якість життя та сексуальну функцію.",
-      "Основні показники включають функцію статевих органів, самооцінку та якість життя.",
-      "Результати допомагають оцінити пацієнтську задоволеність та психологічний стан після операцій."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть слугувати додатковим аргументом у виборі методу гінекологічної хірургії.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "гінекологія",
-      "хірургія",
-      "якість життя"
+      "онкологія",
+      "імунологія",
+      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42325070",
-    "title": "Роль рофлуміласту у захисті нирок при амікациновій нефротоксичності",
-    "journal": "Drug and chemical toxicology",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження оцінювало потенціал рофлуміласту, селективного інгібітора PDE4, у запобіганні пошкодженню нирок у щурів, викликаному амікацином. Виявлено, що рофлуміласт сприяє підвищенню активності Nrf2, зменшенню цитокінів та запобігає апоптозу ниркових клітин.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325070/",
+    "pmid": "42331374",
+    "title": "Шлях до отримання роботи лікаря з високими ресурсними вимогами у Канаді: досвід прийняття рішень та стажистів",
+    "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+    "publishedAt": "2026-06-21T00:00:00Z",
+    "abstract": "Дослідження вивчало досвід прийняття рішень та стажистів у пошуку роботи у ресурсномістких спеціальностях у Канаді. Виявлено, що пошук роботи викликає тривогу, і новоатестовані спеціалісти стикаються з труднощами у працевлаштуванні, незважаючи на запропоновані рішення.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331374/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Renoprotective effect of roflumilast against amikacin- induced nephrotoxicity: upregulation of Nrf2 signaling, inhibition of cytokines, and renal apoptosis.",
-    "originalAbstract": "ABSTARCTAmikacin (AK), a potent aminoglycoside antibiotic, is known to induce nephrotoxicity. This study evaluated the renoprotective effects of ROF, a selective PDE4 inhibitor, against AK-induced renal injury in Wistar rats. Forty male rats were divided into four groups (n = 10): Control (saline), ROF-only (1.5 mg/kg/day orally for 6 days), AK-only (single intraperitoneal injection of 1.2 g/kg on day 3), and AK+ROF (co-treatment). Renal function was assessed via serum creatinine and BUN. Oxidat",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "The path to securing a resource-intensive physician job in Canada: lived experiences of decision-makers and trainees.",
+    "originalAbstract": "Securing meaningful employment as a physician is anxiety provoking, particularly in resource-intensive specialties, and newly certified specialists continue to report difficulty obtaining employment despite proposed solutions. In this study, we aimed to explore the lived experiences of decision-makers and trainees navigating job-seeking and placement in resource-intensive specialties in Canada and identify suggestions for improvement. In this qualitative interview study, guided by phenomenology,",
     "keyPoints": [
-      "Рофлуміласт потенційно захищає нирки від токсичного впливу амікацину.",
-      "Механізм дії включає підвищення активності Nrf2 та зниження запалення.",
-      "Дослідження проведене на моделях щурів, потребує подальшого підтвердження для клінічного застосування."
+      "Пошук роботи у ресурсномістких спеціальностях викликає тривогу.",
+      "Нові спеціалісти мають труднощі з працевлаштуванням.",
+      "Потреба у покращенні процесу працевлаштування."
     ],
-    "practicalTakeaway": "Рофлуміласт може мати потенціал для запобігання нефротоксичності амікацину, але потрібні додаткові дослідження.",
-    "specialty": "нефрологія",
+    "practicalTakeaway": "Необхідно розробляти та впроваджувати стратегії для покращення процесу працевлаштування у ресурсномістких спеціальностях.",
+    "specialty": "доказова медицина",
     "tags": [
-      "нефропротекція",
-      "амікацин",
-      "інгібітор PDE4"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42325069",
-    "title": "Інтегральний аналіз некроптозу, пов’язаного з макрофагами, при алопеції ареата",
-    "journal": "Experimental dermatology",
-    "publishedAt": "2026-06-01T00:00:00Z",
-    "abstract": "Дослідження вивчало роль некроптозу — форми запрограмованої клітинної смерті — у розвитку алопеції ареата (AA). Аналізувалися дані з чотирьох RNA-seq наборів з 191 зразка шкіри голови пацієнтів з AA та здорових контрольних груп, з використанням методів ssGSEA та GSEA для визначення підписів, пов’язаних з некроптозом. Результати сприяють розумінню потенційної ролі макрофагів у запальних процесах при AA.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325069/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Integrated Analysis of Macrophage-Associated Necroptosis in Alopecia Areata.",
-    "originalAbstract": "Necroptosis, a form of programmed cell death, promotes inflammation in immune-mediated diseases, but its role in alopecia areata (AA) remains unclear. In this study, we investigated necroptosis-related signatures in AA using integrated transcriptomic and histological analyses. Four bulk RNA-seq datasets from the GEO database, comprising 191 scalp samples from AA patients and healthy controls, were analysed by ssGSEA and GSEA to assess necroptosis-related signatures. To address the cellular heter",
-    "keyPoints": [
-      "Досліджено роль некроптозу у алопеції ареата.",
-      "Використано аналіз транскриптомних даних з 191 зразка.",
-      "Результати допомагають зрозуміти залучені клітинні механізми."
-    ],
-    "practicalTakeaway": "Розуміння ролі некроптозу може сприяти пошуку нових терапевтичних цілей для алопеції ареата.",
-    "specialty": "дерматологія",
-    "tags": [
-      "алопеція ареата",
-      "некроптоз",
-      "макрофаги"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42325065",
-    "title": "Жировий гепатоз, виявлений за допомогою ультразвуку, пов'язаний із погіршенням прогнозу у недовагих пацієнтів",
-    "journal": "Hepatology research : the official journal of the Japan Society of Hepatology",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження аналізувало вплив жирового гепатозу, виявленого за допомогою ультразвукової діагностики, на довгострокові результати у пацієнтів з низькою масою тіла. Виявлено, що у недовагих пацієнтів наявність жирового гепатозу асоціюється з погіршенням прогнозу. В дослідженні проаналізовано дані 8599 пацієнтів без важких захворювань печінки та вірусного гепатиту, які пройшли ультразвукове дослідження з 2010 по 2015 роки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325065/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Hepatic Steatosis Detected by Abdominal Ultrasonography Is Associated With Worse Prognosis in Underweight Patients.",
-    "originalAbstract": "To investigate the prognostic factors of hepatic steatosis detected using abdominal ultrasonography (AUS). After identifying low body mass index (BMI) as a potential risk factor, we explored the association between ultrasound-detected hepatic steatosis (UDHS) and long-term outcomes in underweight patients. We retrospectively analyzed 8599 patients who underwent AUS from 2010 to 2015 at six medical centers. Patients with advanced liver disease or viral hepatitis were excluded. In Analysis 1, pati",
-    "keyPoints": [
-      "Жировий гепатоз, виявлений ультразвуком, може бути ознакою погіршення прогнозу у недовагих пацієнтів.",
-      "Низька маса тіла є потенційним фактором ризику для погіршення результатів при наявності жирового гепатозу.",
-      "Дослідження підкреслює важливість врахування маси тіла при оцінці стану печінки та прогнозу."
-    ],
-    "practicalTakeaway": "У пацієнтів з низькою масою тіла та ультразвуковим виявленням жирового гепатозу слід враховувати потенційний ризик погіршення прогнозу.",
-    "specialty": "гематологія",
-    "tags": [
-      "жировий гепатоз",
-      "ультразвукова діагностика",
-      "прогноз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42325063",
-    "title": "Розробка колоїдного золота імунохроматографічного тест-смужки для швидкого визначення фторхінолонів у молоці",
-    "journal": "Analytical methods : advancing methods and applications",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження присвячене створенню швидкого тесту на основі колоїдного золота для виявлення залишків фторхінолонів у молочних продуктах. Це важливо для контролю безпеки харчових продуктів та запобігання ризикам для здоровʼя людини.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325063/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Development of a colloidal gold immunochromatographic strip for rapid detection of fluoroquinolones in milk.",
-    "originalAbstract": "Fluoroquinolones (FQs) are widely used in animal husbandry for the prevention of a variety of animal diseases. However, residues of FQs in animal products that exceed safe limits may pose a serious threat to human health. Therefore, the development of colloidal gold immunochromatographic test strips with high specificity and high sensitivity is crucial for the accurate detection and management of such antibiotic residues. In this study, a monoclonal antibody (mAb) with high specific reactivity t",
-    "keyPoints": [
-      "Розроблено тест-смужку для визначення фторхінолонів у молоці.",
-      "Забезпечує швидкий та точний аналіз.",
-      "Допомагає контролювати залишки антибіотиків у харчових продуктах."
-    ],
-    "practicalTakeaway": "Використання розробленої тест-смужки може покращити контроль за безпекою молочних продуктів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "діагностика",
-      "харчова безпека",
-      "антибіотики"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42325059",
-    "title": "Електросудомна терапія при рухових розладах: систематичний огляд",
-    "journal": "The journal of ECT",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити використання електросудомної терапії (ЕСТ) у лікуванні рухових розладів. Проведено пошук у базах PubMed, SCOPUS, Web of Science та Embase, відібрано 58 публікацій для аналізу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325059/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Electroconvulsive Therapy in Movement Disorders: A Systematic Review.",
-    "originalAbstract": "Electroconvulsive therapy (ECT) is an established treatment strategy for a range of psychiatric disorders, including depression, mania, psychosis, and catatonia. A growing body of evidence suggests that ECT may affect motor symptoms in movement disorders. In a systematic review, we aim to review the evidence on the use of ECT in movement disorders. We searched PubMed, SCOPUS, Cochrane, Web of Science, and Embase to identify relevant publications. Fifty-eight papers were retained for data extract",
-    "keyPoints": [
-      "ЕСТ застосовується при рухових розладах.",
-      "Дослідження охоплюють різні рухові симптоми.",
-      "Потреба у подальших дослідженнях для підтвердження ефективності."
-    ],
-    "practicalTakeaway": "Застосування ЕСТ у рухових розладах потребує додаткових досліджень для визначення її ролі.",
-    "specialty": "неврологія",
-    "tags": [
-      "рухові розлади",
-      "електросудомна терапія",
-      "дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42325058",
-    "title": "Ультразвукова оцінка легень у азійських слонів (Elephas maximus)",
-    "journal": "Veterinary radiology & ultrasound : the official journal of the American College of Veterinary Radiology and the International Veterinary Radiology Association",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження зосереджене на ультразвуковій діагностиці легень у азійських слонів, враховуючи їх унікальну анатомію та труднощі застосування традиційних методів діагностики через їхній великий розмір. Враховуються особливості утримання слонів у неволі, що може сприяти розвитку респіраторних захворювань.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325058/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Ultrasonographic Assessment of the Lungs in Asiatic Elephants (Elephas maximus).",
-    "originalAbstract": "Asian elephants possess a unique pulmonary anatomy that presents challenges for diagnosing respiratory diseases, particularly when reared under human care where environmental stressors, poor hygiene and limited physical activity predispose them to respiratory pathologies. Conventional diagnostic tools such as radiography, computed tomography (CT), and magnetic resonance imaging (MRI) are impractical for elephants due to their large body size. Diagnosis of lung pathologies is often delayed until ",
-    "keyPoints": [
-      "Унікальна анатомія легень у азійських слонів ускладнює діагностику.",
-      "Застосування ультразвуку є перспективним для дослідження легень.",
-      "Традиційні методи, такі як рентген або МРТ, малоефективні через розмір тіла слона."
-    ],
-    "practicalTakeaway": "Ультразвукова діагностика може бути корисною для виявлення респіраторних захворювань у слонів.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "ветеринарна медицина",
-      "діагностика",
-      "ультразвук"
+      "кардіологія",
+      "психіатрія",
+      "загальнонаціональний"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42325056",
-    "title": "Якість життя, пов'язана з зором, після трабекулектомії та імплантації Baerveldt при глаукомі: п'ятирічні результати рандомізованого дослідження",
-    "journal": "Acta ophthalmologica",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження порівнює якість життя, пов'язану з зором, у пацієнтів із глаукомою через п'ять років після проведення трабекулектомії або імплантації Baerveldt. Учасники проходили оцінку зору, поля зору та VRQoL перед операцією та щороку після неї. Результати показують довгострокову стабільність або зміни у якості життя, пов'язаній із зором, залежно від типу втручання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42325056/",
+    "pmid": "42331368",
+    "title": "Соціоекологічна модель для адвокації лікарів: мотивація, фактори підтримки та перешкоди",
+    "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+    "publishedAt": "2026-06-21T00:00:00Z",
+    "abstract": "Дослідження аналізує причини та механізми інтеграції медичної адвокації у професійну ідентичність лікарів у Канаді. Використовуючи феноменологічний підхід, автори розробили соціоекологічну модель, яка враховує мотиваційні чинники, підтримуючі фактори та бар'єри для адвокаційної діяльності лікарів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331368/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-22T16:45:11Z",
-    "originalTitle": "Vision-related quality of life following trabeculectomy versus Baerveldt glaucoma implant: Five-year results from a randomized clinical trial.",
-    "originalAbstract": "To assess the vision-related quality of life (VRQoL) in glaucoma patients over 5 years after primary Baerveldt glaucoma implant (BGI) or trabeculectomy (TE) using a secondary analysis of a randomized clinical trial. Patients were randomized to undergo TE or receive a BGI. Preoperative and annual postoperative evaluations included testing of visual acuity (VA), visual field (VF) and VRQoL. Active intraocular pressure-lowering medications were documented at each visit. VRQoL was assessed using the",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "A socioecological framework for physician advocacy: motivators, enablers, and barriers.",
+    "originalAbstract": "Advocacy is a professional competency for Canadian physicians, yet adoption into medical education, academic medicine, and physician practice varies. We sought to explore perspectives on why and how physicians integrate health advocacy into their professional identity and to develop a model framework. We used a phenomenological approach to develop a socioecological framework. Using purposeful and chain sampling, we conducted semi-structured interviews with physician advocates of diverse backgrou",
     "keyPoints": [
-      "П'ятирічне дослідження порівнює два хірургічні методи лікування глаукоми.",
-      "Оцінка якості життя, пов'язаної з зором, проводилася щороку.",
-      "Результати допомагають визначити довгостроковий вплив на якість життя пацієнтів."
+      "Дослідження фокусується на мотивації та перешкодах у адвокаційній діяльності лікарів.",
+      "Розроблено соціоекологічну модель, що описує фактори впливу на інтеграцію адвокації у професійну ідентичність.",
+      "Використано якісний підхід з інтерв'ю лікарів-адвокатів різного походження."
     ],
-    "practicalTakeaway": "Результати дослідження можуть інформувати вибір хірургічного втручання для пацієнтів із глаукомою.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Розуміння мотиваційних та перешкодних чинників може допомогти у впровадженні адвокаційної практики у медичну освіту та професійну діяльність.",
+    "specialty": "доказова медицина",
     "tags": [
-      "глаукома",
-      "якість життя",
-      "хірургія"
+      "адвокація",
+      "медична освіта",
+      "соціоекологічна модель"
     ],
     "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42331362",
+    "title": "Огляд патентів на антагоністи рецептора GPR84 (2020–2026)",
+    "journal": "Expert opinion on therapeutic patents",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Рецептор GPR84 є про‑запальним, метаболіт‑чутливим GPCR класу A, залученим у запальні, фібротичні, метаболічні та неврологічні процеси. Його індукована експресія та роль у посиленні імунних відповідей сприяють інтересу до розробки антагоністів GPR84 як потенційних терапевтичних засобів. Огляд підсумовує останні досягнення у пошуку антагоністів GPR84, зосереджуючись на патентних заявках та дослідженнях з SciFinder за 2020–2026 роки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331362/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "A patent review of GPR84 receptor antagonists (2020-present).",
+    "originalAbstract": "GPR84 is a pro‑inflammatory, metabolite‑sensing Class A GPCR implicated in a range of inflammatory, fibrotic, metabolic, and neuropathic processes. Its inducible expression and role in amplifying innate immune responses have driven sustained interest in GPR84 antagonists as potential therapeutic agents. This review summarizes recent advances in GPR84 antagonist discovery, focusing on patent applications and research articles retrieved from SciFinder covering 2020 to January 2026. Recent work and",
+    "keyPoints": [
+      "Розробка антагоністів GPR84 активізується з 2020 року.",
+      "Патентна діяльність зосереджена на терапевтичних застосуваннях.",
+      "GPR84 є перспективною мішенню для лікування запальних та метаболічних захворювань."
+    ],
+    "practicalTakeaway": "Розробка антагоністів GPR84 триває, що може сприяти створенню нових терапевтичних засобів.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "патенти",
+      "GPR84",
+      "інновації"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42331357",
+    "title": "Мовні розбіжності у безпеці пацієнтів після впровадження інтервенції з урахуванням медичної грамотності",
+    "journal": "Hospital pediatrics",
+    "publishedAt": "2026-06-23T00:00:00Z",
+    "abstract": "Дослідження оцінює вплив структурованої інтервенції, орієнтованої на підвищення медичної грамотності та залучення сім'ї, на зменшення розбіжностей у запобіжних негативних подіях та досвіді родин у госпіталізованих дітей з батьками, що мають обмежену англійську. Вивчення проводилось у сімох медичних центрах у період з грудня 2014 по січень 2017 року.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331357/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "Language-Related Safety Disparities Following a Health Literacy-Informed Rounds Intervention.",
+    "originalAbstract": "To examine whether disparities in preventable adverse events (AEs) and family experience for hospitalized children of parents with and without limited comfort with English (LCE) changed following implementation of a health literacy-informed, structured family-centered rounds intervention, Patient and Family Centered I-PASS. Seven-center prospective before and after intervention study conducted from December 2014 to January 2017. Inclusion criteria includes parents and caregivers of hospitalized ",
+    "keyPoints": [
+      "Дослідження оцінює вплив інтервенції на безпеку пацієнтів.",
+      "Зменшення розбіжностей у запобіжних негативних подіях.",
+      "Залучення сім'ї через структуровані раунди."
+    ],
+    "practicalTakeaway": "Впровадження структурованих сімейно-орієнтованих раундів може сприяти зменшенню мовних та культурних розбіжностей у безпеці пацієнтів.",
+    "specialty": "педіатрія",
+    "tags": [
+      "безпека пацієнтів",
+      "медична грамотність",
+      "родинне залучення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42331354",
+    "title": "Дисемінована туберкульоз із кавернозним ураженням легень у дуже недоношеної дитини",
+    "journal": "Pediatrics",
+    "publishedAt": "2026-06-23T00:00:00Z",
+    "abstract": "У статті описано випадок дисемінованого туберкульозу з кавернозним ураженням легень у дуже недоношеної новонародженої. Туберкульоз залишається важливою причиною поганих наслідків для здоровʼя та смертності вагітних і новонароджених. Скринінг під час вагітності допомагає виявити інфекцію на критичному етапі, але може бути пропущений. В США рівень захворюваності зростає з 2020 року, що співпадає з глобальним підйомом. Центри контролю та профілактики захворювань рекомендують скринінг для осіб з епі",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331354/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "Disseminated Tuberculosis With Cavitary Lung Disease in a Very Preterm Infant.",
+    "originalAbstract": "Tuberculosis (TB) is an important cause of poor health outcomes and mortality for pregnant women and their infants globally. Screening during pregnancy helps diagnose TB at a critical period to avert morbidity and mortality but may be overlooked. TB incidence in the United States is low but has been increasing since 2020, alongside a global resurgence. The Centers for Disease Control and Prevention (CDC) recommends TB screening for all individuals with epidemiologic risk factors, including birth",
+    "keyPoints": [
+      "Туберкульоз залишається важливою причиною смертності у вагітних та новонароджених.",
+      "Скринінг під час вагітності може допомогти виявити інфекцію раніше.",
+      "Рівень захворюваності на туберкульоз у США зростає з 2020 року."
+    ],
+    "practicalTakeaway": "Важливо враховувати ризики туберкульозу у вагітних з епідеміологічними факторами для попередження ускладнень у новонароджених.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "туберкульоз",
+      "новонароджені",
+      "скринінг"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42331353",
+    "title": "Порівняльна 10-річна ефективність моделей ризику раку молочної залози на основі штучного інтелекту, полігенетичних та клінічних даних у дослідженні Kaiser Permanente",
+    "journal": "Journal of the National Cancer Institute",
+    "publishedAt": "2026-06-23T00:00:00Z",
+    "abstract": "Дослідження порівнює ефективність трьох моделей оцінки ризику раку молочної залози — клінічної, полігенетичної та штучного інтелекту — протягом 10 років у жінок із негативною мамографією у когорті Kaiser Permanente Research Bank. Вибрано 82 957 жінок різного етнічного походження, які проходили скринінг з 2003 по 2020 роки. Аналіз показав, що комбінація моделей може покращити прогнозування ризику.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331353/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "Comparative 10-year performance of mammography artificial intelligence, polygenic, and clinical breast cancer risk models in the Kaiser Permanente Research Bank.",
+    "originalAbstract": "We compared performance across 3 breast cancer risk domains-clinical, polygenic, and mammography artificial intelligence-alone and in combination over a 10-year time horizon among women with a negative screening mammogram within a Kaiser Permanente Research Bank (KPRB) prospective cohort. The study included 82 957 women (61 962 non-Hispanic White, 7256 Asian, 3414 Black, and 5466 Latina) who enrolled in KPRB between 2003 to 2020. Women with a prior history of breast cancer or high/moderate-penet",
+    "keyPoints": [
+      "Дослідження порівнює три моделі оцінки ризику раку молочної залози.",
+      "Вивчено ефективність моделей протягом 10 років у великій когорті.",
+      "Комбіноване використання моделей може підвищити точність прогнозування ризику."
+    ],
+    "practicalTakeaway": "Комбінування різних моделей оцінки ризику може покращити прогнозування раку молочної залози у жінок із негативною мамографією.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракові захворювання",
+      "мамографія",
+      "ризик"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42331351",
+    "title": "Післятуберкульозна хвороба легень у підлітків у Лімі, Перу",
+    "journal": "Pediatrics",
+    "publishedAt": "2026-06-23T00:00:00Z",
+    "abstract": "Дослідження вивчало довгострокові наслідки туберкульозу легень у підлітків у Лімі, Перу. Виявлено, що у тих, хто переніс пульмонарний ТБ у підлітковому віці, спостерігається більша ступінь порушень функції легень та обмежень у діяльності порівняно з однолітками без історії ТБ.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331351/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "Posttuberculosis Lung Disease in Adolescents in Lima, Peru.",
+    "originalAbstract": "Few studies have described long-term respiratory sequelae of adolescent (people aged 10-19 years) tuberculosis (TB) survivors. We hypothesized that compared with healthy adolescents with no history of TB, survivors of adolescent pulmonary TB have greater respiratory impairment (reduced lung function) and disability (symptoms and activity limitations). In this prospective cohort study in Lima, Peru, we used spirometry, oscillometry, and the St George's Respiratory Questionnaire (SGRQ) to evaluate",
+    "keyPoints": [
+      "У підлітків, що перенесли ТБ легень, спостерігається зниження функції легень.",
+      "Дослідження показало більшу ступінь симптомів та обмежень у тих, хто переніс ТБ.",
+      "Вивчення довгострокових наслідків ТБ важливе для покращення реабілітаційних стратегій."
+    ],
+    "practicalTakeaway": "Необхідно враховувати потенційні довгострокові наслідки ТБ у підлітків для оптимізації їх медичного супроводу.",
+    "specialty": "педіатрія",
+    "tags": [
+      "туберкульоз",
+      "легені",
+      "дослідження"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42331350",
+    "title": "Частота оргазму у жінок у період перед зачаттям: кореляти та вимірювання",
+    "journal": "Sexual health",
+    "publishedAt": "2026-08-17T00:00:00Z",
+    "abstract": "Дослідження аналізує частоту оргазму, її зв'язки з іншими факторами та інтенсивністю у жінок, які намагаються завагітніти. Використано дані з когортного дослідження PRESTO, що включає 6022 учасниць. Виявлено, що оргазм може бути важливим компонентом сексуального благополуччя у період перед зачаттям, проте епідеміологічні дослідження з цієї теми обмежені.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42331350/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T02:43:53Z",
+    "originalTitle": "Female orgasm frequency, correlates and measurement in the preconception period.",
+    "originalAbstract": "Orgasm can be an important component of sexual wellbeing broadly and specifically in the preconception period, yet epidemiologic research on orgasm is limited. We used cross-sectional data from Pregnancy Study Online (PRESTO), a cohort study of females attempting conception with one male partner (N = 6022; 2020-2025), to descriptively evaluate orgasm frequency, its correlates and its relationship to orgasm intensity. We used self-reported data to assess orgasm frequency (Likert scale: never/rare",
+    "keyPoints": [
+      "Дослідження аналізує частоту оргазму у жінок перед зачаттям.",
+      "Використано дані з когортного дослідження PRESTO.",
+      "Оргазм може бути важливим для сексуального благополуччя у цей період."
+    ],
+    "practicalTakeaway": "Результати підкреслюють важливість дослідження сексуального функціонування у жінок у період перед зачаттям.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "сексуальне здоровʼя",
+      "жінки",
+      "репродуктивне здоровʼя"
+    ],
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
