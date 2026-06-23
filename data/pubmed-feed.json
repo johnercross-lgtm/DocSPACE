@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42331382",
-    "title": "Роль IL-10, виробленого CD8 T-клітинами, у залученні NK-клітин та антитуморній імунній відповіді після терапії anti-VEGFR-2/PD-1",
-    "journal": "Journal for immunotherapy of cancer",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження виявило, що комбінація терапії, спрямованої на ангіогенез та імунний контроль, викликає ранню імунну відповідь у пухлинах колоректального раку. Виявлено, що IL-10, вироблений CD8 T-клітинами, сприяє залученню природних клітин-кілерів (NK-клітин) та активує антитуморний імунітет. Це підкреслює важливість імунних механізмів у ефективності комбінованих терапій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331382/",
+    "pmid": "42332368",
+    "title": "Вплив кон'югації ASO та афінності до рецептора на внутрішньоклітинний транспорт варіантів TfR- та CD98-Brainshuttle™",
+    "journal": "mAbs",
+    "publishedAt": "2026-12-01T00:00:00Z",
+    "abstract": "Дослідження аналізує, як кон'югація антисмислових олігонуклеотидів (ASO) та їх афінність до рецепторів впливають на внутрішньоклітинний транспорт варіантів Brainshuttle™, спрямованих на перетин гематоенцефалічного бар'єру. Це має важливе значення для розвитку терапевтичних стратегій для ЦНС.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332368/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "IL-10 secretion by CD8 T cells orchestrates early NK cell recruitment and antitumor immunity after anti-VEGFR-2/PD-1 therapy.",
-    "originalAbstract": "The combination of antiangiogenic therapy with immune checkpoint blockade has demonstrated significant clinical benefits in various cancers, however, the precise mechanisms of action on the immune system are not fully understood. In particular, the early intratumoral immune responses induced by angiogenesis inhibition remain unclear. Using preclinical models of colorectal cancer, we examined the immune changes elicited by combined vascular endothelial growth factor receptor-2 (VEGFR-2) and progr",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "Impact of ASO conjugation and receptor binding affinity on intracellular transport of mono- and bispecific TfR- and CD98-BrainshuttleTM variants.",
+    "originalAbstract": "Antisense oligonucleotides (ASOs) represent a promising therapeutic modality for central nervous system (CNS) disorders, offering highly specific modulation of gene expression. However, their clinical utility is severely limited by their inability to cross the blood-brain barrier (BBB), necessitating effective shuttling strategies. While transferrin receptor (TfR1)-mediated shuttling has shown therapeutic promise, the fundamental mechanisms governing the delivery of antibody-ASO conjugates acros",
     "keyPoints": [
-      "IL-10, вироблений CD8 T-клітинами, відіграє ключову роль у ранній імунній відповіді.",
-      "Комбінована терапія anti-VEGFR-2/PD-1 активує залучення NK-клітин до пухлини.",
-      "Результати підкреслюють важливість імунних механізмів у терапевтичній ефективності."
+      "Аналізується вплив кон'югації ASO на транспорт через гематоенцефалічний бар'єр.",
+      "Розглядається роль афінності до рецепторів у внутрішньоклітинному доставленні.",
+      "Дослідження має потенціал для покращення терапевтичних підходів для ЦНС."
     ],
-    "practicalTakeaway": "Розуміння імунних механізмів у терапії може сприяти покращенню стратегій лікування раку.",
-    "specialty": "імунологія",
-    "tags": [
-      "ракові захворювання",
-      "імунна відповідь",
-      "терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331381",
-    "title": "Лікування метастатичного NSCLC після неефективності анти-PD-1 терапії: дослідження RECLAIM",
-    "journal": "Journal for immunotherapy of cancer",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Дослідження оцінює ефективність та безпеку комбінації іпілімумабу та ніволумабу з субаблятивною радіотерапією у пацієнтів з метастатичним немелкоклітинним раком легень з низькою або відсутньою експресією PD-L1, що не відповідали на попередню терапію анти-PD-1.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331381/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "Rescue by radiotherapy and anti-CTLA4/PD-1 after failure of anti-PD-1 therapy in patients with metastatic NSCLC: the phase II RECLAIM trial.",
-    "originalAbstract": "Response to anti-programmed cell death protein-1 (anti-PD-1) immunotherapy remains limited in patients with metastatic non-small cell lung cancer (NSCLC), whose tumors exhibit low or absent programmed death-ligand 1 (PD-L1) expression, and subsequent second-line therapy has poor efficacy. To address this limitation, we evaluated the efficacy and safety of combined ipilimumab and nivolumab (IPI/NIVO) with subablative radiotherapy (RT) in patients with metastatic NSCLC with negative or low PD-L1 e",
-    "keyPoints": [
-      "Комбінована терапія іпілімумабом і ніволумабом з радіотерапією досліджується для пацієнтів з метастатичним NSCLC.",
-      "Дослідження зосереджене на пацієнтах з низькою або відсутньою експресією PD-L1.",
-      "Мета — оцінити ефективність та безпеку такої терапії у випадках неефективності попередніх анти-PD-1 препаратів."
-    ],
-    "practicalTakeaway": "Комбінована терапія іпілімумабом і ніволумабом з радіотерапією може бути перспективним варіантом для пацієнтів з метастатичним NSCLC, які не відповіли на попередні анти-PD-1 терапії.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "імунологія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331374",
-    "title": "Шлях до отримання роботи лікаря з високими ресурсними вимогами у Канаді: досвід прийняття рішень та стажистів",
-    "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
-    "publishedAt": "2026-06-21T00:00:00Z",
-    "abstract": "Дослідження вивчало досвід прийняття рішень та стажистів у пошуку роботи у ресурсномістких спеціальностях у Канаді. Виявлено, що пошук роботи викликає тривогу, і новоатестовані спеціалісти стикаються з труднощами у працевлаштуванні, незважаючи на запропоновані рішення.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331374/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "The path to securing a resource-intensive physician job in Canada: lived experiences of decision-makers and trainees.",
-    "originalAbstract": "Securing meaningful employment as a physician is anxiety provoking, particularly in resource-intensive specialties, and newly certified specialists continue to report difficulty obtaining employment despite proposed solutions. In this study, we aimed to explore the lived experiences of decision-makers and trainees navigating job-seeking and placement in resource-intensive specialties in Canada and identify suggestions for improvement. In this qualitative interview study, guided by phenomenology,",
-    "keyPoints": [
-      "Пошук роботи у ресурсномістких спеціальностях викликає тривогу.",
-      "Нові спеціалісти мають труднощі з працевлаштуванням.",
-      "Потреба у покращенні процесу працевлаштування."
-    ],
-    "practicalTakeaway": "Необхідно розробляти та впроваджувати стратегії для покращення процесу працевлаштування у ресурсномістких спеціальностях.",
+    "practicalTakeaway": "Розуміння механізмів внутрішньоклітинного транспорту ASO може сприяти розробці ефективніших терапевтичних засобів для захворювань ЦНС.",
     "specialty": "доказова медицина",
     "tags": [
-      "кардіологія",
-      "психіатрія",
-      "загальнонаціональний"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331368",
-    "title": "Соціоекологічна модель для адвокації лікарів: мотивація, фактори підтримки та перешкоди",
-    "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
-    "publishedAt": "2026-06-21T00:00:00Z",
-    "abstract": "Дослідження аналізує причини та механізми інтеграції медичної адвокації у професійну ідентичність лікарів у Канаді. Використовуючи феноменологічний підхід, автори розробили соціоекологічну модель, яка враховує мотиваційні чинники, підтримуючі фактори та бар'єри для адвокаційної діяльності лікарів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331368/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "A socioecological framework for physician advocacy: motivators, enablers, and barriers.",
-    "originalAbstract": "Advocacy is a professional competency for Canadian physicians, yet adoption into medical education, academic medicine, and physician practice varies. We sought to explore perspectives on why and how physicians integrate health advocacy into their professional identity and to develop a model framework. We used a phenomenological approach to develop a socioecological framework. Using purposeful and chain sampling, we conducted semi-structured interviews with physician advocates of diverse backgrou",
-    "keyPoints": [
-      "Дослідження фокусується на мотивації та перешкодах у адвокаційній діяльності лікарів.",
-      "Розроблено соціоекологічну модель, що описує фактори впливу на інтеграцію адвокації у професійну ідентичність.",
-      "Використано якісний підхід з інтерв'ю лікарів-адвокатів різного походження."
-    ],
-    "practicalTakeaway": "Розуміння мотиваційних та перешкодних чинників може допомогти у впровадженні адвокаційної практики у медичну освіту та професійну діяльність.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "адвокація",
-      "медична освіта",
-      "соціоекологічна модель"
+      "нейронаука",
+      "лікування ЦНС",
+      "біотехнології"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42331362",
-    "title": "Огляд патентів на антагоністи рецептора GPR84 (2020–2026)",
-    "journal": "Expert opinion on therapeutic patents",
+    "pmid": "42332367",
+    "title": "Фізична активність і вправи при ранніх стадіях хвороби Паркінсона: вплив на моторні та немоторні результати",
+    "journal": "PM & R : the journal of injury, function, and rehabilitation",
     "publishedAt": "2026-06-22T00:00:00Z",
-    "abstract": "Рецептор GPR84 є про‑запальним, метаболіт‑чутливим GPCR класу A, залученим у запальні, фібротичні, метаболічні та неврологічні процеси. Його індукована експресія та роль у посиленні імунних відповідей сприяють інтересу до розробки антагоністів GPR84 як потенційних терапевтичних засобів. Огляд підсумовує останні досягнення у пошуку антагоністів GPR84, зосереджуючись на патентних заявках та дослідженнях з SciFinder за 2020–2026 роки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331362/",
+    "abstract": "Дослідження аналізує вплив довготривалих звичок до помірної та високої інтенсивності фізичних вправ на фізичний, когнітивний стан та самопочуття у пацієнтів з ранньою стадією хвороби Паркінсона порівняно з здоровими особами. Вивчення показало потенційні переваги активного способу життя, але остаточні висновки потребують додаткових досліджень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332367/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "A patent review of GPR84 receptor antagonists (2020-present).",
-    "originalAbstract": "GPR84 is a pro‑inflammatory, metabolite‑sensing Class A GPCR implicated in a range of inflammatory, fibrotic, metabolic, and neuropathic processes. Its inducible expression and role in amplifying innate immune responses have driven sustained interest in GPR84 antagonists as potential therapeutic agents. This review summarizes recent advances in GPR84 antagonist discovery, focusing on patent applications and research articles retrieved from SciFinder covering 2020 to January 2026. Recent work and",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "Physical activity and exercise participation-Impact on motor and non-motor outcomes in early-stage Parkinson disease: A cross-sectional study.",
+    "originalAbstract": "Aerobic exercise is beneficial in managing Parkinson disease (PD), yet its potential remains less clear in early stages. This study investigates the impact of long-term aerobic exercise habits in individuals with early-stage PD compared with healthy controls. Cross-sectional study. To evaluate whether long-term exposure to moderate- to high-intensity exercise was associated with more favorable physical, cognitive, and patient-reported outcomes in early PD, by comparing \"highly active\" individual",
     "keyPoints": [
-      "Розробка антагоністів GPR84 активізується з 2020 року.",
-      "Патентна діяльність зосереджена на терапевтичних застосуваннях.",
-      "GPR84 є перспективною мішенню для лікування запальних та метаболічних захворювань."
+      "Дослідження порівнює фізичну активність у пацієнтів з ранньою стадією хвороби Паркінсона та здорових.",
+      "Довготривалі фізичні навантаження можуть бути пов'язані з покращеннями у фізичному та когнітивному стані.",
+      "Результати підкреслюють важливість активного способу життя для пацієнтів з раннім Паркінсоном."
     ],
-    "practicalTakeaway": "Розробка антагоністів GPR84 триває, що може сприяти створенню нових терапевтичних засобів.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Заохочення до регулярної фізичної активності може мати потенційний позитивний вплив на результати у пацієнтів з ранньою стадією хвороби Паркінсона.",
+    "specialty": "неврологія",
     "tags": [
-      "патенти",
-      "GPR84",
-      "інновації"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331357",
-    "title": "Мовні розбіжності у безпеці пацієнтів після впровадження інтервенції з урахуванням медичної грамотності",
-    "journal": "Hospital pediatrics",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "abstract": "Дослідження оцінює вплив структурованої інтервенції, орієнтованої на підвищення медичної грамотності та залучення сім'ї, на зменшення розбіжностей у запобіжних негативних подіях та досвіді родин у госпіталізованих дітей з батьками, що мають обмежену англійську. Вивчення проводилось у сімох медичних центрах у період з грудня 2014 по січень 2017 року.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331357/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "Language-Related Safety Disparities Following a Health Literacy-Informed Rounds Intervention.",
-    "originalAbstract": "To examine whether disparities in preventable adverse events (AEs) and family experience for hospitalized children of parents with and without limited comfort with English (LCE) changed following implementation of a health literacy-informed, structured family-centered rounds intervention, Patient and Family Centered I-PASS. Seven-center prospective before and after intervention study conducted from December 2014 to January 2017. Inclusion criteria includes parents and caregivers of hospitalized ",
-    "keyPoints": [
-      "Дослідження оцінює вплив інтервенції на безпеку пацієнтів.",
-      "Зменшення розбіжностей у запобіжних негативних подіях.",
-      "Залучення сім'ї через структуровані раунди."
-    ],
-    "practicalTakeaway": "Впровадження структурованих сімейно-орієнтованих раундів може сприяти зменшенню мовних та культурних розбіжностей у безпеці пацієнтів.",
-    "specialty": "педіатрія",
-    "tags": [
-      "безпека пацієнтів",
-      "медична грамотність",
-      "родинне залучення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331354",
-    "title": "Дисемінована туберкульоз із кавернозним ураженням легень у дуже недоношеної дитини",
-    "journal": "Pediatrics",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "abstract": "У статті описано випадок дисемінованого туберкульозу з кавернозним ураженням легень у дуже недоношеної новонародженої. Туберкульоз залишається важливою причиною поганих наслідків для здоровʼя та смертності вагітних і новонароджених. Скринінг під час вагітності допомагає виявити інфекцію на критичному етапі, але може бути пропущений. В США рівень захворюваності зростає з 2020 року, що співпадає з глобальним підйомом. Центри контролю та профілактики захворювань рекомендують скринінг для осіб з епі",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331354/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "Disseminated Tuberculosis With Cavitary Lung Disease in a Very Preterm Infant.",
-    "originalAbstract": "Tuberculosis (TB) is an important cause of poor health outcomes and mortality for pregnant women and their infants globally. Screening during pregnancy helps diagnose TB at a critical period to avert morbidity and mortality but may be overlooked. TB incidence in the United States is low but has been increasing since 2020, alongside a global resurgence. The Centers for Disease Control and Prevention (CDC) recommends TB screening for all individuals with epidemiologic risk factors, including birth",
-    "keyPoints": [
-      "Туберкульоз залишається важливою причиною смертності у вагітних та новонароджених.",
-      "Скринінг під час вагітності може допомогти виявити інфекцію раніше.",
-      "Рівень захворюваності на туберкульоз у США зростає з 2020 року."
-    ],
-    "practicalTakeaway": "Важливо враховувати ризики туберкульозу у вагітних з епідеміологічними факторами для попередження ускладнень у новонароджених.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "туберкульоз",
-      "новонароджені",
-      "скринінг"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331353",
-    "title": "Порівняльна 10-річна ефективність моделей ризику раку молочної залози на основі штучного інтелекту, полігенетичних та клінічних даних у дослідженні Kaiser Permanente",
-    "journal": "Journal of the National Cancer Institute",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "abstract": "Дослідження порівнює ефективність трьох моделей оцінки ризику раку молочної залози — клінічної, полігенетичної та штучного інтелекту — протягом 10 років у жінок із негативною мамографією у когорті Kaiser Permanente Research Bank. Вибрано 82 957 жінок різного етнічного походження, які проходили скринінг з 2003 по 2020 роки. Аналіз показав, що комбінація моделей може покращити прогнозування ризику.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331353/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "Comparative 10-year performance of mammography artificial intelligence, polygenic, and clinical breast cancer risk models in the Kaiser Permanente Research Bank.",
-    "originalAbstract": "We compared performance across 3 breast cancer risk domains-clinical, polygenic, and mammography artificial intelligence-alone and in combination over a 10-year time horizon among women with a negative screening mammogram within a Kaiser Permanente Research Bank (KPRB) prospective cohort. The study included 82 957 women (61 962 non-Hispanic White, 7256 Asian, 3414 Black, and 5466 Latina) who enrolled in KPRB between 2003 to 2020. Women with a prior history of breast cancer or high/moderate-penet",
-    "keyPoints": [
-      "Дослідження порівнює три моделі оцінки ризику раку молочної залози.",
-      "Вивчено ефективність моделей протягом 10 років у великій когорті.",
-      "Комбіноване використання моделей може підвищити точність прогнозування ризику."
-    ],
-    "practicalTakeaway": "Комбінування різних моделей оцінки ризику може покращити прогнозування раку молочної залози у жінок із негативною мамографією.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "мамографія",
-      "ризик"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42331351",
-    "title": "Післятуберкульозна хвороба легень у підлітків у Лімі, Перу",
-    "journal": "Pediatrics",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "abstract": "Дослідження вивчало довгострокові наслідки туберкульозу легень у підлітків у Лімі, Перу. Виявлено, що у тих, хто переніс пульмонарний ТБ у підлітковому віці, спостерігається більша ступінь порушень функції легень та обмежень у діяльності порівняно з однолітками без історії ТБ.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331351/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "Posttuberculosis Lung Disease in Adolescents in Lima, Peru.",
-    "originalAbstract": "Few studies have described long-term respiratory sequelae of adolescent (people aged 10-19 years) tuberculosis (TB) survivors. We hypothesized that compared with healthy adolescents with no history of TB, survivors of adolescent pulmonary TB have greater respiratory impairment (reduced lung function) and disability (symptoms and activity limitations). In this prospective cohort study in Lima, Peru, we used spirometry, oscillometry, and the St George's Respiratory Questionnaire (SGRQ) to evaluate",
-    "keyPoints": [
-      "У підлітків, що перенесли ТБ легень, спостерігається зниження функції легень.",
-      "Дослідження показало більшу ступінь симптомів та обмежень у тих, хто переніс ТБ.",
-      "Вивчення довгострокових наслідків ТБ важливе для покращення реабілітаційних стратегій."
-    ],
-    "practicalTakeaway": "Необхідно враховувати потенційні довгострокові наслідки ТБ у підлітків для оптимізації їх медичного супроводу.",
-    "specialty": "педіатрія",
-    "tags": [
-      "туберкульоз",
-      "легені",
+      "фізична активність",
+      "хвороба Паркінсона",
       "дослідження"
     ],
-    "priorityScore": 2,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42331350",
-    "title": "Частота оргазму у жінок у період перед зачаттям: кореляти та вимірювання",
-    "journal": "Sexual health",
-    "publishedAt": "2026-08-17T00:00:00Z",
-    "abstract": "Дослідження аналізує частоту оргазму, її зв'язки з іншими факторами та інтенсивністю у жінок, які намагаються завагітніти. Використано дані з когортного дослідження PRESTO, що включає 6022 учасниць. Виявлено, що оргазм може бути важливим компонентом сексуального благополуччя у період перед зачаттям, проте епідеміологічні дослідження з цієї теми обмежені.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42331350/",
+    "pmid": "42332365",
+    "title": "Клінічні, етичні та фінансові аспекти підтримки трансфузій еритроцитів у кінці життя при гематоонкологічних захворюваннях",
+    "journal": "The American journal of hospice & palliative care",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Дослідження аналізує питання застосування трансфузій еритроцитів у пацієнтів з прогресуючими гематоонкологічними захворюваннями на завершальному етапі життя. Враховуються клінічні, етичні та фінансові аспекти, зокрема доступність трансфузій у хоспісах та їхній вплив на якість життя пацієнтів. Враховується обмеженість донорської крові та її роль у прийнятті рішень щодо паліативної допомоги.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332365/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-23T02:43:53Z",
-    "originalTitle": "Female orgasm frequency, correlates and measurement in the preconception period.",
-    "originalAbstract": "Orgasm can be an important component of sexual wellbeing broadly and specifically in the preconception period, yet epidemiologic research on orgasm is limited. We used cross-sectional data from Pregnancy Study Online (PRESTO), a cohort study of females attempting conception with one male partner (N = 6022; 2020-2025), to descriptively evaluate orgasm frequency, its correlates and its relationship to orgasm intensity. We used self-reported data to assess orgasm frequency (Likert scale: never/rare",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "Clinical, Ethical, and Financial Considerations With Red Blood Cell Transfusion Support at the End of Life in Hematologic Malignancies.",
+    "originalAbstract": "Patients with advanced hematological malignancies often have red blood cell (RBC) transfusion needs at the end of life (EOL) to improve debilitating anemia-related symptoms. Given that patients with hematologic malignancies and their caregivers find that transfusions improve energy and quality of life, access becomes a critical factor influencing hospice enrollment decisions, given variable access to transfusions in hospice settings. Additionally, because blood is a finite resource, this raises ",
     "keyPoints": [
-      "Дослідження аналізує частоту оргазму у жінок перед зачаттям.",
-      "Використано дані з когортного дослідження PRESTO.",
-      "Оргазм може бути важливим для сексуального благополуччя у цей період."
+      "Трансфузії еритроцитів покращують симптоми анемії та якість життя пацієнтів.",
+      "Доступність трансфузій у хоспісах є важливим фактором для прийняття рішення про паліативну допомогу.",
+      "Обмеженість донорської крові ставить питання щодо етичного та фінансового управління ресурсами."
     ],
-    "practicalTakeaway": "Результати підкреслюють важливість дослідження сексуального функціонування у жінок у період перед зачаттям.",
-    "specialty": "сімейна медицина",
+    "practicalTakeaway": "Обговорювати з пацієнтами можливість та цілі застосування трансфузій у кінці життя, враховуючи етичні та ресурсні аспекти.",
+    "specialty": "гематологія",
     "tags": [
-      "сексуальне здоровʼя",
-      "жінки",
-      "репродуктивне здоровʼя"
+      "гематологія",
+      "паліативна медицина",
+      "етика"
     ],
     "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332362",
+    "title": "Sentio Bone-Conduction Implant: ранні результати у пацієнтів з кондуктивною або змішаною глухотою",
+    "journal": "The Laryngoscope",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Дослідження оцінює початкові клінічні результати, безпеку та аудіологічну ефективність активного кістковокондуктивного імпланта Sentio (Oticon Medical), схваленого у 2024 році. У дослідженні взяли участь 28 пацієнтів із кондуктивною (10) та змішаною глухотою (18). Передопераційна оцінка включала аудіометрію та тест розпізнавання мови у допоміжних та недопоміжних умовах. Післяопераційні оцінки включали пороги слуху та сприйняття мови.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332362/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "Sentio Bone-Conduction Implant: Early Outcomes in Patients With Conductive or Mixed Hearing Loss.",
+    "originalAbstract": "Sentio (Oticon Medical) is an active bone-conduction implant approved in 2024. This study evaluates initial clinical outcomes, safety, and audiological efficacy of the Sentio in patients with conductive or mixed hearing loss. A total of 28 patients (10 conductive, 18 mixed hearing loss) were implanted with Sentio. Preoperative assessments included pure-tone audiometry and speech recognition testing in unaided and aided conditions. Postoperative evaluations of hearing thresholds and speech recogn",
+    "keyPoints": [
+      "Дослідження оцінює перші результати використання імпланта Sentio.",
+      "Вивчено безпеку та ефективність у пацієнтів з кондуктивною та змішаною глухотою.",
+      "Учасники пройшли аудіологічну оцінку до та після імплантації."
+    ],
+    "practicalTakeaway": "Ранні дані свідчать про потенціал імпланта Sentio для покращення слуху у відповідних пацієнтів.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "слухові порушення",
+      "кістковокондуктивний імплант",
+      "клінічні результати"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332357",
+    "title": "Три-розмірна оцінка центру головки стегнової кістки у пацієнток з дисплазією кульшового суглоба",
+    "journal": "Orthopaedic surgery",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Дослідження оцінює можливість визначення місця центру головки стегнової кістки у пацієнток з дисплазією кульшового суглоба за допомогою тривимірної моделі, побудованої на основі орієнтирів великогомілкової кістки. Аналіз проведено на ретроспективних даних 128 стегон у 84 жінок.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332357/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "Three-Dimensional Estimation of the Femoral Head Center From Trochanteric Landmarks in Japanese Female Patients With Developmental Dysplasia of the Hip.",
+    "originalAbstract": "Although pelvic landmarks have traditionally been used to estimate the femoral head center (FC), their reliability may be limited in patients with developmental dysplasia of the hip (DDH). In contrast, femoral-based reference methods have been insufficiently investigated. This study aimed to evaluate the feasibility and clinical utility of estimating the FC location in DDH using a three-dimensional model derived from trochanteric landmarks. We retrospectively analyzed 128 femurs from 84 female p",
+    "keyPoints": [
+      "Вивчено методику тривимірної оцінки центру головки стегнової кістки.",
+      "Розглянуто застосовність у пацієнток з дисплазією кульшового суглоба.",
+      "Дослідження базується на аналізі ретроспективних даних."
+    ],
+    "practicalTakeaway": "Використання тривимірних моделей на основі орієнтирів великогомілкової кістки може бути корисним для визначення центру головки стегнової кістки у пацієнток з дисплазією кульшового суглоба.",
+    "specialty": "хірургія",
+    "tags": [
+      "тривимірна модель",
+      "дисплазія кульшового суглоба",
+      "стегнова кістка"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332356",
+    "title": "Молекулярні механізми та активні компоненти Xiangsha Liujunzi Decoction у лікуванні раку щитоподібної залози: дослідження на основі мережевої фармакології",
+    "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+    "publishedAt": "2026-06-21T00:00:00Z",
+    "abstract": "Дослідження аналізує активні компоненти та потенційні молекулярні цілі Xiangsha Liujunzi Decoction (XSLJZ) у терапії раку щитоподібної залози. Виявлено ключові білки та шляхи, що можуть бути залучені у механізмах дії препарату, використовуючи бази даних традиційної китайської медицини та біоінформатичні ресурси.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332356/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "[Network pharmacology-based investigation of the therapeutic efficacy and molecular targets of Xiangsha Liujunzi Decoction in thyroid cancer].",
+    "originalAbstract": "To explore the active components and potential molecular mechanisms of Xiangsha Liujunzi decoction (XSLJZ) in the treatment of thyroid cancer. Active components and corresponding targets of XSLJZ were screened using the Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform (TCMSP). Thyroid cancer-related targets were collected from seven bioinformatics databases, including GeneCards, OMIM, DisGeNET, DrugBank, TCGA, GEO, and TTD. A protein-protein interaction (PPI) netw",
+    "keyPoints": [
+      "Виявлено активні компоненти XSLJZ та їх потенційні цілі у лікуванні раку щитоподібної залози.",
+      "Проаналізовано молекулярні шляхи, залучені у терапевтичний ефект.",
+      "Дослідження базується на мережевій фармакології та біоінформатичних даних."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на розуміння молекулярних механізмів дії традиційних китайських препаратів у лікуванні раку щитоподібної залози.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракові захворювання",
+      "традиційна китайська медицина",
+      "молекулярна біологія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332355",
+    "title": "Ен-блок-резекція раку щитоподібної залози з використанням диссекції тунелю гортаного нерву та мезангієктомії: ретроспективний аналіз 174 випадків",
+    "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+    "publishedAt": "2026-06-17T00:00:00Z",
+    "abstract": "У дослідженні проаналізовано 174 випадки раку щитоподібної залози, де застосовували ен-блок-резекцію з диссекцією тунелю гортаного нерву та мезангієктомією. Метод дозволяє більш повне видалення пухлини, але потребує ретельної техніки для зменшення ускладнень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332355/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "[En-bloc resection of thyroid cancer using recurrent laryngeal nerve tunnel dissection combined with mesangectomy: a retro-spective analysis of 174 cases].",
+    "originalAbstract": "To evaluate the application value of recurrent laryngeal nerve tunnel dissection combined with mesangectomy in en-bloc resection for thyroid cancer. A retrospective analysis was conducted on 174 patients with thyroid cancer diagnosed by preoperative fine-needle aspiration cytology who underwent surgery at Shaoxing Central Hospital from January 2020 to May 2024. These patients (modified surgery group) received en-bloc resection using recurrent laryngeal nerve tunnel dissection combined with mesan",
+    "keyPoints": [
+      "Досліджено 174 випадки раку щитоподібної залози.",
+      "Застосовували ен-блок-резекцію з диссекцією тунелю гортаного нерву.",
+      "Метод може покращити повне видалення пухлини."
+    ],
+    "practicalTakeaway": "Використання диссекції тунелю гортаного нерву у комплексі з мезангієктомією може бути ефективним підходом у хірургічному лікуванні раку щитоподібної залози.",
+    "specialty": "хірургія",
+    "tags": [
+      "онкологія",
+      "ендокринологія",
+      "хірургія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332353",
+    "title": "Когнітивні профілі при психозі: порівняння сенсорних та мультимодальних галюцинацій",
+    "journal": "Cognitive neuropsychiatry",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Дослідження порівнює когнітивний профіль осіб із психозом, що мають унікальні або мультисенсорні галюцинації, з тими, хто має мультимодальні галюцинації. Виявлено різниці у когнітивних функціях залежно від типу галюцинацій.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332353/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "Cognitive profiles in psychosis: comparing those experiencing uni- or multisensory versus multimodal hallucinations.",
+    "originalAbstract": "Introduction: A vast body of cognitive research in psychosis has focused on auditory hallucinations, though more recent studies are turning towards other sensory modalities. This study aimed to compare the cognitive profile of persons experiencing uni- or multisensory versus multimodal hallucinations. Methods: Participants with primary diagnosis of a psychotic disorder were subdivided into those experiencing uni- or multisensory (UMS; n = 31) versus multimodal (MM; n = 28) hallucinations relativ",
+    "keyPoints": [
+      "Досліджено когнітивні профілі при різних типах галюцинацій.",
+      "Порівняння унікальних, мультисенсорних та мультимодальних галюцинацій.",
+      "Результати допомагають краще розуміти когнітивні особливості при психозі."
+    ],
+    "practicalTakeaway": "Розуміння різниць у когнітивних профілях може сприяти більш цілеспрямованому підходу до терапії психозу.",
+    "specialty": "психіатрія",
+    "tags": [
+      "психоз",
+      "галюцинації",
+      "когнітивні дослідження"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332351",
+    "title": "Фаза 1, відкритий рандомізований дослідження безпеки та фармакокінетики інтраназального налоксону",
+    "journal": "Clinical and translational science",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження оцінювало безпеку та фармакокінетику багаторазового застосування інтраназального налоксону у здорових учасників у США. Вивчалися різні схеми дозування та пристрої для введення. Результати допомагають визначити безпечність та фармакокінетичні характеристики препарату.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332351/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "A Phase 1, Open-Label, Randomized Study to Investigate the Pharmacokinetics and Safety of Multiple Doses of Intranasal Naloxone in Healthy Participants.",
+    "originalAbstract": "This was a Phase 1, open label, randomized, crossover study to evaluate the safety and pharmacokinetics of multiple doses of intranasal naloxone (NCT05377255). Twenty-four healthy participants were enrolled at a single site in the US to one of two sequences. Participants received four doses of 4 mg intranasal (IN) naloxone using two two-dose devices (AP003; single dose at 0, 2.5, 5.0, and 7.5 min) or two doses of 4 mg naloxone using two one-dose devices (single dose at 0 and 2.5 min). Treatments",
+    "keyPoints": [
+      "Дослідження проводилось у США з 24 здоровими учасниками.",
+      "Вивчали безпеку та фармакокінетику інтраназального налоксону.",
+      "Результати сприяють оптимізації схем застосування препарату."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають у визначенні безпечних схем застосування інтраназального налоксону.",
+    "specialty": "нефрологія",
+    "tags": [
+      "фармакотерапія",
+      "доказова медицина",
+      "інтраназальний"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42332350",
+    "title": "МЕТТЛ7В сприяє гліколізу та злоякісному прогресуванню у папілярному раку щитоподібної залози через осередок USP28/HIF-1α",
+    "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+    "publishedAt": "2026-06-22T00:00:00Z",
+    "abstract": "Дослідження аналізує роль білка METTL7B у папілярному раку щитоподібної залози, зосереджуючись на його впливі на метаболізм та злоякісне прогресування. Аналізуються дані з публічних баз даних та імуногістохімія для підтвердження експресії METTL7B та його зв’язку з клінічними характеристиками.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42332350/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-23T14:36:48Z",
+    "originalTitle": "[Methyltransferase-like protein 7B promotes glycolysis and malignant progression in papillary thyroid carcinoma via the USP28/HIF-1α axis].",
+    "originalAbstract": "To investigate the expression pattern of methyltransferase-like protein 7B (METTL7B) in papillary thyroid carcinoma (PTC) and elucidate its role and molecular mechanisms in tumor metabolic reprogramming and malignant progression. Public datasets from Gene Expression Omnibus (GEO) and The Cancer Genome Atlas (TCGA) were analyzed to assess METTL7B expression in PTC and its association with clinicopathological features. Immunohistochemistry on tissue microarrays was performed to validate METTL7B pr",
+    "keyPoints": [
+      "METTL7B пов'язаний з підвищеним гліколізом у PTC.",
+      "Молекулярний механізм включає осередок USP28/HIF-1α.",
+      "Збільшена експресія METTL7B асоціюється з агресивністю пухлини."
+    ],
+    "practicalTakeaway": "Розуміння ролі METTL7B може допомогти у розробці нових терапевтичних стратегій для папілярного раку щитоподібної залози.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракова хвороба",
+      "метаболізм",
+      "молекулярна біологія"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
