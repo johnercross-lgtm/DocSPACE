@@ -31,6 +31,9 @@ jobs:
         run: python scripts/validate_feeds.py
 
       - name: Commit updated feed
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
         run: |
           if git diff --quiet -- data/pubmed-feed.json; then
             echo "No PubMed feed changes"
@@ -41,3 +44,4 @@ jobs:
           git add data/pubmed-feed.json
           git commit -m "Update PubMed feed"
           git push
+          bash scripts/send_feed_push.sh pubmed data/pubmed-feed.json

@@ -31,6 +31,9 @@ jobs:
         run: python scripts/validate_feeds.py
 
       - name: Commit changes
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
         run: |
           if git diff --quiet -- data/cochrane-feed.json; then
             echo "No Cochrane feed changes"
@@ -41,3 +44,4 @@ jobs:
           git add data/cochrane-feed.json
           git commit -m "Update Cochrane feed"
           git push
+          bash scripts/send_feed_push.sh cochrane data/cochrane-feed.json

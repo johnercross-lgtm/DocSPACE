@@ -29,6 +29,9 @@ jobs:
         run: python scripts/validate_feeds.py
 
       - name: Commit safety feed
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
         run: |
           if [ ! -f data/fda-ema-safety-feed.json ]; then
             echo "data/fda-ema-safety-feed.json was not created"
@@ -44,4 +47,5 @@ jobs:
           else
             git commit -m "Update FDA/EMA safety feed"
             git push
+            bash scripts/send_feed_push.sh safety data/fda-ema-safety-feed.json
           fi

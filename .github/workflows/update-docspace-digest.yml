@@ -172,6 +172,9 @@ jobs:
           python scripts/validate_feeds.py
 
       - name: Commit updated DocSPACE digest feed
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
         run: |
           git config user.name "docspace-bot"
           git config user.email "docspace-bot@users.noreply.github.com"
@@ -186,10 +189,21 @@ jobs:
             echo "No DocSPACE digest images to add"
           fi
 
+          json_changed=true
+          if git diff --cached --quiet -- data/docspace-digest-feed.json; then
+            json_changed=false
+          fi
+
           if git diff --cached --quiet; then
-            echo "No DocSPACE digest feed changes"
+            echo "No DocSPACE digest changes"
             exit 0
           fi
 
           git commit -m "Update DocSPACE digest feed"
           git push
+
+          if [ "$json_changed" = "true" ]; then
+            bash scripts/send_feed_push.sh docspace_digest data/docspace-digest-feed.json
+          else
+            echo "DocSPACE digest JSON unchanged; skip feed push"
+          fi

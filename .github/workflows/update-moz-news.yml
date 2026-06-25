@@ -26,6 +26,9 @@ jobs:
         run: python scripts/validate_feeds.py
 
       - name: Commit updated MOZ feed
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
         run: |
           git config user.name "docspace-bot"
           git config user.email "docspace-bot@users.noreply.github.com"
@@ -36,3 +39,4 @@ jobs:
           fi
           git commit -m "Update MOZ news feed"
           git push
+          bash scripts/send_feed_push.sh moz data/ukrainian-news-feed.json
