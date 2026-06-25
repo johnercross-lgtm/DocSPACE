@@ -1,102 +1,102 @@
 [
   {
     "title": "Нефармакологічні втручання при тривозі та депресії у хворих на Паркінсона",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити та порівняти ефективність і безпеку нефармакологічних методів для зменшення симптомів тривоги і депресії у пацієнтів з хворобою Паркінсона.",
+    "abstract": "Це протокол для аналізу, метою якого є оцінити та порівняти ефективність і безпеку нефармакологічних методів для зменшення симптомів тривоги і депресії у пацієнтів з хворобою Паркінсона.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016360/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-24T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Non-pharmacological interventions for anxiety and depression in Parkinson's disease.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate and compare the efficacy and safety of non-pharmacological interventions for reducing symptoms of anxiety and depression in individuals with Parkinson's disease.",
     "keyPoints": [
-      "Огляд досліджень щодо нефармакологічних методів для тривоги і депресії у Паркінсона.",
-      "Мета — оцінити ефективність і безпеку таких втручань.",
-      "Загальнонаціональний дослідження."
+      "Оцінка нефармакологічних методів для тривоги і депресії у хворих на Паркінсона.",
+      "Порівняння ефективності та безпеки різних втручань.",
+      "Фокус на симптомах тривоги і депресії у цій групі пацієнтів."
     ],
-    "practicalTakeaway": "Планується систематичний аналіз нефармакологічних підходів для зменшення тривоги і депресії у хворих на Паркінсона.",
+    "practicalTakeaway": "Дослідження спрямоване на визначення найбільш безпечних і ефективних нефармакологічних підходів для зменшення психологічних симптомів у хворих на Паркінсона.",
     "specialty": "неврологія",
     "tags": [
-      "Паркінсон",
-      "тривога",
-      "депресія"
+      "неврологія",
+      "психіатрія",
+      "доказова медицина"
     ],
-    "priorityScore": 3,
+    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Біологічні препарати для індукції та підтримки ремісії при хворобі Крона: аналіз мережі досліджень",
-    "abstract": "Це дослідження оцінює ефективність і безпеку біологічних препаратів у досягненні та підтриманні ремісії при хворобі Крона. Враховуються різні механізми дії препаратів та їх порівняльна позиція.",
+    "abstract": "Це дослідження аналізує ефективність та безпеку біологічних препаратів у досягненні та підтримці ремісії при хворобі Крона. Враховуються різні механізми дії препаратів та їх порівняльна позиція у терапії. Результати допомагають визначити оптимальні стратегії лікування для пацієнтів, що не досягають ремісії за допомогою конвенційних методів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012751.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-23T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Biologic drugs for induction and maintenance of remission in Crohn's disease: a network meta-analysis.",
     "originalAbstract": "Crohn's disease is an inflammatory bowel disease (IBD) that can extend to any part of the gut. Many people with Crohn's disease fail to reach and maintain remission using conventional therapies. Biologic therapies with different mechanisms have advanced rapidly over recent decades. Comparative data for efficacy and safety are needed to clarify the relative position of these agents and guide decision-making. To assess the effects of biologic and advanced treatments for induction and maintenance o…",
     "keyPoints": [
-      "Дослідження аналізує біологічні препарати для хвороби Крона.",
-      "Розглядаються їх ефективність і безпека.",
-      "Мета — визначити оптимальні стратегії лікування."
+      "Дослідження порівнює ефективність різних біологічних препаратів при хворобі Крона.",
+      "Результати сприяють уточненню ролі біологічних препаратів у терапії.",
+      "Аналіз враховує безпеку та довгострокові наслідки застосування препаратів."
     ],
-    "practicalTakeaway": "Результати допомагають у виборі біологічних препаратів для лікування хвороби Крона.",
-    "specialty": "гастроентерологія",
+    "practicalTakeaway": "Результати дослідження допомагають лікарям обирати найбільш ефективні та безпечні біологічні препарати для лікування хвороби Крона.",
+    "specialty": "доказова медицина",
     "tags": [
-      "біологічні препарати",
       "хвороба Крона",
-      "лікування"
+      "біологічні препарати",
+      "ремісія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Прегравідарна та перша триместрова терапія метформіном для покращення результатів вагітності у жінок з полікістозом яєчників",
-    "abstract": "Це протокол для огляду Cochrane, що досліджує ефективність та можливі ризики застосування метформіну перед зачаттям і протягом першого триместру у жінок з полікістозом яєчників для покращення результатів вагітності.",
+    "title": "Превентивне застосування метформіну перед зачаттям та у першому триместрі у жінок з полікістозом яєчників",
+    "abstract": "Цей протокол досліджує ефективність та безпеку прийому метформіну до зачаття та у перший триместр вагітності для покращення результатів вагітності у жінок з полікістозом яєчників. Мета — оцінити вплив терапії на результати вагітності порівняно з плацебо або відсутністю лікування.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016141/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-23T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Preconception and first-trimester metformin for improving pregnancy outcomes in women with polycystic ovary syndrome.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of metformin therapy initiated prior to conception and continued through the first trimester for women with polycystic ovary syndrome, compared with placebo or no metformin treatment, on pregnancy outcomes.",
     "keyPoints": [
-      "Досліджується вплив прийому метформіну перед зачаттям і в першому триместрі у жінок з полікістозом яєчників.",
-      "Мета — оцінити користь і шкоду терапії для результатів вагітності.",
-      "Результати допоможуть визначити ефективність застосування метформіну у цій групі."
+      "Досліджується вплив прийому метформіну перед зачаттям і у перший триместр вагітності.",
+      "Мета — покращення результатів вагітності у жінок з полікістозом яєчників.",
+      "Оцінюється баланс користі та ризиків терапії."
     ],
-    "practicalTakeaway": "Докази щодо застосування метформіну у період до зачаття та перший триместр для жінок з полікістозом яєчників ще потребують підтвердження.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування метформіну для покращення вагітності у жінок з полікістозом яєчників.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "вагітність",
       "полікістоз яєчників",
       "метформін"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Аудит і зворотній зв'язок: вплив на професійну практику",
-    "abstract": "Це дослідження аналізує вплив аудиту та зворотнього зв'язку (А&З) на професійну практику медичних працівників. Попередні огляди та теорії поведінки підтверджують, що надання даних про невідповідність практики цільовим показникам може стимулювати зміни. Однак залишаються невизначеності щодо ефективності А&З та характеристик, що сприяють його більшій дієвості.",
+    "abstract": "Аудит і зворотній зв'язок є поширеною стратегією для покращення професійної практики у сфері охорони здоров'я. Попередні дослідження та теорії поведінки підтверджують їхню роль у стимулюванні медичних працівників до змін, коли їм надаються дані про невідповідність їхньої практики цільовим показникам. Однак залишаються питання щодо конкретних ефектів та характеристик, що забезпечують більший вплив цієї стратегії.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000259.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-22T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Audit and feedback: effects on professional practice.",
     "originalAbstract": "Audit and feedback (A&F) is a widely used strategy to improve professional practice. This is supported by prior Cochrane reviews and behavioural theories describing how healthcare professionals are prompted to modify their practice when given data showing that their clinical practice is inconsistent with a desirable target. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. To assess the effect…",
     "keyPoints": [
       "Аудит і зворотній зв'язок використовуються для покращення медичної практики.",
-      "Докази свідчать про потенційний вплив А&З, але результати залишаються неоднозначними.",
-      "Дослідження прагне визначити фактори, що підсилюють ефективність А&З."
+      "Дослідження вивчають ефективність та характеристики цієї стратегії.",
+      "Залишається невизначеність щодо її впливу та оптимальних характеристик."
     ],
-    "practicalTakeaway": "Застосування аудиту та зворотнього зв'язку може сприяти покращенню медичної практики, але потребує подальших досліджень щодо оптимальних характеристик.",
+    "practicalTakeaway": "Стратегія аудиту та зворотнього зв'язку має потенціал для покращення практики, але її ефективність залежить від конкретних характеристик та контексту застосування.",
     "specialty": "доказова медицина",
     "tags": [
-      "медицина",
-      "покращення практики",
+      "доказова медицина",
+      "професійна практика",
       "зворотній зв'язок"
     ],
     "priorityScore": 8,
@@ -105,50 +105,50 @@
   },
   {
     "title": "Хірургічне лікування остеоартриту зап'ястя",
-    "abstract": "Цей протокол огляду Cochrane спрямований на оцінку переваг і ризиків різних хірургічних втручань для лікування остеоартриту зап'ястя у дорослих. Основна увага приділяється порівнянню часткового зрощення зап'ястя з плацебо або імітаційною операцією. Другорядні цілі включають аналіз ефективності таких процедур, як резекція проксимальної рядки, тотальна артропластика зап'ястя та денервація зап'ястя, у порівнянні з плацебо або безопераційним лікуванням.",
+    "abstract": "Цей протокол передбачає оцінку переваг та ризиків різних хірургічних втручань при остеоартриті зап'ястя у дорослих. Основна увага зосереджена на порівнянні часткового зрощення зап'ястя з плацебо або імітаційною операцією. Другорядні цілі включають аналіз інших хірургічних методів, таких як резекція проксимальної кістки зап'ястя, тотальна ендопротезування або денервація зап'ястя, у порівнянні з плацебо або безопераційними підходами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016352/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Surgery for wrist osteoarthritis.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: The primary objective is to assess the benefits and harms of partial wrist fusion compared with placebo or sham surgery in adults with non-inflammatory osteoarthritis of the wrist. Secondary objectives are to assess the benefits and harms of surgery, including but not limited to, proximal row carpectomy, total wrist arthroplasty, and wrist denervation, compared with placebo or sham surgery, any non-surgical i…",
     "keyPoints": [
-      "Огляд аналізує хірургічні методи лікування остеоартриту зап'ястя.",
-      "Основна увага на порівнянні часткового зрощення з плацебо.",
-      "Розглядаються також інші хірургічні втручання, як резекція та артропластика."
+      "Оцінюється ефективність часткового зрощення зап'ястя.",
+      "Розглядаються інші хірургічні методи, включаючи ендопротезування.",
+      "Дослідження спрямовані на визначення користі та ризиків операцій."
     ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність та безпеку різних хірургічних підходів до лікування остеоартриту зап'ястя.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування різних хірургічних методів при остеоартриті зап'ястя.",
     "specialty": "хірургія",
     "tags": [
       "хірургія",
       "остеоартрит",
       "зап'ястя"
     ],
-    "priorityScore": 2,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Довгострокові ефекти препаратів для зниження ваги у людей з гіпертонією",
-    "abstract": "Дослідження аналізує довгостроковий вплив препаратів для зниження ваги на зниження маси тіла та артеріального тиску у пацієнтів з гіпертонією. Оскільки надмірна вага часто асоціюється з гіпертонією, важливо оцінити їхній вплив на клінічні результати. Оновлення дослідження відображає актуальні дані щодо ефективності та безпеки таких препаратів.",
+    "abstract": "Дослідження аналізує довгостроковий вплив препаратів для зниження ваги на зниження маси тіла та артеріального тиску у пацієнтів з ожирінням або надмірною вагою. Ожиріння часто асоціюється з гіпертонією, що підвищує ризик серцево-судинних захворювань. Вплив таких препаратів на клінічно важливі результати у цій групі наразі залишається невизначеним.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007654.pub6/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Long-term effects of weight-reducing drugs in people with hypertension.",
     "originalAbstract": "Long-term weight management drugs have the potential to reduce body weight and blood pressure in obese or overweight individuals. Being overweight or obese is often associated with hypertension, which is linked to an increased risk of cardiovascular mortality and morbidity. The effects of weight-reducing drugs on patient-relevant outcomes, especially in people with hypertension, are currently unclear. This review is the fourth update of one first published in July 2009. Primary objective To asse…",
     "keyPoints": [
       "Препарати для зниження ваги можуть знижувати масу тіла та артеріальний тиск.",
-      "Вплив препаратів на довгострокові клінічні результати залишається невизначеним.",
-      "Дослідження оновлюється для врахування нових даних."
+      "Вплив препаратів на довгострокові клінічні результати у пацієнтів з гіпертонією потребує додаткових досліджень.",
+      "Ожиріння пов'язане з підвищеним ризиком серцево-судинних захворювань."
     ],
-    "practicalTakeaway": "Поточні дані не дають однозначної відповіді щодо довгострокової користі препаратів для зниження ваги у пацієнтів з гіпертонією.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Необхідні додаткові дослідження для визначення довгострокової ефективності препаратів для зниження ваги у пацієнтів з гіпертонією.",
+    "specialty": "доказова медицина",
     "tags": [
+      "вагомірність",
       "гіпертонія",
-      "вага",
       "лікування"
     ],
     "priorityScore": 8,
@@ -156,26 +156,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Ультракороткодіючі інсулінові аналоги для дорослих з цукровим діабетом типу 1 на багаторазових ін'єкціях: мережевий мета-аналіз",
-    "abstract": "Мета дослідження — порівняти довгострокові ефекти застосування ультракороткодіючих інсулінових аналогів з регулярним людським інсуліном або іншими аналогами у дорослих з цукровим діабетом типу 1, які отримують багаторазові ін'єкції. Аналіз базується на мережевому мета-аналізі для оцінки ефективності та безпеки.",
+    "title": "(Ультра-)короткодіючі інсулінові аналоги для дорослих з цукровим діабетом типу 1 на багаторазових ін'єкціях: мережевий мета-аналіз",
+    "abstract": "Мета дослідження — порівняти довгострокові ефекти (ультра-)короткодіючих інсулінових аналогів з регулярним людським інсуліном або іншими аналогами у пацієнтів з цукровим діабетом типу 1, що отримують багаторазові ін'єкції. Аналіз базується на мережевому мета-аналізі для оцінки їхньої ефективності.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012161.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "(Ultra-)short-acting insulin analogues for adults with type 1 diabetes mellitus on multiple daily injections: a network meta-analysis.",
     "originalAbstract": "Ultra-short-acting insulin analogues have the potential to achieve clinical benefits for people with type 1 diabetes, but their relative effects in relation to regular human insulin remain unclear. Primary objective: To compare the effects of long-term treatment with (ultra-)short-acting insulin analogues to regular human insulin or another (ultra-)short-acting insulin analogue in people with type 1 diabetes on multiple daily injections through a network meta-analysis. To obtain an estimate of t…",
     "keyPoints": [
-      "Дослідження порівнює довгострокову ефективність різних інсулінових препаратів.",
-      "Застосування ультракороткодіючих аналогів може мати клінічні переваги.",
-      "Результати допомагають визначити оптимальні стратегії лікування для пацієнтів з цукровим діабетом типу 1."
+      "Дослідження порівнює ефективність різних типів інсулінів у пацієнтів з цукровим діабетом типу 1.",
+      "Мета — визначити відносний вплив (ультра-)короткодіючих аналогів.",
+      "Результати допоможуть уточнити вибір інсуліну для довгострокового лікування."
     ],
     "practicalTakeaway": "Результати дослідження можуть вплинути на вибір інсулінової терапії у дорослих з цукровим діабетом типу 1.",
     "specialty": "ендокринологія",
     "tags": [
       "діабет",
       "інсулін",
-      "мета-аналіз"
+      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -183,25 +183,25 @@
   },
   {
     "title": "Довгострокові наслідки низької мовленнєвої компетентності у дітей",
-    "abstract": "Ця публікація аналізує довгострокові ризики, пов'язані з низькою мовленнєвою компетентністю (НМК), у дітей віком від 4 до 8 років з подальшим спостереженням після 12 років. НМК впливає на до 10% дітей і є фактором ризику для академічних та соціальних труднощів. Огляд базується на даних лонгітюдних когортних досліджень.",
+    "abstract": "Ця публікація аналізує довгострокові ризики, пов’язані з низькою мовленнєвою компетентністю (НМК), у дітей віком від 4 до 8 років із подальшим спостереженням з 12 років. НМК впливає на до 10% дітей і є фактором ризику для академічних і соціальних труднощів. Вивчення базується на даних лонгітюдних когортних досліджень.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015268.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-17T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Long-term prognosis of low language proficiency in children.",
     "originalAbstract": "Low language proficiency (LLP) affects up to 10% of children, depending on how it is defined, and is a known risk factor for academic and social difficulties. Despite growing awareness, there is limited consensus on the long-term consequences of LLP across quality of life domains. This review synthesises evidence from longitudinal cohort studies to evaluate long-term risks associated with LLP identified between ages four and eight, with follow-up from age 12 onwards. To examine the long-term out…",
     "keyPoints": [
       "НМК зустрічається у до 10% дітей.",
-      "Може бути пов'язана з довгостроковими труднощами.",
+      "Може бути пов’язана з довгостроковими труднощами.",
       "Дослідження базуються на лонгітюдних когортних даних."
     ],
-    "practicalTakeaway": "Необхідно враховувати потенційні довгострокові наслідки НМК у плануванні підтримки дітей.",
+    "practicalTakeaway": "Необхідно враховувати потенційні довгострокові наслідки НМК для раннього втручання.",
     "specialty": "педіатрія",
     "tags": [
       "доказова медицина",
-      "дитяча медицина",
-      "розвиток мовлення"
+      "педіатрія",
+      "мовленнєві порушення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -209,44 +209,44 @@
   },
   {
     "title": "Клінічна ефективність телепар pharmacy у пацієнтів із неінфекційними захворюваннями у амбулаторних умовах",
-    "abstract": "Дослідження аналізує можливість покращення дотримання медикаментозної терапії та клінічних результатів за допомогою телепар pharmacy, що надається фармацевтами дистанційно через телефон, відео або цифрові платформи. Враховуючи обмежену визначеність щодо клінічної ефективності та застосовності, необхідний систематичний огляд.",
+    "abstract": "Телепар pharmacy, що передбачає дистанційне надання фармацевтичної допомоги через телефон, відеозв'язок або цифрові платформи, може покращити дотримання режиму лікування та клінічні результати у пацієнтів із неінфекційними захворюваннями, такими як гіпертонія, цукровий діабет та астма. Однак залишається невизначеність щодо її клінічної ефективності та можливості поширення.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015136.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-12T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Clinical effectiveness of telepharmacy services in patients with non-communicable diseases in ambulatory care settings.",
     "originalAbstract": "Non-communicable diseases (NCDs), such as hypertension, diabetes, and asthma, require continuous medication management. However, medication adherence remains suboptimal. Telepharmacy-defined as pharmacist-led care delivered remotely via telephone, video, or digital platforms-may improve adherence and clinical outcomes while addressing access barriers, but uncertainty remains regarding clinical effectiveness and generalisability. A systematic review is warranted to assess whether telepharmacy imp…",
     "keyPoints": [
-      "Телепар pharmacy може покращити дотримання медикаментозної терапії у пацієнтів із неінфекційними захворюваннями.",
-      "Дослідження вказують на потенціал покращення клінічних результатів за допомогою дистанційного фармацевтичного обслуговування.",
-      "Потреба у систематичному огляді для визначення клінічної ефективності та застосовності телепар pharmacy."
+      "Телепар pharmacy може покращити дотримання лікування у пацієнтів із неінфекційними захворюваннями.",
+      "Дослідження оцінює клінічну ефективність дистанційної фармацевтичної допомоги.",
+      "Невідомі масштаби та загальні наслідки для здоровʼя від застосування телепар pharmacy."
     ],
-    "practicalTakeaway": "Телепар pharmacy має потенціал для покращення лікування пацієнтів із неінфекційними захворюваннями, але потрібні додаткові дослідження для підтвердження її ефективності.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Необхідні додаткові дослідження для визначення клінічної ефективності телепар pharmacy у різних контекстах.",
+    "specialty": "фармакотерапія",
     "tags": [
       "телепар pharmacy",
       "неінфекційні захворювання",
-      "амбулаторне лікування"
+      "дистанційна допомога"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Терапевтична вітректомія при неінфекційних уєлітах",
-    "abstract": "Цей протокол передбачає оцінку переваг і ризиків парпланової вітректомії (ППВ), з або без додаткової медикаментозної терапії, порівняно з лише медичним лікуванням, при неінфекційних проміжних, задніх або панувеїтах, ускладнених тривалою запальністю або кістозним макулярним oedema.",
+    "abstract": "Цей протокол досліджує ефективність та можливі ризики парпланової вітректомії (ППВ), з або без додаткової медикаментозної терапії, порівняно з лише медикаментозним лікуванням для пацієнтів з неінфекційними проміжними, задніми або пануєлітами, ускладненими тривалим запаленням або кістозним макулярним oedema.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016357/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-11T00:00:00Z",
-    "updatedAt": "2026-06-25T04:16:40Z",
+    "updatedAt": "2026-06-25T14:48:40Z",
     "originalTitle": "Therapeutic vitrectomy for non-infectious uveitis.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of pars plana vitrectomy (PPV), with or without adjunctive medical therapy, compared with medical therapy alone, for non-infectious intermediate uveitis, posterior uveitis, or panuveitis complicated by persistent inflammation or cystoid macular oedema (CMO).",
     "keyPoints": [
-      "Оцінюється ефективність парпланової вітректомії при неінфекційних уєлітах.",
-      "Розглядаються переваги та ризики хірургічного втручання.",
-      "Дослідження фокусується на ускладненнях, таких як запалення та макулярний oedema."
+      "Досліджується ефективність вітректомії при неінфекційних уєлітах.",
+      "Розглядається додавання медикаментозної терапії.",
+      "Мета — оцінити користь і ризики процедури."
     ],
     "practicalTakeaway": "Результати дослідження допоможуть визначити роль вітректомії у лікуванні неінфекційних уєлітів.",
     "specialty": "онкологія",
@@ -255,7 +255,7 @@
       "офтальмологія",
       "доказова медицина"
     ],
-    "priorityScore": 8,
+    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
