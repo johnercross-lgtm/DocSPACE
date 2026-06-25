@@ -1,0 +1,100 @@
+name: Feed update push
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/*-feed.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notify-feed-update:
+    name: Notify users about feed update
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect changed feed JSON
+        id: feed_diff
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mapfile -t changed_files < <(
+            git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" -- "data/*-feed.json" | sort
+          )
+
+          if [[ "${#changed_files[@]}" -eq 0 ]]; then
+            {
+              echo "changed=false"
+              echo "feed_version="
+              echo "files<<EOF"
+              echo "EOF"
+            } >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          feed_version="$(
+            for file in "${changed_files[@]}"; do
+              shasum -a 256 "$file"
+            done | shasum -a 256 | awk '{print $1}'
+          )"
+
+          {
+            echo "changed=true"
+            echo "feed_version=$feed_version"
+            echo "files<<EOF"
+            printf '%s\n' "${changed_files[@]}"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Send feed update push
+        if: steps.feed_diff.outputs.changed == 'true'
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
+          FEED_VERSION: ${{ steps.feed_diff.outputs.feed_version }}
+          CHANGED_FILES: ${{ steps.feed_diff.outputs.files }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          : "${DOCSPACE_FEED_PUSH_ENDPOINT:?Missing GitHub secret DOCSPACE_FEED_PUSH_ENDPOINT}"
+          : "${DOCSPACE_FEED_PUSH_SECRET:?Missing GitHub secret DOCSPACE_FEED_PUSH_SECRET}"
+
+          changed_files_json="$(printf '%s\n' "$CHANGED_FILES" | jq -R . | jq -s .)"
+          payload="$(
+            jq -n \
+              --arg source "medical_news" \
+              --arg target "feed" \
+              --arg commitSha "$GITHUB_SHA" \
+              --arg feedVersion "$FEED_VERSION" \
+              --argjson changedFiles "$changed_files_json" \
+              '{
+                source: $source,
+                target: $target,
+                commitSha: $commitSha,
+                feedVersion: $feedVersion,
+                changedFiles: $changedFiles
+              }'
+          )"
+
+          curl --fail-with-body \
+            --request POST \
+            --header "Authorization: Bearer ${DOCSPACE_FEED_PUSH_SECRET}" \
+            --header "Content-Type: application/json" \
+            --data "$payload" \
+            "$DOCSPACE_FEED_PUSH_ENDPOINT"
+
+      - name: Skip unchanged feed
+        if: steps.feed_diff.outputs.changed != 'true'
+        run: echo "No feed JSON changes detected for $GITHUB_SHA."
