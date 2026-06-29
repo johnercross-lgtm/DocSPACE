@@ -1,279 +1,279 @@
 [
   {
-    "pmid": "42365750",
-    "title": "Аналіз політики тримісячної затримки доступу до медичного страхування в Онтаріо, Канада",
-    "journal": "Health policy (Amsterdam, Netherlands)",
-    "publishedAt": "2026-06-25T00:00:00Z",
-    "abstract": "Дослідження аналізує політику тримісячної затримки для нових та повернутих мешканців у доступі до державного медичного страхування в Онтаріо, запроваджену у 1994 році. Аналіз розглядає політичні та економічні чинники, що впливали на її запровадження та тимчасове скасування під час пандемії COVID-19.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365750/",
+    "pmid": "42367083",
+    "title": "Протеоміка у гострому мієлолейкозі: сучасні застосування у прецизійній медицині та таргетній імунотерапії",
+    "journal": "Technology in cancer research & treatment",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Гострий мієлолейкоз (ГМЛ) є різноманітним та агресивним злоякісним захворюванням із обмеженими терапевтичними можливостями та високими показниками рецидиву. Незважаючи на прогрес у геномному профілюванні, багато генетичних аномалій залишаються невиліковними, а сучасні моделі ризик-стратифікації не завжди точно передбачають відповідь на лікування. Протеоміка дозволяє безпосередньо аналізувати рівень білків, їхні посттрансляційні модифікації та взаємодії, що сприяє глибшому розумінню механізмів ре",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367083/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "A policy analysis of the three-month waiting period for new and returning residents to access provincial health insurance in Ontario, Canada.",
-    "originalAbstract": "Ontario's three-month waiting period (Regulation 552, subsection 5 (1) for health insurance eligibility under the Ontario Health Insurance Plan (OHIP) was implemented in 1994 amidst a severe economic recession. Justified by legislators as a cost-saving measure, the policy has affected newcomers during a vulnerable resettlement period. This analysis examines the policy and political factors underpinning both the policy's implementation in 1994 and temporary suspension during the Covid-19 pandemic",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "Proteomics in Acute Myeloid Leukemia: Current Applications in Precision Medicine and Targeted Immunotherapy.",
+    "originalAbstract": "Acute myeloid leukemia (AML) is a heterogeneous and aggressive malignancy with limited therapeutic options and high relapse rates. Despite advances in genomic profiling, many genetic aberrations remain untargetable, and current risk stratification models often fail to predict treatment responses. Proteomics offers a complementary approach by directly measuring protein abundance, post-translational modifications, and protein-protein interactions, providing mechanistic insights into drug resistanc",
     "keyPoints": [
-      "Політика тримісячної затримки була запроваджена у 1994 році для зменшення витрат.",
-      "Вона впливала на новоприбулих у період їхнього адаптаційного процесу.",
-      "Під час пандемії COVID-19 ця політика була тимчасово скасована."
+      "Протеоміка доповнює геномне дослідження, надаючи інформацію про білкові механізми.",
+      "Дослідження білкових змін сприяють розробці таргетних терапій.",
+      "Застосування протеоміки може покращити прогнозування відповіді на лікування."
     ],
-    "practicalTakeaway": "Розуміння політичних та економічних чинників, що впливають на доступ до медичного страхування, важливе для формування ефективної політики.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "політика охорони здоровʼя",
-      "медичне страхування",
-      "Онтаріо"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42365747",
-    "title": "Мікроструктурні зміни у juxtacortical білої речовини та їхній зв'язок із PASAT у розсіяному склерозі: дослідження з використанням машинного навчання",
-    "journal": "Multiple sclerosis and related disorders",
-    "publishedAt": "2026-06-21T00:00:00Z",
-    "abstract": "Дослідження виявляє, що мікроструктурні зміни у juxtacortical U-волокнах, які важливі для зв'язків між корковими гірками, можуть бути пов'язані з когнітивними порушеннями у пацієнтів з розсіяним склерозом. Використання дифузійної МРТ та машинного навчання дозволяє виявити ці зміни, що не видно на стандартних МРТ-протоколах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365747/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Microstructural changes in juxtacortical white matter regions and their relationship with PASAT score in multiple sclerosis: A proof of concept using machine learning.",
-    "originalAbstract": "Cognitive impairment is a common early feature of multiple sclerosis (MS). This decline may be linked to microstructural damage in juxtacortical U-fibers, which are highly vulnerable to early demyelination and essential for connectivity between adjacent cortical gyri. While these changes are undetectable in conventional MRI protocols, we employed a diffusion MRI and Machine Learning (ML) approach to identify subtle alterations in these short-range fibers. We designed a proof of concept study to ",
-    "keyPoints": [
-      "Мікроструктурні зміни у juxtacortical U-волокнах можуть впливати на когнітивні функції при розсіяному склерозі.",
-      "Дифузійна МРТ та машинне навчання дозволяють виявити ці зміни.",
-      "Зв'язок між структурними змінами та результатами тесту PASAT може допомогти у ранній діагностиці когнітивних порушень."
-    ],
-    "practicalTakeaway": "Використання дифузійної МРТ та машинного навчання може сприяти ранньому виявленню мікроструктурних змін у розсіяному склерозі, що мають потенційний зв'язок із когнітивними порушеннями.",
-    "specialty": "неврологія",
-    "tags": [
-      "розсіяний склероз",
-      "дифузійна МРТ",
-      "машинне навчання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42365745",
-    "title": "Інноваційне вебінарне навчання для підтримки прийняття рішень щодо імунізації на національному рівні",
-    "journal": "Vaccine",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Стаття описує та оцінює новий підхід до навчання за допомогою вебінарів для національних груп з імунізації, що сприяє швидкому та обґрунтованому прийняттю політичних рішень щодо вакцин. Зростання кількості функціональних національних груп з імунізації створює потребу у гнучких та ефективних методах навчання, що підтримують прийняття рішень на основі доказів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365745/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Innovative webinar-based training to support evidence-to-recommendation decision-making by national immunization technical advisory groups: multi-country experience with hexavalent vaccines.",
-    "originalAbstract": "Since endorsement of the Global Vaccine Action Plan, and continued emphasis under Immunization Agenda 2030, the number of functional National Immunization Technical Advisory Groups (NITAGs) has expanded rapidly, creating increased demand for training in evidence-informed decision making. To support timely national policy decisions relating to immunization, innovative and flexible training approaches are needed. This paper describes and evaluates a novel, webinar-based Evidence-to-Recommendation ",
-    "keyPoints": [
-      "Вебінари використовуються для навчання груп з імунізації у різних країнах.",
-      "Новий підхід сприяє швидкому та обґрунтованому прийняттю рішень.",
-      "Зростання кількості груп з імунізації підсилює потребу у такій формі навчання."
-    ],
-    "practicalTakeaway": "Використання вебінарів може підвищити ефективність навчання та швидкість прийняття політичних рішень у сфері імунізації.",
-    "specialty": "імунологія",
-    "tags": [
-      "імунологія",
-      "доказова медицина",
-      "громадське здоровʼя"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42365743",
-    "title": "Адаптація MSK-HQ для дитячого м'язово-скелетного обстеження: дослідження думок фахівців",
-    "journal": "Physiotherapy",
-    "publishedAt": "2026-06-19T00:00:00Z",
-    "abstract": "Дослідження оцінює думки британських фахівців щодо можливості адаптації опитувальника MSK-HQ для оцінки стану м'язово-скелетної системи у дітей та підлітків. Вивчення базується на результатах опитування та фокус-групи фізіотерапевтів, що працюють з пацієнтами віком 8-18 років.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365743/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Adapting the MSK-HQ for paediatric musculoskeletal care: Insights from a national survey and focus group of physiotherapists.",
-    "originalAbstract": "There is a need for a valid outcome measure of musculoskeletal (MSK) health status in children and young people, for use across MSK clinical pathways. The Musculoskeletal Health Questionnaire (MSK-HQ) is used with adults but is not yet adapted for paediatric settings. We aimed to evaluate UK clinicians' views on the relevance of adapting the MSK-HQ for use in paediatric MSK services. An anonymous online survey was distributed to clinicians who manage patients aged 8-18 years with MSK conditions,",
-    "keyPoints": [
-      "Опитування показало зацікавленість у використанні MSK-HQ для дітей.",
-      "Потреба у валідованих інструментах оцінки стану м'язово-скелетної системи у молодих пацієнтів.",
-      "Адаптація MSK-HQ може покращити клінічний процес у дитячій м'язово-скелетній медицині."
-    ],
-    "practicalTakeaway": "Розробка дитячої версії MSK-HQ може сприяти більш точній оцінці стану м'язово-скелетної системи у молодих пацієнтів.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "м'язово-скелетна медицина",
-      "дитяча медицина"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42365740",
-    "title": "Міжхребцеві диски поперекового та грудного відділів: географічні та біологічні кореляти їх варіабельної геометрії в Європі",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-03-15T00:00:00Z",
-    "abstract": "Дослідження аналізує варіації у розмірах міжхребцевих дисків поперекового та грудного відділів у популяціях Європи віком понад 50 років. Вивчено звʼязок анатомічних особливостей із дисфункціями або захворюваннями у рамках європейського дослідження остеопорозу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365740/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Lumbar and thoracic inter-vertebral discs: geographical and biological correlates of their variable geometry in Europe.",
-    "originalAbstract": "There is little published population-based information on variations in the anatomical dimensions of lumbar and thoracic intervertebral discs observed in lateral projection. To document the simplified anatomy in lateral projection of intervertebral discs and its association with disability or disease in twenty-four male and female European Populations aged over fifty years. Within the published European Prospective Osteoporosis Study of Vertebral deformities and fractures. population-based sampl",
-    "keyPoints": [
-      "Аналізовано варіації розмірів міжхребцевих дисків у європейських популяціях віком понад 50 років.",
-      "Вивчено звʼязок анатомічних особливостей дисків із дисфункціями або захворюваннями.",
-      "Дослідження базується на даних європейського проспективного дослідження остеопорозу."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть сприяти розумінню варіабельності анатомії міжхребцевих дисків у популяціях Європи та їх потенційного впливу на здоровʼя хребта.",
-    "specialty": "неврологія",
-    "tags": [
-      "анатомія",
-      "дослідження",
-      "європейські популяції"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42365739",
-    "title": "Чотиривимірна потокова МРТ показує перерозподіл портального кровотоку після ретроградної трансвенозної облітерації",
-    "journal": "European journal of radiology",
-    "publishedAt": "2026-06-26T00:00:00Z",
-    "abstract": "Дослідження оцінює зміни портального кровотоку після ретроградної трансвенозної облітерації (RTO) за допомогою чотиривимірної потокової МРТ та їх зв’язок із функціональними змінами печінки. Вимірювалися кровотік у печінковій паренхімі, шунтовий кровотік із верхньої брижової та селезінкової вен, а також зсув стінки портальної вени. Виявлено зміни у перерозподілі кровотоку, що можуть бути пов’язані з функціональним станом печінки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365739/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Four-dimensional flow MRI demonstrates portal flow redistribution associated with hepatic function after retrograde transvenous obliteration.",
-    "originalAbstract": "To quantify portal flow redistribution after retrograde transvenous obliteration (RTO) using four-dimensional flow MRI and to evaluate its association with hepatic functional changes. This prospective study evaluated portal hemodynamics before RTO and one week afterward using four-dimensional flow MRI. Measurements included hepatic parenchymal flow (HPF), superior mesenteric vein (SMV)- and splenic vein (SV)-derived shunt inflow, and main portal vein wall shear stress (MPV-WSS). Percentage chang",
-    "keyPoints": [
-      "Дослідження використовує чотиривимірну потокову МРТ для оцінки кровотоку.",
-      "Зміни у портальному кровотоку після RTO виявлені та пов’язані з функціональними змінами печінки.",
-      "Оцінка кровотоку може допомогти у моніторингу пацієнтів після процедур на печінці."
-    ],
-    "practicalTakeaway": "Використання чотиривимірної потокової МРТ дозволяє оцінити перерозподіл портального кровотоку після RTO та його зв’язок із функціональним станом печінки.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "МРТ",
-      "портальний кровотік",
-      "печінка"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42365738",
-    "title": "Глибоке навчання аналізу цитопатології асцитної рідини для прогнозування резистентності до платини при передовому епітеліальному раку яєчників",
-    "journal": "Neoplasia (New York, N.Y.)",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження розробляє багато масштабний фреймворк глибокого навчання OVCAP для аналізу цитопатології асцитної рідини перед лікуванням у пацієнтів з передовим епітеліальним раком яєчників. Мета — передбачити ризик резистентності до платини, що є важливим для визначення тактики лікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365738/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Deep learning of pretreatment ascites cytopathology for platinum-resistance risk stratification in advanced epithelial ovarian cancer.",
-    "originalAbstract": "Platinum resistance is a major determinant of poor outcome in advanced epithelial ovarian cancer, yet reliable predictors available before treatment initiation remain scarce. Ascitic fluid is commonly obtained during diagnostic work-up and directly reflects the peritoneal tumour microenvironment, but its cytomorphological information has not been systematically exploited for treatment-response prediction. We present OVCAP, a multi-scale deep-learning framework that analyses pretreatment ascites ",
-    "keyPoints": [
-      "Розроблено модель глибокого навчання для прогнозування резистентності до платини.",
-      "Аналізується цитопатологія асцитної рідини перед лікуванням.",
-      "Модель може допомогти у персоналізації терапії раку яєчників."
-    ],
-    "practicalTakeaway": "Модель глибокого навчання може сприяти більш точному прогнозуванню відповіді на платинову терапію у пацієнтів з раком яєчників.",
+    "practicalTakeaway": "Використання протеоміки у дослідженнях ГМЛ може сприяти розвитку більш точних методів лікування та прогнозування.",
     "specialty": "онкологія",
     "tags": [
-      "діагностика",
-      "лікування",
-      "прогнозування"
+      "протеоміка",
+      "гострий мієлолейкоз",
+      "таргетна терапія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42365735",
-    "title": "Штучний інтелект у інтерпретації артеріальних газів крові за допомогою гібридної моделі Стюарта та стандартного базового надлишку",
-    "journal": "Journal of clinical anesthesia",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження аналізує застосування штучного інтелекту для інтерпретації артеріальних газів крові, поєднуючи модель Стюарта та стандартний базовий надлишок. Це може покращити розуміння складних кислотно-лужних порушень у критичних станах, спрощуючи обчислення та підвищуючи точність аналізу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365735/",
+    "pmid": "42367081",
+    "title": "Використання амбулаторного моніторингу артеріального тиску у дітей-реципієнтів серцевого трансплантату",
+    "journal": "Pediatric transplantation",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження аналізує роль амбулаторного моніторингу артеріального тиску (ABPM) у діагностиці та управлінні гіпертензією у дітей, які перенесли серцеву трансплантацію. Вивчено дані пацієнтів, трансплантованих у період з 2010 по 2023 роки, з принаймні одним ABPM після операції.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367081/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "AI-assisted interpretation of arterial blood gases using a hybrid Stewart and standard base excess model.",
-    "originalAbstract": "Arterial blood gas (ABG) interpretation is essential in critical care, but conventional approaches may not fully characterize complex acid-base disturbances at the bedside. The Partitioned Standard Base Excess (SBE) model provides a structured framework for decomposing metabolic acid-base components, but its routine use requires repeated calculations. Large language models may support structured reporting and visualization when combined with predefined physiologic rules and supplied clinical con",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "The Use of Ambulatory Blood Pressure Monitoring in Pediatric Heart Transplant Recipients.",
+    "originalAbstract": "Ambulatory blood pressure monitoring (ABPM) is the gold-standard non-invasive test for diagnosing arterial hypertension; however, it remains understudied in pediatric heart transplant recipients (HTRs). We evaluated the role of ABPM in diagnosing and managing hypertension. We conducted a single-center retrospective evaluation of pediatric HTRs transplanted between 2010 and 2023 (inclusive) with ≥ 1 post-transplant ABPM. Clinic blood pressures (CBPs) temporally linked to each ABPM were used to ca",
     "keyPoints": [
-      "Штучний інтелект може підтримувати інтерпретацію газів крові.",
-      "Гібридна модель поєднує підходи Стюарта та стандартного базового надлишку.",
-      "Можливе покращення швидкості та точності аналізу в критичних ситуаціях."
+      "ABPM є важливим інструментом для діагностики гіпертензії у дітей з серцевим трансплантатом.",
+      "Дослідження підкреслює недостатню кількість досліджень щодо застосування ABPM у цій групі.",
+      "Результати можуть вплинути на підвищення точності діагностики гіпертензії у таких пацієнтів."
     ],
-    "practicalTakeaway": "Використання штучного інтелекту з гібридною моделлю може підвищити ефективність аналізу артеріальних газів крові у критичних станах.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Застосування ABPM у дітей з серцевим трансплантатом може покращити діагностику гіпертензії.",
+    "specialty": "кардіологія",
     "tags": [
-      "інтенсивна терапія",
-      "кислотно-лужний баланс",
-      "штучний інтелект"
+      "гіпертензія",
+      "діти",
+      "серцева трансплантація"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42365732",
-    "title": "Постмортальний співвідношення холестерину LDL/HDL як додатковий маркер для діагностики гострого коронарного синдрому",
-    "journal": "Legal medicine (Tokyo, Japan)",
-    "publishedAt": "2026-06-19T00:00:00Z",
-    "abstract": "Дослідження аналізує можливість використання співвідношення LDL- та HDL-холестерину у постмортальному дослідженні для допомоги у встановленні діагнозу гострого коронарного синдрому (ГКС). Враховуючи труднощі у визначенні ГКС без гістологічних ознак, автори досліджують потенціал цього біомаркера як додаткового інструменту у судово-медичних випадках.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365732/",
+    "pmid": "42367078",
+    "title": "Відновлення мітохондріальної функції при трансплантації ізлетів за допомогою мезенхімальних стовбурових клітин",
+    "journal": "Stem cells translational medicine",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження аналізує застосування мезенхімальних стовбурових клітин для покращення мітохондріальної функції та зменшення оксидативного стресу у трансплантованих ізлетах під час їх адаптації до нового мікрооточення. Це може сприяти підвищенню життєздатності та функціональності ізлетів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367078/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Postmortem low-density lipoprotein cholesterol/high-density lipoprotein cholesterol ratio as an adjunctive marker for the diagnosis of acute coronary syndrome.",
-    "originalAbstract": "In forensic practice, diagnosing acute coronary syndrome (ACS) as the cause of death is challenging, particularly in cases without histological findings. Lipid ratios, such as the low-density lipoprotein cholesterol (LDL-C)/high-density lipoprotein cholesterol (HDLC) and triglyceride (TG)/HDL-C ratios, are better indicators of atherogenic balance, compared with individual lipid parameters; however, their use in postmortem investigations remains unclear. We aimed to determine whether the LDL-C/HD",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "Addressing bioenergetic deficits and restoring mitochondrial health in transplanted islets using mesenchymal stem cells.",
+    "originalAbstract": "During the process of islet transplantation, islets undergo isolation and are then introduced into a new microenvironment where they need to adapt and revascularize. This transition imposes substantial stress on islets, leading to mitochondrial dysfunction and oxidative stress, adversely affecting islet function and vitality. Mesenchymal stem cells (MSCs) offer a promising therapy to mitigate these adverse effects by restoring their bioenergetic capacity and overall functionality of islets. Our ",
     "keyPoints": [
-      "Співвідношення LDL/HDL може допомогти у визначенні ГКС у постмортальних дослідженнях.",
-      "Ліпідні співвідношення є кращими індикаторами атерогенності, ніж окремі показники.",
-      "Дослідження спрямоване на покращення діагностики у судово-медичній практиці."
+      "Мезенхімальні стовбурові клітини можуть допомогти відновити мітохондріальну функцію ізлетів.",
+      "Трансплантація ізлетів супроводжується стресом, що викликає дисфункцію мітохондрій.",
+      "Застосування MSC може зменшити оксидативний стрес і покращити виживання ізлетів."
     ],
-    "practicalTakeaway": "Врахування співвідношення LDL/HDL у постмортальних дослідженнях може сприяти більш точній діагностиці ГКС.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Мезенхімальні стовбурові клітини мають потенціал для покращення результатів трансплантації ізлетів шляхом відновлення їх мітохондріальної функції.",
+    "specialty": "ендокринологія",
     "tags": [
-      "ліпідемиєю",
-      "патологія",
-      "судово-медична"
+      "мітохондрії",
+      "трансплантація",
+      "стовбурові клітини"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42365711",
-    "title": "Метал-індукований MXene-нанозима з двонакісним фототермічним та хемодинамічним ефектом для боротьби з інфекціями",
-    "journal": "Journal of colloid and interface science",
-    "publishedAt": "2026-06-25T00:00:00Z",
-    "abstract": "Дослідження присвячене розробці метал-регульованого MXene-нанозими, який активується другим ближнім інфрачервоним спектром для посилення фототермічної та хемодинамічної терапії. Такий підхід спрямований на боротьбу з бактеріальними інфекціями, зокрема з метицилін-резистентним золотистим стафілококом (MRSA). Відмінною особливістю є здатність до багатофункціональної активації, що може покращити ефективність антимікробної терапії та зменшити залежність від антибіотиків.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42365711/",
+    "pmid": "42367077",
+    "title": "Модифіковані УКМ з HO-1 для зменшення легеневої гіпертензії",
+    "journal": "Stem cells translational medicine",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження оцінює ефективність мезенхімальних стромальних клітин з HO-1 у лікуванні легеневої артеріальної гіпертензії та аналізує механізми їх дії. Виявлено, що ці клітини зменшують запалення та порушення ендотелію у моделях у rats і mice.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367077/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-29T02:55:15Z",
-    "originalTitle": "Metal-regulated MXene nanozyme with second near-infrared-triggered photothermal and chemodynamic synergy for anti-infection therapy and transcriptomic deciphering of antibacterial mechanisms.",
-    "originalAbstract": "The continuous use of antibiotics and the emergence of multidrug-resistant bacteria, particularly Methicillin-resistant Staphylococcus aureus (MRSA), have become significant global health concerns. Therefore, it is imperative to explore non-antibiotic therapeutic options. Existing antimicrobial modalities, such as single-modality photothermal therapy (PTT), exhibit limited penetration depth and bacterial suppression and do not offer any advantageous biocatalytic activity. To address these challe",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "HO-1-modified umbilical cord MSCs alleviate pulmonary arterial hypertension by reducing inflammation and endothelial dysfunction.",
+    "originalAbstract": "To evaluate the efficacy of MSCs-HO-1 in pulmonary arterial hypertension (PAH) and explore the underlying mechanisms. HO-1 expression and localization in lung tissues and vessels were assessed using spatial transcriptomics and single-cell RNA sequencing analyses of human PAH. MSCs-HO-1 were intravenously administered in rat and mouse PAH models (MCT-induced and SuHx). Hemodynamics (RVSP), right ventricular hypertrophy index (RVHI), survival rate, and vascular remodeling were assessed by HE stain",
     "keyPoints": [
-      "Розроблено метал-регульований MXene-нанозиму для антимікробної терапії.",
-      "Використовується двонакісний фототермічний та хемодинамічний ефект.",
-      "Може бути перспективним для боротьби з резистентними бактеріями."
+      "Мезенхімальні клітини з HO-1 потенційно зменшують симптоми легеневої гіпертензії.",
+      "Зниження запалення та покращення функції ендотелію є ключовими механізмами.",
+      "Дослідження проведено на моделях у rats і mice."
     ],
-    "practicalTakeaway": "Розроблений MXene-нанозима з двонакісною активацією може покращити ефективність боротьби з бактеріальними інфекціями, зменшуючи залежність від антибіотиків.",
-    "specialty": "інфекційні хвороби",
+    "practicalTakeaway": "Мезенхімальні клітини з HO-1 можуть мати перспективу для терапії легеневої гіпертензії, але потрібні додаткові дослідження.",
+    "specialty": "пульмонологія",
     "tags": [
-      "інфекційні хвороби",
-      "бактеріальні інфекції",
-      "антибактеріальні терапії"
+      "легенева гіпертензія",
+      "клітинна терапія",
+      "запалення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42367076",
+    "title": "Співкультивування кардіоміоцитів та фібробластів з людських індукованих плюрипотентних стовбурових клітин покращує структуру та функцію штучного серця",
+    "journal": "Stem cells translational medicine",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження демонструє, що співкультивування кардіоміоцитів і фібробластів, отриманих з людських індукованих плюрипотентних стовбурових клітин, сприяє покращенню структурних, скорочувальних, електрофізіологічних та метаболічних властивостей штучних серцевих тканин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367076/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "Co-culturing hiPSC-cardiomyocytes and cardiac fibroblasts enhances engineered heart tissue structure and function.",
+    "originalAbstract": "Engineered heart tissues (EHTs) are widely used for cardiac disease modeling and drug screening, but their lack of multicellularity limits translational relevance. Thus, it is essential to incorporate other cardiac cells to improve the reliability and accuracy of the model. To develop a co-culture EHT model from human induced pluripotent stem cell (hiPSC)-derived cardiomyocytes (CMs) and cardiac fibroblasts (CFs) and assess its structural, contractile, electrophysiological and metabolic properti",
+    "keyPoints": [
+      "Співкультивування клітин покращує функціональні характеристики штучного серця.",
+      "Використання людських індукованих плюрипотентних клітин дозволяє моделювати серцеву тканину.",
+      "Такий підхід може підвищити точність моделей для дослідження серцевих захворювань і тестування ліків."
+    ],
+    "practicalTakeaway": "Використання співкультивування кардіоміоцитів і фібробластів з людських індукованих плюрипотентних клітин може покращити модель серцевої тканини для досліджень.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцева тканина",
+      "індуковані плюрипотентні клітини",
+      "модель серця"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42367075",
+    "title": "Мітохондріально-цільовий препарат PTC299 покращує виробництво мегакаріоцитів і тромбоцитів",
+    "journal": "Stem cells translational medicine",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження показує, що препарат PTC299, спрямований на мітохондрії, може підвищити виробництво мегакаріоцитів і тромбоцитів. Це має потенціал для розвитку нових терапевтичних підходів при тромбоцитопенії, яка виникає через порушення функцій мегакаріоцитів або надмірне руйнування тромбоцитів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367075/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "The mitochondria-targeting compound PTC299 enhances megakaryocyte and platelet production.",
+    "originalAbstract": "Thrombocytopenia is a common complication of various clinical conditions, resulting from impaired megakaryocyte function, reduced platelet production, or excessive platelet destruction. Current treatments, including platelet transfusions and thrombopoietin receptor agonists, are limited by platelet supply constraints and risks such as thrombotic complications. Emerging research highlights the role of mitochondrial-related biological processes or components in thrombopoiesis, yet targeted therape",
+    "keyPoints": [
+      "PTC299 сприяє підвищенню виробництва тромбоцитів.",
+      "Мітохондрії відіграють роль у тромбоцитогенезі.",
+      "Нові терапевтичні можливості для тромбоцитопенії."
+    ],
+    "practicalTakeaway": "Дослідження відкриває перспективи використання мітохондріально-цільових препаратів для лікування тромбоцитопенії.",
+    "specialty": "гематологія",
+    "tags": [
+      "тромбоцитопенія",
+      "мітохондрії",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42367073",
+    "title": "Ізоляція та характеристика людських клітин MUSE для застосування в тканинній інженерії: систематичний огляд",
+    "journal": "Stem cells translational medicine",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Цей систематичний огляд аналізує дослідження щодо ізоляції, характеристик та потенціалу людських клітин MUSE у тканинній інженерії. Клітини MUSE мають здатність до мультилінійної диференціації та стійкість до стресу, що робить їх перспективними для трансляційної медицини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367073/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "Isolation and characterization of human multilineage-differentiating stress-enduring cells for use in tissue engineering: a systematic review.",
+    "originalAbstract": "Human multilineage-differentiating stress-enduring (MUSE) cells represent a promising cell population for tissue engineering and translational medicine owing to their intrinsic pluripotency and stress resistance. MUSE cells express pluripotency markers such as SSEA-3, Nanog, Sox2, and Oct3/4, while maintaining their immunomodulatory capabilities. This systematic review (PROSPERO CRD42024532621) analyzed studies on human MUSE cell isolation, characterization, and translational potential through s",
+    "keyPoints": [
+      "Клітини MUSE мають здатність до мультилінійної диференціації.",
+      "Вони проявляють ознаки плюрипотентності та стійкості до стресу.",
+      "Дослідження зосереджені на їх ізоляції, характеристиках та потенціалі для застосувань у тканинній інженерії."
+    ],
+    "practicalTakeaway": "Клітини MUSE можуть стати перспективним джерелом для розробки нових методів регенеративної медицини.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "клітинна біологія",
+      "тканинна інженерія",
+      "стем-клітини"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42367072",
+    "title": "Низькоінтенсивний імпульсний ультразвук регулює баланс остеогенної та адіпогенної диференціації стовбурових клітин жирової тканини за допомогою сигнального шляху PI3K/AKT-SREBF1",
+    "journal": "Stem cells translational medicine",
+    "publishedAt": "2026-05-18T00:00:00Z",
+    "abstract": "Дослідження вивчало вплив низькоінтенсивного імпульсного ультразвуку (LIPUS) на баланс диференціації стовбурових клітин жирової тканини (rADSCs) у контексті тканинної інженерії кісток. Виявлено, що LIPUS сприяє остеогенній диференціації клітин через активацію сигнального шляху PI3K/AKT-SREBF1, водночас регулюючи їх адіпогенний шлях.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367072/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "Low-intensity pulsed ultrasound regulates the osteogenic-adipogenic differentiation balance of rat adipose-derived stem cells via the PI3K/AKT-SREBF1 signaling axis.",
+    "originalAbstract": "Rat adipose-derived stem cells (rADSCs) are widely used in bone tissue engineering (BTE). Low-intensity pulsed ultrasound (LIPUS) can modulate stem cell fate; however, its precise regulatory effects on ADSC lineage commitment remain unclear. This study aimed to elucidate how LIPUS regulates the osteogenic-adipogenic differentiation balance of rADSCs. We first performed cell proliferation and differentiation induction assays, which demonstrated that LIPUS significantly enhanced osteogenic differe",
+    "keyPoints": [
+      "LIPUS стимулює остеогенну диференцію стовбурових клітин жирової тканини.",
+      "Регуляція диференціації відбувається через сигнальний шлях PI3K/AKT-SREBF1.",
+      "Дослідження має потенціал для застосування у тканинній інженерії кісток."
+    ],
+    "practicalTakeaway": "Використання LIPUS може сприяти регуляції диференціації стовбурових клітин для терапії кісткових ушкоджень.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "тканинна інженерія",
+      "стовбурові клітини",
+      "ультразвук"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42367071",
+    "title": "Відтворюваність сенсомоторної активності у спинному мозку за допомогою функціональної МРТ",
+    "journal": "Human brain mapping",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження оцінює надійність вимірювання активності спинного мозку за допомогою функціональної МРТ у контексті сенсомоторних завдань. Попередні дослідження показали, що моторна активність локалізується переважно у вентральному рогові з боку, що відповідає мʼязовим і шкірним проекціям. Однак, питання повторюваності таких вимірювань залишалося недостатньо вивченим.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367071/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "Test-Retest Reliability of Sensorimotor Activity Measured With Spinal Cord fMRI.",
+    "originalAbstract": "Establishing the reliability of spinal cord functional magnetic resonance imaging (fMRI) is critical before employing it to assess experimental or clinical interventions. Previous studies have mapped human motor activity primarily to the ipsilateral ventral horn, aligning with myotomal and dermatomal projections. Despite these insights, the test-retest reliability of spinal fMRI remains under-investigated. Here we assessed spinal cord activation during a sensorimotor paradigm involving right-han",
+    "keyPoints": [
+      "Оцінена надійність вимірювання активності спинного мозку за допомогою функціональної МРТ.",
+      "Активність локалізується у вентральному рогові, що відповідає мʼязовим проекціям.",
+      "Дослідження сприяє застосуванню спінальної фМРТ у клінічних і дослідницьких цілях."
+    ],
+    "practicalTakeaway": "Дослідження підтверджує можливість використання функціональної МРТ для повторюваних вимірювань активності спинного мозку.",
+    "specialty": "неврологія",
+    "tags": [
+      "функціональна МРТ",
+      "спинний мозок",
+      "надійність"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42367070",
+    "title": "Коли рання холецистектомія перевищує можливості системи: аналіз затримок та рішень у регіональній австралійській клініці",
+    "journal": "ANZ journal of surgery",
+    "publishedAt": "2026-06-28T00:00:00Z",
+    "abstract": "Дослідження аналізує затримки у проведенні ранньої лапароскопічної холецистектомії при гострому холециститі через обмеження доступу до операційної. Вивчено, чи затримки виникають до або після прийняття рішення про операцію, а також запропоновано шість рішень для покращення сервісу.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42367070/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-29T15:37:07Z",
+    "originalTitle": "When Early Cholecystectomy Outpaces Capacity: Post-Decision Delay, Population Growth and Six Service Solutions From a Regional Australian Cohort Study.",
+    "originalAbstract": "Early laparoscopic cholecystectomy is recommended for acute cholecystitis, yet delivery is often constrained by emergency theatre access. We examined whether delay occurred mainly before or after the decision to operate. Retrospective single-centre cohort of adults undergoing emergency laparoscopic cholecystectomy for coded acute cholecystitis at Cairns Hospital (July 2021-June 2025). Primary outcomes were time to theatre, pathway decomposition, preoperative bed-days and cost. Among 122 patients",
+    "keyPoints": [
+      "Затримки у проведенні операції виникають як до, так і після рішення про хірургічне втручання.",
+      "Обмежений доступ до операційної є ключовою причиною затримок.",
+      "Запропоновано шість стратегій для покращення доступності та зменшення затримок."
+    ],
+    "practicalTakeaway": "Враховуючи обмеження у доступі до операційної, важливо оптимізувати процеси прийняття рішень та планування для зменшення затримок у хірургічних втручаннях.",
+    "specialty": "хірургія",
+    "tags": [
+      "хірургія",
+      "гострий холецистит",
+      "медична логістика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
