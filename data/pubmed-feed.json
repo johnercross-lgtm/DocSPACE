@@ -1,281 +1,281 @@
 [
   {
-    "pmid": "42372374",
-    "title": "Аналіз пан-раку визначає GPRIN1 як прогностичний біомаркер і активатор клітинного росту у раку підшлункової залози.",
-    "journal": "Experimental and molecular pathology",
+    "pmid": "42376758",
+    "title": "Водій проти пасажира: первинна резистентність до larotrectinib у синовіальній саркомі з конкуруючими генетичними аномаліями",
+    "journal": "Tumori",
     "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження виявило, що GPRIN1, білок, що регулює сигнали GPCR, має потенціал бути біомаркером прогнозу та сприяти проліферації клітин у раку підшлункової залози. Аналіз даних показав його роль у формуванні мікрооточення пухлини та можливий терапевтичний потенціал.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372374/",
+    "abstract": "У дослідженні описано випадок 78-річної жінки з метастатичною синовіальною саркомою, у якій виявлено поєднання генетичних аномалій: SS18::SSX ф'южн та PDE3A-NTRK2 ф'южн. Це створює терапевтичний парадокс щодо застосування TRK-інгібіторів, таких як larotrectinib, оскільки поєднання цих генетичних змін може впливати на ефективність лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376758/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Pan-cancer analysis identifies GPRIN1 as a prognostic biomarker and promoter of cell proliferation in pancreatic cancer.",
-    "originalAbstract": "G protein-regulated inducer of neurite outgrowth 1 (GPRIN1), an emerging modulator of GPCR signaling, has been implicated in oncogenesis. However, its comprehensive role across human cancers, particularly in reshaping the tumor microenvironment (TME), remains poorly characterized. We aimed to elucidate the pan-cancer significance of GPRIN1 in TME modulation and its therapeutic implications. We analyzed multi-omics data from TCGA and other public databases, performing a systematic analysis of GPR",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Driver vs. passenger: Primary resistance to larotrectinib in synovial sarcoma harboring concurrent SS18 rearrangement and PDE3A-NTRK2 fusion.",
+    "originalAbstract": "Synovial sarcoma (SS) is molecularly defined by the pathognomonic SS18::SSX fusion, a master epigenetic driver. While NTRK gene fusions are high-priority tissue-agnostic targets for TRK inhibitors like larotrectinib, their co-occurrence with established lineage-defining drivers in sarcomas is exceptionally rare and presents a therapeutic paradox. A 78-year-old female was diagnosed with metastatic biphasic SS. Molecular profiling via targeted RNA sequencing identified a pathogenic PDE3A-NTRK2 fus",
     "keyPoints": [
-      "GPRIN1 може служити прогностичним біомаркером у раку підшлункової залози.",
-      "Виявлено його роль у регуляції мікрооточення пухлини.",
-      "Можливий цільовий молекулярний мішень для терапії."
+      "Виявлено поєднання генетичних аномалій у синовіальній саркомі, що може впливати на терапію.",
+      "Дослідження підкреслює складність застосування TRK-інгібіторів при таких генетичних комбінаціях.",
+      "Результати вказують на необхідність додаткових досліджень щодо терапевтичних стратегій у випадках з конкуруючими генетичними змінами."
     ],
-    "practicalTakeaway": "GPRIN1 може стати перспективною мішенню для розробки нових терапевтичних стратегій у раку підшлункової залози.",
+    "practicalTakeaway": "У випадках синовіальної саркоми з поєднанням генетичних аномалій слід враховувати можливі обмеження ефективності таргетної терапії.",
     "specialty": "онкологія",
     "tags": [
-      "онкологія",
-      "біомаркери",
-      "ракові дослідження"
+      "генетика",
+      "таргетна терапія",
+      "саркома"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42372373",
-    "title": "Підтримка батьків дітей із тривалим очікуванням терапії: дослідження ефективності веб-інтервенції для дитячої тривожності",
-    "journal": "Behaviour research and therapy",
-    "publishedAt": "2026-06-26T00:00:00Z",
-    "abstract": "Дослідження оцінює ефективність та прийнятність самостійної веб-інтервенції для батьків дітей з тривожністю, які перебувають у черзі на терапію. Виявлено, що такі інтервенції можуть швидко надати підтримку та зменшити негативні наслідки довгого очікування.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372373/",
+    "pmid": "42376755",
+    "title": "Виникнення інвазивних Escherichia coli у мікробіомі кишечника сприяє онкогенезу через вплив на Hippo-шляхи",
+    "journal": "Gut microbes",
+    "publishedAt": "2026-12-28T00:00:00Z",
+    "abstract": "Дослідження показують, що мікробіом відіграє важливу роль у розвитку пухлин, зокрема через вплив на генетичні та клітинні механізми. У мишей з мутаціями Apc спостерігається зменшення пухлин у стерильних умовах. Виявлено, що інвазивні патобіонти E. coli можуть сприяти онкогенезу шляхом впливу на сигнальні шляхи Hippo, що регулюють клітинну стійкість та проліферацію.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376755/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Supporting children on therapy waitlists: A randomized controlled trial of a web-based parent-focused single session intervention for child anxiety.",
-    "originalAbstract": "Many children experience significant, impairing anxiety, yet most never access evidence-based support; among those who do, most face long wait-times to be seen. This disconnect reflects a need for intervention approaches that provide rapid access to interim care. Single-session interventions (SSIs) may help mitigate the adverse impacts of long waitlists. This pilot parallel group RCT evaluated the effectiveness and acceptability of a self-guided, web-based SSI delivered to parents of children ag",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Emergence of invasive Escherichia coli pathobionts in gut microbiome promotes cancer stemness via targeting Hippo pathways.",
+    "originalAbstract": "Growing evidence suggests a pivotal role of the microbiome in tumorigenesis, extending beyond genetics. Apc(Min/+) mice exhibit reduced tumor load when housed in germ-free conditions. Nevertheless, how genetic factors shape microbiota and how dysbiosis fits into the genetic paradigm of intestinal carcinogenesis remain elusive. Epithelial stemness is regulated by Wnt/Apc/β-catenin pathway, whereas Apc mutations and Hippo signaling are associated with tumor growth. Invasive pathobionts emerge from",
     "keyPoints": [
-      "Веб-інтервенція для батьків може швидко підтримати дітей із тривожністю.",
-      "Дослідження показало позитивний вплив на зменшення симптомів тривожності.",
-      "Самостійна онлайн-інтервенція є прийнятною для батьків і може бути корисною в умовах довгих черг."
+      "Мікробіом впливає на розвиток пухлин, не лише через генетику.",
+      "Інвазивні E. coli можуть сприяти онкогенезу через вплив на Hippo-шляхи.",
+      "Мутації Apc та сигнальні шляхи Hippo пов'язані з ростом пухлин."
     ],
-    "practicalTakeaway": "Розробка та впровадження веб-інтервенцій для батьків може допомогти зменшити негативні наслідки довгого очікування на терапію у дітей із тривожністю.",
-    "specialty": "психіатрія",
+    "practicalTakeaway": "Розуміння ролі інвазивних патобіонтів у мікробіомі може допомогти у розробці нових стратегій профілактики та лікування раку кишечника.",
+    "specialty": "онкологія",
     "tags": [
+      "мікробіом",
+      "рак кишечника",
+      "E. coli"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42376750",
+    "title": "Використання клиноподібної остеотомії для корекції метакарпальної аддукції при полідактилії типів Вассел V і VI",
+    "journal": "Journal of plastic surgery and hand surgery",
+    "publishedAt": "2026-06-28T00:00:00Z",
+    "abstract": "Дослідження оцінює ефективність клиноподібної остеотомії для виправлення метакарпальної аддукції у пацієнтів з полідактилією типів Вассел V і VI. Аналіз включає 37 випадків, виявляючи внутрішньоопераційні аномалії та результати лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376750/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Wedging osteotomy to correct metacarpal adduction for the treatment of Wassel types V and VI duplicated thumb: surgical strategy, outcomes, and anatomical findings.",
+    "originalAbstract": "This study presents a wedge osteotomy technique for correcting metacarpal adduction in the treatment of Wassel types V and VI thumb polydactyly, evaluating its clinical efficacy and reporting intraoperative anatomical abnormalities. A retrospective analysis of 37 thumbs treated between January 2016 and June 2023 was performed. Preoperatively, the median inter-metacarpal angle (IMA) was 0°, and the median radial deviation angle of the metacarpophalangeal (MCP) joint of the ulnar thumb was 30°. Al",
+    "keyPoints": [
+      "Методика клиноподібної остеотомії застосовується для корекції метакарпальної аддукції.",
+      "Дослідження охоплює 37 випадків полідактилії типів V і VI.",
+      "Виявлено внутрішньоопераційні анатомічні аномалії та оцінено клінічні результати."
+    ],
+    "practicalTakeaway": "Клиноподібна остеотомія може бути ефективною для корекції метакарпальної аддукції у випадках полідактилії типів V і VI.",
+    "specialty": "хірургія",
+    "tags": [
+      "хірургія",
       "доказова медицина",
-      "психічне здоровʼя",
-      "дитяча тривожність"
+      "педіатрія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42372371",
-    "title": "Серцево-плацентарний зв'язок: звʼязки між венозним кровотоком пуповини та гемодинамікою матері при обмеженні росту плода",
-    "journal": "Best practice & research. Clinical obstetrics & gynaecology",
-    "publishedAt": "2026-06-27T00:00:00Z",
-    "abstract": "Обмеження росту плода (ФР) пов'язане з високим ризиком перинатальної ускладнень, однак його діагностика залишається складною через низьку чутливість традиційних методів та відсутність надійних інструментів для оцінки функції плаценти. Функція плаценти залежить від перфузії утероплацентарних судин, що відображає адаптацію серцево-судинної системи матері до вагітності. У цьому контексті венозний кровотік пуповини (UVF) виступає як кількісний показник, що відображає стан кровообігу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372371/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "The Cardiac-Fetal-Placental Unit: links between umbilical venous flow and maternal hemodynamics in fetal growth restriction.",
-    "originalAbstract": "Fetal growth restriction (FGR) is associated with significant perinatal morbidity and mortality, yet its identification remains challenging due to the limited sensitivity of conventional biometric assessment and the lack of a reliable tool for assessing placental function. Placental function depends on uteroplacental perfusion which, in turn reflects maternal cardiovascular adaptation to pregnancy. In this context, umbilical venous flow (UVF) has emerged as a quantitative parameter reflecting fe",
-    "keyPoints": [
-      "Обмеження росту плода пов'язане з перинатальними ризиками.",
-      "Венозний кровотік пуповини може бути індикатором функції плаценти.",
-      "Гемодинаміка матері впливає на кровотік у пуповині."
-    ],
-    "practicalTakeaway": "Оцінка венозного кровотоку пуповини може допомогти у виявленні порушень плацентарної функції при обмеженні росту плода.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "вагітність",
-      "плацента",
-      "фетальний розвиток"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42372370",
-    "title": "Недостатньо досліджених епітопів у вторинних лімфоїдних органах у людській Т-клітинній імунології",
-    "journal": "Current opinion in immunology",
+    "pmid": "42376745",
+    "title": "Лікування перикардиту: сучасні досягнення",
+    "journal": "Polish archives of internal medicine",
     "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження підкреслює, що фатальні процеси Т-клітинної імунної відповіді визначаються унікальним TCR, що впливає на локалізацію, фенотип, метаболізм і функції Т-клітин. Однак сучасна людська імунологія переважно зосереджена на периферійній крові, і недостатньо вивчені епітопи у вторинних лімфоїдних органах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372370/",
+    "abstract": "Перикардит є найпоширенішим перикардіальним синдромом і часто спричиняє біль у грудях. За останні два десятиліття підходи до його лікування змінилися від емпіричної протизапальної терапії до механізмно-орієнтованого, ризик-стратегії та візуальної підтримки. Діагностика базується на клінічних ознаках, таких як характерний біль, перикардіальний шум, зміни на ЕКГ і наявність перикардіальної рідини, з додатковим використанням біомаркерів та мультимодальної візуалізації.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376745/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "A blind spot of human T cell immunology: epitope specificity in secondary lymphoid organs.",
-    "originalAbstract": "The fate of T cells is determined through the expression of a unique T cell receptor (TCR). TCR epitope specificity drives spatial localization, phenotypic and metabolic plasticity, effector function, as well as the evolution of complex repertoires of T cell clones. However, human immunology is often restricted to the peripheral blood compartment and neglects 'professional' lymphoid organs. Furthermore, despite the generation of single-cell 'atlases', our knowledge of the epitopes that are recog",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Management of pericarditis: recent advances.",
+    "originalAbstract": "Pericarditis is the most frequent pericardial syndrome and a common cause of chest pain in emergency and cardiology practice. During the past two decades, management has moved from largely empirical anti-inflammatory treatment towards a mechanism-based, risk-stratified, and imaging-supported approach. Diagnosis remains clinical, based on typical chest pain, pericardial rub, electrocardiographic changes and pericardial effusion, but inflammatory biomarkers and multimodality imaging, especially ca",
     "keyPoints": [
-      "Т-клітинний рецептор визначає функції та локалізацію Т-клітин.",
-      "Більшість досліджень зосереджені на периферійній крові.",
-      "Недостатньо відомо про епітопи у вторинних лімфоїдних органах."
+      "Зміщення від емпіричної до механізмної терапії.",
+      "Клінічна діагностика з доповненням біомаркерів та візуалізації.",
+      "Врахування ризиків для визначення лікувальної тактики."
     ],
-    "practicalTakeaway": "Необхідно розширювати дослідження епітопів у вторинних лімфоїдних органах для повнішого розуміння Т-клітинної імунної відповіді.",
-    "specialty": "імунологія",
+    "practicalTakeaway": "Застосування сучасних підходів до діагностики та лікування перикардиту покращує управління цим станом.",
+    "specialty": "кардіологія",
     "tags": [
-      "Т-клітинна імунологія",
-      "епітопи",
-      "лімфоїдні органи"
+      "перикардит",
+      "лікування",
+      "діагностика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42372369",
-    "title": "Багатство та готовність до ліквідації раку шийки матки у Тихоокеанському регіоні, підконтрольному США: огляд досліджень",
-    "journal": "Cancer epidemiology",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Регіон Тихоокеанських островів, підконтрольний США, має високий рівень захворюваності раком шийки матки. Оцінити прогрес у досягненні цілей ліквідації ускладнює обмежена та фрагментована інформація щодо вакцинації проти HPV, скринінгу та доступу до лікування. Огляд зібрав дані про рівень захворюваності, фактори ризику та ефективність заходів для формування регіональних стратегій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372369/",
+    "pmid": "42376743",
+    "title": "Дисбаланс імунної та запальної систем у мишей за високої вологості та різних температур: аналіз мікробіому кишечника та метаболізму в сироватці крові",
+    "journal": "Environmental microbiology",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження вивчало вплив високої вологості та різних температур навколишнього середовища на біомаркери імунної та запальної відповідей у мишей. Аналізувалися зміни у мікробіомі кишечника та метаболізмі крові, що можуть впливати на імунний баланс.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376743/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Cervical cancer burden and elimination readiness in the US-affiliated Pacific Islands: A structured narrative review.",
-    "originalAbstract": "The US-Affiliated Pacific Islands (USAPI) experience a high burden of cervical cancer, but progress toward achieving cervical cancer elimination targets is difficult to assess due to limited and fragmented data on HPV vaccination, cervical cancer screening and cancer treatment access. This narrative review aims to synthesise evidence of disease burden, risk factors, and interventions to inform region-specific strategies. We conducted a structured narrative review of published literature (MEDLINE",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Immune-Inflammatory Imbalance in Mice Under High Humidity and Three Different Ambient Temperatures: Insights From Gut Microbiome and Serum Metabolomics.",
+    "originalAbstract": "Gut microbiota and metabolites have been increasingly implicated in the pathogenesis of immune inflammation, which may be affected by environmental factors. This study aimed to explore the influence of co-exposure to high humidity and temperatures (low, normal or high) on biomarkers of immune inflammation and potential mechanisms. We established C57BL/6J mice models (with equal numbers of males and females) of high humidity and low temperature (HH-LT), normal temperature (HH-NT) or high temperat",
     "keyPoints": [
-      "Регіон Тихоокеанських островів має високий рівень захворюваності раком шийки матки.",
-      "Обмежена якість даних ускладнює оцінку прогресу у ліквідації.",
-      "Необхідні регіональні стратегії для покращення профілактики та лікування."
+      "Висока вологість та температура впливають на імунну відповідь у мишей.",
+      "Зміни у мікробіомі кишечника можуть бути пов'язані з імунним дисбалансом.",
+      "Метаболічні зміни у крові можуть слугувати маркерами імунної реакції."
     ],
-    "practicalTakeaway": "Необхідно покращити збір даних та впровадити регіональні програми профілактики раку шийки матки.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Вивчення впливу навколишнього середовища на імунітет може допомогти у розробці стратегій профілактики та лікування запальних станів.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "рак шийки матки",
-      "превентивні заходи",
-      "регіональні стратегії"
+      "мікробіом",
+      "імунітет",
+      "екологія"
     ],
     "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42372368",
-    "title": "Зв'язок між цукровим діабетом і ризиком анального раку: результати загальнонаціонального дослідження в Тайвані",
-    "journal": "Cancer epidemiology",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження аналізує звʼязок між історією цукрового діабету та ризиком розвитку анального раку у великій тайванській когорті. Виявлено, що цукровий діабет може бути повʼязаний із підвищеним ризиком цього виду раку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372368/",
+    "pmid": "42376742",
+    "title": "Зв'язування наноструктур DNA-орігамі з бактеріями за допомогою ванкоміцину",
+    "journal": "Chembiochem : a European journal of chemical biology",
+    "publishedAt": "2026-07-14T00:00:00Z",
+    "abstract": "Дослідження показує, що наноструктури DNA-орігамі (DONs) можуть ефективно зв'язуватися з бактеріями обох типів (Gram-позитивними та Gram-негативними) за допомогою іммобілізації ванкоміцину. Вивчено вплив кількості та розташування ванкоміцину на DONs на їх здатність до зв'язування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376742/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "The association between diabetes mellitus and the risk of anal cancer: Results from a large nationwide cohort study in Taiwan.",
-    "originalAbstract": "Few studies have investigated the association between diabetes mellitus and risk of anal cancer and the results to date have been inconsistent. We analysed the relation between a history of diabetes and diabetic retinopathy and risk of anal cancer in a nationwide cohort in Taiwan. Data from a retrospective cohort study of 5.9 million Taiwanese men and women aged 18-90 years were used for the analysis. Multivariable proportional hazards regression models were used to estimate hazard ratios (HRs) ",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Vancomycin-Mediated Binding of DNA Origami Nanostructures to Gram-Positive and Gram-Negative Bacteria.",
+    "originalAbstract": "DNA origami nanostructures (DONs) have promising applications in biomedicine and biosensing, which often require their efficient binding to target cells. By immobilizing the glycopeptide antibiotic vancomycin on DONs, DON binding to Gram-positive and Gram-negative bacteria can be facilitated. Here, we investigate how this multivalent binding is affected by the number and arrangement of the vancomycin modifications on two-dimensional DONs. We find that for both Gram-positive Bacillus subtilis and",
     "keyPoints": [
-      "Дослідження базується на даних 5,9 мільйонів тайванських дорослих.",
-      "Аналізує звʼязок між цукровим діабетом і ризиком анального раку.",
-      "Виявлено потенційний звʼязок між цукровим діабетом і підвищеним ризиком раку."
+      "Ванкоміцин використовується для покращення зв'язування DONs з бактеріями.",
+      "Ефективність зв'язування залежить від кількості та розташування ванкоміцину на DONs.",
+      "Дослідження охоплює бактерії Gram-позитивні та Gram-негативні."
     ],
-    "practicalTakeaway": "Урахування історії цукрового діабету може бути важливим у оцінці ризику анального раку.",
+    "practicalTakeaway": "Застосування ванкоміцину на наноструктурах DNA-орігамі може покращити їх здатність до цільового зв'язування з бактеріями.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "бактеріологія",
+      "нанотехнології",
+      "біомедицина"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42376737",
+    "title": "Більше ніж календар: роль хронобіологічних факторів у прогнозуванні при резектованому NSCLC",
+    "journal": "Tumori",
+    "publishedAt": "2026-06-28T00:00:00Z",
+    "abstract": "Ця оглядова стаття аналізує вплив циркадних та цирканальних ритмів на прогнозування результатів лікування у пацієнтів з резектованим не-мелкоклітинним раком легень (NSCLC). Вона підкреслює важливість урахування біологічних ритмів у контексті онкологічної біології та їх потенційного впливу на імунну відповідь та поведінку пухлини.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376737/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Beyond the calendar: A narrative review on chronobiological drivers of prognosis in resectable NSCLC.",
+    "originalAbstract": "For decades, the surgical management of non-small cell lung cancer (NSCLC) has been predominantly guided by anatomical staging. However, this traditional approach often overlooks the \"fourth dimension\" of cancer biology: time. This narrative review explores how circadian and circannual rhythms act as silent drivers of oncological prognosis, deeply influencing the interaction between host immunity and tumor behavior. Evidence suggests that the integrity of the molecular clock, regulated by genes ",
+    "keyPoints": [
+      "Біологічні ритми можуть впливати на прогноз у NSCLC.",
+      "Молекулярний годинник регулює імунну відповідь та поведінку пухлини.",
+      "Урахування ритмів може покращити індивідуалізацію лікування."
+    ],
+    "practicalTakeaway": "Врахування циркадних та цирканальних ритмів може бути важливим аспектом у прогнозуванні та плануванні лікування пацієнтів з NSCLC.",
     "specialty": "онкологія",
     "tags": [
-      "діабет",
-      "ракові захворювання",
-      "загальнонаціональне дослідження"
+      "онкологія",
+      "біологічні ритми",
+      "прогнозування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42372365",
-    "title": "Виявлення HClO за допомогою AIE-флуоресцентного перемикача",
-    "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-    "publishedAt": "2026-06-27T00:00:00Z",
-    "abstract": "Дослідження присвячене розробці нового зонда TPE-ML на основі агрегатно-індукованого світіння (AIE), який демонструє унікальну поведінку «вимкнено-увімкнено-вимкнено» у флуоресценції. Зонд дозволяє чутливо виявляти гіпохлорит-кислоту (HClO), важливу реактивну кисеньову сполуку, що бере участь у фізіологічних процесах та патологіях, таких як запальні захворювання та рак.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372365/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Unlocking HClO detection via an AIE \"off-on-off\" fluorescent switch.",
-    "originalAbstract": "Hypochlorous acid (HClO) is a key reactive oxygen species (ROS) involved in both normal physiology and disease pathogenesis. Imbalances in its intracellular levels are strongly associated with inflammatory disorders and cancer. In this work, we introduce TPE-ML, a novel aggregation-induced emission (AIE) probe built on a thiomorpholine scaffold. This probe features a distinctive \"off-on-off\" fluorescence switching behavior. It exhibits a Stokes shift of approximately 170 nm and enables sensitive",
-    "keyPoints": [
-      "Розроблено новий AIE-зонд TPE-ML для виявлення HClO.",
-      "Зонд має унікальну поведінку «вимкнено-увімкнено-вимкнено» у флуоресценції.",
-      "Зонд забезпечує високу чутливість до HClO."
-    ],
-    "practicalTakeaway": "Новий AIE-зонд може бути корисним інструментом для досліджень рівнів HClO у біологічних системах.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "фотоніка",
-      "біомолекулярна спектроскопія",
-      "виявлення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42372364",
-    "title": "Активований флуоресцентний зонд для допоміжної діагностики атеросклерозу",
-    "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
-    "publishedAt": "2026-06-27T00:00:00Z",
-    "abstract": "Дослідження присвячене створенню флуоресцентного зонда, активованого лейциновою амінопептидазою, для діагностики атеросклерозу. Зонд побудований на основі геміцанінової основи, з'єднаної з пептидом, що розпізнає LAP. При активації LAP зонд демонструє зсув у спектрі та підвищення флуоресценції у близькому інфрачервоному діапазоні, що може сприяти виявленню атеросклеротичних змін у клінічних зразках.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372364/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Activatable fluorescent probe for auxiliary diagnosis of atherosclerosis: from foam cells to clinical samples.",
-    "originalAbstract": "Cardiovascular diseases remain a leading cause of morbidity and mortality worldwide, with atherosclerosis playing a central role in their pathogenesis. A fluorescent probe activatable by leucine aminopeptidase was synthesized and designated as LAP probe. This probe was constructed using a hemicyanine scaffold conjugated with an LAP-recognizing peptide via a condensation reaction. Upon LAP activation, a bathochromic shift in absorption and a marked turn-on fluorescence response in the near-infrar",
-    "keyPoints": [
-      "Розроблено флуоресцентний зонд для діагностики атеросклерозу.",
-      "Зонд активується лейциновою амінопептидазою, що є маркером атеросклеротичних змін.",
-      "Можливе застосування у клінічних дослідженнях для виявлення атеросклерозу."
-    ],
-    "practicalTakeaway": "Зонд може стати інструментом для допоміжної діагностики атеросклерозу у клінічних умовах.",
-    "specialty": "кардіологія",
-    "tags": [
-      "діагностика",
-      "флуоресцентний зонд",
-      "атеросклероз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42372362",
-    "title": "Мультиоміка дослідження радіаційного впливу на мозковий ремоделювання та онкогенні програми",
-    "journal": "Neoplasia (New York, N.Y.)",
+    "pmid": "42376736",
+    "title": "Прогностична цінність кардіальних біомаркерів у ранній оцінці ризику та функціональних результатах через 3 місяці після реваскуляризаційної терапії при гострому ішемічному інсульті",
+    "journal": "Neurological research",
     "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження аналізує механізми впливу іонізуючого випромінювання на розвиток мозкових пухлин у дитячому віці, зокрема медулобластоми, використовуючи модель мишей з генетичною схильністю. Випромінювання на ранніх етапах розвитку мозку може активувати трансcriptionальні програми, що сприяють пухлинному процесу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372362/",
+    "abstract": "Дослідження визначає прогностичну цінність базових серцевих біомаркерів, взятих при госпіталізації, у пацієнтів з гострим ішемічним інсультом, що отримують реваскуляризаційну терапію. Аналізовано дані 433 пацієнтів, які пройшли інфузійне тромболізне лікування, механічну тромбектомію або їх комбінацію. Вивчалися рівні лактатдегідрогенази, креатинкінази, натрійуретичного пептиду та високочутливого тропоніну.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376736/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Multi-omics characterization of radiation-induced cerebellar remodeling and tumorigenic transcriptional programs.",
-    "originalAbstract": "Early-life exposure to ionizing radiation is a recognized risk factor for pediatric brain tumors, including medulloblastoma (MB), but the dose-dependent mechanisms linking radiation to tumor initiation remain poorly understood. Using the Ptch1⁺/⁻ mouse model of Sonic Hedgehog (SHH)-driven MB, mice were exposed at postnatal day 2 to 0.1 or 2 Gy γ-rays and monitored longitudinally, combined with multi-omics analyses to characterize early cerebellar responses and tumor-associated transcriptional pr",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Predictive ability of cardiac biomarkers for early risk stratification and 3-month functional outcomes after reperfusion therapy in acute ischemic stroke.",
+    "originalAbstract": "This study aimed to determine the prognostic value of baseline serum cardiac biomarkers measured at emergency department admission in patients with acute ischemic stroke undergoing reperfusion therapy. This retrospective cohort study evaluated data from 433 AIS patients treated with intravenous thrombolysis (IVT), mechanical thrombectomy (MT), or combined therapy. Serum lactate dehydrogenase, creatine kinase, plasma N-terminal pro-brain natriuretic peptide, and high-sensitivity cardiac troponin ",
     "keyPoints": [
-      "Вивчено вплив іонізуючого випромінювання на мозок у дитячому віці.",
-      "Досліджено механізми розвитку медулобластоми у мишей.",
-      "Виявлено потенційні молекулярні шляхи, пов'язані з радіаційним ремоделюванням мозку."
+      "Базові серцеві біомаркери можуть мати прогностичне значення у пацієнтів з гострим інсультом.",
+      "Дослідження включає 433 пацієнти, що отримували різні реваскуляризаційні методи.",
+      "Рівні біомаркерів аналізуються для оцінки ризику та прогнозування функціональних результатів через 3 місяці."
     ],
-    "practicalTakeaway": "Розуміння молекулярних механізмів радіаційного впливу може допомогти у розробці профілактичних стратегій для дітей, підданих опроміненню.",
-    "specialty": "онкологія",
+    "practicalTakeaway": "Врахування рівнів серцевих біомаркерів при госпіталізації може допомогти у прогнозуванні довгострокових результатів у пацієнтів з гострим інсультом.",
+    "specialty": "неврологія",
     "tags": [
-      "радіація",
-      "мозок",
-      "пухлини"
+      "інсульт",
+      "біомаркери",
+      "прогнозування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "pmid": "42372359",
-    "title": "Розробка та валідація Sivan Unit для стандартизації інтенсивності вокселів у CBCT",
-    "journal": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Мета дослідження — створити та перевірити Sivan Unit (SU), систему гармонізації інтенсивності вокселів у конусно-лучевій комп’ютерній томографії (CBCT), що покращить сумісність відтінків сірого між різними виробниками обладнання. Аналізовано 160 наборів даних з десяти систем сканування. Обробка даних включала глобальне перетворення Z-score для зменшення варіацій у значеннях інтенсивності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42372359/",
+    "pmid": "42376735",
+    "title": "Поліморфізм гена GNAQ та його вплив на відповідь на опіоїдні анальгетики у пацієнтів із післяопераційним та раковим болем",
+    "journal": "Neuropsychopharmacology reports",
+    "publishedAt": "2026-09-01T00:00:00Z",
+    "abstract": "Дослідження виявило асоціацію між поліморфізмом rs10781468 гена GNAQ та реакцією на опіоїдні знеболювальні у пацієнтів із післяопераційним і раковим болем. Вивчення генетичних факторів може допомогти у персоналізації лікування болю.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376735/",
     "category": "general_medicine",
     "source": "PubMed",
-    "updatedAt": "2026-06-30T02:49:14Z",
-    "originalTitle": "Sivan Unit (SU) for standardization of voxel intensity in CBCT: A multi-vendor, multi-centric validation study.",
-    "originalAbstract": "To develop and validate the Sivan Unit (SU), a biologically referenced voxel intensity harmonization framework for cone-beam computed tomography (CBCT) designed to improve cross-vendor grayscale consistency in quantitative maxillofacial imaging. This retrospective multi-vendor, multi-centric study analyzed 160 CBCT datasets from ten commercial scanner systems. Raw voxel intensities (VIraw) from seven maxillofacial tissues were first processed using global Z-score transformation to reduce gross s",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "The rs10781468 Genetic Polymorphism of the Gαq (GNAQ) Gene Is Associated With Responsiveness to Opioid Analgesics in Patients With Postoperative and Cancer Pain: An Exploratory Study.",
+    "originalAbstract": "G protein-coupled receptors, the largest class of cell surface receptors, are ubiquitously expressed throughout the body. Different subtypes of G protein α subunits activate distinct intracellular signaling pathways and mediate opioid analgesic effects. However, the contributions of these Gα subunits remain unclear. We conducted a hypothesis-generating, two-stage candidate gene association study to identify potential genetic loci related to pain processing and opioid analgesia, focusing on genes",
     "keyPoints": [
-      "Розроблено систему Sivan Unit для стандартизації CBCT.",
-      "Дослідження включало 160 наборів даних з різних систем.",
-      "Мета — покращити порівнянність зображень між виробниками."
+      "Виявлено зв'язок між поліморфізмом rs10781468 гена GNAQ та відповіддю на опіоїдні анальгетики.",
+      "Дослідження проводилось у двох етапах, з фокусом на генетичних маркерах, що впливають на обробку болю.",
+      "Результати можуть сприяти персоналізованому підходу до лікування болю у пацієнтів із онкологічними та післяопераційними станами."
     ],
-    "practicalTakeaway": "Sivan Unit може сприяти більшій узгодженості зображень у клінічній практиці та дослідженнях.",
-    "specialty": "громадське здоровʼя",
+    "practicalTakeaway": "Генетичний поліморфізм GNAQ може впливати на ефективність опіоїдної терапії, що важливо враховувати при індивідуалізації лікування болю.",
+    "specialty": "неврологія",
     "tags": [
-      "доказова медицина",
-      "загальнонаціональний",
-      "медична технологія"
+      "генетика",
+      "опіоїдні анальгетики",
+      "біль"
     ],
     "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42376734",
+    "title": "Мутазинтез та антибактеріальна активність аналогів mupirocin",
+    "journal": "Chembiochem : a European journal of chemical biology",
+    "publishedAt": "2026-07-14T00:00:00Z",
+    "abstract": "Дослідження присвячене застосуванню мутазинтезу — методу, що поєднує метаболічну інженерію та хімічне синтезування, для створення нових препаратів на основі mupirocin. Mupirocin, отриманий із Pseudomonas fluorescens, є ефективним проти грампозитивних бактерій, зокрема MRSA. Розроблено гнучкий підхід для виробництва аналогів mupirocin.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42376734/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-06-30T14:07:03Z",
+    "originalTitle": "Mutasynthesis and Antibiotic Activity of Mupirocin Analogues.",
+    "originalAbstract": "With growing understanding of complex biosynthetic pathways to natural products, mutasynthesis, which combines metabolic engineering with chemical synthesis, is becoming an increasingly important tool to produce novel compounds. Mupirocin, isolated from Pseudomonas fluorescens, is a mixture of pseudomonic acids (PAs) that exhibit antibiotic activity against Gram-positive bacteria including methicillin-resistant Staphylococcus aureus. We have developed a flexible approach, based on mutasynthesis,",
+    "keyPoints": [
+      "Мутазинтез поєднує метаболічну інженерію та хімічний синтез.",
+      "Mupirocin активний проти грампозитивних бактерій, включно з MRSA.",
+      "Розроблено метод для створення нових антимікробних препаратів."
+    ],
+    "practicalTakeaway": "Мутазинтез може сприяти розробці нових антибіотиків на основі mupirocin.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "антибіотики",
+      "мутасинтез",
+      "інфекційні хвороби"
+    ],
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
