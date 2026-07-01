@@ -1,50 +1,76 @@
 [
   {
-    "title": "Прогностичні моделі для передбачення госпіталізації до відділення інтенсивної терапії або смертності у критично хворих дорослих, які ще не були госпіталізовані до ICU",
-    "abstract": "Це протокол для огляду Cochrane (прогноз). Мета — визначити, чи можна використовувати прогностичні моделі для передбачення госпіталізації до відділення інтенсивної терапії (ICU) і смертності під час госпіталізації, а також виживання після виписки у критично хворих дорослих, які ще не були госпіталізовані до ICU, протягом до одного року.",
+    "title": "Механічна тромбопротекція для запобігання інтрадіалізної гіпотензії у пацієнтів на гемодіалізі",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики механічної тромбопротекції у запобіганні інтрадіалізної гіпотензії у дорослих з нирковою недостатністю, що проходять регулярний гемодіаліз.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016365/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-06-28T00:00:00Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
+    "originalTitle": "Mechanical thromboprophylaxis for preventing intradialytic hypotension in people undergoing maintenance haemodialysis.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: This review aims to evaluate the benefits and harms of mechanical thromboprophylaxis for preventing intradialytic hypotension in adults with kidney failure undergoing maintenance haemodialysis.",
+    "keyPoints": [
+      "Огляд досліджує ефективність механічної тромбопротекції.",
+      "Мета — запобігання інтрадіалізної гіпотензії.",
+      "Фокус — дорослі пацієнти з нирковою недостатністю на гемодіалізі."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити, чи має сенс застосовувати механічну тромбопротекцію для запобігання гіпотензії під час гемодіалізу.",
+    "specialty": "нефрологія",
+    "tags": [
+      "гемодіаліз",
+      "інтрадіалізна гіпотензія",
+      "тромбопротекція"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Прогностичні моделі для передбачення госпіталізації до відділення інтенсивної терапії або смерті у критично хворих дорослих, які ще не були госпіталізовані до ICU",
+    "abstract": "Це протокол для огляду Cochrane, що досліджує можливість використання прогностичних моделей для передбачення госпіталізації до відділення інтенсивної терапії (ICU) або смерті у критично хворих дорослих, які ще не були госпіталізовані до ICU. Мета — визначити, чи можуть ці моделі допомогти прогнозувати ризики під час госпіталізації та після виписки, включаючи виживання до одного року.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016115/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-28T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Prognostic models for predicting intensive care unit admission or mortality in critically ill adults not yet been admitted to the intensive care unit.",
     "originalAbstract": "This is a protocol for a Cochrane Review (prognosis). The objectives are as follows: To determine whether prognostic models can be used for predicting the occurrence of ICU admission and mortality within the index hospital admission, and post-discharge survival at reported follow-up time points, up to one year, in critically ill adults not yet admitted to the ICU. The objective in PICOTS format is as follows. critically ill adults not yet admitted to the ICU Index prognostic model: available pro…",
     "keyPoints": [
-      "Моделі прогнозування можуть допомогти визначити ризик госпіталізації до ICU і смертності.",
-      "Дослідження спрямовані на критично хворих дорослих, що ще не госпіталізовані до ICU.",
-      "Огляд аналізує можливість застосування таких моделей у клінічній практиці."
+      "Досліджуються прогностичні моделі для критично хворих дорослих.",
+      "Мета — передбачити госпіталізацію до ICU або смерть.",
+      "Розглядається прогнозування до одного року після госпіталізації."
     ],
-    "practicalTakeaway": "Поточний аналіз вивчає можливість використання прогностичних моделей для оцінки ризику у критично хворих дорослих, що ще не госпіталізовані до ICU.",
+    "practicalTakeaway": "Використання прогностичних моделей може допомогти у визначенні ризиків у критично хворих дорослих, що ще не були госпіталізовані до ICU.",
     "specialty": "доказова медицина",
     "tags": [
       "прогностичні моделі",
       "інтенсивна терапія",
-      "смертність"
+      "передбачення ризиків"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Дослідження досвіду управління вагою у людей з обмеженнями рухової активності, інтелектуальними порушеннями або важкими психічними захворюваннями",
-    "abstract": "Це протокол для огляду Cochrane, що досліджує якісний досвід людей, які беруть участь у програмах управління вагою. Мета — з'ясувати, що відомо з якісних джерел про поведінкові підходи до контролю ваги у цій групі.",
+    "title": "Дослідження досвіду управління вагою у людей з обмеженими можливостями та психічними захворюваннями",
+    "abstract": "Це протокол для якісного аналізу, що досліджує знання про поведінкові програми управління вагою у людей з обмеженнями руху, інтелектуальними порушеннями або важкими психічними захворюваннями. Мета — з'ясувати досвід учасників щодо таких програм та їх впливу на вагу і здоров'я.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016361/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-26T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Views and experiences of weight management for people living with mobility‑limiting conditions, intellectual disabilities or severe mental illness: a qualitative evidence synthesis.",
     "originalAbstract": "This is a protocol for a Cochrane Review (qualitative). The objectives are as follows: This qualitative evidence synthesis (QES) aims to address the question: What is known from qualitative evidence about behavioural weight management for people living with mobility-limiting conditions, intellectual disabilities, or severe mental illness? The five review objectives are as follows. To explore individuals' experiences with weight and behavioural weight-management programmes. This includes understa…",
     "keyPoints": [
-      "Досліджуються досвіди участі у програмах управління вагою.",
-      "Фокус на людей з обмеженнями рухової активності, інтелектуальними порушеннями або важкими психічними захворюваннями.",
-      "Мета — зрозуміти особисті враження та бар'єри у процесі зниження ваги."
+      "Досліджуються особисті досвіди участі у програмах управління вагою.",
+      "Фокус на людей з обмеженими можливостями та психічними захворюваннями.",
+      "Мета — зрозуміти, як ці програми впливають на їхній досвід та результати."
     ],
-    "practicalTakeaway": "Результати цього дослідження допоможуть краще зрозуміти потреби та досвід людей з особливими потребами у програмах управління вагою.",
+    "practicalTakeaway": "Результати дослідження допоможуть краще зрозуміти потреби та досвід людей з особливими потребами у контексті управління вагою.",
     "specialty": "доказова медицина",
     "tags": [
-      "вагомірне управління",
-      "якісні дослідження",
+      "управління вагою",
+      "якісний аналіз",
       "особливі потреби"
     ],
     "priorityScore": 8,
@@ -52,26 +78,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Нефармакологічні втручання при тривозі та депресії у хворих на Паркінсона",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити та порівняти ефективність і безпеку нефармакологічних методів для зменшення симптомів тривоги і депресії у пацієнтів з хворобою Паркінсона.",
+    "title": "Неклінічні втручання для зменшення тривоги та депресії при хворобі Паркінсона",
+    "abstract": "Це протокол огляду Cochrane, який має на меті оцінити та порівняти ефективність і безпеку неклінічних методів для зменшення симптомів тривоги і депресії у пацієнтів з хворобою Паркінсона.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016360/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-24T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Non-pharmacological interventions for anxiety and depression in Parkinson's disease.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate and compare the efficacy and safety of non-pharmacological interventions for reducing symptoms of anxiety and depression in individuals with Parkinson's disease.",
     "keyPoints": [
-      "Огляд досліджень щодо нефармакологічних методів для тривоги і депресії у Паркінсона.",
-      "Мета — оцінити ефективність і безпеку таких втручань.",
-      "Зосереджено на пацієнтах з хворобою Паркінсона."
+      "Огляд досліджень щодо неклінічних втручань при хворобі Паркінсона.",
+      "Мета — оцінити ефективність і безпеку таких методів.",
+      "Фокус на зменшення тривоги і депресії."
     ],
-    "practicalTakeaway": "Очікується, що результати дослідження допоможуть визначити безпечні та ефективні нефармакологічні підходи для зменшення психологічних симптомів у хворих на Паркінсона.",
-    "specialty": "доказова медицина",
+    "practicalTakeaway": "Дослідження спрямовані на пошук альтернативних підходів для покращення психічного стану пацієнтів з хворобою Паркінсона.",
+    "specialty": "неврологія",
     "tags": [
       "неврологія",
       "психіатрія",
-      "хвороба Паркінсона"
+      "доказова медицина"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
@@ -79,46 +105,46 @@
   },
   {
     "title": "Біологічні препарати для індукції та підтримки ремісії при хворобі Крона: аналіз мережі досліджень",
-    "abstract": "Дослідження оцінює ефективність та безпеку біологічних препаратів у лікуванні хвороби Крона, з метою визначення їхньої ролі у досягненні та підтримці ремісії. Аналіз включає порівняльні дані щодо різних механізмів дії препаратів, що допомагає у прийнятті клінічних рішень.",
+    "abstract": "Це дослідження аналізує ефективність та безпеку біологічних препаратів у лікуванні хвороби Крона, зосереджуючись на їх ролі у досягненні та підтримці ремісії. Враховуються різні механізми дії препаратів та їх порівняльна ефективність.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012751.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-23T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Biologic drugs for induction and maintenance of remission in Crohn's disease: a network meta-analysis.",
     "originalAbstract": "Crohn's disease is an inflammatory bowel disease (IBD) that can extend to any part of the gut. Many people with Crohn's disease fail to reach and maintain remission using conventional therapies. Biologic therapies with different mechanisms have advanced rapidly over recent decades. Comparative data for efficacy and safety are needed to clarify the relative position of these agents and guide decision-making. To assess the effects of biologic and advanced treatments for induction and maintenance o…",
     "keyPoints": [
-      "Дослідження аналізує ефективність біологічних препаратів у лікуванні хвороби Крона.",
-      "Результати спрямовані на визначення ролі препаратів у досягненні та підтримці ремісії.",
-      "Потреба у порівняльних даних щодо безпеки та ефективності різних механізмів дії."
+      "Дослідження порівнює різні біологічні препарати щодо їхньої ефективності та безпеки.",
+      "Мета — визначити оптимальні стратегії лікування для досягнення ремісії.",
+      "Результати допомагають у прийнятті клінічних рішень щодо застосування біологічних препаратів."
     ],
-    "practicalTakeaway": "Результати дослідження допомагають у виборі біологічних препаратів для лікування хвороби Крона, враховуючи їхню ефективність та безпеку.",
+    "practicalTakeaway": "Інформація про ефективність біологічних препаратів може сприяти оптимізації лікування хвороби Крона.",
     "specialty": "гастроентерологія",
     "tags": [
-      "біологічні препарати",
       "хвороба Крона",
-      "лікування"
+      "біологічні препарати",
+      "ремісія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Прегравідарне та перший триместр прийому метформіну для покращення результатів вагітності у жінок з полікістозом яєчників",
-    "abstract": "Цей протокол дослідження має на меті оцінити потенційні переваги та ризики застосування метформіну, розпочатого перед зачаттям та протягом першого триместру, у жінок з полікістозом яєчників щодо результатів вагітності.",
+    "title": "Прегравідарна та перша триместрова терапія метформіном для покращення результатів вагітності у жінок з полікістозом яєчників",
+    "abstract": "Цей протокол дослідження спрямований на оцінку ефективності та безпеки прийому метформіну перед зачаттям і протягом першого триместру у жінок з полікістозом яєчників для покращення результатів вагітності.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016141/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-23T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Preconception and first-trimester metformin for improving pregnancy outcomes in women with polycystic ovary syndrome.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of metformin therapy initiated prior to conception and continued through the first trimester for women with polycystic ovary syndrome, compared with placebo or no metformin treatment, on pregnancy outcomes.",
     "keyPoints": [
-      "Оцінка впливу прийому метформіну перед зачаттям та у першому триместрі.",
-      "Порівняння з плацебо або відсутністю терапії.",
-      "Мета — визначити ефективність та безпеку для результатів вагітності."
+      "Оцінюється вплив прийому метформіну до зачаття та в першому триместрі.",
+      "Мета — визначити користь і потенційні ризики терапії.",
+      "Дослідження порівнює метформін з плацебо або відсутністю лікування."
     ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення ролі метформіну у покращенні вагітності у жінок з полікістозом яєчників.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити роль метформіну у покращенні вагітності у жінок з полікістозом яєчників.",
     "specialty": "акушерство і гінекологія",
     "tags": [
       "вагітність",
@@ -131,24 +157,24 @@
   },
   {
     "title": "Аудит і зворотній зв'язок: вплив на професійну практику",
-    "abstract": "Дослідження аналізує ефективність аудиту та зворотнього зв'язку (А&З) у покращенні професійної практики медичних працівників. Попередні огляди та теорії поведінки підтверджують їхню роль у стимулюванні змін у клінічній діяльності, проте залишаються невизначеності щодо ступеня їхнього впливу та характеристик, що сприяють більшій ефективності.",
+    "abstract": "Дослідження аналізує вплив аудиту та зворотнього зв'язку (А&З) на професійну практику медичних працівників. Вказано, що А&З є поширеною стратегією для підвищення якості медичної допомоги, підтримується попередніми оглядами та теоріями поведінки. Однак залишається невизначеність щодо конкретних ефектів та характеристик А&З, що сприяють більшій ефективності.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000259.pub5/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-22T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Audit and feedback: effects on professional practice.",
     "originalAbstract": "Audit and feedback (A&F) is a widely used strategy to improve professional practice. This is supported by prior Cochrane reviews and behavioural theories describing how healthcare professionals are prompted to modify their practice when given data showing that their clinical practice is inconsistent with a desirable target. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. To assess the effect…",
     "keyPoints": [
-      "Аудит і зворотній зв'язок використовуються для покращення медичної практики.",
-      "Докази свідчать про потенціал А&З у зміні поведінки медичних працівників.",
-      "Вивчаються фактори, що підвищують ефективність А&З."
+      "А&З широко застосовується для покращення медичної практики.",
+      "Вплив А&З на якість допомоги залишається недостатньо визначеним.",
+      "Дослідження аналізує фактори, що впливають на ефективність А&З."
     ],
-    "practicalTakeaway": "Застосування аудиту та зворотнього зв'язку може сприяти покращенню медичної практики, але їхня ефективність залежить від конкретних характеристик.",
+    "practicalTakeaway": "Застосування аудиту та зворотнього зв'язку може мати потенціал для покращення медичної практики, але потребує подальших досліджень щодо оптимальних характеристик.",
     "specialty": "доказова медицина",
     "tags": [
       "медична практика",
-      "якість надання допомоги",
+      "якість допомоги",
       "поведінкові стратегії"
     ],
     "priorityScore": 8,
@@ -157,103 +183,77 @@
   },
   {
     "title": "Хірургічне лікування остеоартриту зап'ястя",
-    "abstract": "Цей протокол огляду Cochrane має на меті оцінити ефективність та безпеку різних хірургічних втручань при остеоартриті зап'ястя у дорослих. Основна увага приділяється порівнянню часткового зрощення зап'ястя з плацебо або імітацією операції. Другорядні цілі включають аналіз результатів таких процедур, як резекція проксимальної кістки зап'ястя, тотальна артропластика зап'ястя та денервація зап'ястя, у порівнянні з плацебо або безопераційними методами.",
+    "abstract": "Цей протокол передбачає оцінку ефективності та безпеки різних хірургічних втручань при остеоартриті зап'ястя у дорослих. Основна увага зосереджена на порівнянні часткового зрощення зап'ястя з плацебо або імітаційною операцією. Другорядні цілі включають аналіз інших хірургічних процедур, таких як резекція проксимальної кістки, тотальна ендопротезування зап'ястя та денервація зап'ястя, у порівнянні з плацебо або безопераційними методами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016352/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Surgery for wrist osteoarthritis.",
     "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: The primary objective is to assess the benefits and harms of partial wrist fusion compared with placebo or sham surgery in adults with non-inflammatory osteoarthritis of the wrist. Secondary objectives are to assess the benefits and harms of surgery, including but not limited to, proximal row carpectomy, total wrist arthroplasty, and wrist denervation, compared with placebo or sham surgery, any non-surgical i…",
     "keyPoints": [
-      "Огляд оцінює хірургічні методи лікування остеоартриту зап'ястя.",
-      "Порівнюються різні хірургічні втручання та плацебо.",
-      "Результати допоможуть визначити баланс між користю та ризиками."
+      "Оцінюється ефективність хірургічних втручань при остеоартриті зап'ястя.",
+      "Порівнюються різні види операцій та їхні наслідки.",
+      "Фокус на безпеці та потенційних ризиках процедур."
     ],
-    "practicalTakeaway": "Результати цього дослідження допоможуть визначити доцільність застосування різних хірургічних методів при остеоартриті зап'ястя.",
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш обґрунтовані хірургічні підходи для лікування остеоартриту зап'ястя.",
     "specialty": "хірургія",
     "tags": [
       "хірургія",
       "остеоартрит",
       "зап'ястя"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Довгострокові ефекти препаратів для зниження ваги у людей з гіпертонією",
-    "abstract": "Дослідження аналізує вплив довгострокового застосування препаратів для зниження ваги на зменшення маси тіла та рівня кров'яного тиску у пацієнтів з гіпертонією. Оскільки надмірна вага повʼязана з підвищеним ризиком серцево-судинних захворювань, важливо оцінити їхній вплив на клінічні результати.",
+    "abstract": "Дослідження аналізує довгостроковий вплив препаратів для зниження ваги на зниження маси тіла та артеріального тиску у пацієнтів з гіпертонією. Оскільки надмірна вага часто асоціюється з гіпертонією та підвищеним ризиком серцево-судинних ускладнень, важливо оцінити їхній вплив на клінічні результати.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007654.pub6/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "Long-term effects of weight-reducing drugs in people with hypertension.",
     "originalAbstract": "Long-term weight management drugs have the potential to reduce body weight and blood pressure in obese or overweight individuals. Being overweight or obese is often associated with hypertension, which is linked to an increased risk of cardiovascular mortality and morbidity. The effects of weight-reducing drugs on patient-relevant outcomes, especially in people with hypertension, are currently unclear. This review is the fourth update of one first published in July 2009. Primary objective To asse…",
     "keyPoints": [
-      "Препарати для зниження ваги можуть зменшувати масу тіла та кров'яний тиск.",
-      "Вплив препаратів на довгострокові клінічні результати залишається невизначеним.",
-      "Дослідження оновлюється з 2009 року для уточнення ефективності."
+      "Препарати для зниження ваги можуть впливати на масу тіла та артеріальний тиск.",
+      "Вплив препаратів на довгострокові клінічні результати у пацієнтів з гіпертонією залишаються невизначеними.",
+      "Дослідження оновлюється для уточнення їхньої ролі у довгостроковій терапії."
     ],
-    "practicalTakeaway": "Поточні дані не дають однозначної оцінки довгострокової користі препаратів для зниження ваги у пацієнтів з гіпертонією.",
+    "practicalTakeaway": "Поточні дані не дають однозначної відповіді щодо довгострокової користі препаратів для зниження ваги у пацієнтів з гіпертонією.",
     "specialty": "доказова медицина",
     "tags": [
-      "вагомірна терапія",
       "гіпертонія",
-      "зниження ваги"
+      "вага",
+      "лікування"
     ],
-    "priorityScore": 8,
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "(Ультра-)короткодіючі інсулінові аналоги для дорослих з цукровим діабетом типу 1 на багаторазових ін'єкціях: мережевий мета-аналіз",
-    "abstract": "Мета-аналіз досліджує довгостроковий вплив (ультра-)короткодіючих інсулінових аналогів у порівнянні з регулярним людським інсуліном у дорослих з цукровим діабетом типу 1, які отримують кілька ін'єкцій щодня. Аналіз спрямований на визначення їхньої ефективності та безпеки.",
+    "abstract": "Мета-аналіз досліджує довгостроковий вплив (ультра-)короткодіючих інсулінових аналогів у порівнянні з регуляром людським інсуліном або іншими аналогами у дорослих з цукровим діабетом типу 1, які отримують багаторазові ін'єкції. Результати допомагають оцінити їхню ефективність у контролі глікемії.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012161.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
+    "updatedAt": "2026-07-01T04:46:06Z",
     "originalTitle": "(Ultra-)short-acting insulin analogues for adults with type 1 diabetes mellitus on multiple daily injections: a network meta-analysis.",
     "originalAbstract": "Ultra-short-acting insulin analogues have the potential to achieve clinical benefits for people with type 1 diabetes, but their relative effects in relation to regular human insulin remain unclear. Primary objective: To compare the effects of long-term treatment with (ultra-)short-acting insulin analogues to regular human insulin or another (ultra-)short-acting insulin analogue in people with type 1 diabetes on multiple daily injections through a network meta-analysis. To obtain an estimate of t…",
     "keyPoints": [
-      "Дослідження порівнює довгострокову ефективність різних інсулінових препаратів.",
-      "Мета-аналіз спрямований на визначення переваг (ультра-)короткодіючих аналогів.",
-      "Результати допоможуть уточнити оптимальний режим інсулінотерапії для пацієнтів з цукровим діабетом типу 1."
+      "Дослідження порівнює довгострокову ефективність різних інсулінових аналогів.",
+      "Мета-аналіз базується на мережевій статистиці для порівнянь.",
+      "Результати допомагають визначити оптимальні терапевтичні стратегії."
     ],
-    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір інсулінової терапії у дорослих з цукровим діабетом типу 1.",
+    "practicalTakeaway": "Результати дослідження можуть інформувати вибір інсулінової терапії для дорослих з цукровим діабетом типу 1.",
     "specialty": "ендокринологія",
     "tags": [
       "діабет",
       "інсулін",
       "мета-аналіз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Довгострокові наслідки низької мовленнєвої компетентності у дітей",
-    "abstract": "Ця публікація аналізує довгострокові ризики, пов’язані з низькою мовленнєвою компетентністю (НМК), у дітей віком від 4 до 8 років із подальшим спостереженням з 12 років. НМК впливає на до 10% дітей і є фактором ризику для академічних та соціальних труднощів. Огляд базується на даних лонгітюдних когортних досліджень.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015268.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-17T00:00:00Z",
-    "updatedAt": "2026-06-30T14:36:14Z",
-    "originalTitle": "Long-term prognosis of low language proficiency in children.",
-    "originalAbstract": "Low language proficiency (LLP) affects up to 10% of children, depending on how it is defined, and is a known risk factor for academic and social difficulties. Despite growing awareness, there is limited consensus on the long-term consequences of LLP across quality of life domains. This review synthesises evidence from longitudinal cohort studies to evaluate long-term risks associated with LLP identified between ages four and eight, with follow-up from age 12 onwards. To examine the long-term out…",
-    "keyPoints": [
-      "НМК зустрічається у до 10% дітей.",
-      "Може бути повʼязана з довгостроковими труднощами.",
-      "Дослідження базуються на лонгітюдних когортних даних."
-    ],
-    "practicalTakeaway": "Необхідно враховувати потенційні довгострокові наслідки НМК для планування підтримки дітей.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "дитяча медицина",
-      "розвиток дитини"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
