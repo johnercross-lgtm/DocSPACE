@@ -7,6 +7,9 @@ import os
 import random
 import subprocess
 import sys
+import urllib.error
+import urllib.parse
+import urllib.request
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -19,6 +22,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_CONFIG_PATH = ROOT / "config/feed_sources.json"
 DEFAULT_RESULTS_PATH = Path("/tmp/feed-scheduler-results.json")
 UTC = timezone.utc
+DOCSPACE_DIGEST_SOURCE_ID = "docspace_digest"
+TELEGRAM_ALLOWED_UPDATES = ["channel_post", "edited_channel_post"]
 
 
 def utc_now() -> datetime:
@@ -156,7 +161,102 @@ def load_item_keys(path: Path) -> set[str]:
     return keys
 
 
-def run_source(source: SourceConfig) -> dict[str, Any]:
+@dataclass(frozen=True)
+class TelegramWebhookHook:
+    bot_token: str
+    webhook_url: str
+
+    @classmethod
+    def from_environment(cls) -> "TelegramWebhookHook | None":
+        bot_token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+        webhook_url = os.environ.get("TELEGRAM_WEBHOOK_URL", "").strip()
+
+        if not webhook_url:
+            print(
+                "[source:docspace_digest][warn] TELEGRAM_WEBHOOK_URL is missing; "
+                "skipping Telegram webhook lifecycle"
+            )
+            return None
+        if not bot_token:
+            print(
+                "[source:docspace_digest][warn] TELEGRAM_BOT_TOKEN is missing; "
+                "skipping Telegram webhook lifecycle"
+            )
+            return None
+
+        parsed_url = urllib.parse.urlparse(webhook_url)
+        if parsed_url.scheme != "https" or not parsed_url.netloc:
+            raise ValueError("TELEGRAM_WEBHOOK_URL must be a valid HTTPS URL")
+
+        return cls(bot_token=bot_token, webhook_url=webhook_url)
+
+    def temporarily_delete(self) -> None:
+        _telegram_api_request(
+            self.bot_token,
+            "deleteWebhook",
+            {"drop_pending_updates": "false"},
+            query_parameters=True,
+        )
+        print("Telegram webhook temporarily deleted")
+
+    def restore(self) -> None:
+        _telegram_api_request(
+            self.bot_token,
+            "setWebhook",
+            {
+                "url": self.webhook_url,
+                "allowed_updates": json.dumps(TELEGRAM_ALLOWED_UPDATES),
+            },
+        )
+        print("Telegram webhook restored")
+
+
+def _telegram_api_request(
+    bot_token: str,
+    method: str,
+    parameters: dict[str, str],
+    *,
+    query_parameters: bool = False,
+) -> None:
+    encoded_parameters = urllib.parse.urlencode(parameters)
+    api_url = f"https://api.telegram.org/bot{bot_token}/{method}"
+    request_data: bytes | None = None
+
+    if query_parameters:
+        api_url = f"{api_url}?{encoded_parameters}"
+    else:
+        request_data = encoded_parameters.encode("utf-8")
+
+    request = urllib.request.Request(
+        api_url,
+        data=request_data,
+        headers={
+            "Content-Type": "application/x-www-form-urlencoded",
+            "User-Agent": "DocSPACE Feed Scheduler/1.0",
+        },
+        method="GET" if query_parameters else "POST",
+    )
+
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except urllib.error.HTTPError as error:
+        raise RuntimeError(f"Telegram {method} failed with HTTP {error.code}") from error
+    except urllib.error.URLError as error:
+        raise RuntimeError(f"Telegram {method} request failed: {error.reason}") from error
+    except TimeoutError as error:
+        raise RuntimeError(f"Telegram {method} request timed out") from error
+    except (UnicodeDecodeError, json.JSONDecodeError) as error:
+        raise RuntimeError(f"Telegram {method} returned an invalid response") from error
+
+    if not isinstance(payload, dict):
+        raise RuntimeError(f"Telegram {method} returned an invalid response")
+    if not payload.get("ok"):
+        description = payload.get("description") or "unknown Telegram API error"
+        raise RuntimeError(f"Telegram {method} failed: {description}")
+
+
+def _run_source_fetcher(source: SourceConfig) -> dict[str, Any]:
     script_path = ROOT / source.script
     feed_path = ROOT / source.feed_file
     previous_bytes = feed_path.read_bytes() if feed_path.exists() else None
@@ -226,6 +326,21 @@ def run_source(source: SourceConfig) -> dict[str, Any]:
         "feed_file": source.feed_file,
         "push_source": source.push_source,
     }
+
+
+def run_source(source: SourceConfig) -> dict[str, Any]:
+    if source.source_id != DOCSPACE_DIGEST_SOURCE_ID:
+        return _run_source_fetcher(source)
+
+    webhook_hook = TelegramWebhookHook.from_environment()
+    if webhook_hook is None:
+        return _run_source_fetcher(source)
+
+    try:
+        webhook_hook.temporarily_delete()
+        return _run_source_fetcher(source)
+    finally:
+        webhook_hook.restore()
 
 
 def write_results(path: Path, results: list[dict[str, Any]]) -> None:
