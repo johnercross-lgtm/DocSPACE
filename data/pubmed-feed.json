@@ -1,5 +1,72 @@
 [
   {
+    "pmid": "42389901",
+    "title": "In Vitro-Приготовлені фібрилі α-синуклеїну A30P мають збережену та хворобо-значущу грецьку ключову структуру",
+    "journal": "The journal of physical chemistry. B",
+    "publishedAt": "2026-07-02T00:00:00Z",
+    "abstract": "Дослідження показує, що in vitro-створені фібрилі мутантного α-синуклеїну A30P мають структуру, подібну до тих, що виявлені в мозку пацієнтів з хворобою Паркінсона. Це підтверджує важливість структурних досліджень для розуміння патогенезу цієї нейродегенеративної хвороби.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389901/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-02T11:56:26Z",
+    "originalTitle": "In Vitro-Prepared A30P Alpha-Synuclein Fibrils Adopt the Conserved and Disease-Relevant Greek Key Fold.",
+    "originalAbstract": "The pathological hallmark of Parkinson disease (PD) is the formation of the protein alpha-synuclein (Asyn) into β-sheet-rich, self-templating fibrils in the brain. Since the first atomic structure of wild-type Asyn fibrils was determined nearly a decade ago, several other in vitro structures of hereditary mutant fibrils and structures derived from post-mortem diseased patient tissue have been determined by solid-state nuclear magnetic resonance (SSNMR) spectroscopy and cryo-electron microscopy. ",
+    "keyPoints": [
+      "Фібрилі α-синуклеїну A30P мають збережену грецьку ключову структуру.",
+      "Структури досліджували за допомогою SSNMR та крио-ЕМ.",
+      "Знайдені структурні особливості мають значення для розуміння хвороби Паркінсона."
+    ],
+    "practicalTakeaway": "Структурні дослідження α-синуклеїну важливі для розуміння механізмів нейродегенерації при Паркінсоні.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейродегенеративні захворювання",
+      "структурна біологія",
+      "хвороба Паркінсона"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42389900",
+    "title": "Vibe Coding in Neurosurgery: Bridging the Gap Between Clinical Needs and Digital Innovation-A Narrative Review and Practical Perspective.",
+    "journal": "Surgical innovation",
+    "publishedAt": "2026-07-02T00:00:00Z",
+    "abstract": "BackgroundArtificial intelligence (AI) and machine learning are transforming neurosurgical research and practice, yet the programming barrier has excluded most clinicians from building customized digital tools. Vibe coding - generating functional software through natural language instructions to large language models - has substantially lowered this barrier since its formalization in 2025. No study has examined its applications specifically within neurosurgery.MethodsA narrative review of the li",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389900/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-02T11:56:26Z"
+  },
+  {
+    "pmid": "42389899",
+    "title": "Тромбоемболія вен після операцій при раку статевого члена: дослідження UK PeCaN",
+    "journal": "BJU international",
+    "publishedAt": "2026-07-02T00:00:00Z",
+    "abstract": "Дослідження оцінює частоту виникнення венозної тромбоемболії (ВТЕ) після операцій при раку статевого члена, використовуючи дані NHS Англії (2015–2024), та аналізує практики профілактики тромбозів у спеціалізованих центрах Великої Британії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389899/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-02T11:56:26Z",
+    "originalTitle": "Venous thromboembolism after penile cancer surgery: a UK PeCaN study.",
+    "originalAbstract": "To evaluate the incidence of venous thromboembolism (VTE) after penile cancer surgery using national hospital data and to assess current thromboprophylaxis practices across UK specialist centres. A retrospective cohort study was conducted using Secondary Uses Service (SUS) data on penile cancer surgeries performed in NHS hospitals in England between 2015 and 2024. A national survey of UK Penile Cancer Network (UK PeCaN) surgeons was undertaken to assess current thromboprophylaxis practice. The p",
+    "keyPoints": [
+      "Вивчено частоту ВТЕ після операцій при раку статевого члена.",
+      "Проаналізовано сучасні практики профілактики тромбозів у Великій Британії.",
+      "Дослідження базується на національних даних NHS та опитуваннях лікарів."
+    ],
+    "practicalTakeaway": "Значення профілактики венозної тромбоемболії у пацієнтів після операцій при раку статевого члена.",
+    "specialty": "онкологія",
+    "tags": [
+      "венозна тромбоемболія",
+      "ракові захворювання",
+      "хірургія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42385325",
     "title": "Механізми захисту Гуйчжі Геген від грипу за допомогою мережевої фармакології, мікробіому та метаболоміки",
     "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
@@ -192,90 +259,6 @@
       "психологія"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385300",
-    "title": "Молекулярна фармакологія гетеродимерів mGlu7/8: унікальні властивості агоністів та позитивних алостеричних модуляторів",
-    "journal": "Molecular pharmacology",
-    "publishedAt": "2026-06-06T00:00:00Z",
-    "abstract": "Дослідження вивчає фармакологічні характеристики гетеродимерів метаботропних глутаматних рецепторів mGlu7/8, що широко представлені в центральній нервовій системі. Виявлено, що ці гетеродимери мають унікальні властивості щодо дії ортостеричних агоністів та позитивних алостеричних модуляторів, що відрізняє їх від гомодимерів. Це має потенційне значення для розробки нових фармакологічних стратегій.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385300/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Molecular pharmacology of mGlu7/8 heterodimers reveals unique properties of orthosteric agonists and positive allosteric modulators.",
-    "originalAbstract": "The metabotropic glutamate (mGlu) receptors are family C G protein-coupled receptors that are widely expressed throughout the central nervous system and function as either homodimers or heterodimers. Recent literature suggests that specific mGlu heterodimer subtypes play critical functional roles in the brain and show unique pharmacological signatures relative to homodimers. We have previously shown that mGlu7/8 heterodimers may modulate the induction of hippocampal synaptic plasticity using neg",
-    "keyPoints": [
-      "Вивчено фармакологічні особливості гетеродимерів mGlu7/8.",
-      "Виявлено унікальні властивості агоністів та алостеричних модуляторів.",
-      "Гетеродимери мають потенціал для нових терапевтичних підходів."
-    ],
-    "practicalTakeaway": "Розуміння унікальних властивостей гетеродимерів mGlu7/8 може сприяти розробці нових препаратів для лікування неврологічних розладів.",
-    "specialty": "неврологія",
-    "tags": [
-      "фармакологія",
-      "мозок",
-      "нейрона"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385295",
-    "title": "Сексуальна орієнтація та клінічні результати у пацієнтів з першим епізодом шизофренії за 24 місяці лікування",
-    "journal": "Journal of psychiatric research",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження вивчало звʼязок між самостійно визначеною сексуальною орієнтацією та клінічними результатами протягом 24 місяців антипсихотичного лікування у пацієнтів з першим епізодом шизофренії. Виявлено, що сексуальні меншини мають підвищений ризик соціальних труднощів та внутрішньоособистісних вразливостей, що може впливати на перебіг захворювання.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385295/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Sexual orientation and clinical outcome trajectories over 24 months of treatment in first-episode schizophrenia.",
-    "originalAbstract": "Sexual minorities (SM) are at increased risk for psychosis, partly due to social adversities and downstream interpersonal vulnerabilities such as childhood trauma and substance use. This study examined the associations between self-reported sexual orientation and clinical outcome trajectories over 24 months of antipsychotic treatment in patients with first-episode schizophrenia (FES) (n = 77). Self-identified sexual orientation was assessed using the Sexual Orientation Identity Scale. Psychopath",
-    "keyPoints": [
-      "Дослідження аналізувало вплив сексуальної орієнтації на результати лікування шизофренії.",
-      "Зазначено, що сексуальні меншини мають підвищений ризик соціальних труднощів.",
-      "Вивчено звʼязок між сексуальною орієнтацією та клінічним перебігом протягом 24 місяців."
-    ],
-    "practicalTakeaway": "Урахування сексуальної орієнтації може бути важливим для індивідуалізації лікування пацієнтів з шизофренією.",
-    "specialty": "психіатрія",
-    "tags": [
-      "шизофренія",
-      "сексуальна орієнтація",
-      "клінічні результати"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385294",
-    "title": "Психоделіки та розлади аутичного спектра: механізми, перекладні дослідження та етичні виклики",
-    "journal": "Journal of psychiatric research",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "abstract": "Розлади аутичного спектра (РАС) — це гетерогенна нейророзвиткова група станів, що характеризуються порушеннями у соціальній комунікації, поведінковими стереотипами та сенсорними порушеннями, часто супроводжуваними тривогою та емоційною дисрегуляцією. Попри прогрес у поведінкових та фармакологічних підходах, ефективних методів лікування основних симптомів РАС поки що обмаль. Останнім часом досліджуються можливості застосування психоделічних речовин, проте питання їхньої безпеки та етичності залиш",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
-    "originalAbstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent deficits in social communication and interaction, restricted and repetitive patterns of behavior, and sensory processing alterations, frequently accompanied by anxiety, emotional dysregulation, and other psychiatric comorbidities. Despite advances in behavioral and pharmacological interventions, effective treatments for core ASD symptoms remain limited. Psychedelic compounds have recently e",
-    "keyPoints": [
-      "Досліджуються механізми дії психоделіків у контексті РАС.",
-      "Поточні перекладні дослідження мають обмежену доказову базу.",
-      "Етичні питання застосування психоделіків у цій групі пацієнтів потребують додаткової уваги."
-    ],
-    "practicalTakeaway": "На даний час застосування психоделіків для лікування РАС залишається на стадії досліджень, і їхня безпечність та етичність потребують подальшого вивчення.",
-    "specialty": "психіатрія",
-    "tags": [
-      "психоделіки",
-      "аутизм",
-      "етика"
-    ],
-    "priorityScore": 3,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
