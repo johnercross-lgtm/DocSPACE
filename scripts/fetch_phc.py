@@ -3,8 +3,6 @@ from __future__ import annotations
 
 import json
 import re
-import ssl
-import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass
@@ -14,6 +12,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 from ai_digest import process_public_health_with_ai
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
 
 OUT_PATH = Path("data/phc-feed.json")
 SOURCE_URL = "https://phc.org.ua/news/all"
@@ -110,22 +110,8 @@ def fetch_text(url: str) -> str:
         headers={"User-Agent": "Mozilla/5.0 (DocSPACE bot)"},
     )
 
-    try:
-        with urllib.request.urlopen(request, timeout=TIMEOUT_SECONDS) as response:
-            return response.read().decode("utf-8", errors="ignore")
-    except urllib.error.URLError as error:
-        reason = getattr(error, "reason", None)
-
-        if isinstance(reason, ssl.SSLError):
-            insecure_context = ssl._create_unverified_context()
-            with urllib.request.urlopen(
-                request,
-                timeout=TIMEOUT_SECONDS,
-                context=insecure_context,
-            ) as response:
-                return response.read().decode("utf-8", errors="ignore")
-
-        raise
+    with urlopen_with_retry(request, timeout=TIMEOUT_SECONDS) as response:
+        return response.read().decode("utf-8", errors="ignore")
 
 
 def is_date(value: str) -> bool:
@@ -369,22 +355,36 @@ def main() -> int:
         html_text = fetch_text(SOURCE_URL)
     except Exception as error:
         print(f"[warn] failed to fetch {SOURCE_URL}: {error}; keeping existing file unchanged")
-        return 0
+        return 1
 
     try:
         items = parse_items(html_text)
     except Exception as error:
         print(f"[warn] failed to parse PHC news page: {error}; keeping existing file unchanged")
-        return 0
+        return 1
 
     if not items:
         print("[warn] parsed PHC page contains no valid items; keeping existing file unchanged")
         return 0
 
-    processed_items = process_items_with_ai(items)
+    processed_items, items_processed = process_incremental_items(
+        candidates=items,
+        existing=load_existing_feed(OUT_PATH),
+        processor=process_items_with_ai,
+        max_items_per_run=run_item_limit(LIMIT),
+        feed_limit=LIMIT,
+        reprocess_existing=lambda item: not item.get("aiProcessed", False),
+    )
+
+    if not processed_items:
+        print("[warn] incremental merge produced no PHC items; keeping existing file unchanged")
+        return 0
 
     write_feed(processed_items)
-    print(f"Saved {len(processed_items)} AI-processed PHC feed items to {OUT_PATH}")
+    print(
+        f"Saved {len(processed_items)} PHC feed items to {OUT_PATH}; "
+        f"new_items_processed={items_processed}"
+    )
 
     return 0
 

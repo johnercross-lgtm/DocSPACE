@@ -1,0 +1,168 @@
+name: Feed Scheduler
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+    - cron: "43 9 * * *"
+    - cron: "28 15 * * *"
+    - cron: "52 21 * * *"
+  workflow_dispatch:
+    inputs:
+      source_id:
+        description: "Run due sources or force one source"
+        required: true
+        default: "due"
+        type: choice
+        options:
+          - due
+          - fda_ema_safety
+          - phc
+          - nszu
+          - pubmed
+          - cochrane
+          - moz
+          - docspace_digest
+      max_sources:
+        description: "Maximum sources for a due run"
+        required: true
+        default: "2"
+        type: choice
+        options:
+          - "1"
+          - "2"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-scheduler
+  cancel-in-progress: false
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v3
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-scheduler.txt
+
+      - name: Install scheduler dependencies
+        run: python -m pip install --requirement requirements-scheduler.txt
+
+      - name: Run feed scheduler
+        env:
+          FIREBASE_PROJECT_ID: ${{ vars.FIREBASE_PROJECT_ID }}
+          FIRESTORE_DATABASE: ${{ vars.FIRESTORE_DATABASE || '(default)' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-nano' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          args=(--results-file /tmp/feed-scheduler-results.json)
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ "${{ inputs.source_id }}" != "due" ]; then
+              args+=(--source "${{ inputs.source_id }}")
+            else
+              args+=(--max-sources "${{ inputs.max_sources }}")
+            fi
+          fi
+
+          python scripts/feed_scheduler.py "${args[@]}"
+
+      - name: Commit feed changes
+        id: commit
+        run: |
+          git config user.name "docspace-bot"
+          git config user.email "docspace-bot@users.noreply.github.com"
+
+          python - <<'PY' >/tmp/successful-feed-files.txt
+          import json
+
+          with open("/tmp/feed-scheduler-results.json", encoding="utf-8") as handle:
+              results = json.load(handle)
+
+          for result in results:
+              if result.get("ok"):
+                  print(result["feed_file"])
+          PY
+
+          while IFS= read -r feed_file; do
+            [ -n "$feed_file" ] || continue
+            git add -- "$feed_file"
+          done </tmp/successful-feed-files.txt
+
+          if grep -qx 'data/docspace-digest-feed.json' /tmp/successful-feed-files.txt; then
+            git add -A -- data/docspace-digest-images/
+          fi
+
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "Update scheduled feeds"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Send feed update notifications
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          DOCSPACE_FEED_PUSH_ENDPOINT: ${{ secrets.DOCSPACE_FEED_PUSH_ENDPOINT }}
+          DOCSPACE_FEED_PUSH_SECRET: ${{ secrets.DOCSPACE_FEED_PUSH_SECRET }}
+        run: |
+          python - <<'PY' >/tmp/changed-feeds.tsv
+          import json
+
+          with open("/tmp/feed-scheduler-results.json", encoding="utf-8") as handle:
+              results = json.load(handle)
+
+          for result in results:
+              if result.get("ok") and result.get("changed"):
+                  print(f"{result['push_source']}\t{result['feed_file']}")
+          PY
+
+          while IFS=$'\t' read -r source feed_file; do
+            [ -n "$source" ] || continue
+            bash scripts/send_feed_push.sh "$source" "$feed_file" || \
+              echo "[warn] feed push failed source=$source feed_file=$feed_file"
+          done </tmp/changed-feeds.tsv
+
+      - name: Write scheduler summary
+        if: always()
+        run: |
+          if [ -f /tmp/feed-scheduler-results.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+
+          with open("/tmp/feed-scheduler-results.json", encoding="utf-8") as handle:
+              results = json.load(handle)
+
+          print("## Feed scheduler")
+          print("| Source | Status | Items added | Error |")
+          print("|---|---:|---:|---|")
+          for result in results:
+              status = "success" if result.get("ok") else "error"
+              error = str(result.get("error") or "").replace("|", "\\|")
+              print(f"| {result['source_id']} | {status} | {result.get('items_added', 0)} | {error} |")
+          PY
+          else
+            echo "## Feed scheduler" >> "$GITHUB_STEP_SUMMARY"
+            echo "Scheduler stopped before producing results." >> "$GITHUB_STEP_SUMMARY"
+          fi

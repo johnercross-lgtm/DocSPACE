@@ -1,0 +1,76 @@
+{
+  "max_sources_per_run": 2,
+  "firestore_collection": "feed_scheduler_state",
+  "sources": [
+    {
+      "source_id": "fda_ema_safety",
+      "enabled": true,
+      "interval_hours": 72,
+      "jitter_hours": 8,
+      "max_items_per_run": 2,
+      "script": "scripts/fetch_fda_ema_safety.py",
+      "feed_file": "data/fda-ema-safety-feed.json",
+      "push_source": "safety"
+    },
+    {
+      "source_id": "phc",
+      "enabled": true,
+      "interval_hours": 48,
+      "jitter_hours": 6,
+      "max_items_per_run": 3,
+      "script": "scripts/fetch_phc.py",
+      "feed_file": "data/phc-feed.json",
+      "push_source": "phc"
+    },
+    {
+      "source_id": "nszu",
+      "enabled": true,
+      "interval_hours": 48,
+      "jitter_hours": 6,
+      "max_items_per_run": 3,
+      "script": "scripts/fetch_nszu_news.py",
+      "feed_file": "data/nszu-feed.json",
+      "push_source": "nszu"
+    },
+    {
+      "source_id": "pubmed",
+      "enabled": true,
+      "interval_hours": 60,
+      "jitter_hours": 8,
+      "max_items_per_run": 3,
+      "script": "scripts/fetch_pubmed.py",
+      "feed_file": "data/pubmed-feed.json",
+      "push_source": "pubmed"
+    },
+    {
+      "source_id": "cochrane",
+      "enabled": true,
+      "interval_hours": 72,
+      "jitter_hours": 8,
+      "max_items_per_run": 3,
+      "script": "scripts/fetch_cochrane.py",
+      "feed_file": "data/cochrane-feed.json",
+      "push_source": "cochrane"
+    },
+    {
+      "source_id": "moz",
+      "enabled": true,
+      "interval_hours": 48,
+      "jitter_hours": 6,
+      "max_items_per_run": 3,
+      "script": "scripts/fetch_moz_news.py",
+      "feed_file": "data/ukrainian-news-feed.json",
+      "push_source": "moz"
+    },
+    {
+      "source_id": "docspace_digest",
+      "enabled": true,
+      "interval_hours": 48,
+      "jitter_hours": 6,
+      "max_items_per_run": 3,
+      "script": "scripts/fetch_docspace_digest.py",
+      "feed_file": "data/docspace-digest-feed.json",
+      "push_source": "docspace_digest"
+    }
+  ]
+}

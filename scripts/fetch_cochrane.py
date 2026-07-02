@@ -3,9 +3,7 @@ from __future__ import annotations
 
 import json
 import re
-import ssl
 import urllib.request
-import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -13,6 +11,8 @@ from html import unescape
 from pathlib import Path
 
 from ai_digest import process_article_with_ai
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
 
 OUT_PATH = Path("data/cochrane-feed.json")
 FEED_URLS = (
@@ -39,22 +39,8 @@ def fetch_xml(url: str) -> bytes:
         headers={"User-Agent": "Mozilla/5.0 (DocSPACE bot)"},
     )
 
-    try:
-        with urllib.request.urlopen(request, timeout=TIMEOUT_SECONDS) as response:
-            return response.read()
-    except urllib.error.URLError as error:
-        reason = getattr(error, "reason", None)
-
-        if isinstance(reason, ssl.SSLError):
-            insecure_context = ssl._create_unverified_context()
-            with urllib.request.urlopen(
-                request,
-                timeout=TIMEOUT_SECONDS,
-                context=insecure_context,
-            ) as response:
-                return response.read()
-
-        raise
+    with urlopen_with_retry(request, timeout=TIMEOUT_SECONDS) as response:
+        return response.read()
 
 
 def fetch_text(url: str) -> str:
@@ -63,22 +49,8 @@ def fetch_text(url: str) -> str:
         headers={"User-Agent": "Mozilla/5.0 (DocSPACE bot)"},
     )
 
-    try:
-        with urllib.request.urlopen(request, timeout=TIMEOUT_SECONDS) as response:
-            return response.read().decode("utf-8", errors="ignore")
-    except urllib.error.URLError as error:
-        reason = getattr(error, "reason", None)
-
-        if isinstance(reason, ssl.SSLError):
-            insecure_context = ssl._create_unverified_context()
-            with urllib.request.urlopen(
-                request,
-                timeout=TIMEOUT_SECONDS,
-                context=insecure_context,
-            ) as response:
-                return response.read().decode("utf-8", errors="ignore")
-
-        raise
+    with urlopen_with_retry(request, timeout=TIMEOUT_SECONDS) as response:
+        return response.read().decode("utf-8", errors="ignore")
 
 
 def clean_summary(raw_text: str) -> str:
@@ -304,6 +276,24 @@ def process_items_with_ai(items: list[dict[str, str]]) -> list[dict]:
     return processed_items
 
 
+def update_feed(candidates: list[dict[str, str]], label: str) -> None:
+    processed_items, items_processed = process_incremental_items(
+        candidates=candidates,
+        existing=load_existing_feed(OUT_PATH),
+        processor=process_items_with_ai,
+        max_items_per_run=run_item_limit(LIMIT),
+        feed_limit=LIMIT,
+        reprocess_existing=lambda item: not item.get("aiProcessed", False),
+    )
+    if not processed_items:
+        raise ValueError("incremental merge produced an empty Cochrane feed")
+    write_feed(processed_items)
+    print(
+        f"Saved {len(processed_items)} Cochrane {label} items to {OUT_PATH}; "
+        f"new_items_processed={items_processed}"
+    )
+
+
 def main() -> int:
     xml_payload: bytes | None = None
 
@@ -321,16 +311,13 @@ def main() -> int:
             fallback_items = fetch_pubmed_fallback_items()
         except Exception as error:
             print(f"[warn] PubMed fallback failed: {error}; keeping existing file unchanged")
-            return 0
+            return 1
 
         if not fallback_items:
             print("[warn] PubMed fallback returned no items; keeping existing file unchanged")
             return 0
 
-        processed_fallback_items = process_items_with_ai(fallback_items)
-
-        write_feed(processed_fallback_items)
-        print(f"Saved {len(processed_fallback_items)} AI-processed Cochrane fallback items to {OUT_PATH}")
+        update_feed(fallback_items, "fallback")
 
         return 0
 
@@ -344,10 +331,7 @@ def main() -> int:
         print("[warn] parsed Cochrane RSS contains no valid items; keeping existing file unchanged")
         return 0
 
-    processed_items = process_items_with_ai(items)
-
-    write_feed(processed_items)
-    print(f"Saved {len(processed_items)} AI-processed Cochrane feed items to {OUT_PATH}")
+    update_feed(items, "feed")
 
     return 0
 

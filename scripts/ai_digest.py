@@ -8,6 +8,35 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1-nano")
 
 
+def _read_ai_request_limit() -> int:
+    raw_value = os.environ.get("MAX_AI_ITEMS_PER_RUN", "5").strip()
+    try:
+        value = int(raw_value)
+    except ValueError:
+        print(f"[warn] invalid MAX_AI_ITEMS_PER_RUN={raw_value!r}; using 5")
+        return 5
+    return max(0, value)
+
+
+MAX_AI_ITEMS_PER_RUN = _read_ai_request_limit()
+_ai_requests_started = 0
+
+
+def reserve_ai_request() -> bool:
+    global _ai_requests_started
+
+    if _ai_requests_started >= MAX_AI_ITEMS_PER_RUN:
+        print(
+            f"[warn] AI request budget exhausted "
+            f"limit={MAX_AI_ITEMS_PER_RUN}; returning original item"
+        )
+        return False
+
+    _ai_requests_started += 1
+    print(f"[ai] request {_ai_requests_started}/{MAX_AI_ITEMS_PER_RUN}")
+    return True
+
+
 SPECIALTIES = [
     "кардіологія",
     "пульмонологія",
@@ -304,6 +333,9 @@ def process_article_with_ai(article: dict) -> dict:
         print("[warn] OPENAI_API_KEY is missing; returning original article")
         return article
 
+    if not reserve_ai_request():
+        return article
+
     prompt = build_prompt(article)
 
     payload = {
@@ -375,6 +407,9 @@ def process_article_with_ai(article: dict) -> dict:
 def process_public_health_with_ai(article: dict) -> dict:
     if not OPENAI_API_KEY:
         print("[warn] OPENAI_API_KEY is missing; returning original public health item")
+        return article
+
+    if not reserve_ai_request():
         return article
 
     prompt = build_public_health_prompt(article)

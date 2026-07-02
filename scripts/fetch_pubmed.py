@@ -8,6 +8,8 @@ import time
 import re
 
 from ai_digest import process_article_with_ai
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
 
 
 SEARCH_TERMS = {
@@ -41,7 +43,7 @@ def get_json(url):
         }
     )
 
-    with urllib.request.urlopen(request, timeout=30) as response:
+    with urlopen_with_retry(request, timeout=30) as response:
         return json.loads(response.read().decode("utf-8"))
 
 
@@ -159,7 +161,7 @@ def fetch_articles(pmids, category):
         }
     )
 
-    with urllib.request.urlopen(request, timeout=30) as response:
+    with urlopen_with_retry(request, timeout=30) as response:
         xml_data = response.read()
 
     root = ET.fromstring(xml_data)
@@ -238,7 +240,18 @@ def main():
             all_articles[article["pmid"]] = article
 
     result = list(all_articles.values())[:MAX_RESULTS]
-    processed_result = process_items_with_ai(result)
+    processed_result, items_processed = process_incremental_items(
+        candidates=result,
+        existing=load_existing_feed(OUT_PATH),
+        processor=process_items_with_ai,
+        max_items_per_run=run_item_limit(MAX_RESULTS),
+        feed_limit=MAX_RESULTS,
+        reprocess_existing=lambda item: not item.get("aiProcessed", False),
+    )
+
+    if not processed_result:
+        print("[warn] incremental merge produced no PubMed items; keeping existing file unchanged")
+        return
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
@@ -246,7 +259,10 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"Saved {len(processed_result)} AI-processed PubMed articles")
+    print(
+        f"Saved {len(processed_result)} PubMed articles; "
+        f"new_items_processed={items_processed}"
+    )
 
 
 if __name__ == "__main__":

@@ -4,14 +4,14 @@ from __future__ import annotations
 import html
 import json
 import re
-import ssl
-import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
 from ai_digest import process_public_health_with_ai
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
 
 OUT_PATH = Path("data/fda-ema-safety-feed.json")
 LIMIT = 24
@@ -31,16 +31,8 @@ SOURCES = (
 
 def fetch_text(url: str) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (DocSPACE bot)"})
-    try:
-        with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as response:
-            return response.read().decode("utf-8", errors="ignore")
-    except urllib.error.URLError as error:
-        reason = getattr(error, "reason", None)
-        if isinstance(reason, ssl.SSLError):
-            insecure_context = ssl._create_unverified_context()
-            with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS, context=insecure_context) as response:
-                return response.read().decode("utf-8", errors="ignore")
-        raise
+    with urlopen_with_retry(req, timeout=TIMEOUT_SECONDS) as response:
+        return response.read().decode("utf-8", errors="ignore")
 
 
 def normalize_text(value: str) -> str:
@@ -174,6 +166,7 @@ def process_items_with_ai(items: list[dict]) -> list[dict]:
 
 def main() -> int:
     collected: list[dict] = []
+    source_errors: list[str] = []
 
     for source_name, feed_url in SOURCES:
         try:
@@ -183,10 +176,11 @@ def main() -> int:
             collected.extend(parsed)
         except Exception as error:
             print(f"[warn] failed to fetch {source_name} safety feed: {error}")
+            source_errors.append(f"{source_name}: {error}")
 
     if not collected:
         print("[warn] no FDA/EMA safety items parsed; keeping existing file unchanged")
-        return 0
+        return 1 if source_errors else 0
 
     dedup: dict[str, dict] = {}
     for item in collected:
@@ -196,11 +190,26 @@ def main() -> int:
     items.sort(key=lambda item: item.get("publishedAt", ""), reverse=True)
     items = items[:LIMIT]
 
-    processed = process_items_with_ai(items)
+    existing = load_existing_feed(OUT_PATH)
+    processed, items_processed = process_incremental_items(
+        candidates=items,
+        existing=existing,
+        processor=process_items_with_ai,
+        max_items_per_run=run_item_limit(LIMIT),
+        feed_limit=LIMIT,
+        reprocess_existing=lambda item: not item.get("aiProcessed", False),
+    )
+
+    if not processed:
+        print("[warn] no FDA/EMA safety items available after incremental merge; keeping existing file unchanged")
+        return 0
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(processed, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Saved {len(processed)} AI-processed safety items to {OUT_PATH}")
+    print(
+        f"Saved {len(processed)} safety items to {OUT_PATH}; "
+        f"new_items_processed={items_processed}"
+    )
     return 0
 
 

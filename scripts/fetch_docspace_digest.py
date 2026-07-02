@@ -8,6 +8,9 @@ import re
 import html
 import time
 
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
+
 OUT_PATH = Path("data/docspace-digest-feed.json")
 IMAGE_DIR = Path("data/docspace-digest-images")
 
@@ -33,7 +36,7 @@ def fetch_html(url):
         },
     )
 
-    with urllib.request.urlopen(req, timeout=30) as response:
+    with urlopen_with_retry(req, timeout=30) as response:
         return response.read().decode("utf-8", errors="ignore")
 
 
@@ -170,7 +173,7 @@ def telegram_api_call(method, params=None):
         headers={"User-Agent": "DocSPACE Digest Fetcher/1.0"},
     )
 
-    with urllib.request.urlopen(req, timeout=30) as response:
+    with urlopen_with_retry(req, timeout=30) as response:
         payload = json.loads(response.read().decode("utf-8"))
 
     if not payload.get("ok"):
@@ -187,7 +190,7 @@ def download_telegram_file(file_path):
         headers={"User-Agent": "DocSPACE Digest Fetcher/1.0"},
     )
 
-    with urllib.request.urlopen(req, timeout=60) as response:
+    with urlopen_with_retry(req, timeout=60) as response:
         return response.read()
 
 
@@ -451,7 +454,7 @@ def download_external_image(url):
         },
     )
 
-    with urllib.request.urlopen(req, timeout=60) as response:
+    with urlopen_with_retry(req, timeout=60) as response:
         data = response.read()
         content_type = response.headers.get("Content-Type", "")
 
@@ -524,7 +527,7 @@ def localize_html_fallback_image(message_id, image_url):
         return image_url
 
 
-def build_bot_image_map():
+def build_bot_image_map(message_ids):
     if not BOT_TOKEN:
         print("[DocSPACE Digest] TELEGRAM_BOT_TOKEN not provided, using HTML image fallback")
         return {}
@@ -571,7 +574,7 @@ def build_bot_image_map():
 
         message_id = str(message.get("message_id") or "")
 
-        if not message_id:
+        if not message_id or message_id not in message_ids:
             continue
 
         try:
@@ -662,30 +665,42 @@ def main():
 
     page = fetch_html(URL)
     posts = parse_posts(page)
-    bot_image_map = build_bot_image_map()
 
-    final_posts = []
+    def process_new_posts(new_posts):
+        message_ids = {post.get("_messageId") or "" for post in new_posts}
+        bot_image_map = build_bot_image_map(message_ids)
+        processed_posts = []
 
-    for post in posts:
-        message_id = post.get("_messageId") or ""
+        for post in new_posts:
+            message_id = post.get("_messageId") or ""
 
-        if message_id in bot_image_map:
-            post["imageUrl"] = bot_image_map[message_id]
-            print(f"[DocSPACE Digest] using bot image for message_id={message_id}")
+            if message_id in bot_image_map:
+                post["imageUrl"] = bot_image_map[message_id]
+                print(f"[DocSPACE Digest] using bot image for message_id={message_id}")
 
-        elif post.get("imageUrl"):
-            post["imageUrl"] = localize_html_fallback_image(
-                message_id,
-                post.get("imageUrl", "")
-            )
-            print(f"[DocSPACE Digest] localized HTML image for message_id={message_id}")
+            elif post.get("imageUrl"):
+                post["imageUrl"] = localize_html_fallback_image(
+                    message_id,
+                    post.get("imageUrl", "")
+                )
+                print(f"[DocSPACE Digest] localized HTML image for message_id={message_id}")
 
-        post.pop("_messageId", None)
+            post.pop("_messageId", None)
 
-        if len(post.get("abstract", "")) < 10 and not post.get("imageUrl"):
-            continue
+            if len(post.get("abstract", "")) < 10 and not post.get("imageUrl"):
+                continue
 
-        final_posts.append(post)
+            processed_posts.append(post)
+
+        return processed_posts
+
+    final_posts, items_processed = process_incremental_items(
+        candidates=posts,
+        existing=load_existing_feed(OUT_PATH),
+        processor=process_new_posts,
+        max_items_per_run=run_item_limit(20),
+        feed_limit=20,
+    )
 
     print(f"Parsed {len(final_posts)} posts")
     print(f"Posts with images: {sum(1 for post in final_posts if post.get('imageUrl'))}")
@@ -702,7 +717,7 @@ def main():
         encoding="utf-8",
     )
 
-    print(f"Saved {len(final_posts)} posts")
+    print(f"Saved {len(final_posts)} posts; new_items_processed={items_processed}")
 
 
 if __name__ == "__main__":

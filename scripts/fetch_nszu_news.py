@@ -4,14 +4,14 @@ from __future__ import annotations
 import html
 import json
 import re
-import ssl
-import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterable
 
 from ai_digest import process_public_health_with_ai
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
 
 
 OUT_PATH = Path("data/nszu-feed.json")
@@ -48,16 +48,8 @@ def fetch_html(url: str) -> str:
             "Pragma": "no-cache",
         },
     )
-    try:
-        with urllib.request.urlopen(req, timeout=30) as response:
-            return response.read().decode("utf-8", errors="ignore")
-    except urllib.error.URLError as error:
-        reason = getattr(error, "reason", None)
-        if isinstance(reason, ssl.SSLError):
-            insecure_context = ssl._create_unverified_context()
-            with urllib.request.urlopen(req, timeout=30, context=insecure_context) as response:
-                return response.read().decode("utf-8", errors="ignore")
-        raise
+    with urlopen_with_retry(req, timeout=30) as response:
+        return response.read().decode("utf-8", errors="ignore")
 
 
 def normalize_text(text: str) -> str:
@@ -211,16 +203,26 @@ def main() -> int:
         page = fetch_html(CHANNEL_URL)
     except Exception as error:
         print(f"[warn] failed to fetch NSZU channel: {error}; keeping existing file unchanged")
-        return 0
+        return 1
 
     items = parse_posts(page)
     if not items:
         print("[warn] no NSZU items found by topic filter; keeping existing file unchanged")
         return 0
 
-    processed = process_items_with_ai(items)
+    processed, items_processed = process_incremental_items(
+        candidates=items,
+        existing=load_existing_feed(OUT_PATH),
+        processor=process_items_with_ai,
+        max_items_per_run=run_item_limit(LIMIT),
+        feed_limit=LIMIT,
+        reprocess_existing=lambda item: not item.get("aiProcessed", False),
+    )
+    if not processed:
+        print("[warn] incremental merge produced no NSZU items; keeping existing file unchanged")
+        return 0
     write_feed(processed)
-    print(f"Saved {len(processed)} AI-processed NSZU feed items to {OUT_PATH}")
+    print(f"Saved {len(processed)} NSZU feed items to {OUT_PATH}; new_items_processed={items_processed}")
     return 0
 
 

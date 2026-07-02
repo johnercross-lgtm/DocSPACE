@@ -6,6 +6,9 @@ import re
 import html
 import time
 
+from feed_utils import load_existing_feed, process_incremental_items, run_item_limit
+from http_client import urlopen_with_retry
+
 OUT_PATH = Path("data/ukrainian-news-feed.json")
 URL = f"https://t.me/s/mozofficial?nocache={int(time.time())}"
 
@@ -21,7 +24,7 @@ def fetch_html(url):
             "Pragma": "no-cache",
         }
     )
-    with urllib.request.urlopen(req, timeout=30) as response:
+    with urlopen_with_retry(req, timeout=30) as response:
         return response.read().decode("utf-8", errors="ignore")
 
 
@@ -99,13 +102,21 @@ def main():
     if len(news) == 0:
         raise RuntimeError("No MOZ posts parsed. Keeping old feed untouched.")
 
+    merged_news, items_processed = process_incremental_items(
+        candidates=news,
+        existing=load_existing_feed(OUT_PATH),
+        processor=lambda items: items,
+        max_items_per_run=run_item_limit(20),
+        feed_limit=20,
+    )
+
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
-        json.dumps(news, ensure_ascii=False, indent=2),
+        json.dumps(merged_news, ensure_ascii=False, indent=2),
         encoding="utf-8"
     )
 
-    print(f"Saved {len(news)} MOZ Telegram posts")
+    print(f"Saved {len(merged_news)} MOZ Telegram posts; new_items_processed={items_processed}")
 
 
 if __name__ == "__main__":
