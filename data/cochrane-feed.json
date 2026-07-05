@@ -1,5 +1,57 @@
 [
   {
+    "title": "Заходи для запобігання або припинення використання електронних сигарет у дітей та підлітків",
+    "abstract": "Зростання поширеності використання електронних сигарет серед дітей та підлітків викликає занепокоєння через потенційні шкоди для здоровʼя. Відповідно, провідні організації охорони здоровʼя закликають до заходів щодо зменшення їхнього вживання. Однак довгострокова ефективність існуючих підходів залишається недостатньо дослідженою.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015511.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-03T00:00:00Z",
+    "updatedAt": "2026-07-05T22:43:14Z",
+    "originalTitle": "Interventions to prevent or cease electronic cigarette use in children and adolescents.",
+    "originalAbstract": "The prevalence of e-cigarette use has recently increased globally amongst children and adolescents. In response to this increase and emerging evidence about the potential harms of e-cigarettes in children and adolescents, leading public health organisations have called for approaches to address e-cigarette use. Whilst evaluations of approaches to reduce uptake and use regularly appear in the literature, the collective long-term benefit of these is currently unclear. The co-primary objectives wer…",
+    "keyPoints": [
+      "Зростає поширеність використання електронних сигарет серед молоді.",
+      "Потенційні шкоди для здоровʼя потребують запобіжних заходів.",
+      "Довгострокова ефективність існуючих стратегій залишається невизначеною."
+    ],
+    "practicalTakeaway": "Необхідні додаткові дослідження щодо довгострокової ефективності заходів зменшення використання електронних сигарет серед молоді.",
+    "specialty": "педіатрія",
+    "tags": [
+      "залежність",
+      "здоровʼя молоді",
+      "профілактика"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Лікування анемії при мієлодиспластичних синдромах: протокол огляду Cochrane",
+    "abstract": "Цей протокол передбачає оцінку переваг та ризиків медикаментозного лікування анемії у пацієнтів з мієлодиспластичними синдромами, порівнюючи підтримуючі та модифікуючі терапії між собою або з стандартною опцією лікування, з або без плацебо.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016362/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-03T00:00:00Z",
+    "updatedAt": "2026-07-05T22:43:14Z",
+    "originalTitle": "Drugs to improve anaemia, quality of life, and physical function in people with myelodysplastic syndromes (MDS).",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of both supportive and disease-modifying drug treatments for anaemia in people with MDS, comparing them to each other, or the standard of care with or without placebo.",
+    "keyPoints": [
+      "Оцінка ефективності медикаментозних підходів до лікування анемії при MDS.",
+      "Порівняння підтримуючих та модифікуючих препаратів.",
+      "Аналіз потенційних ризиків і переваг лікування."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення найбільш ефективних та безпечних медикаментозних стратегій для лікування анемії у пацієнтів з MDS.",
+    "specialty": "гематологія",
+    "tags": [
+      "лікування анемії",
+      "мієлодиспластичні синдроми",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Заходи щодо припинення куріння у стаціонарних психіатричних закладах",
     "abstract": "Тютюнове куріння є провідною запобіжною причиною передчасної хворобливості та смертності серед осіб із важкими психічними розладами. Попри їхній інтерес до припинення куріння, рівень відмови від тютюну у цієї групи залишається низьким. Стаціонарні психіатричні заклади вважаються перспективними місцями для просування та підтримки припинення куріння серед таких пацієнтів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015934.pub2/full",
@@ -204,58 +256,6 @@
       "зворотній зв'язок"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Хірургічне лікування остеоартриту зап'ястя",
-    "abstract": "Цей протокол передбачає оцінку ефективності та безпеки різних хірургічних втручань при остеоартриті зап'ястя у дорослих. Основна мета — порівняти часткове зрощення зап'ястя з плацебо або імітацією операції. Другорядні цілі — аналіз інших хірургічних методів, таких як резекція проксимальної кістки зап'ястя, тотальна артропластика та денервація зап'ястя, у порівнянні з плацебо або безопераційними підходами.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016352/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Surgery for wrist osteoarthritis.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: The primary objective is to assess the benefits and harms of partial wrist fusion compared with placebo or sham surgery in adults with non-inflammatory osteoarthritis of the wrist. Secondary objectives are to assess the benefits and harms of surgery, including but not limited to, proximal row carpectomy, total wrist arthroplasty, and wrist denervation, compared with placebo or sham surgery, any non-surgical i…",
-    "keyPoints": [
-      "Оцінюється ефективність часткового зрощення зап'ястя.",
-      "Розглядаються інші хірургічні методи лікування.",
-      "Фокус на дорослих з неінфекційним остеоартритом зап'ястя."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування різних хірургічних втручань при остеоартриті зап'ястя.",
-    "specialty": "хірургія",
-    "tags": [
-      "хірургія",
-      "остеоартрит",
-      "зап'ястя"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Довгострокові ефекти препаратів для зниження ваги у людей з гіпертонією",
-    "abstract": "Дослідження аналізує вплив довгострокового застосування препаратів для зниження ваги на зниження ваги та артеріального тиску у пацієнтів з гіпертонією. Враховуючи зв'язок ожиріння з гіпертонією та ризиком серцево-судинних захворювань, результати дослідження мають важливе значення для клінічної практики.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007654.pub6/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-19T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Long-term effects of weight-reducing drugs in people with hypertension.",
-    "originalAbstract": "Long-term weight management drugs have the potential to reduce body weight and blood pressure in obese or overweight individuals. Being overweight or obese is often associated with hypertension, which is linked to an increased risk of cardiovascular mortality and morbidity. The effects of weight-reducing drugs on patient-relevant outcomes, especially in people with hypertension, are currently unclear. This review is the fourth update of one first published in July 2009. Primary objective To asse…",
-    "keyPoints": [
-      "Препарати для зниження ваги можуть впливати на артеріальний тиск.",
-      "Довгострокові ефекти цих препаратів залишаються недостатньо вивченими.",
-      "Зв'язок між зниженням ваги та зменшенням ризику серцево-судинних ускладнень потребує додаткових досліджень."
-    ],
-    "practicalTakeaway": "Необхідно враховувати довгострокову ефективність та безпеку препаратів для зниження ваги у пацієнтів з гіпертонією.",
-    "specialty": "кардіологія",
-    "tags": [
-      "зниження ваги",
-      "гіпертонія",
-      "довгострокові ефекти"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
