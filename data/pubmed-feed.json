@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42401984",
+    "title": "Мультиоміка та метагеноміка вивчають зміни метаболічних підписів у цекумі курчат при застосуванні гігієнічних інтервенцій",
+    "journal": "Animal microbiome",
+    "publishedAt": "2026-07-04T00:00:00Z",
+    "abstract": "Дослідження застосовує інтегративний підхід, поєднуючи метаболоміку та метагеноміку, для аналізу змін у цекумі комерційних курчат при використанні двох популярних гігієнічних інтервенцій: іонопорної добавки та антибіотиків. Виявлено, що різні підходи викликають розходження у метаболічних підписах, що має значення для розвитку стратегій підтримки здоровʼя кишечника у птиці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401984/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-05T06:52:05Z",
+    "originalTitle": "Integrated metabolomics and metagenomics reveal divergent caecal metabolic signatures following commercial gut health interventions in broilers.",
+    "originalAbstract": "The intensification of food production systems highlights the need for poultry gut health strategies aligned with One Health goals. Central to this is a balanced gut microbiota, which supports nutrient absorption, immunity, and disease resilience. We applied integrative multi-omics, combining untargeted LC-MS metabolomics and shotgun metagenomics, to explore the caecal responses of commercial Ross-308 broilers to two widely used gut health interventions: ionophore supplementation (T1) and antico",
+    "keyPoints": [
+      "Досліджено вплив двох гігієнічних інтервенцій на цекум у курчат.",
+      "Виявлено різні метаболічні відповіді залежно від застосованої інтервенції.",
+      "Застосування мультиоміки дозволяє глибше розуміти зміни у мікробіомі та метаболізмі."
+    ],
+    "practicalTakeaway": "Використання мультиоміки для аналізу гігієнічних стратегій у птахів може допомогти оптимізувати підходи до підтримки здоровʼя кишечника.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "птахівництво",
+      "мікробіом",
+      "метаболоміка"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42401982",
+    "title": "Доставка генів ASCL1 та NGN2 за допомогою наночастинок PBAE для перетворення астроцитів у нейрони при пошкодженнях спинного мозку",
+    "journal": "Stem cell research & therapy",
+    "publishedAt": "2026-07-04T00:00:00Z",
+    "abstract": "Дослідження розглядає використання наночастинок PBAE для доставки генів ASCL1 і NGN2 з метою перетворення астроцитів у нейрони. Це може сприяти реконструкції гліальної рубцевої тканини та відновленню функцій при пошкодженнях спинного мозку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401982/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-05T06:52:05Z",
+    "originalTitle": "PBAE nanoparticle-mediated delivery of ASCL1 and NGN2 genes for astroglia-to-neuron reprogramming to remodel glial scar for spinal cord injury repair.",
+    "originalAbstract": "Irreversible loss of neuronal cells elicited by neurotraumatic injuries or neurodegenerative disorders is particularly devastating due to the limited regenerative capacity of the central nervous system (CNS). Cell reprogramming-based therapies have emerged as promising therapeutic avenues for neuronal replenishment. However, their therapeutic potential in neural regeneration still faces formidable challenges, including risks of viral vector gene delivery, potential damage from cell transplantati",
+    "keyPoints": [
+      "Використання наночастинок PBAE для доставки генів у нейронамі.",
+      "Мета — перетворення астроцитів у нейрони для відновлення пошкодженого спинного мозку.",
+      "Дослідження спрямоване на подолання викликів традиційних методів регенерації нервової тканини."
+    ],
+    "practicalTakeaway": "Дослідження демонструє потенціал нанотехнологій у нейронамі для терапії пошкоджень спинного мозку.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейронамі",
+      "гліальна тканина",
+      "регенерація"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42401981",
+    "title": "Контактин-2 зменшує серцеву недостатність та ремоделювання серця через регуляцію NUPR1 та фероптозу",
+    "journal": "Biology direct",
+    "publishedAt": "2026-07-04T00:00:00Z",
+    "abstract": "Дослідження виявило підвищену експресію контактин-2 (CNTN2) у пацієнтів з гіпертрофічною кардіоміопатією та у моделях серцевої недостатності. У мишах з селективною генетичною відсутністю CNTN2, посилене навантаження на серце спричиняло погіршення функції та ремоделювання, а також фероптоз. Інгібування фероптозу зменшувало прояви серцевої недостатності.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42401981/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-05T06:52:05Z",
+    "originalTitle": "Contactin-2 mitigates heart failure and cardiac remodeling via regulation of NUPR1 and ferroptosis.",
+    "originalAbstract": "The roles of Contactin-2 (CNTN2) and ferroptosis in heart failure and cardiac remodeling remain incompletely understood. CNTN2 was significantly upregulated in hypertrophic cardiomyopathy patients and heart failure mice. In cardiomyocyte specific CNTN2 conditional knockout (CNTN2 cKO) mice, transverse aortic constriction (TAC) induced markedly exacerbated heart failure, cardiac remodeling and ferroptosis compared to control mice. Ferroptosis inhibition substantially attenuated heart failure in C",
+    "keyPoints": [
+      "Контактин-2 підвищується при серцевих захворюваннях.",
+      "Відсутність CNTN2 погіршує стан серця під навантаженням.",
+      "Інгібування фероптозу зменшує симптоми серцевої недостатності."
+    ],
+    "practicalTakeaway": "Розуміння ролі контактин-2 у серцевих захворюваннях може сприяти розробці нових терапевтичних стратегій.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцева недостатність",
+      "ремоделювання серця",
+      "фероптоз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42389901",
     "title": "In Vitro-Приготовлені фібрилі α-синуклеїну A30P мають збережену та хворобо-значущу грецьку ключову структуру",
     "journal": "The journal of physical chemistry. B",
@@ -175,90 +259,6 @@
       "лікування"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385309",
-    "title": "Швидка персоналізація кардіологічних моделей за допомогою інвазивних вимірювань тиску правого шлуночка",
-    "journal": "Computers in biology and medicine",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження присвячене створенню методів швидкої персоналізації кардіологічних моделей з використанням інвазивних вимірювань тиску правого шлуночка серця. Це дозволяє покращити точність прогнозів та розуміння фізіологічного стану пацієнта шляхом оновлення комп'ютерних моделей у реальному часі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385309/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Rapid personalisation of cardiovascular models using invasively measured right ventricular pressure.",
-    "originalAbstract": "Patient digital twins offer the promise of providing personalised healthcare via the continual updating of computational models that are adjusted to deliver refined predictions and insights into a patient's physiological state. However, clinical information available for personalisation is diverse and constrained by practical clinical limitations, raising important questions about how to optimally leverage the available data. In this work, we pursue two main objectives: (1) to develop a real-tim",
-    "keyPoints": [
-      "Розроблено методи швидкої персоналізації кардіологічних моделей.",
-      "Використання інвазивних вимірювань тиску для покращення точності моделей.",
-      "Можливість застосування у клінічній практиці для індивідуалізованого лікування."
-    ],
-    "practicalTakeaway": "Методи швидкої персоналізації моделей серця можуть покращити діагностику та лікування кардіологічних станів.",
-    "specialty": "кардіологія",
-    "tags": [
-      "кардіологія",
-      "моделювання",
-      "інвазивні вимірювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385307",
-    "title": "Виявлення пропущених натужних зусиль за допомогою машинного навчання та езофагеальної тиску під час шумної вентиляції легень",
-    "journal": "Computers in biology and medicine",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження присвячене автоматичному виявленню пропущених натужних зусиль у пацієнтів на штучній вентиляції легень із застосуванням машинного навчання та езофагеальної тиску. Це може покращити моніторинг та управління асинхронією пацієнт-апарат.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385307/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Machine learning-based detection of missed inspiratory efforts using esophageal pressure during noisy pressure support ventilation.",
-    "originalAbstract": "Missed inspiratory efforts represent one of the most frequent and clinically relevant forms of patient-ventilator asynchrony during assisted mechanical ventilation. Their detection typically requires expert inspection of ventilator waveforms or the use of esophageal pressure (PESO), which limits continuous bedside recognition. Machine-learning approaches may enable automated, real-time identification of these events. In this pilot observational physiological study, mechanically ventilated patien",
-    "keyPoints": [
-      "Множинні пропущені натужні зусилля є поширеною проблемою під час штучної вентиляції.",
-      "Автоматичне виявлення таких зусиль за допомогою машинного навчання може підвищити точність моніторингу.",
-      "Дослідження базується на аналізі езофагеальної тиску у шумних умовах вентиляції."
-    ],
-    "practicalTakeaway": "Машинне навчання може стати корисним інструментом для автоматичного виявлення пропущених натужних зусиль у пацієнтів на вентиляції легень.",
-    "specialty": "пульмонологія",
-    "tags": [
-      "машинне навчання",
-      "інтенсивна терапія",
-      "штучна вентиляція"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385301",
-    "title": "Зв'язок між навантаженням під час навчання та самостійністю у навчанні серед медсестер: дослідження на основі медіаційної моделі та мережевого аналізу",
-    "journal": "Nurse education today",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження вивчало вплив навантаження під час навчання (TL) на компетентність самостійного навчання (SDLC) у медсестер, враховуючи роль балансу між роботою та особистим життям (WLB). Використано теорію збереження ресурсів та мережевий аналіз для визначення взаємозв'язків між цими чинниками.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385301/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Relationship between training load and self-directed learning competence among nurses: A cross-sectional study based on mediation model and network analysis.",
-    "originalAbstract": "With the rapid development of the nursing profession, nurses' self-directed learning competence (SDLC) has become an important guarantee for the improvement of their professional competence. Currently, the number of various training tasks is increasing, and so is the training load (TL). Based on the conservation of resources theory, this study aimed to examine the mediating role of work-life balance (WLB) in the relationship between TL and SDLC among nurses. In addition, we employed network anal",
-    "keyPoints": [
-      "Збільшення навчального навантаження може впливати на компетентність самостійного навчання медсестер.",
-      "Баланс між роботою та особистим життям може виступати посередником у цьому зв'язку.",
-      "Дослідження застосовувало мережевий аналіз для виявлення взаємозв'язків між змінними."
-    ],
-    "practicalTakeaway": "Зменшення навчального навантаження та підтримка балансу між роботою і особистим життям можуть сприяти розвитку самостійних навичок навчання у медсестер.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "освіта",
-      "медсестри",
-      "психологія"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
