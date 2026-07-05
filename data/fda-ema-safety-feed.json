@@ -1,5 +1,59 @@
 [
   {
+    "title": "Відкликання серця імплантату: Abiomed видаляє комплекти Impella CP з SmartAssist",
+    "abstract": "Відповідні комплекти Impella CP можуть спричинити низький тиск промивки під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-recall-abiomed-removes-impella-cp-sets-smartassist",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-05T16:33:20Z",
+    "updatedAt": "2026-07-05T16:33:20Z",
+    "originalTitle": "Heart Pump Recall: Abiomed Removes Impella CP Sets with SmartAssist",
+    "originalAbstract": "Specific Impella CP Sets are out of specification; use may result in low purge pressure events from the onset of the case",
+    "keyPoints": [
+      "Відкликання стосується конкретних комплектів Impella CP.",
+      "Можливі низькі тиск промивки з початку використання.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Використання комплектів Impella CP з SmartAssist може бути пов'язане з ризиком низького тиску промивки.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцева хірургія",
+      "імплантати",
+      "відкликання",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання інсулінових помп: Omnipod Pods з можливим пошкодженням трубки",
+    "abstract": "Виробник Omnipod повідомляє про можливий дефект трубки, що може спричинити витік інсуліну.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-05T16:33:20Z",
+    "updatedAt": "2026-07-05T16:33:20Z",
+    "originalTitle": "Insulin Pump Recall: Insulet Removes Omnipod Pods",
+    "originalAbstract": "Certain Omnipod Pods may have a tear in the tubing that allows insulin to leak outside the Pod instead of being delivered to the body.",
+    "keyPoints": [
+      "Виробник: Insulet, FDA, 2023 рік",
+      "Модель: Omnipod Pods, можливий дефект трубки",
+      "Можливий ризик витоку інсуліну"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки інсулінових помп.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інсулінова терапія",
+      "відкликання",
+      "медичний пристрій",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання маркерів BioZorb через ризик ускладнень",
     "abstract": "Hologic відкликає BioZorb 3D біорозсмоктувані маркери після повідомлень про ускладнення у пацієнтів.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/implantable-marker-recall-hologic-removes-biozorb-3d-bioabsorbable-markers-due-risk-patient",
@@ -54,6 +108,33 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Корекція інструкцій щодо контролерів серцевого насосу Abiomed",
+    "abstract": "FDA повідомляє про можливу помилку у програмному забезпеченні автоматичних контролерів Impella, що може спричинити їх перезапуск при використанні з лівими вентрикулярними пристроями.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-correction-abiomed-updates-use-instructions-automated-impella-controllers",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-02T04:41:02Z",
+    "updatedAt": "2026-07-02T04:41:02Z",
+    "originalTitle": "Heart Pump Controller Correction: Abiomed Updates Use Instructions for Automated Impella Controllers",
+    "originalAbstract": "A software error may cause the Automated Impella Controller to restart when used in conjunction with left ventricular Impella devices.",
+    "keyPoints": [
+      "Можлива помилка у програмному забезпеченні контролерів Impella",
+      "Може спричинити перезапуск пристрою",
+      "Інструкції оновлено для безпеки"
+    ],
+    "practicalTakeaway": "Оновлені інструкції допомагають орієнтуватися в актуальній інформації щодо використання контролерів Impella.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцевий насос",
+      "Impella",
+      "FDA",
+      "інструкції"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Корекція систем реанімації для немовлят GE HealthCare",
     "abstract": "Компанія GE HealthCare випустила корекцію для систем реанімації та обігрівачів Giraffe і Panda через можливе ослаблення рукоятки регулятора кисню.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infant-resuscitation-system-correction-ge-healthcare-issues-correction-giraffe-and-panda-infant",
@@ -80,27 +161,27 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Корекція інструкцій щодо контролерів серцевого насосу Abiomed",
-    "abstract": "FDA повідомляє про можливу помилку у програмному забезпеченні автоматичних контролерів Impella, що може спричинити їх перезапуск при використанні з лівими вентрикулярними пристроями.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-correction-abiomed-updates-use-instructions-automated-impella-controllers",
+    "title": "Попередження: проблема з катетерними вводниками від Abiomed та Oscor",
+    "abstract": "Компанії Abiomed і Oscor виявили можливість витоку в 14Fr і 23Fr вводниках, що може підвищити ризик кровотечі в місці доступу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-catheter-introducer-issue-abiomed-and-oscor",
     "source": "FDA",
     "category": "drug_safety",
     "publishedAt": "2026-07-02T04:41:02Z",
     "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Heart Pump Controller Correction: Abiomed Updates Use Instructions for Automated Impella Controllers",
-    "originalAbstract": "A software error may cause the Automated Impella Controller to restart when used in conjunction with left ventricular Impella devices.",
+    "originalTitle": "Early Alert: Catheter Introducer Issue from Abiomed and Oscor",
+    "originalAbstract": "Abiomed and Oscor have identified a potential for introducer sheath leakage in 14Fr and 23Fr Introducers that may increase the risk of access-site bleeding.",
     "keyPoints": [
-      "Можлива помилка у програмному забезпеченні контролерів Impella",
-      "Може спричинити перезапуск пристрою",
-      "Інструкції оновлено для безпеки"
+      "Виявлено проблему з витоком у 14Fr і 23Fr вводниках.",
+      "Можливий ризик кровотечі в місці доступу.",
+      "Джерело: FDA."
     ],
-    "practicalTakeaway": "Оновлені інструкції допомагають орієнтуватися в актуальній інформації щодо використання контролерів Impella.",
-    "specialty": "кардіологія",
+    "practicalTakeaway": "Ця інформація може бути використана для моніторингу епідситуації.",
+    "specialty": "інфекційні хвороби",
     "tags": [
-      "серцевий насос",
-      "Impella",
+      "катетер",
+      "вводник",
       "FDA",
-      "інструкції"
+      "ризик"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -129,33 +210,6 @@
       "медичне обладнання",
       "інфекція",
       "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Попередження: проблема з катетерними вводниками від Abiomed та Oscor",
-    "abstract": "Компанії Abiomed і Oscor виявили можливість витоку в 14Fr і 23Fr вводниках, що може підвищити ризик кровотечі в місці доступу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-catheter-introducer-issue-abiomed-and-oscor",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Early Alert: Catheter Introducer Issue from Abiomed and Oscor",
-    "originalAbstract": "Abiomed and Oscor have identified a potential for introducer sheath leakage in 14Fr and 23Fr Introducers that may increase the risk of access-site bleeding.",
-    "keyPoints": [
-      "Виявлено проблему з витоком у 14Fr і 23Fr вводниках.",
-      "Можливий ризик кровотечі в місці доступу.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Ця інформація може бути використана для моніторингу епідситуації.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетер",
-      "вводник",
-      "FDA",
-      "ризик"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -267,32 +321,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Рекомендації FDA щодо пейсмейкерів Accolade від Boston Scientific",
-    "abstract": "FDA опублікувала рекомендації щодо можливого раннього замінювання пристроїв Accolade.",
-    "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
-    "originalAbstract": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
-    "keyPoints": [
-      "FDA рекомендує моніторинг стану пристроїв Accolade.",
-      "Можливий ризик необхідності раннього замінювання.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені рекомендації щодо пристроїв Accolade.",
-    "specialty": "кардіологія",
-    "tags": [
-      "пейсмейкер",
-      "FDA",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Виробник Beekeeper’s Naturals відкликає сольовий спрей через мікробне забруднення",
     "abstract": "Компанія Beekeeper’s Naturals відкликає певний лот сольового спрею через виявлення мікробного забруднення. Відгук стосується продукції, проданої через Amazon.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/beekeepers-naturals-issues-voluntary-nationwide-recall-beekeepers-naturals-saline-nasal-spray-sold",
@@ -340,6 +368,32 @@
       "медичні комплекти",
       "відкликання",
       "фармацевтика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Рекомендації FDA щодо пейсмейкерів Accolade від Boston Scientific",
+    "abstract": "FDA опублікувала рекомендації щодо можливого раннього замінювання пристроїв Accolade.",
+    "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-02T04:41:02Z",
+    "updatedAt": "2026-07-02T04:41:02Z",
+    "originalTitle": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
+    "originalAbstract": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
+    "keyPoints": [
+      "FDA рекомендує моніторинг стану пристроїв Accolade.",
+      "Можливий ризик необхідності раннього замінювання.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Публікація фіксує оновлені рекомендації щодо пристроїв Accolade.",
+    "specialty": "кардіологія",
+    "tags": [
+      "пейсмейкер",
+      "FDA",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -455,86 +509,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з комплектами дихальних контурів Hamilton Medical",
-    "abstract": "Виявлено проблему з комплектами дихальних контурів для вентиляторів, що може призвести до обструкції та недостатньої вентиляції.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-set-issue-hamilton-medical",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Early Alert: Breathing Circuit Set Issue from Hamilton Medical",
-    "originalAbstract": "The ventilator breathing circuits are intended to connect a ventilator to a patient tube or mask. Obstruction may result in inadequate ventilation",
-    "keyPoints": [
-      "Проблема стосується комплектів дихальних контурів Hamilton Medical.",
-      "Обструкція може спричинити недостатню вентиляцію.",
-      "Джерело інформації — FDA."
-    ],
-    "practicalTakeaway": "Цю інформацію можна використовувати для моніторингу епідситуації.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "вентиляція",
-      "безпека медичних пристроїв"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання систем анестезії GE Healthcare через ризик неефективної вентиляції",
-    "abstract": "GE HealthCare випускає корекцію для Carestations, які можуть неправильно вентилювати у режимі VCV.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/anesthesia-delivery-systems-recall-ge-healthcare-issues-correction-certain-carestations-due-risk",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Anesthesia Delivery Systems Recall: GE HealthCare Issues Correction for Certain Carestations due to Risk of Ineffective Ventilation When Used in Volume Control Ventilation (VCV) Mode",
-    "originalAbstract": "GE HealthCare is correcting Carestations that may not ventilate properly in VCV mode. The issue is clearly indicated by alarms; other modes remain effective.",
-    "keyPoints": [
-      "Випуск корекції для Carestations GE Healthcare",
-      "Можливість неправильної вентиляції у VCV режимі",
-      "Інші режими залишаються ефективними"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "анестезія",
-      "GE Healthcare",
-      "відкликання",
-      "медична техніка",
-      "відеонагляд"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Попередження: проблема з інсуліновими помпами Omnipod",
-    "abstract": "Деякі помпи Omnipod можуть мати пошкодження трубки, що спричиняє витік інсуліну.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-insulin-pump-issue-insulet",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Early Alert: Insulin Pump Issue from Insulet",
-    "originalAbstract": "Certain Omnipod Pods may have a tear in the tubing that allows insulin to leak outside the Pod instead of being delivered to the body.",
-    "keyPoints": [
-      "Проблема стосується певних моделей Omnipod.",
-      "Можливий розрив трубки, що призводить до витоку інсуліну.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Важливо перевіряти цілісність трубки помпи перед використанням.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інсулінова терапія",
-      "Omnipod",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Рекомендації EMA щодо нових та оновлених лікарських засобів, червень 2026",
     "abstract": "EMA рекомендувала шість нових лікарських засобів для затвердження у червні 2026 року, а також внесла зміни щодо існуючих препаратів.",
     "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026",
@@ -615,28 +589,56 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Підсумки засідання PRAC 8-11 червня 2026",
-    "abstract": "Комітет PRAC не виявив однозначних доказів ризику нейророзвиткових порушень у дітей, народжених від чоловіків, що лікувалися вальпроатом.",
-    "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-june-2026",
-    "source": "EMA",
+    "title": "Проблема з комплектами дихальних контурів Hamilton Medical",
+    "abstract": "Виявлено проблему з комплектами дихальних контурів для вентиляторів, що може призвести до обструкції та недостатньої вентиляції.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-set-issue-hamilton-medical",
+    "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-06-12T12:00:00Z",
-    "updatedAt": "2026-07-02T04:41:03Z",
-    "originalTitle": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 June 2026",
-    "originalAbstract": "PRAC concludes evidence of potential risk of neurodevelopmental disorders in children born to men treated with valproate is inconsistent Committee recommends updating product…, Agenda Agenda of the PRAC meeting 8-11 June 2026Draft Reference Number: EMA/PRAC/115322/2026…, PRAC statistics: June 2026 , , Glossary Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspect of a known association between…",
+    "publishedAt": "2026-07-02T04:41:02Z",
+    "updatedAt": "2026-07-02T04:41:02Z",
+    "originalTitle": "Early Alert: Breathing Circuit Set Issue from Hamilton Medical",
+    "originalAbstract": "The ventilator breathing circuits are intended to connect a ventilator to a patient tube or mask. Obstruction may result in inadequate ventilation",
     "keyPoints": [
-      "Засідання PRAC відбулося 8-11 червня 2026 року.",
-      "Докази потенційного ризику нейророзвиткових порушень є суперечливими.",
-      "Обговорювалася актуальність оновлення інформації про препарат."
+      "Проблема стосується комплектів дихальних контурів Hamilton Medical.",
+      "Обструкція може спричинити недостатню вентиляцію.",
+      "Джерело інформації — FDA."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці та оновленнях безпеки лікарських засобів.",
+    "practicalTakeaway": "Цю інформацію можна використовувати для моніторингу епідситуації.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "PRAC",
-      "безпека ліків",
-      "нейророзвиток"
+      "інфекційні хвороби",
+      "вентиляція",
+      "безпека медичних пристроїв"
     ],
-    "priorityScore": 7,
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання систем анестезії GE Healthcare через ризик неефективної вентиляції",
+    "abstract": "GE HealthCare випускає корекцію для Carestations, які можуть неправильно вентилювати у режимі VCV.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/anesthesia-delivery-systems-recall-ge-healthcare-issues-correction-certain-carestations-due-risk",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-02T04:41:02Z",
+    "updatedAt": "2026-07-02T04:41:02Z",
+    "originalTitle": "Anesthesia Delivery Systems Recall: GE HealthCare Issues Correction for Certain Carestations due to Risk of Ineffective Ventilation When Used in Volume Control Ventilation (VCV) Mode",
+    "originalAbstract": "GE HealthCare is correcting Carestations that may not ventilate properly in VCV mode. The issue is clearly indicated by alarms; other modes remain effective.",
+    "keyPoints": [
+      "Випуск корекції для Carestations GE Healthcare",
+      "Можливість неправильної вентиляції у VCV режимі",
+      "Інші режими залишаються ефективними"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "анестезія",
+      "GE Healthcare",
+      "відкликання",
+      "медична техніка",
+      "відеонагляд"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
