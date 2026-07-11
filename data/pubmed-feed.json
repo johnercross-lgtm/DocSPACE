@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42430888",
+    "title": "Поширеність ракової втоми після лікування у пацієнтів з неметастатичними гастроінтестинальними раками",
+    "journal": "Cancer treatment and research communications",
+    "publishedAt": "2026-07-10T00:00:00Z",
+    "abstract": "Дослідження оцінює поширеність та ступінь ракової втоми через рік після лікування у пацієнтів з неметастатичними гастроінтестинальними раками та її зв’язки з демографічними і клінічними характеристиками.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430888/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-11T05:53:06Z",
+    "originalTitle": "Prevalence of cancer-related fatigue after treatment in patients with non-metastatic gastrointestinal cancers.",
+    "originalAbstract": "Cancer-related fatigue (CRF) is a prevalent and distressing symptom that persist long after treatment, significantly diminishing the quality of life in cancer survivors-particularly those with gastrointestinal (GI) malignancies. This study aimed to evaluate the prevalence and severity of CRF one year after treatment and to examine its associations with demographic and clinical characteristics in patients with non-metastatic GI cancers. In this observational cross-sectional study, 103 patients wi",
+    "keyPoints": [
+      "Ракова втома залишається поширеною у пацієнтів з гастроінтестинальними раками після лікування.",
+      "Втома може суттєво знижувати якість життя у довгостроковій перспективі.",
+      "Дослідження виявило зв’язки між втомою та окремими демографічними і клінічними факторами."
+    ],
+    "practicalTakeaway": "Важливо враховувати ракову втому у довгостроковому спостереженні за пацієнтами з гастроінтестинальними раками.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракова втома",
+      "гастроінтестинальні раки",
+      "післялікувальний період"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42430887",
+    "title": "Ключові гени miR-625-5p у колоректальному раку: пошук нових терапевтичних цілей",
+    "journal": "Cancer treatment and research communications",
+    "publishedAt": "2026-07-09T00:00:00Z",
+    "abstract": "Дослідження аналізує роль miR-625-5p у регуляції генів при колоректальному раку, що може сприяти розвитку нових цілей для терапії. Аналіз даних TCGA дозволив визначити потенційні мішені для лікування, базуючись на регуляторних мережах мікроРНК.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430887/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-11T05:53:06Z",
+    "originalTitle": "Key target genes of miR-625-5p in colorectal cancer: uncovering novel therapeutic targets within regulatory network.",
+    "originalAbstract": "Colorectal cancer (CRC) is usually diagnosed when therapeutic options are limited, highlighting the need for novel molecular targeted therapies. MicroRNAs, as important regulators in cancer-related pathways, may provide therapeutic targets through their gene networks; however, the role of the miR-625-5p network in CRC remains unclear. Therefore, this study aimed to identify potential therapeutic targets in CRC through miR-625-5p-regulated network analysis. miR-625 expression in TCGA samples was ",
+    "keyPoints": [
+      "Вивчено роль miR-625-5p у колоректальному раку.",
+      "Визначено потенційні терапевтичні мішені.",
+      "Проаналізовано регуляторні мережі мікроРНК."
+    ],
+    "practicalTakeaway": "Дослідження відкриває можливості для розробки нових молекулярних терапій у колоректальному раку.",
+    "specialty": "онкологія",
+    "tags": [
+      "доказова медицина",
+      "онкологія",
+      "генетика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42430886",
+    "title": "Локальне аблятивне лікування та продовження системної терапії при олігопрогресивному метастатичному раку молочної залози: дослідження",
+    "journal": "Cancer treatment and research communications",
+    "publishedAt": "2026-07-10T00:00:00Z",
+    "abstract": "Дослідження аналізує можливість застосування локального аблятивного лікування для пацієнтів з олігопрогресивним метастатичним раком молочної залози, що дозволяє зберегти ефективність системної терапії. Виявлено потенціал для продовження системного лікування у разі локальної прогресії в обмежених метастазах.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430886/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-11T05:53:06Z",
+    "originalTitle": "Local ablative treatment and continuation of systemic therapy for oligoprogressive metastatic breast cancer: a retrospective cohort study.",
+    "originalAbstract": "Patients with metastatic breast cancer (MBC) typically receive palliative systemic therapy until unmanageable toxicity or progression, at which point treatment is changed. However, this approach may be suboptimal for patients with oligoprogression (OLP), defined as progression in one or few metastatic sites while other metastases remain controlled. Local ablative therapy (LAT) targeting oligoprogressive lesions may allow continuation of otherwise effective systemic treatment. We searched the reg",
+    "keyPoints": [
+      "Локальне аблятивне лікування може дозволити збереження системної терапії.",
+      "Олігопрогресія визначається прогресом у кількох метастазах.",
+      "Дослідження є ретроспективним аналізом."
+    ],
+    "practicalTakeaway": "Розгляд локального аблятивного лікування у випадках олігопрогресії може бути доцільним для збереження системної терапії.",
+    "specialty": "онкологія",
+    "tags": [
+      "метастатичний рак молочної залози",
+      "локальне лікування",
+      "прогресія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42413181",
     "title": "Ефективність мікроемульсованої суміші органічних кислот та кориці як альтернативи антибіотикам у птахів",
     "journal": "Poultry science",
@@ -190,73 +274,6 @@
       "нейродегенеративні захворювання",
       "структурна біологія",
       "хвороба Паркінсона"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42389900",
-    "title": "Vibe Coding in Neurosurgery: Bridging the Gap Between Clinical Needs and Digital Innovation-A Narrative Review and Practical Perspective.",
-    "journal": "Surgical innovation",
-    "publishedAt": "2026-07-02T00:00:00Z",
-    "abstract": "BackgroundArtificial intelligence (AI) and machine learning are transforming neurosurgical research and practice, yet the programming barrier has excluded most clinicians from building customized digital tools. Vibe coding - generating functional software through natural language instructions to large language models - has substantially lowered this barrier since its formalization in 2025. No study has examined its applications specifically within neurosurgery.MethodsA narrative review of the li",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42389900/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T11:56:26Z"
-  },
-  {
-    "pmid": "42389899",
-    "title": "Тромбоемболія вен після операцій при раку статевого члена: дослідження UK PeCaN",
-    "journal": "BJU international",
-    "publishedAt": "2026-07-02T00:00:00Z",
-    "abstract": "Дослідження оцінює частоту виникнення венозної тромбоемболії (ВТЕ) після операцій при раку статевого члена, використовуючи дані NHS Англії (2015–2024), та аналізує практики профілактики тромбозів у спеціалізованих центрах Великої Британії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42389899/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T11:56:26Z",
-    "originalTitle": "Venous thromboembolism after penile cancer surgery: a UK PeCaN study.",
-    "originalAbstract": "To evaluate the incidence of venous thromboembolism (VTE) after penile cancer surgery using national hospital data and to assess current thromboprophylaxis practices across UK specialist centres. A retrospective cohort study was conducted using Secondary Uses Service (SUS) data on penile cancer surgeries performed in NHS hospitals in England between 2015 and 2024. A national survey of UK Penile Cancer Network (UK PeCaN) surgeons was undertaken to assess current thromboprophylaxis practice. The p",
-    "keyPoints": [
-      "Вивчено частоту ВТЕ після операцій при раку статевого члена.",
-      "Проаналізовано сучасні практики профілактики тромбозів у Великій Британії.",
-      "Дослідження базується на національних даних NHS та опитуваннях лікарів."
-    ],
-    "practicalTakeaway": "Значення профілактики венозної тромбоемболії у пацієнтів після операцій при раку статевого члена.",
-    "specialty": "онкологія",
-    "tags": [
-      "венозна тромбоемболія",
-      "ракові захворювання",
-      "хірургія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42385325",
-    "title": "Механізми захисту Гуйчжі Геген від грипу за допомогою мережевої фармакології, мікробіому та метаболоміки",
-    "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "abstract": "Дослідження застосувало інтегрований підхід для вивчення захисних механізмів Гуйчжі Геген (ГГД) проти грипу. Результати показали, що ГГД значно зменшує ураження, спричинене грипом, через вплив на мережеві цілі, мікробіом та метаболізм у крові.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42385325/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-02T02:44:42Z",
-    "originalTitle": "Integrated network pharmacology, gut microbiome, and metabolomics analyses reveal the protective mechanism of Guizhi Gegen decoction against influenza.",
-    "originalAbstract": "Guizhi Gegen Decoction (GGD), a classical formula first recorded in the Treatise on Febrile Diseases, has been commonly used in clinical practice for the treatment of influenza, but its underlying mechanism remains unclear. This study aimed to elucidate the protective mechanisms of GGD against influenza using an integrated approach combining network pharmacology, microbiomics, and serum metabolomics. The results showed that GGD significantly alleviated influenza-induced injury, as indicated by i",
-    "keyPoints": [
-      "ГГД зменшує ураження, спричинене грипом.",
-      "Вивчено механізми за допомогою мережевої фармакології, мікробіому та метаболоміки.",
-      "Дослідження підтверджує потенціал ГГД у профілактиці грипу."
-    ],
-    "practicalTakeaway": "Гуйчжі Геген може мати захисний ефект проти грипу, але для підтвердження його застосування потрібні додаткові дослідження.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "грип",
-      "терапія",
-      "мікробіом"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
