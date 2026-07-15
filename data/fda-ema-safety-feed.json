@@ -1,5 +1,58 @@
 [
   {
+    "title": "Виправлення щодо пристроїв позитивного тиску для дихання Baxter",
+    "abstract": "Baxter випустила корекцію для систем Volara через можливість витоку повітря і медикаментів під час терапії.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-15T11:14:40Z",
+    "updatedAt": "2026-07-15T11:14:40Z",
+    "originalTitle": "Positive Pressure Breathing Device Correction: Baxter Issues Correction for Volera Positive Pressure Breathing Devices",
+    "originalAbstract": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
+    "keyPoints": [
+      "Можливий витік повітря і медикаментів у системах Volara",
+      "Витік може зменшувати кисеньнацію і ефективність небулайзера",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "Baxter",
+      "Volara",
+      "дихальна терапія",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відклик системи доставки катетера для легень Medtronic Harmony DCS",
+    "abstract": "Компанія Medtronic відкликає певні партії системи доставки катетера Harmony через можливість відокремлення кінця.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-15T11:14:40Z",
+    "updatedAt": "2026-07-15T11:14:40Z",
+    "originalTitle": "Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Delivery Catheter System (DCS)",
+    "originalAbstract": "The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervention.",
+    "keyPoints": [
+      "Відкликано системи Harmony DCS через можливість відокремлення кінця.",
+      "Можливе потребування ендоваскулярного або хірургічного втручання.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Важливо враховувати інформацію про відкликання медичних виробів при їх використанні.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичні пристрої",
+      "відкликання",
+      "катетер"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Проблема з комплектами Medical Action Industries",
     "abstract": "У комплекті від Medical Action Industries виявлено можливість потрапляння частинок до кровотоку.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
@@ -102,33 +155,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання інсулінових помп: Omnipod Pods з можливим пошкодженням трубки",
-    "abstract": "Виробник Omnipod повідомляє про можливий дефект трубки, що може спричинити витік інсуліну.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-05T16:33:20Z",
-    "updatedAt": "2026-07-05T16:33:20Z",
-    "originalTitle": "Insulin Pump Recall: Insulet Removes Omnipod Pods",
-    "originalAbstract": "Certain Omnipod Pods may have a tear in the tubing that allows insulin to leak outside the Pod instead of being delivered to the body.",
-    "keyPoints": [
-      "Виробник: Insulet, FDA, 2023 рік",
-      "Модель: Omnipod Pods, можливий дефект трубки",
-      "Можливий ризик витоку інсуліну"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки інсулінових помп.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інсулінова терапія",
-      "відкликання",
-      "медичний пристрій",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання серця імплантату: Abiomed видаляє комплекти Impella CP з SmartAssist",
     "abstract": "Відповідні комплекти Impella CP можуть спричинити низький тиск промивки під час використання.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-recall-abiomed-removes-impella-cp-sets-smartassist",
@@ -150,6 +176,33 @@
       "імплантати",
       "відкликання",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання інсулінових помп: Omnipod Pods з можливим пошкодженням трубки",
+    "abstract": "Виробник Omnipod повідомляє про можливий дефект трубки, що може спричинити витік інсуліну.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-05T16:33:20Z",
+    "updatedAt": "2026-07-05T16:33:20Z",
+    "originalTitle": "Insulin Pump Recall: Insulet Removes Omnipod Pods",
+    "originalAbstract": "Certain Omnipod Pods may have a tear in the tubing that allows insulin to leak outside the Pod instead of being delivered to the body.",
+    "keyPoints": [
+      "Виробник: Insulet, FDA, 2023 рік",
+      "Модель: Omnipod Pods, можливий дефект трубки",
+      "Можливий ризик витоку інсуліну"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки інсулінових помп.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інсулінова терапія",
+      "відкликання",
+      "медичний пристрій",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -576,59 +629,6 @@
       "ветеринарія",
       "фармацевтика",
       "експертиза"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з стерильністю у комплекті Webcol Large Alcohol Prep Pads від Cardinal Health",
-    "abstract": "Деякі стерильні серветки з алкоголем не відповідають стандартам стерильності.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-windstone-medical-packaging-inc",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from Windstone Medical Packaging, Inc.",
-    "originalAbstract": "Certain Cardinal Health Webcol Large Alcohol Prep Pads in Custom Convenience Kits manufactured by Aligned Medical Solutions are not sterile",
-    "keyPoints": [
-      "Виробник: Aligned Medical Solutions",
-      "Продукт: Webcol Large Alcohol Prep Pads",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "стерильність",
-      "медичне обладнання",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "FDA оновила етикетку для препарату alli (орлістат)",
-    "abstract": "FDA затвердила зміни у маркуванні препарату для схуднення alli (орлістат) 60 мг, щоб попередити про ризик гострої ниркової недостатності.",
-    "url": "http://www.fda.gov/safety/medical-product-safety-information/fda-approves-labeling-changes-over-counter-otc-weight-loss-drug-alli-orlistat-warn-risk-kidney",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "FDA Approves Labeling Changes for Over-the-Counter (OTC) Weight Loss Drug alli (Orlistat) to Warn of Risk of Kidney Stones and Kidney Injury",
-    "originalAbstract": "The FDA has approved changes to the Drugs Facts Label of the over-the-counter (OTC) weight loss drug, alli (orlistat) 60 mg capsules, to warn of risks of acute kidney injury, which is a rare side effect of the medication. The labeling now advises consumers to ask a health care provider before using",
-    "keyPoints": [
-      "Зміни внесені до етикетки препарату alli (орлістат) 60 мг.",
-      "Попередження про ризик гострої ниркової недостатності.",
-      "Рішення ухвалене FDA для інформування споживачів."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "лікарські засоби",
-      "схуднення",
-      "FDA",
-      "норми безпеки"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
