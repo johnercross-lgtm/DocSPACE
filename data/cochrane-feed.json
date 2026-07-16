@@ -1,5 +1,83 @@
 [
   {
+    "title": "Діагностична точність технологій секвенування наступного покоління у виявленні резистентності до ліків при туберкульозі",
+    "abstract": "Це протокол для огляду Cochrane, що оцінює точність технологій секвенування наступного покоління (цільове NGS та секвенування цілого геному) у визначенні резистентності до ліків у пацієнтів з легеневим туберкульозом, порівняно з фенотиповим тестуванням чутливості до препаратів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016368/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-15T00:00:00Z",
+    "updatedAt": "2026-07-16T05:56:27Z",
+    "originalTitle": "Performance of next-generation sequencing technologies for detecting drug-resistant tuberculosis in people with pulmonary tuberculosis.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: To determine the diagnostic accuracy of next-generation sequencing (NGS) technologies, specifically targeted NGS (tNGS) and whole-genome sequencing (WGS), for detecting drug-resistant tuberculosis among people with pulmonary tuberculosis, using phenotypic drug susceptibility testing as the primary reference standard.",
+    "keyPoints": [
+      "Огляд оцінює точність секвенування для визначення резистентності до ліків при туберкульозі.",
+      "Дослідження порівнює NGS з фенотиповим тестуванням.",
+      "Результати допоможуть визначити потенціал NGS у діагностиці резистентного туберкульозу."
+    ],
+    "practicalTakeaway": "Огляд допоможе визначити, наскільки технології секвенування наступного покоління можуть бути корисними у діагностиці резистентності до ліків при туберкульозі.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "діагностика",
+      "туберкульоз",
+      "секвенування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Несуче лікування апофізарних ушкоджень нижніх кінцівок у дітей та підлітків",
+    "abstract": "Ця публікація аналізує ефективність та безпеку неоперативних методів лікування апофізарних ушкоджень нижніх кінцівок у дітей та підлітків. Вона спрямована на допомогу медичним працівникам і сім'ям у виборі відповідної терапії.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015156.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-15T00:00:00Z",
+    "updatedAt": "2026-07-16T05:56:27Z",
+    "originalTitle": "Non-surgical treatment for lower limb apophyseal injuries.",
+    "originalAbstract": "Lower limb apophyseal injuries are common in children and adolescents. The most common are traction apophysitis of the tibial tubercle and calcaneal apophysis. Various treatments are used for apophyseal conditions. This review provides information for health professionals and families who are deciding on treatment. To assess the benefits and harms of non-surgical treatment versus placebo, no treatment, or another treatment on overall pain, physical function, or participation in physical activity…",
+    "keyPoints": [
+      "Розглядає неоперативні методи лікування апофізарних ушкоджень.",
+      "Фокус на зменшенні болю та покращенні фізичної функції.",
+      "Допомагає у прийнятті рішень щодо лікування."
+    ],
+    "practicalTakeaway": "Медичні працівники повинні враховувати доступні дані щодо неоперативних методів лікування для оптимізації догляду за пацієнтами з апофізарними ушкодженнями.",
+    "specialty": "педіатрія",
+    "tags": [
+      "доказова медицина",
+      "ортопедія",
+      "діти"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Неконсервативні підходи до лікування гіпомінералізації молярів і різців у дітей",
+    "abstract": "Цей протокол огляду Cochrane має на меті оцінити переваги та ризики застосування неконсервативних стратегій управління гіпомінералізацією молярів і різців у дітей віком від шести до 14 років.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016369/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-15T00:00:00Z",
+    "updatedAt": "2026-07-16T05:56:27Z",
+    "originalTitle": "Non-invasive management strategies for molar-incisor hypomineralization (MIH) in children.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of non-invasive management strategies for molar incisor hypomineralization (MIH) in children aged six to 14 years.",
+    "keyPoints": [
+      "Оцінюється ефективність неконсервативних методів для MIH у дітей.",
+      "Фокус на перевагах та потенційних ризиках таких стратегій.",
+      "Дослідження спрямовані на визначення безпечності та корисності підходів."
+    ],
+    "practicalTakeaway": "Загальні наслідки для здоровʼя та ефективність неконсервативних стратегій для MIH у дітей потребують додаткових досліджень.",
+    "specialty": "педіатрія",
+    "tags": [
+      "доказова медицина",
+      "дитяча стоматологія",
+      "лікування MIH"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Заходи для запобігання або припинення використання електронних сигарет у дітей та підлітків",
     "abstract": "Зростання поширеності використання електронних сигарет серед дітей та підлітків викликає занепокоєння через потенційні шкоди для здоровʼя. Відповідно, провідні організації охорони здоровʼя закликають до заходів щодо зменшення їхнього вживання. Однак довгострокова ефективність існуючих підходів залишається недостатньо дослідженою.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015511.pub3/full",
@@ -178,84 +256,6 @@
       "хвороба Паркінсона"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Біологічні препарати для індукції та підтримки ремісії при хворобі Крона: мережевий мета-аналіз",
-    "abstract": "Дослідження аналізує ефективність та безпеку біологічних препаратів у лікуванні хвороби Крона, зосереджуючись на їх ролі у досягненні та підтримці ремісії. Враховуються різні механізми дії препаратів та їх порівняльна ефективність.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012751.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Biologic drugs for induction and maintenance of remission in Crohn's disease: a network meta-analysis.",
-    "originalAbstract": "Crohn's disease is an inflammatory bowel disease (IBD) that can extend to any part of the gut. Many people with Crohn's disease fail to reach and maintain remission using conventional therapies. Biologic therapies with different mechanisms have advanced rapidly over recent decades. Comparative data for efficacy and safety are needed to clarify the relative position of these agents and guide decision-making. To assess the effects of biologic and advanced treatments for induction and maintenance o…",
-    "keyPoints": [
-      "Біологічні препарати використовуються для лікування хвороби Крона.",
-      "Дослідження порівнює ефективність різних біологічних препаратів.",
-      "Результати допомагають у прийнятті клінічних рішень."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть слугувати орієнтиром для вибору біологічних препаратів у лікуванні хвороби Крона.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "біологічні препарати",
-      "хвороба Крона",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Прегравідарна та перша триместрова терапія метформіном для покращення результатів вагітності у жінок з полікістозом яєчників",
-    "abstract": "Цей протокол досліджує ефективність та можливі ризики застосування метформіну перед зачаттям та у першому триместрі вагітності у жінок з полікістозом яєчників. Мета — оцінити вплив терапії на результати вагітності.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016141/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-23T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Preconception and first-trimester metformin for improving pregnancy outcomes in women with polycystic ovary syndrome.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of metformin therapy initiated prior to conception and continued through the first trimester for women with polycystic ovary syndrome, compared with placebo or no metformin treatment, on pregnancy outcomes.",
-    "keyPoints": [
-      "Досліджується вплив прийому метформіну перед зачаттям і у першому триместрі.",
-      "Мета — визначити потенційні переваги та ризики терапії.",
-      "Зосереджено на вагітності у жінок з полікістозом яєчників."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити доцільність застосування метформіну у плануванні вагітності у жінок з полікістозом яєчників.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "вагітність",
-      "полікістоз яєчників",
-      "метформін"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Аудит і зворотній зв'язок: вплив на професійну практику",
-    "abstract": "Дослідження аналізує ефективність аудиту та зворотнього зв'язку (А&З) у покращенні професійної практики медичних працівників. Попередні огляди та теорії поведінки підтверджують їхню роль у стимулюванні змін, проте залишаються невизначеними вплив та характеристики А&З, що забезпечують найбільший ефект.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000259.pub5/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-22T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Audit and feedback: effects on professional practice.",
-    "originalAbstract": "Audit and feedback (A&F) is a widely used strategy to improve professional practice. This is supported by prior Cochrane reviews and behavioural theories describing how healthcare professionals are prompted to modify their practice when given data showing that their clinical practice is inconsistent with a desirable target. Yet there remains uncertainty regarding the effects of A&F on improving healthcare practice and the characteristics of A&F that lead to a greater impact. To assess the effect…",
-    "keyPoints": [
-      "Аудит і зворотній зв'язок використовуються для покращення медичної практики.",
-      "Вплив А&З на результати залишається невизначеним.",
-      "Характеристики А&З, що підвищують їхню ефективність, досліджуються."
-    ],
-    "practicalTakeaway": "Застосування аудиту та зворотнього зв'язку може сприяти покращенню медичної практики, але їхня ефективність залежить від конкретних характеристик.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "медична практика",
-      "якість надання допомоги",
-      "зворотній зв'язок"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
