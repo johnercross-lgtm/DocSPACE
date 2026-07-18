@@ -1,5 +1,58 @@
 [
   {
+    "title": "Відкликання торако-стент-графтів Bolton Medical",
+    "abstract": "Компанія Bolton Medical відкликає систему Relay Pro через можливі проблеми з від'єднанням. Це може призвести до необхідності відкритої хірургії та ускладнень, включаючи смерть пацієнта.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-18T16:25:46Z",
+    "updatedAt": "2026-07-18T16:25:46Z",
+    "originalTitle": "Thoracic Stent Graft Recall: Bolton Medical Removes Relay Pro System",
+    "originalAbstract": "Affected grafts may not unclasp from the delivery system. This may require conversion to open surgical repair and can result in patient death.",
+    "keyPoints": [
+      "Відкликання системи Relay Pro від Bolton Medical.",
+      "Можливість несправності — незакріплення від системи доставки.",
+      "Може знадобитися відкритий хірургічний ремонт."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки медичних виробів.",
+    "specialty": "хірургія",
+    "tags": [
+      "відкликання",
+      "стент-графти",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
+    "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-18T16:25:46Z",
+    "updatedAt": "2026-07-18T16:25:46Z",
+    "originalTitle": "Catheter Introducer Kit Recall: Abiomed Removes 14Fr Low Profile Introducer Kits",
+    "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.",
+    "keyPoints": [
+      "Відкликання стосується комплектів 14Fr Low Profile",
+      "Можливість утворення тромбів при тривалому застосуванні",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "комплекти",
+      "тромбоз",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Виправлення щодо пристроїв позитивного тиску для дихання Baxter",
     "abstract": "Baxter випустила корекцію для систем Volara через можливість витоку повітря і медикаментів під час терапії.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure",
@@ -102,32 +155,6 @@
     "aiModel": ""
   },
   {
-    "title": "Корекція щодо насосів для інфузій: Fresenius Kabi випустила оновлення для Ivenix",
-    "abstract": "Компанія Fresenius Kabi випустила оновлення для програмного забезпечення насосів Ivenix через можливий збої у визначенні стану батареї.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-ivenix-large-volume-infusion-pump",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-08T22:46:35Z",
-    "updatedAt": "2026-07-08T22:46:35Z",
-    "originalTitle": "Infusion Pump Correction: Fresenius Kabi Issues Correction for Ivenix Large Volume Infusion Pump",
-    "originalAbstract": "A software anomaly may cause a false battery-health value. The pump should remain plugged in at all times.",
-    "keyPoints": [
-      "Випуск оновлення для насосів Ivenix.",
-      "Можливий збої у визначенні стану батареї.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Насоси повинні залишатися підключеними до мережі під час використання.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфузійне обладнання",
-      "безпека обладнання",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Виправлення для насосів Ivenix від Fresenius Kabi",
     "abstract": "Компанія Fresenius Kabi випустила корекцію для насосів Ivenix великого об'єму через можливість відмови при падінні.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-dropped-or-jarred-ivenix-large-volume",
@@ -148,6 +175,32 @@
       "медичне обладнання",
       "безпека",
       "інфузійні насоси",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Корекція щодо насосів для інфузій: Fresenius Kabi випустила оновлення для Ivenix",
+    "abstract": "Компанія Fresenius Kabi випустила оновлення для програмного забезпечення насосів Ivenix через можливий збої у визначенні стану батареї.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-ivenix-large-volume-infusion-pump",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-08T22:46:35Z",
+    "updatedAt": "2026-07-08T22:46:35Z",
+    "originalTitle": "Infusion Pump Correction: Fresenius Kabi Issues Correction for Ivenix Large Volume Infusion Pump",
+    "originalAbstract": "A software anomaly may cause a false battery-health value. The pump should remain plugged in at all times.",
+    "keyPoints": [
+      "Випуск оновлення для насосів Ivenix.",
+      "Можливий збої у визначенні стану батареї.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Насоси повинні залишатися підключеними до мережі під час використання.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфузійне обладнання",
+      "безпека обладнання",
       "FDA"
     ],
     "priorityScore": 8,
@@ -577,58 +630,6 @@
       "безпека",
       "апаратне оновлення",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблеми з системою Volara від Baxter",
-    "abstract": "У системі Volara можливі витоки повітря та медикаментів, що знижує ефективність терапії.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-positive-pressure-breathing-device-issue-baxter",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Early Alert: Positive Pressure Breathing Device Issue from Baxter",
-    "originalAbstract": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
-    "keyPoints": [
-      "Модель: Volara від Baxter",
-      "Можливі витоки повітря і медикаментів",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медична техніка",
-      "інфекційні хвороби",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Засідання CVMP 16-18 червня 2026 року",
-    "abstract": "Комітет затвердив негативну експертну оцінку щодо дозволу на застосування ветеринарного препарату.",
-    "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-16-18-june-2026",
-    "source": "EMA",
-    "category": "drug_safety",
-    "publishedAt": "2026-06-19T13:30:00Z",
-    "updatedAt": "2026-07-02T04:41:03Z",
-    "originalTitle": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 16-18 June 2026",
-    "originalAbstract": "CVMP opinions on veterinary medicinal productsThe Committee adopted a negative opinion for a marketing authorisation for Scovella (velagliflozin), a product classified as…",
-    "keyPoints": [
-      "Засідання відбулося 16-18 червня 2026 року",
-      "Комітет ухвалив негативну оцінку для Scovella (velagliflozin)",
-      "Розгляд стосувався ветеринарних лікарських засобів"
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за вказаний період.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "ветеринарія",
-      "фармацевтика",
-      "експертиза"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
