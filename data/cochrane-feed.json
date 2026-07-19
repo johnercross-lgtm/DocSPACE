@@ -1,5 +1,57 @@
 [
   {
+    "title": "Венепункція проти проколу пʼятки для взяття крові у новонароджених",
+    "abstract": "Цей систематичний огляд порівнює венепункцію та прокол пʼятки для взяття крові у термінових новонароджених, зосереджуючись на реакції на біль. Мета — визначити переваги та можливі ризики кожного методу, щоб допомогти у виборі клінічної практики.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001452.pub5/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-17T00:00:00Z",
+    "updatedAt": "2026-07-19T16:25:52Z",
+    "originalTitle": "Venepuncture versus heel lance for blood sampling in term neonates.",
+    "originalAbstract": "Reducing procedural pain is a key priority in neonatal care, as even routine procedures for blood sampling can cause significant discomfort and pain to the neonate. This systematic review aims to compare venepuncture and heel lance for blood sampling, focusing on pain response, to guide clinical practice. To evaluate the benefits (degree of pain) and harms (need for more than one skin puncture) of venepuncture compared to heel lance in term neonates. We searched CENTRAL, MEDLINE, Embase, two tri…",
+    "keyPoints": [
+      "Порівнюються два методи взяття крові у новонароджених: венепункція та прокол пʼятки.",
+      "Основна увага приділяється реакції на біль та кількості необхідних проколів.",
+      "Результати допомагають оцінити безпечність та комфортність процедур."
+    ],
+    "practicalTakeaway": "Вибір методу взяття крові у новонароджених має враховувати рівень болю та ризик повторних проколів.",
+    "specialty": "нефрологія",
+    "tags": [
+      "неонатологія",
+      "доказова медицина",
+      "інтенсивна терапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Топічна терапія цикоспорином А для сухого кератокон'юнктивіту",
+    "abstract": "Дослідження оцінює ефективність та можливі ризики застосування топічного цикоспорину А при сухому кератокон'юнктивіті. Аналіз оновлює попередній огляд 2019 року, використовуючи дані з кількох баз даних та реєстрів досліджень.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010051.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-17T00:00:00Z",
+    "updatedAt": "2026-07-19T16:25:52Z",
+    "originalTitle": "Topical cyclosporine A therapy for dry eye disease.",
+    "originalAbstract": "Ocular surface inflammation is a key component of dry eye disease (DED). Topical cyclosporine A (CsA) is commonly used to treat DED. However, uncertainty remains regarding its benefits and harms, despite extensive clinical evaluation. This updates a Cochrane review published in 2019. To assess the benefits and harms of topical CsA in the treatment of dry eye disease. We used CENTRAL, MEDLINE, Embase, two other databases, and two trial registers, together with reference checking, to identify stud…",
+    "keyPoints": [
+      "Оцінюється користь та ризики топічного цикоспорину А при сухому кератокон'юнктивіті.",
+      "Дослідження оновлює попередній аналіз 2019 року.",
+      "Використовуються дані з кількох баз даних та реєстрів досліджень."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають визначити баланс між користю та ризиками застосування цикоспорину А при сухому кератокон'юнктивіті.",
+    "specialty": "онкологія",
+    "tags": [
+      "офтальмологія",
+      "доказова медицина",
+      "захворювання очей"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Діагностична точність технологій секвенування наступного покоління у виявленні резистентності до ліків при туберкульозі",
     "abstract": "Це протокол для огляду Cochrane, що оцінює точність технологій секвенування наступного покоління (цільове NGS та секвенування цілого геному) у визначенні резистентності до ліків у пацієнтів з легеневим туберкульозом, порівняно з фенотиповим тестуванням чутливості до препаратів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016368/full",
@@ -74,6 +126,32 @@
       "лікування MIH"
     ],
     "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Рекомбінантний фолікулостимулюючий гормон (рФСГ) у порівнянні з іншими гонадотропінами для стимуляції яєчників у циклах допоміжних репродуктивних технологій",
+    "abstract": "Цей аналіз оновлює дані рандомізованих досліджень, що порівнюють застосування рекомбінантного фолікулостимулюючого гормону (рФСГ) з уреатичними гонадотропінами та іншими формами рФСГ у стимуляції яєчників під час процедур ЕКЗ та ІКСІ.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005354.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-14T00:00:00Z",
+    "updatedAt": "2026-07-19T16:25:52Z",
+    "originalTitle": "Recombinant follicle-stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles.",
+    "originalAbstract": "Ovarian stimulation is an essential step during in vitro fertilisation (IVF) and intra-cytoplasmic sperm injection (ICSI), needed to produce multiple follicles for follicle aspiration. The strategy of stimulating the ovaries with gonadotropins is well established and can be performed using different types of gonadotropins. This review update brings together all randomised studies that compare recombinant follicle stimulating hormone (rFSH) with urinary gonadotropins and other recombinant rFSH (i…",
+    "keyPoints": [
+      "Порівнюються різні типи гонадотропінів для стимуляції яєчників.",
+      "Дослідження включають рандомізовані випробування.",
+      "Мета — визначити ефективність рФСГ у порівнянні з іншими препаратами."
+    ],
+    "practicalTakeaway": "Результати досліджень допомагають визначити оптимальні схеми стимуляції яєчників у допоміжних репродуктивних технологіях.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "репродуктивна медицина",
+      "стимуляція яєчників",
+      "рФСГ"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -178,84 +256,6 @@
       "інтрадіалізна гіпотензія"
     ],
     "priorityScore": 5,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Прогностичні моделі для передбачення госпіталізації до відділення інтенсивної терапії або смертності у критично хворих дорослих, які ще не були госпіталізовані до ICU",
-    "abstract": "Це протокол для огляду Cochrane (прогноз). Мета — визначити, чи можна використовувати прогностичні моделі для передбачення госпіталізації до відділення інтенсивної терапії або смертності під час першого госпіталізаційного епізоду, а також виживання після виписки на основі даних до одного року у критично хворих дорослих, які ще не були госпіталізовані до ICU.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016115/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Prognostic models for predicting intensive care unit admission or mortality in critically ill adults not yet been admitted to the intensive care unit.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (prognosis). The objectives are as follows: To determine whether prognostic models can be used for predicting the occurrence of ICU admission and mortality within the index hospital admission, and post-discharge survival at reported follow-up time points, up to one year, in critically ill adults not yet admitted to the ICU. The objective in PICOTS format is as follows. critically ill adults not yet admitted to the ICU Index prognostic model: available pro…",
-    "keyPoints": [
-      "Моделі прогнозування можуть допомогти визначити ризик госпіталізації до ICU та смертності.",
-      "Дослідження спрямовані на оцінку точності таких моделей у критично хворих.",
-      "Результати можуть вплинути на планування лікування та ресурси лікарень."
-    ],
-    "practicalTakeaway": "Поточний аналіз досліджує можливість використання прогностичних моделей для оцінки ризику у критично хворих дорослих, що ще не були госпіталізовані до ICU.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "прогностичні моделі",
-      "інтенсивна терапія",
-      "смертність"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Дослідження досвіду управління вагою у людей з обмеженими можливостями та психічними захворюваннями",
-    "abstract": "Це протокол для якісного аналізу, що досліджує досвід людей з обмеженими можливостями, інтелектуальними порушеннями або важкими психічними захворюваннями щодо участі у програмах управління вагою. Мета — з'ясувати, що відомо з якісних джерел про поведінкові підходи до контролю ваги у цієї групи.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016361/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-26T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Views and experiences of weight management for people living with mobility‑limiting conditions, intellectual disabilities or severe mental illness: a qualitative evidence synthesis.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (qualitative). The objectives are as follows: This qualitative evidence synthesis (QES) aims to address the question: What is known from qualitative evidence about behavioural weight management for people living with mobility-limiting conditions, intellectual disabilities, or severe mental illness? The five review objectives are as follows. To explore individuals' experiences with weight and behavioural weight-management programmes. This includes understa…",
-    "keyPoints": [
-      "Досліджуються досвіди участі у програмах управління вагою.",
-      "Фокус на людей з обмеженими можливостями та психічними захворюваннями.",
-      "Мета — зібрати якісні дані про поведінкові аспекти управління вагою."
-    ],
-    "practicalTakeaway": "Дослідження спрямоване на розуміння досвіду участі у програмах управління вагою у вразливих групах.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "психіатрія",
-      "реабілітація",
-      "загальні наслідки для здоровʼя"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Нефармакологічні втручання при тривозі та депресії у хворих на Паркінсона",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити та порівняти ефективність і безпеку нефармакологічних методів для зменшення симптомів тривоги і депресії у пацієнтів із хворобою Паркінсона.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016360/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-24T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Non-pharmacological interventions for anxiety and depression in Parkinson's disease.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate and compare the efficacy and safety of non-pharmacological interventions for reducing symptoms of anxiety and depression in individuals with Parkinson's disease.",
-    "keyPoints": [
-      "Огляд досліджень щодо нефармакологічних методів для тривоги і депресії у хворих на Паркінсона.",
-      "Мета — оцінити ефективність і безпеку таких втручань.",
-      "Зосереджено на пацієнтах із хворобою Паркінсона."
-    ],
-    "practicalTakeaway": "Огляд аналізує можливі нефармакологічні підходи для покращення психічного стану у хворих на Паркінсона.",
-    "specialty": "неврологія",
-    "tags": [
-      "доказова медицина",
-      "психіатрія",
-      "хвороба Паркінсона"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
