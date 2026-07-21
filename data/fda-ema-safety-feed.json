@@ -1,5 +1,59 @@
 [
   {
+    "title": "Попередження: проблема з інфузійними системами Baxter",
+    "abstract": "Можливе наявність повітря у системах Baxter для інфузій, що може призвести до подачі повітря через венозний катетер.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-21T22:38:46Z",
+    "updatedAt": "2026-07-21T22:38:46Z",
+    "originalTitle": "Early Alert: Intravascular Administration Set Issue from Baxter",
+    "originalAbstract": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
+    "keyPoints": [
+      "Моделі Baxter можуть містити повітря у системі.",
+      "Можливий ризик подачі повітря пацієнту.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Цю інформацію можна використовувати для моніторингу епідситуації.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфузійні системи",
+      "Baxter",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук на цетиризинові таблетки через можливе забруднення ранітидином",
+    "abstract": "Компанія Unique Pharmaceutical Laboratories відкликає чотири партії цетиризинових таблеток через потенційне забруднення.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/unique-pharmaceutical-laboratories-div-j-b-chemicals-pharmaceuticals-ltd-issues-voluntary-nationwide",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-21T22:38:46Z",
+    "updatedAt": "2026-07-21T22:38:46Z",
+    "originalTitle": "Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Issues Voluntary Nationwide Recall of Cetirizine Hydrochloride Tablets USP 5 mg Due to Potential Cross Contamination with Ranitidine",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – July 18th, 2026 – Panoli, Gujarat, Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) is voluntarily recalling four lots of Cetirizine Hydrochloride Tablets USP 5 mg to the consumer level due to cross contamination with Ranitidine.",
+    "keyPoints": [
+      "Дата відкликання: 18 липня 2026 року",
+      "Місце: Панолі, Ґуджарат",
+      "Проблема: можливе забруднення ранітидином"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "ліки",
+      "забруднення",
+      "фармація",
+      "інфекційні хвороби"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання торако-стент-графтів Bolton Medical",
     "abstract": "Компанія Bolton Medical відкликає систему Relay Pro через можливі проблеми з від'єднанням. Це може призвести до необхідності відкритої хірургії та ускладнень, включаючи смерть пацієнта.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system",
@@ -576,60 +630,6 @@
       "пейсмейкер",
       "FDA",
       "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Рекомендації EMA щодо нових та оновлених лікарських засобів, червень 2026",
-    "abstract": "EMA рекомендувала шість нових лікарських засобів для затвердження у червні 2026 року, а також внесла зміни щодо існуючих препаратів.",
-    "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-june-2026",
-    "source": "EMA",
-    "category": "drug_safety",
-    "publishedAt": "2026-06-26T10:00:00Z",
-    "updatedAt": "2026-07-02T04:41:03Z",
-    "originalTitle": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 June 2026",
-    "originalAbstract": "Six new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended six medicines for approval at its June 2026 meeting.The committee recommended…, CHMP statistics Key figures from the June 2026 CHMP meeting are represented in the graphic below. © European Medicines Agency , CHMP statistics:…, Positive recommendations on new medicines, Aujemflu Common name Influenza vaccine (surface antigen, inactivated, adjuvanted, prepared in cell culture) Marketing authorisation applicant Seqirus Netherlands…, Hopledo INN levodopa / carbidopa Marketing authorisation applicant Zambon S.p.A. Therapeutic indication Treatment of adult patients with Parkinson’s…, Onswik INN insulin efsitora alfa Marketing authorisation applicant Eli Lilly Nederland B.V. Therapeutic indication Treatment of type 2 diabetes…, Positive recommendations on new biosimilar medicines, Denosumab Ascend INN denosumab Marketing authorisation applicant Ascend GmbH Therapeutic indication Prevention of skeletal related events and treatment of…, Nylaspeg INN pegfilgrastim Marketing authorisation applicant Qilu Pharma Spain S.L. Therapeutic indication Reduction of neutropoenia in adults More…, Positive recommendation on re-examination of new medicine, Daybu INN trofinetide Marketing authorisation applicant Acadia Pharmaceuticals (Netherlands) B.V. Therapeutic indication Daybu is indicated for the treatment…, Negative recommendations on new medicines, Tacquell INN autologous melanoma-derived tumour infiltrating lymphocytes, ex vivo-expanded Marketing authorisation applicant Netherlands Cancer Institute…, Yartemlea INN narsoplimab Marketing authorisation applicant Omeros Ireland Limited Therapeutic indication Treatment of patients with haemopoietic stem…, Xervyteg INN allogeneic faecal microbiota, pooled Marketing authorisation applicant MaaT PHARMA Therapeutic indication Treatment of adult patients with…, Positive recommendations on extensions of therapeutic indications , Datroway INN datopotamab deruxtecan Marketing authorisation holder Daiichi Sankyo Europe GmbH More information Datroway : pending EC decision, Imvanex Common name smallpox and monkeypox vaccine (live modified vaccinia virus Ankara) Marketing authorisation holder Bavarian Nordic A/S More information…, Ixchiq Common name Chikungunya vaccine (live) Marketing authorisation holder Valneva Austria GmbH More information Ixchiq : pending EC decision, Jaypirca INN pirtobrutinib Marketing authorisation holder Eli Lilly Nederland B.V. More information Jaypirca : pending EC decision, Leqvio INN inclisiran Marketing authorisation holder Novartis Europharm Limited More information Leqvio : pending EC decision, MenQuadfi Common name Meningococcal Group A, C, W and Y conjugate vaccine Marketing authorisation holder Sanofi Winthrop Industrie More information…, Opzelura Common name ruxolitinib Marketing authorisation holder Incyte Biosciences Distribution B.V. More information Opzelura : pending EC decision, Rezolsta INN darunavir / cobicistat Marketing authorisation holder Janssen Cilag International More information Rezolsta : pending EC decision, Rinvoq INN upadacitinib Marketing authorisation holder AbbVie Deutschland GmbH & Co. KG More information Rinvoq : pending EC decision (VR-…, Stelara INN ustekinumab Marketing authorisation holder Janssen Cilag International More information Stelara : pending EC decision, Symtuza INN darunavir / cobicistat / emtricitabine / tenofovir alafenamide Marketing authorisation holder Janssen Cilag International More information…, Tecvayli INN teclistamab Marketing authorisation holder Janssen-Cilag International N.V. More information Tecvayli : pending EC decision, Start of referral procedure, Rifadin oral suspension and syrup and associated names INN rifampicin More information Rifadin oral suspension and syrup and associated names : referral, Conclusion of referral procedure, Tavneos INN avacopan More information Tavneos : referral News EMA recommends revoking marketing authorisation for Tavneos , Withdrawal of applications to change the marketing authorisation, BiResp Spiromax INN budesonide / formoterol More information BiResp Spiromax: Withdrawal, DuoResp Spiromax INN budesonide / formoterol More information DuoResp Spiromax: Withdrawal, Other updates, Outcome of assessment on use of Mounjaro to reduce the risk of serious events affecting the heart and blood circulationReference Number: EMA/140483/2026…",
-    "keyPoints": [
-      "Шість нових препаратів рекомендовано для затвердження, червень 2026.",
-      "Розгляд включає вакцини, біосиміляри та інноваційні ліки.",
-      "Затвердження стосується препаратів для різних терапевтичних напрямків."
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за червень 2026 року.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "лікарські засоби",
-      "рекомендації EMA",
-      "2026"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Корекція серцевого насосу: Abiomed оновлює інформацію щодо контролерів Impella",
-    "abstract": "Компанія Abiomed випустила оновлення щодо деяких автоматичних контролерів Impella, що потребують апаратних оновлень для забезпечення безпеки.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-correction-abiomed-issues-correction-automated-impella-controllers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Heart Pump Correction: Abiomed Issues Correction for Automated Impella Controllers",
-    "originalAbstract": "Certain AIC units require hardware updates to address potential safety concerns that could lead to a delay or loss of hemodynamic support.",
-    "keyPoints": [
-      "Оновлення стосується певних AIC-одиниць.",
-      "Можливі затримки або втрата гемодинамічної підтримки.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Апаратні оновлення можуть впливати на роботу автоматичних контролерів Impella.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцевий насос",
-      "Impella",
-      "безпека",
-      "апаратне оновлення",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
