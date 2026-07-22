@@ -1,5 +1,57 @@
 [
   {
+    "title": "Профілактичне проти вибіркового застосування сурфактанту у передчасних немовлят",
+    "abstract": "Дослідження порівнює ефективність профілактичного та вибіркового застосування сурфактанту для запобігання ускладненням у передчасних немовлят з ризиком розвитку респіраторного дистрес-синдрому. Виявлено, що різниця у частоті нейрологічних порушень між підходами є мінімальною або відсутньою. Профілактичне застосування сурфактанту може зменшити ризик пневмотораксу.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000510.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-22T00:00:00Z",
+    "updatedAt": "2026-07-22T22:44:28Z",
+    "originalTitle": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome.",
+    "originalAbstract": "Respiratory distress syndrome (RDS), or hyaline membrane disease, is a common condition in preterm infants ( 1000; I² = 0%; 5 trials, 1874 infants; moderate-certainty evidence). There may be little to no difference between the prophylactic and selective approaches in moderate to severe neurodevelopmental impairment (RR 0.83, 95% CI 0.57 to 1.21; 1 trial, 976 infants; I2 not applicable; low-certainty evidence). Prophylactic surfactant may result in a slight reduction in pneumothorax compared to s…",
+    "keyPoints": [
+      "Профілактичне застосування сурфактанту може зменшити ризик пневмотораксу.",
+      "Різниця у нейрологічних порушеннях між підходами є незначною.",
+      "Докази мають помірну або низьку якість."
+    ],
+    "practicalTakeaway": "Вибір між профілактичним та вибірковим застосуванням сурфактанту у передчасних немовлят залежить від конкретної клінічної ситуації, враховуючи мінімальні відмінності у довгострокових наслідках.",
+    "specialty": "нефрологія",
+    "tags": [
+      "неонатологія",
+      "інтенсивна терапія",
+      "доказова медицина"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Мінімально інвазивна хірургія трабекулярної сітки при відкритокутовій глаукомі",
+    "abstract": "Глаукома є провідною причиною необоротної сліпоти. Мінімально інвазивні хірургічні методи, зокрема ті, що відкривають або розширюють Шлеммів канал, застосовуються для контролю внутрішньоочного тиску, що може уповільнити прогресування захворювання. Огляд оновлює попередні дослідження щодо таких процедур.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015186.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-21T00:00:00Z",
+    "updatedAt": "2026-07-22T22:44:28Z",
+    "originalTitle": "Minimally invasive trabecular meshwork surgery for open-angle glaucoma.",
+    "originalAbstract": "Glaucoma is the leading cause of irreversible blindness. Minimally invasive glaucoma surgery (MIGS) techniques, including those that open or enlarge Schlemm's canal (SC) behind the trabecular meshwork (SC-MIGS), have been introduced to help optimise control of intraocular pressure (IOP), which may slow the progression of glaucoma. This review supersedes and expands on the scope of a previous Cochrane review on ab interno trabecular bypass surgery with Trabectome for open-angle glaucoma. To asses…",
+    "keyPoints": [
+      "Мінімально інвазивна хірургія може допомогти контролювати внутрішньоочний тиск.",
+      "Огляд оновлює дані щодо процедур відкриття або розширення Шлеммового каналу.",
+      "Дослідження спрямовані на покращення лікування відкритокутової глаукоми."
+    ],
+    "practicalTakeaway": "Мінімально інвазивні хірургічні методи можуть бути корисними для контролю глаукоми, але потребують подальшого дослідження.",
+    "specialty": "онкологія",
+    "tags": [
+      "глаукома",
+      "хірургія",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Венепункція проти проколу пʼятки для взяття крові у новонароджених",
     "abstract": "Цей систематичний огляд порівнює венепункцію та прокол пʼятки для взяття крові у термінових новонароджених, зосереджуючись на реакції на біль. Мета — визначити переваги та можливі ризики кожного методу, щоб допомогти у виборі клінічної практики.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001452.pub5/full",
@@ -156,6 +208,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Контроль артеріального тиску при реперфузійній ішемічній інсульті",
+    "abstract": "Ішемічний інсульт є однією з головних причин смерті та інвалідності. Важливо правильно керувати артеріальним тиском під час і після процедур, таких як тромбектомія та тромболізис, щоб уникнути погіршення стану. Рекомендації вказують на підтримання тиску нижче 180/105 мм рт. ст. протягом 24 годин після успішної процедури, але ця рекомендація базується на даних з низькою впевненістю.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016085.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-14T00:00:00Z",
+    "updatedAt": "2026-07-22T22:44:28Z",
+    "originalTitle": "Blood pressure management in reperfused ischemic stroke.",
+    "originalAbstract": "Stroke is the second leading cause of death worldwide and a major contributor to disability, with ischemic strokes accounting for 80% to 85% of all strokes. Appropriate blood pressure management during and after procedures like thrombectomy and thrombolysis is essential, as sustained high blood pressure can worsen outcomes. Guidelines recommend maintaining blood pressure below 180/105 mmHg during the 24 hours after a successful procedure; however, this recommendation is based on low-certainty ev…",
+    "keyPoints": [
+      "Контроль тиску важливий для покращення результатів при ішемічному інсульті.",
+      "Рекомендація підтримувати тиск нижче 180/105 мм рт. ст. після процедур.",
+      "Доказова база для цих рекомендацій має низьку впевненість."
+    ],
+    "practicalTakeaway": "Під час і після реперфузійних процедур слід контролювати артеріальний тиск відповідно до існуючих рекомендацій.",
+    "specialty": "неврологія",
+    "tags": [
+      "інсульт",
+      "артеріальний тиск",
+      "реперфузія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Заходи для запобігання або припинення використання електронних сигарет у дітей та підлітків",
     "abstract": "Зростання поширеності використання електронних сигарет серед дітей та підлітків викликає занепокоєння через потенційні шкоди для здоровʼя. Відповідно, провідні організації охорони здоровʼя закликають до заходів щодо зменшення їхнього вживання. Однак довгострокова ефективність існуючих підходів залишається недостатньо дослідженою.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015511.pub3/full",
@@ -178,84 +256,6 @@
       "профілактика"
     ],
     "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Лікування анемії при мієлодиспластичних синдромах: протокол огляду Cochrane",
-    "abstract": "Цей протокол передбачає оцінку переваг та ризиків медикаментозного лікування анемії у пацієнтів з мієлодиспластичними синдромами, порівнюючи підтримуючі та модифікуючі терапії між собою або з стандартною опцією лікування, з або без плацебо.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016362/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-03T00:00:00Z",
-    "updatedAt": "2026-07-05T22:43:14Z",
-    "originalTitle": "Drugs to improve anaemia, quality of life, and physical function in people with myelodysplastic syndromes (MDS).",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of both supportive and disease-modifying drug treatments for anaemia in people with MDS, comparing them to each other, or the standard of care with or without placebo.",
-    "keyPoints": [
-      "Оцінка ефективності медикаментозних підходів до лікування анемії при MDS.",
-      "Порівняння підтримуючих та модифікуючих препаратів.",
-      "Аналіз потенційних ризиків і переваг лікування."
-    ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення найбільш ефективних та безпечних медикаментозних стратегій для лікування анемії у пацієнтів з MDS.",
-    "specialty": "гематологія",
-    "tags": [
-      "лікування анемії",
-      "мієлодиспластичні синдроми",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Заходи щодо припинення куріння у стаціонарних психіатричних закладах",
-    "abstract": "Тютюнове куріння є провідною запобіжною причиною передчасної хворобливості та смертності серед осіб із важкими психічними розладами. Попри їхній інтерес до припинення куріння, рівень відмови від тютюну у цієї групи залишається низьким. Стаціонарні психіатричні заклади вважаються перспективними місцями для просування та підтримки припинення куріння серед таких пацієнтів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015934.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-02T00:00:00Z",
-    "updatedAt": "2026-07-02T17:10:13Z",
-    "originalTitle": "Interventions for smoking cessation in inpatient psychiatry settings.",
-    "originalAbstract": "Tobacco smoking is a leading preventable cause of premature morbidity and mortality in people living with severe mental illness. Smoking rates are disproportionately high and abstinence rates low in people with severe mental illness, despite their reported interest in quitting being comparable to that of the general population. Inpatient psychiatry settings have been identified as opportune places to promote and support tobacco cessation amongst people with severe mental illness who smoke, parti…",
-    "keyPoints": [
-      "Рівень куріння високий серед осіб із важкими психічними розладами.",
-      "Попри інтерес до припинення, рівень відмови від куріння низький.",
-      "Психіатричні стаціонари можуть бути ефективним місцем для підтримки відмови від куріння."
-    ],
-    "practicalTakeaway": "Використання психіатричних стаціонарів для підтримки відмови від куріння може сприяти зниженню ризику передчасної смерті у цій групі.",
-    "specialty": "психіатрія",
-    "tags": [
-      "куріння",
-      "психіатрія",
-      "засоби припинення куріння"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Механічна тромбопротекція для запобігання інтрадіалізної гіпотензії у пацієнтів на гемодіалізі",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики механічної тромбопротекції для запобігання інтрадіалізної гіпотензії у дорослих з нирковою недостатністю, що проходять регулярний гемодіаліз.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016365/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-06-28T00:00:00Z",
-    "updatedAt": "2026-07-02T04:13:11Z",
-    "originalTitle": "Mechanical thromboprophylaxis for preventing intradialytic hypotension in people undergoing maintenance haemodialysis.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: This review aims to evaluate the benefits and harms of mechanical thromboprophylaxis for preventing intradialytic hypotension in adults with kidney failure undergoing maintenance haemodialysis.",
-    "keyPoints": [
-      "Огляд оцінює механічну тромбопротекцію для запобігання гіпотензії під час гемодіалізу.",
-      "Зосереджено на дорослих з нирковою недостатністю.",
-      "Мета — визначити баланс користі та ризиків цього втручання."
-    ],
-    "practicalTakeaway": "Результати цього огляду допоможуть визначити ефективність та безпечність застосування механічних засобів для запобігання гіпотензії у пацієнтів на гемодіалізі.",
-    "specialty": "нефрологія",
-    "tags": [
-      "доказова медицина",
-      "гемодіаліз",
-      "інтрадіалізна гіпотензія"
-    ],
-    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
