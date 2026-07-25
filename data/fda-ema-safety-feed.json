@@ -1,5 +1,59 @@
 [
   {
+    "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
+    "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-25T05:57:37Z",
+    "updatedAt": "2026-07-25T05:57:37Z",
+    "originalTitle": "Early Alert: Percutaneous Catheter Issue from Boston Scientific",
+    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use",
+    "keyPoints": [
+      "Модель ENROUTE Transcarotid від Boston Scientific",
+      "Можливий розрив або частковий розрив наконечника",
+      "Інформація актуальна для перкутанних нейропротекторів"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки медичних виробів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичні пристрої",
+      "безпека",
+      "інформація"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
+    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-25T05:57:37Z",
+    "updatedAt": "2026-07-25T05:57:37Z",
+    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
+    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
+    "keyPoints": [
+      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
+      "Причина — наявність частинок сталі.",
+      "Застосовувано в Тайвані."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "препарати",
+      "ін'єкції",
+      "сталь",
+      "Taiwan"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Попередження: проблема з інфузійними системами Baxter",
     "abstract": "Можливе наявність повітря у системах Baxter для інфузій, що може призвести до подачі повітря через венозний катетер.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter",
@@ -578,58 +632,6 @@
       "мікробне забруднення",
       "спрей",
       "Amazon"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Корекція комплектів Medline через Bupivacaine Hydrochloride",
-    "abstract": "Medline виправляє комплекти, видаляючи компоненти з відкликаним Bupivacaine Hydrochloride.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-kits-containing-huons-bupivacaine-hydrochloride",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Kits Containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP",
-    "originalAbstract": "Medline is correcting affected convenience kits by removing recalled Bupivacaine Hydrochloride in Dextrose Injection components.",
-    "keyPoints": [
-      "Компанія Medline виправляє комплекти.",
-      "Використовуються компоненти з відкликаним Bupivacaine Hydrochloride.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Важливо враховувати оновлення щодо комплектів медичних препаратів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні комплекти",
-      "відкликання",
-      "фармацевтика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Рекомендації FDA щодо пейсмейкерів Accolade від Boston Scientific",
-    "abstract": "FDA опублікувала рекомендації щодо можливого раннього замінювання пристроїв Accolade.",
-    "url": "http://www.fda.gov/medical-devices/safety-communications/accolade-pacemaker-devices-boston-scientific-and-potential-need-early-device-replacement-fda-safety",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Accolade Pacemaker Devices by Boston Scientific and Potential Need for Early Device Replacement - FDA Safety Communication",
-    "originalAbstract": "Read the FDA’s recommendations related to Accolade pacemaker devices by Boston Scientific and a potential need for early device replacement.",
-    "keyPoints": [
-      "FDA рекомендує моніторинг стану пристроїв Accolade.",
-      "Можливий ризик необхідності раннього замінювання.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені рекомендації щодо пристроїв Accolade.",
-    "specialty": "кардіологія",
-    "tags": [
-      "пейсмейкер",
-      "FDA",
-      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
