@@ -1,5 +1,83 @@
 [
   {
+    "title": "Терапевтичне охолодження донорів після смерті мозку для покращення якості трансплантованих органів",
+    "abstract": "Трансплантація твердих органів є оптимальним методом лікування пацієнтів із кінцевою стадією органної недостатності. Більшість донорів є померлими, переважно через смерть мозку, що спричиняє пошкодження органів. Вивчення впливу терапевтичного охолодження донорів після смерті мозку спрямоване на покращення якості органів для трансплантації та результатів для реципієнтів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015190.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-24T00:00:00Z",
+    "updatedAt": "2026-07-26T06:16:42Z",
+    "originalTitle": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs.",
+    "originalAbstract": "Solid organ transplantation is the optimal treatment for patients living with end-stage organ failure. Globally, the majority of organ donors are deceased, most commonly following brainstem death. The process of brain death is known to cause significant injury to organs. Therefore, efforts to optimise the pre-donation care of these donors should be maximised to achieve improved recipient outcomes. To assess the benefits and harms of therapeutic donor hypothermia in recipients of organs donated f…",
+    "keyPoints": [
+      "Досліджується вплив терапевтичного охолодження донорів після смерті мозку.",
+      "Мета — покращити якість органів для трансплантації.",
+      "Результати досліджень ще потребують підтвердження."
+    ],
+    "practicalTakeaway": "Поточні дані не дають однозначних висновків щодо ефективності терапевтичного охолодження донорів після смерті мозку.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "трансплантація",
+      "донорство",
+      "охолодження"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Обсяг трансфузії червоних кровʼяних клітин у дорослих, дітей та недоношених новонароджених",
+    "abstract": "Дослідження аналізує вплив обсягу трансфузії червоних кровʼяних клітин на результати у госпіталізованих пацієнтів, зокрема дорослих, дітей і недоношених новонароджених. Враховується рекомендація щодо трансфузії однієї одиниці крові за подію, але без конкретних доказів для педіатрії.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015898.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-23T00:00:00Z",
+    "updatedAt": "2026-07-26T06:16:42Z",
+    "originalTitle": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates.",
+    "originalAbstract": "While substantial research has evaluated the safety of hemoglobin thresholds and storage length for red blood cell (RBC) transfusion, there is minimal literature on RBC transfusion volume per transfusion event in hospitalized patients. The Choosing Wisely initiative has made a recommendation to transfuse a single unit of RBC per transfusion event, although this is based on little evidence. No recommendation has been made for pediatrics. This review evaluates the effect of the volume of RBC trans…",
+    "keyPoints": [
+      "Дослідження оцінює вплив обсягу трансфузії крові.",
+      "Рекомендація щодо однієї одиниці крові базується на обмежених даних.",
+      "Дані щодо педіатрії відсутні."
+    ],
+    "practicalTakeaway": "Потреба у додаткових дослідженнях щодо оптимального обсягу трансфузії крові у різних груп пацієнтів.",
+    "specialty": "гематологія",
+    "tags": [
+      "трансфузія крові",
+      "обсяг крові",
+      "пацієнти"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Заміщення втрачених зубів за допомогою зигоматичних імплантів при важкому атрофічному верхньощелепному дистрофії",
+    "abstract": "Зигоматичні імпланти використовуються для відновлення втрачених зубів у пацієнтів із значною втратою кістки верхньої щелепи, обходячи необхідність кісткової пластики. Вони закріплюються у щічній кістці, що дозволяє уникнути операцій з кістковим трансплантатом і швидко встановити фіксовану протезну конструкцію. Однак процедура є технічно складною і може супроводжуватися серйозними ускладненнями.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004151.pub4/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-23T00:00:00Z",
+    "updatedAt": "2026-07-26T06:16:42Z",
+    "originalTitle": "Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla.",
+    "originalAbstract": "Dental implants are widely used to replace missing teeth but require sufficient bone for support. In people with severe maxillary (i.e. upper jaw) bone loss, zygomatic implants provide an alternative to bone augmentation by anchoring in the cheekbone instead of the upper jaw. Potential advantages include avoiding bone grafting and enabling immediate or early placement of a fixed prosthesis. However, the procedure is technically demanding and may be associated with serious complications. To asses…",
+    "keyPoints": [
+      "Зигоматичні імпланти застосовуються при важкому атрофічному верхньощелепному дистрофії.",
+      "Вони дозволяють уникнути кісткової пластики та швидко встановити протез.",
+      "Процедура є технічно складною і може мати серйозні ускладнення."
+    ],
+    "practicalTakeaway": "Зигоматичні імпланти можуть бути альтернативою кістковій пластики у випадках важкої атрофії верхньої щелепи.",
+    "specialty": "хірургія",
+    "tags": [
+      "зубні імпланти",
+      "атрофія кістки",
+      "хірургічне втручання"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Профілактичне проти вибіркового застосування сурфактанту у передчасних немовлят",
     "abstract": "Дослідження порівнює ефективність профілактичного та вибіркового застосування сурфактанту для запобігання ускладненням у передчасних немовлят з ризиком розвитку респіраторного дистрес-синдрому. Виявлено, що різниця у частоті нейрологічних порушень між підходами є мінімальною або відсутньою. Профілактичне застосування сурфактанту може зменшити ризик пневмотораксу.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000510.pub3/full",
@@ -178,84 +256,6 @@
       "лікування MIH"
     ],
     "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Рекомбінантний фолікулостимулюючий гормон (рФСГ) у порівнянні з іншими гонадотропінами для стимуляції яєчників у циклах допоміжних репродуктивних технологій",
-    "abstract": "Цей аналіз оновлює дані рандомізованих досліджень, що порівнюють застосування рекомбінантного фолікулостимулюючого гормону (рФСГ) з уреатичними гонадотропінами та іншими формами рФСГ у стимуляції яєчників під час процедур ЕКЗ та ІКСІ.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005354.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-14T00:00:00Z",
-    "updatedAt": "2026-07-19T16:25:52Z",
-    "originalTitle": "Recombinant follicle-stimulating hormone (rFSH) versus other recombinant or urinary gonadotropins for ovarian stimulation in assisted reproductive technology cycles.",
-    "originalAbstract": "Ovarian stimulation is an essential step during in vitro fertilisation (IVF) and intra-cytoplasmic sperm injection (ICSI), needed to produce multiple follicles for follicle aspiration. The strategy of stimulating the ovaries with gonadotropins is well established and can be performed using different types of gonadotropins. This review update brings together all randomised studies that compare recombinant follicle stimulating hormone (rFSH) with urinary gonadotropins and other recombinant rFSH (i…",
-    "keyPoints": [
-      "Порівнюються різні типи гонадотропінів для стимуляції яєчників.",
-      "Дослідження включають рандомізовані випробування.",
-      "Мета — визначити ефективність рФСГ у порівнянні з іншими препаратами."
-    ],
-    "practicalTakeaway": "Результати досліджень допомагають визначити оптимальні схеми стимуляції яєчників у допоміжних репродуктивних технологіях.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "репродуктивна медицина",
-      "стимуляція яєчників",
-      "рФСГ"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Контроль артеріального тиску при реперфузійній ішемічній інсульті",
-    "abstract": "Ішемічний інсульт є однією з головних причин смерті та інвалідності. Важливо правильно керувати артеріальним тиском під час і після процедур, таких як тромбектомія та тромболізис, щоб уникнути погіршення стану. Рекомендації вказують на підтримання тиску нижче 180/105 мм рт. ст. протягом 24 годин після успішної процедури, але ця рекомендація базується на даних з низькою впевненістю.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016085.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-14T00:00:00Z",
-    "updatedAt": "2026-07-22T22:44:28Z",
-    "originalTitle": "Blood pressure management in reperfused ischemic stroke.",
-    "originalAbstract": "Stroke is the second leading cause of death worldwide and a major contributor to disability, with ischemic strokes accounting for 80% to 85% of all strokes. Appropriate blood pressure management during and after procedures like thrombectomy and thrombolysis is essential, as sustained high blood pressure can worsen outcomes. Guidelines recommend maintaining blood pressure below 180/105 mmHg during the 24 hours after a successful procedure; however, this recommendation is based on low-certainty ev…",
-    "keyPoints": [
-      "Контроль тиску важливий для покращення результатів при ішемічному інсульті.",
-      "Рекомендація підтримувати тиск нижче 180/105 мм рт. ст. після процедур.",
-      "Доказова база для цих рекомендацій має низьку впевненість."
-    ],
-    "practicalTakeaway": "Під час і після реперфузійних процедур слід контролювати артеріальний тиск відповідно до існуючих рекомендацій.",
-    "specialty": "неврологія",
-    "tags": [
-      "інсульт",
-      "артеріальний тиск",
-      "реперфузія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Заходи для запобігання або припинення використання електронних сигарет у дітей та підлітків",
-    "abstract": "Зростання поширеності використання електронних сигарет серед дітей та підлітків викликає занепокоєння через потенційні шкоди для здоровʼя. Відповідно, провідні організації охорони здоровʼя закликають до заходів щодо зменшення їхнього вживання. Однак довгострокова ефективність існуючих підходів залишається недостатньо дослідженою.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015511.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-03T00:00:00Z",
-    "updatedAt": "2026-07-05T22:43:14Z",
-    "originalTitle": "Interventions to prevent or cease electronic cigarette use in children and adolescents.",
-    "originalAbstract": "The prevalence of e-cigarette use has recently increased globally amongst children and adolescents. In response to this increase and emerging evidence about the potential harms of e-cigarettes in children and adolescents, leading public health organisations have called for approaches to address e-cigarette use. Whilst evaluations of approaches to reduce uptake and use regularly appear in the literature, the collective long-term benefit of these is currently unclear. The co-primary objectives wer…",
-    "keyPoints": [
-      "Зростає поширеність використання електронних сигарет серед молоді.",
-      "Потенційні шкоди для здоровʼя потребують запобіжних заходів.",
-      "Довгострокова ефективність існуючих стратегій залишається невизначеною."
-    ],
-    "practicalTakeaway": "Необхідні додаткові дослідження щодо довгострокової ефективності заходів зменшення використання електронних сигарет серед молоді.",
-    "specialty": "педіатрія",
-    "tags": [
-      "залежність",
-      "здоровʼя молоді",
-      "профілактика"
-    ],
-    "priorityScore": 3,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
