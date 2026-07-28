@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42509595",
+    "title": "Траєкторії метану у дихальних тестах та їх зв’язок із повільним транзитом кишечника",
+    "journal": "Neurogastroenterology and motility",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження аналізувало 188 дорослих з запором, у яких визначали рівень метану у диханні після глюкозного навантаження та оцінювали швидкість транзиту по кишечнику. За допомогою моделювання групових траєкторій було класифіковано динаміку рівня метану у часі. Виявлено, що різні траєкторії метану асоціюються із повільним транзитом кишечника.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509595/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-28T06:04:42Z",
+    "originalTitle": "Methane Trajectory Phenotypes on Glucose Breath Testing Are Associated With Slow Colonic Transit: A Group-Based Trajectory Modeling Analysis.",
+    "originalAbstract": "Intestinal methanogen overgrowth (IMO) is defined by a single binary threshold of CH4 ≥ 10 ppm and is associated with slow transit constipation. We aimed to identify distinct breath methane trajectory phenotypes in patients with constipation and test their association with slow colonic transit. We retrospectively analyzed 188 adults with constipation who underwent glucose breath testing and colonic transit assessment. Group-based trajectory modeling was used to classify CH4 kinetics into phenoty",
+    "keyPoints": [
+      "Різні траєкторії рівня метану у дихальних тестах повʼязані із швидкістю транзиту кишечника.",
+      "Визначення траєкторій метану може допомогти у класифікації пацієнтів із запором.",
+      "Дослідження використовувало ретроспективний аналіз та моделювання групових траєкторій."
+    ],
+    "practicalTakeaway": "Аналіз траєкторій рівня метану у дихальних тестах може бути корисним для оцінки швидкості транзиту кишечника у пацієнтів із запором.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "діагностика",
+      "транзит кишечника",
+      "метан"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42509588",
+    "title": "Розвиткова регуляція експресії та активності сульфotransфераз у хороїдних сплетеннях щурів",
+    "journal": "Journal of neurochemistry",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "abstract": "Дослідження вивчає зміни у експресії та активності сульфotransфераз у хороїдних сплетеннях щурів під час розвитку. Ці ферменти беруть участь у метаболізмі молекул, що проходять через крово-церебровий бар'єр, і їх функція може бути важливою для регуляції проникності та захисту мозку у ранньому віці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509588/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-28T06:04:42Z",
+    "originalTitle": "Developmentally Regulated Expression and Activity of Sulphotransferases in the Rat Choroid Plexuses.",
+    "originalAbstract": "During development, entry of any substances from the circulation into the brain is tightly regulated by a series of blood-brain interfaces. Notably, the choroid plexuses, which form the blood-cerebrospinal fluid barrier, serve as a key interface for molecular exchange in early life. Control mechanisms within the choroid plexuses include efflux transporters and conjugating enzymes, such as glutathione S-transferases and UDP-glucuronosyltransferases, which have been shown to play key roles in safe",
+    "keyPoints": [
+      "Досліджуються зміни у сульфotransферазах у хороїдних сплетеннях під час розвитку.",
+      "Ферменти відіграють роль у метаболізмі речовин, що проходять через крово-церебровий бар'єр.",
+      "Результати важливі для розуміння захисних механізмів мозку у ранньому віці."
+    ],
+    "practicalTakeaway": "Розуміння розвитку сульфotransфераз може допомогти у дослідженні захисних механізмів мозку у дитячому віці.",
+    "specialty": "неврологія",
+    "tags": [
+      "доказова медицина",
+      "нейронауки",
+      "розвиток"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42509586",
+    "title": "Валідація прогнозу 1-річної смертності у пацієнтів з трьохсудинним ураженням коронарних артерій, що проходять сучасну ПЗХР: дані дослідження Multivessel TALENT",
+    "journal": "European heart journal. Quality of care & clinical outcomes",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "abstract": "Дослідження оцінює точність моделей прогнозування смертності на основі SYNTAX у пацієнтів з трьохсудинним ураженням коронарних артерій, що проходять сучасну перкутанну коронарну інтервенцію. Аналіз показує, що моделі потребують переоцінки для сучасних пацієнтів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42509586/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-07-28T06:04:42Z",
+    "originalTitle": "Validated 1-Year Mortality Prediction in Patients with Three-Vessel Disease Undergoing Contemporary PCI: Insights from the Multivessel TALENT trial.",
+    "originalAbstract": "Accurate risk stratification for patients with three-vessel coronary artery disease (3VD) undergoing percutaneous coronary intervention (PCI) remains important in contemporary practice. SYNTAX-based mortality prediction models require reassessment in modern PCI populations. This post-hoc analysis of the Multivessel TALENT trial evaluated the core and extended logistic clinical SYNTAX Score (LCSS) for predicting 1-year all-cause mortality. Discrimination was assessed using the area under the rece",
+    "keyPoints": [
+      "Моделі прогнозування смертності SYNTAX потребують оновлення для сучасної практики.",
+      "Дослідження підтверджує застосовність моделей для прогнозування 1-річної смертності.",
+      "Результати допомагають покращити ризик-стратифікацію пацієнтів з трьохсудинним ураженням."
+    ],
+    "practicalTakeaway": "Використання актуальних моделей ризику може покращити прогнозування та управління пацієнтами з трьохсудинним ураженням коронарних артерій.",
+    "specialty": "кардіологія",
+    "tags": [
+      "прогнозування",
+      "коронарна хвороба",
+      "перкута"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42500856",
     "title": "Двофазна гіпотеза щодо хіміотерапії та передчасної овоцитної недостатності у азіатських популяціях",
     "journal": "BioMed research international",
@@ -177,72 +261,5 @@
     "category": "general_medicine",
     "source": "PubMed",
     "updatedAt": "2026-07-19T22:36:12Z"
-  },
-  {
-    "pmid": "42472513",
-    "title": "Індуктори утворення нейтрофільних зовнішніх пасток, незалежні від NADPH-оксидази 2 (NOX2), сприяють розвʼязанню хронічного запалення.",
-    "journal": "Redox biology",
-    "publishedAt": "2026-07-15T00:00:00Z",
-    "abstract": "Дослідження зосереджене на механізмах регуляції запалення, зокрема на ролі ROS, що виробляються NADPH-оксидазою 2 (NOX2). Виявлено, що індуктори утворення нейтрофільних зовнішніх пасток, незалежні від NOX2, можуть сприяти завершенню хронічного запалення. Це відкриває можливості для нових терапевтичних підходів при хронічних запальних станах, зменшуючи залежність від системних ROS-індукційних терапій, які мають токсичний профіль.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42472513/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-19T22:36:12Z",
-    "originalTitle": "NADPH oxidase 2 (NOX2)-independent inducers of neutrophil extracellular traps promote resolution of chronic inflammation.",
-    "originalAbstract": "Reactive oxygen species (ROS) generated by NADPH oxidase 2 (NOX2) are essential for antimicrobial defense but also for the resolution of inflammation. NOX2 deficiency, as observed in chronic granulomatous disease (CGD), predisposes to persistent sterile inflammation. Current therapeutic strategies largely rely on nonspecific immunosuppression or require residual NOX2 activity, while systemic ROS-inducing therapies are limited by toxicity. Here, we present a NOX2-independent approach to restore i",
-    "keyPoints": [
-      "Виявлено індуктори утворення нейтрофільних зовнішніх пасток, незалежні від NOX2.",
-      "Ці індуктори можуть сприяти завершенню хронічного запалення.",
-      "Можливе застосування для розробки нових терапевтичних стратегій."
-    ],
-    "practicalTakeaway": "Розробка терапевтичних підходів, що використовують NOX2-незалежні індуктори нейтрофільних пасток, може допомогти у лікуванні хронічних запальних станів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "запалення",
-      "нейтрофіли",
-      "ROS"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42472512",
-    "title": "SIRT7-опосередковане десукінілювання FOXO4 пригнічує фероптоз для полегшення гострого ураження легень, спричиненого LPS",
-    "journal": "Redox biology",
-    "publishedAt": "2026-07-18T00:00:00Z",
-    "abstract": "Дослідження виявило, що сукінілювання білків відіграє важливу роль у запальних процесах. Фероптоз, викликаний ліпідною пероксидою, пов'язаний з розвитком запалення. Таргетинг фероптозу може бути перспективним для лікування гострого ураження легень. Взаємодія між сукінілюванням білків та фероптозом у регуляції цього захворювання залишається недостатньо з'ясованою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42472512/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-19T22:36:12Z",
-    "originalTitle": "SIRT7-mediated desuccinylation of FOXO4 suppresses ferroptosis to alleviate LPS-induced acute lung injury.",
-    "originalAbstract": "Protein succinylation, an emerging post-translational modification (PTM), assumes a crucial role in the initiation and advancement of inflammatory diseases. Ferroptosis, propelled by lethal lipid peroxidation, is intricately associated with the pathogenesis of inflammation. Targeting ferroptosis has recently emerged as a promising therapeutic approach for acute lung injury (ALI). Nevertheless, the crosstalk between protein succinylation and ferroptosis in the regulation of ALI remains ambiguous.",
-    "keyPoints": [
-      "Дослідження виявило роль SIRT7 у десукінілюванні FOXO4.",
-      "Десукінілювання FOXO4 пригнічує фероптоз.",
-      "Це може мати терапевтичне значення для гострого ураження легень."
-    ],
-    "practicalTakeaway": "Розуміння механізмів регуляції фероптозу може сприяти розвитку нових терапевтичних стратегій для гострого ураження легень.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "запальні захворювання",
-      "фероптоз",
-      "SIRT7"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42462372",
-    "title": "Clinical and genetic characteristics of pediatric hereditary spastic paraplegia in the Eastern Levant.",
-    "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
-    "publishedAt": "2026-07-14T00:00:00Z",
-    "abstract": "Hereditary spastic paraplegia (HSP) comprises a heterogeneous group of inherited neurodegenerative disorders characterized by progressive spasticity and weakness primarily of the lower extremities. Data describing pediatric HSP from the Levant region remain limited. This study characterizes the clinical and genetic spectrum of pediatric HSP patients with an identified variant in an HSP-associated gene evaluated at a tertiary referral center serving the Eastern Levant. A retrospective descriptive",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42462372/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-16T22:41:44Z"
   }
 ]
