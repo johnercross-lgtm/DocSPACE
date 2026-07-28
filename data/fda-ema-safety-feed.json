@@ -1,5 +1,31 @@
 [
   {
+    "title": "Відкликання партії папаверін гідрохлориду ін'єкцій, США",
+    "abstract": "Американська компанія проводить добровільне відкликання однієї партії препарату через виявлення частинок.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-issues-voluntary-nationwide-recall-one-lot-papaverine-hydrochloride-injection",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-28T11:44:52Z",
+    "updatedAt": "2026-07-28T11:44:52Z",
+    "originalTitle": "American Regent, Inc. Issues Voluntary Nationwide Recall of One Lot of Papaverine Hydrochloride Injection, USP 60 mg/ 2 mL Due to the Presence of Visible Particulate Matter",
+    "originalAbstract": "July 24, 2026 – Shirley, NY, American Regent, Inc. is conducting a nationwide voluntary recall of a single lot of Papaverine Hydrochloride Injection, USP, 60 mg/2 mL single dose vial to the consumer level. The product is being recalled due to the presence of particulate matter identified as glass an",
+    "keyPoints": [
+      "Відкликання стосується однієї партії препарату.",
+      "Партія містить видимі частки, ідентифіковані як скляні.",
+      "Відкликання проводиться на рівні споживачів."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки лікарських засобів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "лікарські засоби",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
     "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
@@ -48,6 +74,34 @@
       "ін'єкції",
       "сталь",
       "Taiwan"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук Baxter щодо цефазоліну в розчині дексози",
+    "abstract": "Baxter оголосила про добровільний відгук партії цефазоліну через частинки у розчині.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml-20mg-ml-single",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-28T11:44:52Z",
+    "updatedAt": "2026-07-28T11:44:52Z",
+    "originalTitle": "BAXTER ISSUES VOLUNTARY NATIONWIDE RECALL OF CEFAZOLIN IN DEXTROSE INJECTION, USP, 2G / 100ML (20MG / ML) SINGLE-DOSE INFUSION BAG IN 100ML DUE TO PARTICULATE MATTER FOUND IN SOLUTION",
+    "originalAbstract": "July 24, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling Lot LD175708, Exp 14-Feb 2027 of Cefazolin in Dextrose Injection due to a report of particulate matter found in the solution identified as cardboard. Risk Statement: The use of the defective product has a",
+    "keyPoints": [
+      "Відгук стосується партії LD175708, термін придатності 14-02-2027.",
+      "Знайдені частинки у розчині, ідентифіковані як картон.",
+      "Відгук стосується продукту в США, дата оголошення — 24 липня 2026."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "цефазолін",
+      "частинки",
+      "Baxter",
+      "дексоза"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -214,6 +268,28 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Early Alert: Convenience Kits Issue from Medline",
+    "abstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-12T06:14:00Z",
+    "updatedAt": "2026-07-12T06:14:00Z",
+    "originalTitle": "Early Alert: Convenience Kits Issue from Medline",
+    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
     "title": "Проблема з комплектами Medical Action Industries",
     "abstract": "У комплекті від Medical Action Industries виявлено можливість потрапляння частинок до кровотоку.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
@@ -239,28 +315,6 @@
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Early Alert: Convenience Kits Issue from Medline",
-    "abstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-12T06:14:00Z",
-    "updatedAt": "2026-07-12T06:14:00Z",
-    "originalTitle": "Early Alert: Convenience Kits Issue from Medline",
-    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "keyPoints": [],
-    "practicalTakeaway": "",
-    "specialty": "фармакотерапія",
-    "tags": [
-      "drug safety",
-      "pharmacovigilance",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": false,
-    "aiModel": ""
   },
   {
     "title": "Виправлення для насосів Ivenix від Fresenius Kabi",
@@ -579,59 +633,6 @@
       "біопсія",
       "молочна залоза",
       "постачання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення для апаратів анестезії Draeger A350/A350XL",
-    "abstract": "Draeger випускає корекцію для апаратів через виробничу помилку, що може спричинити несправність вентилятора.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/anesthesia-machine-correction-draeger-inc-issues-correction-atlan-a350-and-a350xl-anesthesia",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Anesthesia Machine Correction: Draeger, Inc. Issues Correction for Atlan A350 and A350XL Anesthesia Workstations",
-    "originalAbstract": "Draeger is correcting additional anesthesia workstations due to a manufacturing error that may cause the ventilator to fail before or during use.",
-    "keyPoints": [
-      "Виправлення стосується моделей Atlan A350 та A350XL.",
-      "Може спричинити несправність вентилятора до або під час використання.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній статистиці щодо безпеки медичного обладнання.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичне обладнання",
-      "анестезія",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виробник Beekeeper’s Naturals відкликає сольовий спрей через мікробне забруднення",
-    "abstract": "Компанія Beekeeper’s Naturals відкликає певний лот сольового спрею через виявлення мікробного забруднення. Відгук стосується продукції, проданої через Amazon.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/beekeepers-naturals-issues-voluntary-nationwide-recall-beekeepers-naturals-saline-nasal-spray-sold",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Beekeeper’s Naturals Issues Voluntary Nationwide Recall of Beekeeper’s Naturals Saline Nasal Spray Sold Through Amazon Due to Microbial Contamination",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – June 11, 2026, Covina, CA - Beekeeper’s Naturals is voluntarily recalling lot # 5950, Exp. Date 02/2028 of Beekeeper’s Naturals Saline Nasal Spray, sold only through Amazon, to the consumer level. This lot, produced at a third-party manufacturer, tested above our acceptable",
-    "keyPoints": [
-      "Лот # 5950, термін придатності 02/2028",
-      "Вироблено стороннім виробником",
-      "Продано через Amazon"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "мікробне забруднення",
-      "спрей",
-      "Amazon"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
