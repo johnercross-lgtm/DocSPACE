@@ -1,5 +1,57 @@
 [
   {
+    "title": "Альбумін у пацієнтів із цирозом печінки та бактеріальними інфекціями",
+    "abstract": "Дослідження аналізує ефективність внутрішньовенного застосування людського альбуміну у пацієнтів із цирозом печінки та бактеріальними інфекціями. Мета — визначити користь і шкоду такої терапії порівняно з відсутністю лікування, плацебо або іншими внутрішньовенними рідинами.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014636.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "updatedAt": "2026-07-29T16:48:06Z",
+    "originalTitle": "Albumin for people with liver cirrhosis and bacterial infections.",
+    "originalAbstract": "People with liver cirrhosis are at an increased risk of bacterial infections, with a high rate of complications and mortality. Adding albumin to antibiotics may reduce their occurrence. To assess the benefits and harms of intravenous administration of human albumin in people with liver cirrhosis and bacterial infections versus no intervention, placebo, or other intravenous fluids. We identified randomised clinical trials (RCTs) through electronic searches in the Cochrane Hepato-Biliary Group Con…",
+    "keyPoints": [
+      "Альбумін може зменшити ускладнення та смертність у пацієнтів із цирозом печінки та бактеріальними інфекціями.",
+      "Дослідження базується на рандомізованих клінічних випробуваннях.",
+      "Ефективність внутрішньовенного застосування альбуміну потребує подальшого підтвердження."
+    ],
+    "practicalTakeaway": "Внутрішньовенне застосування альбуміну у таких пацієнтів потребує додаткових досліджень для визначення його ролі у клінічній практиці.",
+    "specialty": "гематологія",
+    "tags": [
+      "цироз печінки",
+      "бактеріальні інфекції",
+      "альбумін"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Перехід між пероральними 5-аміносаліциловими препаратами у підтримці ремісії при виразковому коліті",
+    "abstract": "Цей протокол досліджує ймовірність втрати клінічної або ендоскопічної ремісії у дорослих пацієнтів з виразковим колітом через 52 тижні після переходу з одного перорального 5-аміносаліцилового препарату на інший. Також оцінюється безпека такого переходу.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016374/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-27T00:00:00Z",
+    "updatedAt": "2026-07-29T16:48:06Z",
+    "originalTitle": "Switching from sulphasalazine or oral 5-aminosalicylic acid to another oral 5-aminosalicylic acid drug in the maintenance of remission in ulcerative colitis.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the probability of failure to maintain clinical remission, endoscopic remission, or both, following a switch from SASP or oral 5-ASA drug (comparator) to another oral 5-ASA drug (experimental) in adult ulcerative colitis patients at 52 weeks of follow-up. The intervention of switching to the experimental drug will be compared to the continuation of the comparator drug. To assess the safety of switch…",
+    "keyPoints": [
+      "Досліджується ефективність переходу між препаратами у підтримці ремісії.",
+      "Оцінюється безпека зміни ліків.",
+      "Фокус на дорослих з виразковим колітом у довгостроковій перспективі."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити, чи можна безпечно і ефективно змінювати пероральні 5-аміносаліцилові препарати у підтримці ремісії при виразковому коліті.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "виразковий коліт",
+      "лікування",
+      "дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Терапевтичне охолодження донорів після смерті мозку для покращення якості трансплантованих органів",
     "abstract": "Трансплантація твердих органів є оптимальним методом лікування пацієнтів із кінцевою стадією органної недостатності. Більшість донорів є померлими, переважно через смерть мозку, що спричиняє пошкодження органів. Вивчення впливу терапевтичного охолодження донорів після смерті мозку спрямоване на покращення якості органів для трансплантації та результатів для реципієнтів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015190.pub2/full",
@@ -74,6 +126,32 @@
       "хірургічне втручання"
     ],
     "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Передопераційна фізична підготовка для пацієнтів, що планують великі абдомінальні операції",
+    "abstract": "Цей протокол досліджує ефективність фізичних тренувань перед операцією для пацієнтів, які готуються до великих абдомінальних хірургічних втручань. Мета — оцінити користь і можливі шкоди таких заходів у порівнянні з відсутністю спеціальної підготовки або стандартним доглядом.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010122.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-23T00:00:00Z",
+    "updatedAt": "2026-07-29T16:48:06Z",
+    "originalTitle": "Preoperative physical exercise training for people scheduled for major abdominal surgery.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of physical prehabilitation (i.e. exercise-based interventions delivered before surgery) alone or as part of a multimodal programme compared with no exercise-based intervention, usual care, or a different intervention in people undergoing major abdominal surgery.",
+    "keyPoints": [
+      "Оцінюється вплив фізичної підготовки перед операцією на результати.",
+      "Дослідження порівнює фізичну підготовку з відсутністю такої або стандартним доглядом.",
+      "Результати допоможуть визначити доцільність застосування передопераційних тренувань."
+    ],
+    "practicalTakeaway": "Передопераційна фізична підготовка може мати потенціал для покращення результатів у пацієнтів, що готуються до великих абдомінальних операцій.",
+    "specialty": "хірургія",
+    "tags": [
+      "передопераційна підготовка",
+      "фізична активність",
+      "абдомінальні операції"
+    ],
+    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -178,84 +256,6 @@
       "захворювання очей"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Діагностична точність технологій секвенування наступного покоління у виявленні резистентності до ліків при туберкульозі",
-    "abstract": "Це протокол для огляду Cochrane, що оцінює точність технологій секвенування наступного покоління (цільове NGS та секвенування цілого геному) у визначенні резистентності до ліків у пацієнтів з легеневим туберкульозом, порівняно з фенотиповим тестуванням чутливості до препаратів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016368/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-15T00:00:00Z",
-    "updatedAt": "2026-07-16T05:56:27Z",
-    "originalTitle": "Performance of next-generation sequencing technologies for detecting drug-resistant tuberculosis in people with pulmonary tuberculosis.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (diagnostic). The objectives are as follows: To determine the diagnostic accuracy of next-generation sequencing (NGS) technologies, specifically targeted NGS (tNGS) and whole-genome sequencing (WGS), for detecting drug-resistant tuberculosis among people with pulmonary tuberculosis, using phenotypic drug susceptibility testing as the primary reference standard.",
-    "keyPoints": [
-      "Огляд оцінює точність секвенування для визначення резистентності до ліків при туберкульозі.",
-      "Дослідження порівнює NGS з фенотиповим тестуванням.",
-      "Результати допоможуть визначити потенціал NGS у діагностиці резистентного туберкульозу."
-    ],
-    "practicalTakeaway": "Огляд допоможе визначити, наскільки технології секвенування наступного покоління можуть бути корисними у діагностиці резистентності до ліків при туберкульозі.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "діагностика",
-      "туберкульоз",
-      "секвенування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Несуче лікування апофізарних ушкоджень нижніх кінцівок у дітей та підлітків",
-    "abstract": "Ця публікація аналізує ефективність та безпеку неоперативних методів лікування апофізарних ушкоджень нижніх кінцівок у дітей та підлітків. Вона спрямована на допомогу медичним працівникам і сім'ям у виборі відповідної терапії.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015156.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-15T00:00:00Z",
-    "updatedAt": "2026-07-16T05:56:27Z",
-    "originalTitle": "Non-surgical treatment for lower limb apophyseal injuries.",
-    "originalAbstract": "Lower limb apophyseal injuries are common in children and adolescents. The most common are traction apophysitis of the tibial tubercle and calcaneal apophysis. Various treatments are used for apophyseal conditions. This review provides information for health professionals and families who are deciding on treatment. To assess the benefits and harms of non-surgical treatment versus placebo, no treatment, or another treatment on overall pain, physical function, or participation in physical activity…",
-    "keyPoints": [
-      "Розглядає неоперативні методи лікування апофізарних ушкоджень.",
-      "Фокус на зменшенні болю та покращенні фізичної функції.",
-      "Допомагає у прийнятті рішень щодо лікування."
-    ],
-    "practicalTakeaway": "Медичні працівники повинні враховувати доступні дані щодо неоперативних методів лікування для оптимізації догляду за пацієнтами з апофізарними ушкодженнями.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "ортопедія",
-      "діти"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Неконсервативні підходи до лікування гіпомінералізації молярів і різців у дітей",
-    "abstract": "Цей протокол огляду Cochrane має на меті оцінити переваги та ризики застосування неконсервативних стратегій управління гіпомінералізацією молярів і різців у дітей віком від шести до 14 років.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016369/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-15T00:00:00Z",
-    "updatedAt": "2026-07-16T05:56:27Z",
-    "originalTitle": "Non-invasive management strategies for molar-incisor hypomineralization (MIH) in children.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of non-invasive management strategies for molar incisor hypomineralization (MIH) in children aged six to 14 years.",
-    "keyPoints": [
-      "Оцінюється ефективність неконсервативних методів для MIH у дітей.",
-      "Фокус на перевагах та потенційних ризиках таких стратегій.",
-      "Дослідження спрямовані на визначення безпечності та корисності підходів."
-    ],
-    "practicalTakeaway": "Загальні наслідки для здоровʼя та ефективність неконсервативних стратегій для MIH у дітей потребують додаткових досліджень.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "дитяча стоматологія",
-      "лікування MIH"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
