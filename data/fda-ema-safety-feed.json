@@ -1,5 +1,85 @@
 [
   {
+    "title": "Виправлення щодо апаратів Astral від Resmed",
+    "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-31T22:44:11Z",
+    "updatedAt": "2026-07-31T22:44:11Z",
+    "originalTitle": "Ventilator Correction: Resmed Issues Correction for Astral Ventilator",
+    "originalAbstract": "Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death.",
+    "keyPoints": [
+      "Модель Astral від Resmed, період невказаний",
+      "Можлива несправність електричного компонента",
+      "Можливий ризик переривання терапії"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "Resmed",
+      "Astral",
+      "технічна несправність",
+      "медичне обладнання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
+    "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-18T16:25:46Z",
+    "updatedAt": "2026-07-18T16:25:46Z",
+    "originalTitle": "Catheter Introducer Kit Recall: Abiomed Removes 14Fr Low Profile Introducer Kits",
+    "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.",
+    "keyPoints": [
+      "Відкликання стосується комплектів 14Fr Low Profile",
+      "Можливість утворення тромбів при тривалому застосуванні",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "комплекти",
+      "тромбоз",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Виправлення комплектів для зручності від Argon Medical",
+    "abstract": "Argon Medical виправляє комплекти, видаляючи ампули з лідакаїном від Spectra Medical Devices.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-argon-medical-issues-correction-convenience-kits-containing-spectra",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-31T22:44:11Z",
+    "updatedAt": "2026-07-31T22:44:11Z",
+    "originalTitle": "Convenience Kit Correction: Argon Medical Issues Correction for Convenience Kits Containing Spectra Medical Device Lidocaine Ampules",
+    "originalAbstract": "Argon Medical is correcting affected convenience kits by removing included Spectra Medical Devices Lidocaine Ampules.",
+    "keyPoints": [
+      "Argon Medical випускає комплекти для зручності.",
+      "У комплекті були ампули лідакаїну від Spectra Medical Devices.",
+      "Виправлення стосується конкретних комплектів."
+    ],
+    "practicalTakeaway": "Виробник проводить корекцію комплектів для зручності.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичне обладнання",
+      "ампули",
+      "корекція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання партії папаверін гідрохлориду ін'єкцій, США",
     "abstract": "Американська компанія проводить добровільне відкликання однієї партії препарату через виявлення частинок.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-issues-voluntary-nationwide-recall-one-lot-papaverine-hydrochloride-injection",
@@ -52,34 +132,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
-    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-25T05:57:37Z",
-    "updatedAt": "2026-07-25T05:57:37Z",
-    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
-    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
-    "keyPoints": [
-      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
-      "Причина — наявність частинок сталі.",
-      "Застосовувано в Тайвані."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "препарати",
-      "ін'єкції",
-      "сталь",
-      "Taiwan"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відгук Baxter щодо цефазоліну в розчині дексози",
     "abstract": "Baxter оголосила про добровільний відгук партії цефазоліну через частинки у розчині.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml-20mg-ml-single",
@@ -108,26 +160,28 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з інфузійними системами Baxter",
-    "abstract": "Можливе наявність повітря у системах Baxter для інфузій, що може призвести до подачі повітря через венозний катетер.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter",
+    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
+    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-07-21T22:38:46Z",
-    "updatedAt": "2026-07-21T22:38:46Z",
-    "originalTitle": "Early Alert: Intravascular Administration Set Issue from Baxter",
-    "originalAbstract": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
+    "publishedAt": "2026-07-25T05:57:37Z",
+    "updatedAt": "2026-07-25T05:57:37Z",
+    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
+    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
     "keyPoints": [
-      "Моделі Baxter можуть містити повітря у системі.",
-      "Можливий ризик подачі повітря пацієнту.",
-      "Джерело: FDA."
+      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
+      "Причина — наявність частинок сталі.",
+      "Застосовувано в Тайвані."
     ],
-    "practicalTakeaway": "Цю інформацію можна використовувати для моніторингу епідситуації.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "інфузійні системи",
-      "Baxter",
-      "FDA"
+      "відкликання",
+      "препарати",
+      "ін'єкції",
+      "сталь",
+      "Taiwan"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -162,6 +216,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Попередження: проблема з інфузійними системами Baxter",
+    "abstract": "Можливе наявність повітря у системах Baxter для інфузій, що може призвести до подачі повітря через венозний катетер.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-21T22:38:46Z",
+    "updatedAt": "2026-07-21T22:38:46Z",
+    "originalTitle": "Early Alert: Intravascular Administration Set Issue from Baxter",
+    "originalAbstract": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
+    "keyPoints": [
+      "Моделі Baxter можуть містити повітря у системі.",
+      "Можливий ризик подачі повітря пацієнту.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Цю інформацію можна використовувати для моніторингу епідситуації.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфузійні системи",
+      "Baxter",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання торако-стент-графтів Bolton Medical",
     "abstract": "Компанія Bolton Medical відкликає систему Relay Pro через можливі проблеми з від'єднанням. Це може призвести до необхідності відкритої хірургії та ускладнень, включаючи смерть пацієнта.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system",
@@ -182,33 +262,6 @@
       "відкликання",
       "стент-графти",
       "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
-    "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-18T16:25:46Z",
-    "updatedAt": "2026-07-18T16:25:46Z",
-    "originalTitle": "Catheter Introducer Kit Recall: Abiomed Removes 14Fr Low Profile Introducer Kits",
-    "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.",
-    "keyPoints": [
-      "Відкликання стосується комплектів 14Fr Low Profile",
-      "Можливість утворення тромбів при тривалому застосуванні",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "комплекти",
-      "тромбоз",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -268,28 +321,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Early Alert: Convenience Kits Issue from Medline",
-    "abstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-12T06:14:00Z",
-    "updatedAt": "2026-07-12T06:14:00Z",
-    "originalTitle": "Early Alert: Convenience Kits Issue from Medline",
-    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "keyPoints": [],
-    "practicalTakeaway": "",
-    "specialty": "фармакотерапія",
-    "tags": [
-      "drug safety",
-      "pharmacovigilance",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": false,
-    "aiModel": ""
-  },
-  {
     "title": "Проблема з комплектами Medical Action Industries",
     "abstract": "У комплекті від Medical Action Industries виявлено можливість потрапляння частинок до кровотоку.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
@@ -315,6 +346,28 @@
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Early Alert: Convenience Kits Issue from Medline",
+    "abstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-12T06:14:00Z",
+    "updatedAt": "2026-07-12T06:14:00Z",
+    "originalTitle": "Early Alert: Convenience Kits Issue from Medline",
+    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
   },
   {
     "title": "Виправлення для насосів Ivenix від Fresenius Kabi",
@@ -580,59 +633,6 @@
       "вводник",
       "FDA",
       "ризик"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Ризик несправності системи Hintermann Series H3 при тотальній заміні гомілковостопного суглоба: FDA",
-    "abstract": "FDA повідомляє про підвищений ризик несправності пристрою Hintermann Series H3 при використанні для тотальної заміни гомілковостопного суглоба.",
-    "url": "http://www.fda.gov/medical-devices/safety-communications/update-hintermann-series-h3-total-ankle-replacement-has-higher-expected-risk-device-failure-fda",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "UPDATE: Hintermann Series H3 Total Ankle Replacement Has a Higher-Than-Expected Risk of Device Failure: FDA Safety Communication",
-    "originalAbstract": "Learn more about recommendations for patients who are considering a Hintermann Series H3 TAR system or who have one; recommendations for health care providers.",
-    "keyPoints": [
-      "FDA попереджає про ризик несправності Hintermann Series H3",
-      "Інформація актуальна для пацієнтів і медичних працівників",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Публікація фіксує оновлені показники за період після повідомлення FDA.",
-    "specialty": "хірургія",
-    "tags": [
-      "тотальна заміна суглоба",
-      "Hintermann Series H3",
-      "FDA",
-      "медична безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблеми з постачанням голок для біопсії молочної залози",
-    "abstract": "FDA повідомляє про перебої у постачанні стеротаксичних голок для біопсії молочної залози.",
-    "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/disruptions-availability-breast-biopsy-needles-letter-health-care-providers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Disruptions in Availability of Breast Biopsy Needles - Letter to Health Care Providers",
-    "originalAbstract": "The FDA issued a LHCP to notify providers that Stereotactic Breast Biopsy Needles (product code KNW) are experiencing a supply disruption.",
-    "keyPoints": [
-      "Перебої у постачанні голок для біопсії молочної залози (код KNW)",
-      "Інформація від FDA, лист для медичних працівників",
-      "Діє з невказаного періоду"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "біопсія",
-      "молочна залоза",
-      "постачання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
