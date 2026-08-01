@@ -1,5 +1,83 @@
 [
   {
+    "title": "Освітні та навички-засновані програми для запобігання насильству у стосунках у підлітків та молодих дорослих",
+    "abstract": "Це протокол для огляду Cochrane, який має на меті оцінити ефективність та можливі ризики освітніх та навички-заснованих заходів у запобіганні насильству у стосунках серед підлітків і молодих дорослих у порівнянні з неактивними контролями.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016376/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "updatedAt": "2026-08-01T22:40:11Z",
+    "originalTitle": "Educational and skills-based interventions for preventing relationship and dating violence in adolescents and young adults.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of educational and skills-based interventions for the prevention of dating and relationship violence in adolescents and young adults, comparing these interventions with inactive controls (placebo, standard care, waiting list, or no intervention).",
+    "keyPoints": [
+      "Огляд досліджень оцінює профілактичні програми насильства у стосунках.",
+      "Зосереджено на підлітках та молодих дорослих.",
+      "Порівнює програми з плацебо або стандартною опікою."
+    ],
+    "practicalTakeaway": "Огляд допоможе визначити, наскільки ефективні освітні та навички-засновані програми у запобіганні насильству у стосунках.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "педіатрія",
+      "психіатрія",
+      "сімейна медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Анальгетики при гострому панкреатиті: протокол огляду Cochrane",
+    "abstract": "Цей протокол огляду Cochrane має на меті оцінити переваги та ризики застосування різних фармакологічних анальгетиків у пацієнтів з гострим панкреатитом у порівнянні з плацебо, відсутністю лікування або альтернативними режимами знеболення.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016112/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "updatedAt": "2026-08-01T22:40:11Z",
+    "originalTitle": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of different pharmacological analgesics versus placebo, no intervention, or alternative analgesic regimens in people with acute pancreatitis.",
+    "keyPoints": [
+      "Оцінюється ефективність різних анальгетиків у гострому панкреатиті.",
+      "Розглядаються потенційні ризики застосування анальгетиків.",
+      "Мета — визначити найефективніші та безпечніші засоби знеболення."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити оптимальні підходи до знеболення при гострому панкреатиті.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "анальгетики",
+      "гострий панкреатит",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Вестибулярна стимуляція для підтримки розвитку та запобігання ускладненням у недоношених немовлят",
+    "abstract": "Дослідження аналізує потенційний вплив вестибулярної стимуляції на фізіологічні процеси у недоношених немовлят, зокрема на баланс, координацію, дихання та нейророзвиток. Вказується, що цільова стимуляція може покращити нейродвигальні функції та зменшити апное.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016072.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "updatedAt": "2026-08-01T22:40:11Z",
+    "originalTitle": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants.",
+    "originalAbstract": "The vestibular system is a sensory system within the inner ear and the brain that controls balance and physical coordination. Vestibular stimulation may have an impact on various physiological processes, including breathing, reducing apnea episodes and the need for respiratory support. It has been suggested that targeted vestibular stimulation in premature infants may improve neurodevelopmental outcomes and neuromotor function. To evaluate the benefits and harms of vestibular stimulation for red…",
+    "keyPoints": [
+      "Вестибулярна стимуляція може впливати на дихальні функції у недоношених.",
+      "Може покращувати нейророзвиток та моторні навички.",
+      "Докази щодо користі потребують подальшого підтвердження."
+    ],
+    "practicalTakeaway": "Поточні дані не дозволяють робити остаточні висновки щодо застосування вестибулярної стимуляції у недоношених.",
+    "specialty": "педіатрія",
+    "tags": [
+      "доказова медицина",
+      "недоношені",
+      "нейророзвиток"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Альбумін у пацієнтів із цирозом печінки та бактеріальними інфекціями",
     "abstract": "Дослідження аналізує ефективність внутрішньовенного застосування людського альбуміну у пацієнтів із цирозом печінки та бактеріальними інфекціями. Мета — визначити користь і шкоду такої терапії порівняно з відсутністю лікування, плацебо або іншими внутрішньовенними рідинами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014636.pub2/full",
@@ -178,84 +256,6 @@
       "доказова медицина"
     ],
     "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Мінімально інвазивна хірургія трабекулярної сітки при відкритокутовій глаукомі",
-    "abstract": "Глаукома є провідною причиною необоротної сліпоти. Мінімально інвазивні хірургічні методи, зокрема ті, що відкривають або розширюють Шлеммів канал, застосовуються для контролю внутрішньоочного тиску, що може уповільнити прогресування захворювання. Огляд оновлює попередні дослідження щодо таких процедур.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015186.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-21T00:00:00Z",
-    "updatedAt": "2026-07-22T22:44:28Z",
-    "originalTitle": "Minimally invasive trabecular meshwork surgery for open-angle glaucoma.",
-    "originalAbstract": "Glaucoma is the leading cause of irreversible blindness. Minimally invasive glaucoma surgery (MIGS) techniques, including those that open or enlarge Schlemm's canal (SC) behind the trabecular meshwork (SC-MIGS), have been introduced to help optimise control of intraocular pressure (IOP), which may slow the progression of glaucoma. This review supersedes and expands on the scope of a previous Cochrane review on ab interno trabecular bypass surgery with Trabectome for open-angle glaucoma. To asses…",
-    "keyPoints": [
-      "Мінімально інвазивна хірургія може допомогти контролювати внутрішньоочний тиск.",
-      "Огляд оновлює дані щодо процедур відкриття або розширення Шлеммового каналу.",
-      "Дослідження спрямовані на покращення лікування відкритокутової глаукоми."
-    ],
-    "practicalTakeaway": "Мінімально інвазивні хірургічні методи можуть бути корисними для контролю глаукоми, але потребують подальшого дослідження.",
-    "specialty": "онкологія",
-    "tags": [
-      "глаукома",
-      "хірургія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Венепункція проти проколу пʼятки для взяття крові у новонароджених",
-    "abstract": "Цей систематичний огляд порівнює венепункцію та прокол пʼятки для взяття крові у термінових новонароджених, зосереджуючись на реакції на біль. Мета — визначити переваги та можливі ризики кожного методу, щоб допомогти у виборі клінічної практики.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001452.pub5/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-17T00:00:00Z",
-    "updatedAt": "2026-07-19T16:25:52Z",
-    "originalTitle": "Venepuncture versus heel lance for blood sampling in term neonates.",
-    "originalAbstract": "Reducing procedural pain is a key priority in neonatal care, as even routine procedures for blood sampling can cause significant discomfort and pain to the neonate. This systematic review aims to compare venepuncture and heel lance for blood sampling, focusing on pain response, to guide clinical practice. To evaluate the benefits (degree of pain) and harms (need for more than one skin puncture) of venepuncture compared to heel lance in term neonates. We searched CENTRAL, MEDLINE, Embase, two tri…",
-    "keyPoints": [
-      "Порівнюються два методи взяття крові у новонароджених: венепункція та прокол пʼятки.",
-      "Основна увага приділяється реакції на біль та кількості необхідних проколів.",
-      "Результати допомагають оцінити безпечність та комфортність процедур."
-    ],
-    "practicalTakeaway": "Вибір методу взяття крові у новонароджених має враховувати рівень болю та ризик повторних проколів.",
-    "specialty": "нефрологія",
-    "tags": [
-      "неонатологія",
-      "доказова медицина",
-      "інтенсивна терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Топічна терапія цикоспорином А для сухого кератокон'юнктивіту",
-    "abstract": "Дослідження оцінює ефективність та можливі ризики застосування топічного цикоспорину А при сухому кератокон'юнктивіті. Аналіз оновлює попередній огляд 2019 року, використовуючи дані з кількох баз даних та реєстрів досліджень.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010051.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-17T00:00:00Z",
-    "updatedAt": "2026-07-19T16:25:52Z",
-    "originalTitle": "Topical cyclosporine A therapy for dry eye disease.",
-    "originalAbstract": "Ocular surface inflammation is a key component of dry eye disease (DED). Topical cyclosporine A (CsA) is commonly used to treat DED. However, uncertainty remains regarding its benefits and harms, despite extensive clinical evaluation. This updates a Cochrane review published in 2019. To assess the benefits and harms of topical CsA in the treatment of dry eye disease. We used CENTRAL, MEDLINE, Embase, two other databases, and two trial registers, together with reference checking, to identify stud…",
-    "keyPoints": [
-      "Оцінюється користь та ризики топічного цикоспорину А при сухому кератокон'юнктивіті.",
-      "Дослідження оновлює попередній аналіз 2019 року.",
-      "Використовуються дані з кількох баз даних та реєстрів досліджень."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають визначити баланс між користю та ризиками застосування цикоспорину А при сухому кератокон'юнктивіті.",
-    "specialty": "онкологія",
-    "tags": [
-      "офтальмологія",
-      "доказова медицина",
-      "захворювання очей"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
