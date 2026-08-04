@@ -1,26 +1,53 @@
 [
   {
-    "title": "Виправлення щодо апаратів Astral від Resmed",
-    "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
+    "title": "Виправлення щодо комплектів з відкликаними маніфолдами Namic",
+    "abstract": "Компанія Medical Action Industries випустила корекцію щодо комплектів, що містять відкликані маніфолди Namic.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medical-action-industries-issues-correction-kits-containing-recalled",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-07-31T22:44:11Z",
-    "updatedAt": "2026-07-31T22:44:11Z",
-    "originalTitle": "Ventilator Correction: Resmed Issues Correction for Astral Ventilator",
-    "originalAbstract": "Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death.",
+    "publishedAt": "2026-08-04T06:06:06Z",
+    "updatedAt": "2026-08-04T06:06:06Z",
+    "originalTitle": "Convenience Kit Correction: Medical Action Industries Issues Correction for Kits Containing Recalled Namic Manifolds",
+    "originalAbstract": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
     "keyPoints": [
-      "Модель Astral від Resmed, період невказаний",
-      "Можлива несправність електричного компонента",
-      "Можливий ризик переривання терапії"
+      "Випуск корекції від Medical Action Industries.",
+      "Комплекти містять відкликані маніфолди Namic.",
+      "Можливе потрапляння часток у кровотік."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Важливо враховувати інформацію про відкликання медичних комплектів.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "Resmed",
-      "Astral",
-      "технічна несправність",
-      "медичне обладнання"
+      "медичні комплекти",
+      "відкликання",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук американської компанії через сторонні матеріали у препаратах Adequan®",
+    "abstract": "Американська компанія проводить відгук двох партій препаратів Adequan® через виявлення сторонніх волокон у продукції.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-animal-health-issues-nationwide-recall-two-lots-adequanr-canine-and-two-lots",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-04T06:06:06Z",
+    "updatedAt": "2026-08-04T06:06:06Z",
+    "originalTitle": "American Regent, Inc. Animal Health Issues Nationwide Recall of Two Lots of Adequan® Canine and Two Lots of Adequan® I.M. Due to Visible Glass Fiber Material in the Product",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – July 31, 2026 – Shirley, NY, American Regent, Inc. Animal Health is conducting a nationwide recall of two lots (25011 and 3369) of Adequan® Canine Injection (for dogs), 100 mg/mL 5mL multi-dose vials and two lots (24416 and 25265P) of Adequan® i.m. Injection (for horses), 500",
+    "keyPoints": [
+      "Відгук двох партій препаратів Adequan® (25011, 3369, 24416, 25265P)",
+      "Препарати для собак та коней, виробництво США",
+      "Виявлення скляних волокон у продукції"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "громадське здоровʼя",
+    "tags": [
+      "відгук",
+      "фармацевтика",
+      "препарати",
+      "безпека",
+      "інфекційні хвороби"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -48,6 +75,33 @@
       "комплекти",
       "тромбоз",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Виправлення щодо апаратів Astral від Resmed",
+    "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-31T22:44:11Z",
+    "updatedAt": "2026-07-31T22:44:11Z",
+    "originalTitle": "Ventilator Correction: Resmed Issues Correction for Astral Ventilator",
+    "originalAbstract": "Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death.",
+    "keyPoints": [
+      "Модель Astral від Resmed, період невказаний",
+      "Можлива несправність електричного компонента",
+      "Можливий ризик переривання терапії"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "Resmed",
+      "Astral",
+      "технічна несправність",
+      "медичне обладнання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -106,6 +160,34 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
+    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-25T05:57:37Z",
+    "updatedAt": "2026-07-25T05:57:37Z",
+    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
+    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
+    "keyPoints": [
+      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
+      "Причина — наявність частинок сталі.",
+      "Застосовувано в Тайвані."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "препарати",
+      "ін'єкції",
+      "сталь",
+      "Taiwan"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
     "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
@@ -154,34 +236,6 @@
       "частинки",
       "Baxter",
       "дексоза"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
-    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-25T05:57:37Z",
-    "updatedAt": "2026-07-25T05:57:37Z",
-    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
-    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
-    "keyPoints": [
-      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
-      "Причина — наявність частинок сталі.",
-      "Застосовувано в Тайвані."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "препарати",
-      "ін'єкції",
-      "сталь",
-      "Taiwan"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -321,33 +375,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з комплектами Medical Action Industries",
-    "abstract": "У комплекті від Medical Action Industries виявлено можливість потрапляння частинок до кровотоку.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-12T06:14:00Z",
-    "updatedAt": "2026-07-12T06:14:00Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from Medical Action Industries",
-    "originalAbstract": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
-    "keyPoints": [
-      "Виявлено можливість потрапляння частинок у кров",
-      "Можливе засмічення кровоносних судин",
-      "Джерело — FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "безпека медичних виробів",
-      "комплекти",
-      "FDA",
-      "громадське здоровʼя"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Early Alert: Convenience Kits Issue from Medline",
     "abstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
@@ -391,6 +418,33 @@
       "безпека",
       "інфузійні насоси",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з комплектами Medical Action Industries",
+    "abstract": "У комплекті від Medical Action Industries виявлено можливість потрапляння частинок до кровотоку.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-12T06:14:00Z",
+    "updatedAt": "2026-07-12T06:14:00Z",
+    "originalTitle": "Early Alert: Convenience Kit Issue from Medical Action Industries",
+    "originalAbstract": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
+    "keyPoints": [
+      "Виявлено можливість потрапляння частинок у кров",
+      "Можливе засмічення кровоносних судин",
+      "Джерело — FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "безпека медичних виробів",
+      "комплекти",
+      "FDA",
+      "громадське здоровʼя"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -578,61 +632,6 @@
       "реанімація",
       "немовлята",
       "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Розширення відкликання катетерів: Medline видаляє повторно оброблені електрофізіологічні та ультразвукові катетери",
-    "abstract": "Medline розширила відкликання певних повторно оброблених катетерів через ризик залишкових частинок.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-    "originalAbstract": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-    "keyPoints": [
-      "Відкликання стосується електрофізіологічних та ультразвукових катетерів.",
-      "Можливий ризик інфекції, емболії або тромбозу.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал фіксує оновлені показники за період відкликання.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетери",
-      "FDA",
-      "медичне обладнання",
-      "інфекція",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Попередження: проблема з катетерними вводниками від Abiomed та Oscor",
-    "abstract": "Компанії Abiomed і Oscor виявили можливість витоку в 14Fr і 23Fr вводниках, що може підвищити ризик кровотечі в місці доступу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-catheter-introducer-issue-abiomed-and-oscor",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Early Alert: Catheter Introducer Issue from Abiomed and Oscor",
-    "originalAbstract": "Abiomed and Oscor have identified a potential for introducer sheath leakage in 14Fr and 23Fr Introducers that may increase the risk of access-site bleeding.",
-    "keyPoints": [
-      "Виявлено проблему з витоком у 14Fr і 23Fr вводниках.",
-      "Можливий ризик кровотечі в місці доступу.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Ця інформація може бути використана для моніторингу епідситуації.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетер",
-      "вводник",
-      "FDA",
-      "ризик"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
