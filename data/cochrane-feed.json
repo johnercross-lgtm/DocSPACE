@@ -1,5 +1,31 @@
 [
   {
+    "title": "Педіатрія: профілактика падінь у літніх за допомогою подіатрії",
+    "abstract": "Це протокол для аналізу, що оцінює ефективність та можливі ризики застосування подіатричних заходів для запобігання падінь у літніх людей, які проживають у громаді.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016193/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-04T00:00:00Z",
+    "updatedAt": "2026-08-05T06:02:44Z",
+    "originalTitle": "Podiatry for preventing falls in older people in the community.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of podiatry interventions for preventing falls in older people living in the community.",
+    "keyPoints": [
+      "Оцінюється роль подіатрії у запобіганні падінь у літніх.",
+      "Фокус на застосуванні подіатричних заходів у громаді.",
+      "Мета — визначити користь та ризики таких інтервенцій."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення ефективності подіатричних заходів для запобігання падінь у літніх.",
+    "specialty": "педіатрія",
+    "tags": [
+      "педіатрія",
+      "загальне здоровʼя",
+      "профілактика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Освітні та навички-засновані програми для запобігання насильству у стосунках у підлітків та молодих дорослих",
     "abstract": "Це протокол для огляду Cochrane, який має на меті оцінити ефективність та можливі ризики освітніх та навички-заснованих заходів у запобіганні насильству у стосунках серед підлітків і молодих дорослих у порівнянні з неактивними контролями.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016376/full",
@@ -74,6 +100,58 @@
       "нейророзвиток"
     ],
     "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Неоад'ювантна хіміотерапія перед хірургією проти хірургії з подальшою хіміотерапією при просунутому епітеліальному раку яєчників",
+    "abstract": "Дослідження порівнює ефективність неоад'ювантної хіміотерапії перед хірургічним втручанням з традиційною тактикою — спершу хірургія, потім хіміотерапія у пацієнток з просунутим епітеліальним раком яєчників. Аналіз оновлено у 2025 році.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005343.pub8/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "updatedAt": "2026-08-05T06:02:44Z",
+    "originalTitle": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer.",
+    "originalAbstract": "Epithelial ovarian cancer (EOC) presents at an advanced stage in the majority of women. These women require a combination of surgery and chemotherapy for optimal treatment. Conventional treatment has been to perform surgery first and then give chemotherapy. However, there may be advantages to using chemotherapy before surgery. This is an update of a review first published in 2007 and last updated in 2025. To assess the advantages and disadvantages of treating women with advanced EOC with chemoth…",
+    "keyPoints": [
+      "Дослідження порівнює два підходи до лікування просунутого раку яєчників.",
+      "Розглядаються переваги та недоліки застосування хіміотерапії перед хірургією.",
+      "Оновлення даних проводилось у 2025 році."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають оцінити потенційні переваги та недоліки застосування неоад'ювантної хіміотерапії у лікуванні просунутого епітеліального раку яєчників.",
+    "specialty": "онкологія",
+    "tags": [
+      "онкологія",
+      "хірургія",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Психологічні та психосоціальні втручання при травматичному стресі у дорослих, що живуть у тривалому конфлікті",
+    "abstract": "Це протокол для аналізу, метою якого є оцінити переваги та ризики різних психотерапевтичних і психосоціальних втручань для зменшення травматичного психологічного стресу у дорослих, які зазнали тривалого конфлікту.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016367/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-07-28T00:00:00Z",
+    "updatedAt": "2026-08-05T06:02:44Z",
+    "originalTitle": "Psychological and psychosocial interventions for trauma-related psychological distress in adults living in ongoing conflict.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the relative benefit and harms of different psychotherapeutic or psychosocial interventions for trauma-related psychological distress in adults affected by ongoing conflict.",
+    "keyPoints": [
+      "Оцінка ефективності психотерапевтичних та психосоціальних втручань.",
+      "Фокус на дорослих у тривалому конфлікті.",
+      "Аналіз потенційних ризиків і переваг втручань."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення найбільш ефективних психологічних підходів для підтримки дорослих у конфліктних умовах.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "психологія",
+      "психосоціальні втручання",
+      "конфлікт"
+    ],
+    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   },
@@ -178,84 +256,6 @@
       "пацієнти"
     ],
     "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Заміщення втрачених зубів за допомогою зигоматичних імплантів при важкому атрофічному верхньощелепному дистрофії",
-    "abstract": "Зигоматичні імпланти використовуються для відновлення втрачених зубів у пацієнтів із значною втратою кістки верхньої щелепи, обходячи необхідність кісткової пластики. Вони закріплюються у щічній кістці, що дозволяє уникнути операцій з кістковим трансплантатом і швидко встановити фіксовану протезну конструкцію. Однак процедура є технічно складною і може супроводжуватися серйозними ускладненнями.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004151.pub4/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-23T00:00:00Z",
-    "updatedAt": "2026-07-26T06:16:42Z",
-    "originalTitle": "Interventions for replacing missing teeth: zygomatic implants for the rehabilitation of the severely atrophic edentulous maxilla.",
-    "originalAbstract": "Dental implants are widely used to replace missing teeth but require sufficient bone for support. In people with severe maxillary (i.e. upper jaw) bone loss, zygomatic implants provide an alternative to bone augmentation by anchoring in the cheekbone instead of the upper jaw. Potential advantages include avoiding bone grafting and enabling immediate or early placement of a fixed prosthesis. However, the procedure is technically demanding and may be associated with serious complications. To asses…",
-    "keyPoints": [
-      "Зигоматичні імпланти застосовуються при важкому атрофічному верхньощелепному дистрофії.",
-      "Вони дозволяють уникнути кісткової пластики та швидко встановити протез.",
-      "Процедура є технічно складною і може мати серйозні ускладнення."
-    ],
-    "practicalTakeaway": "Зигоматичні імпланти можуть бути альтернативою кістковій пластики у випадках важкої атрофії верхньої щелепи.",
-    "specialty": "хірургія",
-    "tags": [
-      "зубні імпланти",
-      "атрофія кістки",
-      "хірургічне втручання"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Передопераційна фізична підготовка для пацієнтів, що планують великі абдомінальні операції",
-    "abstract": "Цей протокол досліджує ефективність фізичних тренувань перед операцією для пацієнтів, які готуються до великих абдомінальних хірургічних втручань. Мета — оцінити користь і можливі шкоди таких заходів у порівнянні з відсутністю спеціальної підготовки або стандартним доглядом.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010122.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-23T00:00:00Z",
-    "updatedAt": "2026-07-29T16:48:06Z",
-    "originalTitle": "Preoperative physical exercise training for people scheduled for major abdominal surgery.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of physical prehabilitation (i.e. exercise-based interventions delivered before surgery) alone or as part of a multimodal programme compared with no exercise-based intervention, usual care, or a different intervention in people undergoing major abdominal surgery.",
-    "keyPoints": [
-      "Оцінюється вплив фізичної підготовки перед операцією на результати.",
-      "Дослідження порівнює фізичну підготовку з відсутністю такої або стандартним доглядом.",
-      "Результати допоможуть визначити доцільність застосування передопераційних тренувань."
-    ],
-    "practicalTakeaway": "Передопераційна фізична підготовка може мати потенціал для покращення результатів у пацієнтів, що готуються до великих абдомінальних операцій.",
-    "specialty": "хірургія",
-    "tags": [
-      "передопераційна підготовка",
-      "фізична активність",
-      "абдомінальні операції"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Профілактичне проти вибіркового застосування сурфактанту у передчасних немовлят",
-    "abstract": "Дослідження порівнює ефективність профілактичного та вибіркового застосування сурфактанту для запобігання ускладненням у передчасних немовлят з ризиком розвитку респіраторного дистрес-синдрому. Виявлено, що різниця у частоті нейрологічних порушень між підходами є мінімальною або відсутньою. Профілактичне застосування сурфактанту може зменшити ризик пневмотораксу.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000510.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-22T00:00:00Z",
-    "updatedAt": "2026-07-22T22:44:28Z",
-    "originalTitle": "Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants at risk of respiratory distress syndrome.",
-    "originalAbstract": "Respiratory distress syndrome (RDS), or hyaline membrane disease, is a common condition in preterm infants ( 1000; I² = 0%; 5 trials, 1874 infants; moderate-certainty evidence). There may be little to no difference between the prophylactic and selective approaches in moderate to severe neurodevelopmental impairment (RR 0.83, 95% CI 0.57 to 1.21; 1 trial, 976 infants; I2 not applicable; low-certainty evidence). Prophylactic surfactant may result in a slight reduction in pneumothorax compared to s…",
-    "keyPoints": [
-      "Профілактичне застосування сурфактанту може зменшити ризик пневмотораксу.",
-      "Різниця у нейрологічних порушеннях між підходами є незначною.",
-      "Докази мають помірну або низьку якість."
-    ],
-    "practicalTakeaway": "Вибір між профілактичним та вибірковим застосуванням сурфактанту у передчасних немовлят залежить від конкретної клінічної ситуації, враховуючи мінімальні відмінності у довгострокових наслідках.",
-    "specialty": "нефрологія",
-    "tags": [
-      "неонатологія",
-      "інтенсивна терапія",
-      "доказова медицина"
-    ],
-    "priorityScore": 3,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
