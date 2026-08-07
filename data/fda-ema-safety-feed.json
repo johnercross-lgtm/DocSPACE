@@ -1,5 +1,61 @@
 [
   {
+    "title": "Відкликання медичних дихальних систем для новонароджених від Medline",
+    "abstract": "Medline оголосила про всеукраїнське відкликання певних моделей дихальних систем для новонароджених через випадки несправностей.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medline-industries-lp-issues-nationwide-recall-hudson-rci-neonatalinfant-heated-wire-breathing",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-07T16:22:43Z",
+    "updatedAt": "2026-08-07T16:22:43Z",
+    "originalTitle": "Medline Industries, LP Issues Nationwide Recall of Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits",
+    "originalAbstract": "On July 13, 2026, Medline Industries, LP initiated a nationwide recall of Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits. Medline received reports of sporadic failures involving the electrical connector of certain neonatal and infant heated wire breathing circuits. In affected circuits, t",
+    "keyPoints": [
+      "Дата відкликання: 13 липня 2026 року",
+      "Відкликано моделі Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits",
+      "Повідомлення про несправності електричних з'єднань у системах"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "дихальні системи",
+      "новонароджені",
+      "медичне обладнання",
+      "Medline"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання партії морфіну через помилку з етикеткою",
+    "abstract": "Fresenius Kabi проводить добровільний відкликання однієї партії розчину морфіну через неправильну етикетку.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-07T16:22:43Z",
+    "updatedAt": "2026-08-07T16:22:43Z",
+    "originalTitle": "Fresenius Kabi Issues Voluntary Nationwide Recall of One Lot of Morphine Sulfate Injection, USP in a Simplist® Prefilled Syringe Due to Labeling Mix-up",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – 8/4/2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is voluntarily recalling one lot of Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL due to a label mix-up. The MicroVault labeled as Morphine 2 mg/1 mL, may contain a Prefilled Syri",
+    "keyPoints": [
+      "Відкликання стосується однієї партії, дата 4/8/2026",
+      "Має місце помилка з етикеткою MicroVault і Simplist®",
+      "Партія містить 2 мг/1 мл морфіну"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "морфін",
+      "лікарські засоби",
+      "безпека",
+      "фармація"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Виправлення щодо комплектів з відкликаними маніфолдами Namic",
     "abstract": "Компанія Medical Action Industries випустила корекцію щодо комплектів, що містять відкликані маніфолди Namic.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medical-action-industries-issues-correction-kits-containing-recalled",
@@ -579,59 +635,6 @@
       "глюкометри",
       "TRUE METRIX",
       "медичні пристрої"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Корекція інструкцій щодо контролерів серцевого насосу Abiomed",
-    "abstract": "FDA повідомляє про можливу помилку у програмному забезпеченні автоматичних контролерів Impella, що може спричинити їх перезапуск при використанні з лівими вентрикулярними пристроями.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-correction-abiomed-updates-use-instructions-automated-impella-controllers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Heart Pump Controller Correction: Abiomed Updates Use Instructions for Automated Impella Controllers",
-    "originalAbstract": "A software error may cause the Automated Impella Controller to restart when used in conjunction with left ventricular Impella devices.",
-    "keyPoints": [
-      "Можлива помилка у програмному забезпеченні контролерів Impella",
-      "Може спричинити перезапуск пристрою",
-      "Інструкції оновлено для безпеки"
-    ],
-    "practicalTakeaway": "Оновлені інструкції допомагають орієнтуватися в актуальній інформації щодо використання контролерів Impella.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцевий насос",
-      "Impella",
-      "FDA",
-      "інструкції"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Корекція систем реанімації для немовлят GE HealthCare",
-    "abstract": "Компанія GE HealthCare випустила корекцію для систем реанімації та обігрівачів Giraffe і Panda через можливе ослаблення рукоятки регулятора кисню.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infant-resuscitation-system-correction-ge-healthcare-issues-correction-giraffe-and-panda-infant",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Infant Resuscitation System Correction: GE HealthCare Issues Correction for Giraffe and Panda Infant Resuscitation Systems and Warmers with a M1091607-R Blender",
-    "originalAbstract": "The air-oxygen blender knob shaft on certain integrated and stand-alone Resuscitation systems can loosen, affecting the delivered oxygen concentration",
-    "keyPoints": [
-      "Випуск корекції стосується систем Giraffe і Panda, а також обігрівачів.",
-      "Можливе ослаблення рукоятки регулятора кисню.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "реанімація",
-      "немовлята",
-      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
