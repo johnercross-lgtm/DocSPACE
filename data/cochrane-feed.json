@@ -1,5 +1,83 @@
 [
   {
+    "title": "Фекальна трансплантація мікробіоти для лікування гострого нижньої частини шлунково-кишкового тракту гравіс-у-середньому після алогенних трансплантацій стовбурових клітин",
+    "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити ефективність та потенційні ризики фекальної трансплантації мікробіоти у пацієнтів з гострим нижньої частини шлунково-кишкового тракту гравіс-у-середньому, що не реагують на стероїди, після алогенних трансплантацій стовбурових клітин. Порівнюється з стандартним доглядом, спостереженням, плацебо або іншими методами.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016225/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-06T00:00:00Z",
+    "updatedAt": "2026-08-08T10:07:34Z",
+    "originalTitle": "Faecal microbiota transplantation for treating acute lower gastrointestinal graft-versus-host disease after allogeneic haematopoietic stem cell transplantation.",
+    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of faecal microbiota transplantation for treating steroid-refractory, acute lower gastrointestinal graft-versus-host disease in recipients of allogeneic haematopoietic stem cell transplantation, compared with standard care, observation, placebo, or other comparator interventions.",
+    "keyPoints": [
+      "Огляд досліджень щодо фекальної трансплантації для гострого гравіс-у-середньому.",
+      "Мета — оцінити користь і ризики процедури.",
+      "Порівнюється з іншими методами лікування."
+    ],
+    "practicalTakeaway": "Поточні дані вимагають подальших досліджень для визначення ролі фекальної трансплантації у лікуванні гострого гравіс-у-середньому.",
+    "specialty": "гематологія",
+    "tags": [
+      "доказова медицина",
+      "інфекційні хвороби",
+      "гематологія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Час, частота та цільові рівні глікемії для самоконтролю у дорослих з цукровим діабетом типу 1",
+    "abstract": "Дослідження вказують на обмеженість та суперечливість доказів щодо оптимальної частоти, часу та цільових рівнів глікемії для самоконтролю у дорослих з цукровим діабетом типу 1. Відсутня чітка зв'язок між різними стратегічними підходами до самоконтролю та клінічними результатами, особливо у низькозатратних умовах. Це ускладнює прийняття обґрунтованих рішень щодо управління захворюванням.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016263/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-06T00:00:00Z",
+    "updatedAt": "2026-08-08T10:07:34Z",
+    "originalTitle": "Timing, frequency, and glycaemic target values for self-monitoring in adults with type 1 diabetes mellitus.",
+    "originalAbstract": "Evidence guiding how often adults with type 1 diabetes mellitus should self-monitor blood glucose, when to monitor, and which glycaemic targets to use is limited and inconsistent. The available research has not clearly linked different self-monitoring strategies to meaningful clinical outcomes, and evidence is particularly scarce for low-resource settings. Clarifying these uncertainties is important to support informed decision-making and equitable diabetes care worldwide. To assess the effects…",
+    "keyPoints": [
+      "Обмеженість доказів щодо оптимальної частоти та часу самоконтролю.",
+      "Недостатня інформація про цільові рівні глікемії для покращення клінічних результатів.",
+      "Особливості застосування стратегій у низькозатратних умовах залишаються недостатньо вивченими."
+    ],
+    "practicalTakeaway": "Не існує однозначних рекомендацій щодо частоти та цільових рівнів глікемії для самоконтролю у дорослих з цукровим діабетом типу 1, що ускладнює індивідуальне управління захворюванням.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "цукровий діабет",
+      "самоконтроль",
+      "глікемія"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Техніки підготовки перед перенесення ембріона",
+    "abstract": "Перенесення ембріона є ключовим етапом у процедурі in vitro fertilisation (IVF). Ефективність цієї процедури може залежати від кількох факторів, зокрема випрямлення кута у-цервікального переходу, підготовки шийки матки та ендометрія, а також технік проходження через шийку. Останні дослідження спрямовані на вдосконалення технік перенесення для підвищення успіху IVF.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007682.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-06T00:00:00Z",
+    "updatedAt": "2026-08-08T10:07:34Z",
+    "originalTitle": "Techniques for preparation prior to embryo transfer.",
+    "originalAbstract": "Embryo transfer (ET) is the final and most vulnerable step in in vitro fertilisation (IVF) treatment. Pregnancy rates after ET may be influenced by several factors, including straightening the utero-cervical angle, cervical and endometrial preparation, and techniques for traversing the cervix. Recent research has focused on improving the ET technique in the hope of increasing IVF success rates. This review, first published in 2009, examined preparation techniques, as it remains unclear whether t…",
+    "keyPoints": [
+      "Досліджуються техніки підготовки перед перенесення ембріона.",
+      "Вивчається вплив випрямлення кута у-цервікального переходу.",
+      "Мета — підвищити успішність процедур IVF."
+    ],
+    "practicalTakeaway": "Поточні дослідження зосереджені на вдосконаленні технік перенесення ембріона для підвищення шансів на вагітність.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "репродуктологія",
+      "інвитро fertilisation",
+      "перенесення ембріона"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Педіатрія: профілактика падінь у літніх за допомогою подіатрії",
     "abstract": "Це протокол для аналізу, що оцінює ефективність та можливі ризики застосування подіатричних заходів для запобігання падінь у літніх людей, які проживають у громаді.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016193/full",
@@ -176,84 +254,6 @@
       "цироз печінки",
       "бактеріальні інфекції",
       "альбумін"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Перехід між пероральними 5-аміносаліциловими препаратами у підтримці ремісії при виразковому коліті",
-    "abstract": "Цей протокол досліджує ймовірність втрати клінічної або ендоскопічної ремісії у дорослих пацієнтів з виразковим колітом через 52 тижні після переходу з одного перорального 5-аміносаліцилового препарату на інший. Також оцінюється безпека такого переходу.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016374/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-27T00:00:00Z",
-    "updatedAt": "2026-07-29T16:48:06Z",
-    "originalTitle": "Switching from sulphasalazine or oral 5-aminosalicylic acid to another oral 5-aminosalicylic acid drug in the maintenance of remission in ulcerative colitis.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the probability of failure to maintain clinical remission, endoscopic remission, or both, following a switch from SASP or oral 5-ASA drug (comparator) to another oral 5-ASA drug (experimental) in adult ulcerative colitis patients at 52 weeks of follow-up. The intervention of switching to the experimental drug will be compared to the continuation of the comparator drug. To assess the safety of switch…",
-    "keyPoints": [
-      "Досліджується ефективність переходу між препаратами у підтримці ремісії.",
-      "Оцінюється безпека зміни ліків.",
-      "Фокус на дорослих з виразковим колітом у довгостроковій перспективі."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити, чи можна безпечно і ефективно змінювати пероральні 5-аміносаліцилові препарати у підтримці ремісії при виразковому коліті.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "виразковий коліт",
-      "лікування",
-      "дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Терапевтичне охолодження донорів після смерті мозку для покращення якості трансплантованих органів",
-    "abstract": "Трансплантація твердих органів є оптимальним методом лікування пацієнтів із кінцевою стадією органної недостатності. Більшість донорів є померлими, переважно через смерть мозку, що спричиняє пошкодження органів. Вивчення впливу терапевтичного охолодження донорів після смерті мозку спрямоване на покращення якості органів для трансплантації та результатів для реципієнтів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015190.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-24T00:00:00Z",
-    "updatedAt": "2026-07-26T06:16:42Z",
-    "originalTitle": "Therapeutic donor hypothermia following brain death to improve the quality of transplanted organs.",
-    "originalAbstract": "Solid organ transplantation is the optimal treatment for patients living with end-stage organ failure. Globally, the majority of organ donors are deceased, most commonly following brainstem death. The process of brain death is known to cause significant injury to organs. Therefore, efforts to optimise the pre-donation care of these donors should be maximised to achieve improved recipient outcomes. To assess the benefits and harms of therapeutic donor hypothermia in recipients of organs donated f…",
-    "keyPoints": [
-      "Досліджується вплив терапевтичного охолодження донорів після смерті мозку.",
-      "Мета — покращити якість органів для трансплантації.",
-      "Результати досліджень ще потребують підтвердження."
-    ],
-    "practicalTakeaway": "Поточні дані не дають однозначних висновків щодо ефективності терапевтичного охолодження донорів після смерті мозку.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "трансплантація",
-      "донорство",
-      "охолодження"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Обсяг трансфузії червоних кровʼяних клітин у дорослих, дітей та недоношених новонароджених",
-    "abstract": "Дослідження аналізує вплив обсягу трансфузії червоних кровʼяних клітин на результати у госпіталізованих пацієнтів, зокрема дорослих, дітей і недоношених новонароджених. Враховується рекомендація щодо трансфузії однієї одиниці крові за подію, але без конкретних доказів для педіатрії.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015898.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-23T00:00:00Z",
-    "updatedAt": "2026-07-26T06:16:42Z",
-    "originalTitle": "Larger versus smaller red blood cell volume per transfusion in hospitalized adults, children and preterm neonates.",
-    "originalAbstract": "While substantial research has evaluated the safety of hemoglobin thresholds and storage length for red blood cell (RBC) transfusion, there is minimal literature on RBC transfusion volume per transfusion event in hospitalized patients. The Choosing Wisely initiative has made a recommendation to transfuse a single unit of RBC per transfusion event, although this is based on little evidence. No recommendation has been made for pediatrics. This review evaluates the effect of the volume of RBC trans…",
-    "keyPoints": [
-      "Дослідження оцінює вплив обсягу трансфузії крові.",
-      "Рекомендація щодо однієї одиниці крові базується на обмежених даних.",
-      "Дані щодо педіатрії відсутні."
-    ],
-    "practicalTakeaway": "Потреба у додаткових дослідженнях щодо оптимального обсягу трансфузії крові у різних груп пацієнтів.",
-    "specialty": "гематологія",
-    "tags": [
-      "трансфузія крові",
-      "обсяг крові",
-      "пацієнти"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
