@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42568106",
+    "title": "Біомеханічна перевага китайської техніки вузлу у реконструкції задньої cruciate зв'язки: дослідження на трупах",
+    "journal": "Orthopaedic surgery",
+    "publishedAt": "2026-08-07T00:00:00Z",
+    "abstract": "Дослідження оцінює біомеханічний вплив нової внутрішньої техніки натяження — китайського вузлу — у реконструкції задньої cruciate зв'язки на трупних зразках. Результати свідчать про потенційну клінічну перевагу цієї техніки.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568106/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-08T15:55:39Z",
+    "originalTitle": "Biomechanical Superiority of the Chinese Knotting Technique in Posterior Cruciate Ligament Reconstruction: A Cadaveric Study.",
+    "originalAbstract": "We previously developed a novel internal tension-relieving augmentation suture, the Chinese knotting technique (CKT), which demonstrated better knee kinematic recovery and clinical outcomes when assisting posterior cruciate ligament (PCL) reconstruction. This study evaluated the biomechanical effect of the CKT in cadaveric PCL reconstruction and provided experimental evidence for its clinical application. Ten fresh-frozen adult knee joint specimens were randomly divided into the conventional rec",
+    "keyPoints": [
+      "Китайська техніка вузлу показала біомеханічну перевагу у реконструкції задньої cruciate зв'язки.",
+      "Дослідження проведено на трупних зразках, що підтверджує її потенціал у клінічній практиці.",
+      "Результати сприяють подальшому вивченню та застосуванню цієї техніки."
+    ],
+    "practicalTakeaway": "Китайська техніка вузлу може покращити біомеханічні характеристики при реконструкції задньої cruciate зв'язки.",
+    "specialty": "хірургія",
+    "tags": [
+      "біомеханіка",
+      "трупні дослідження",
+      "задня cruciate зв'язка"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42568105",
+    "title": "Крововилив у бляшках при хронічній оклюзії передньої мозкової артерії: фактори та особливості на МРТ",
+    "journal": "Journal of the American Heart Association",
+    "publishedAt": "2026-08-07T00:00:00Z",
+    "abstract": "Дослідження аналізує поширеність і розподіл крововиливів у бляшках у пацієнтів з хронічною оклюзією передньої мозкової артерії, зосереджуючись на їхній ролі як маркеру нестабільності бляшки та можливих клінічних зв'язках. Вивчено 210 пацієнтів із застосуванням високорезолюційної магнітно-резонансної томографії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568105/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-08T15:55:39Z",
+    "originalTitle": "Intraplaque Hemorrhage in Chronic Anterior Circulation Arterial Occlusion: Associated Factors and Vessel-Specific Patterns on High-Resolution Magnetic Resonance Imaging.",
+    "originalAbstract": "Chronic anterior circulation arterial occlusion, particularly involving the internal carotid artery or middle cerebral artery (MCA), carries a persistent risk of ischemic events. Intraplaque hemorrhage (IPH) is a marker of plaque instability, but its prevalence, vessel-specific distribution, and clinical correlates in chronic anterior circulation arterial occlusion remain unclear. We retrospectively enrolled 210 patients with chronic anterior circulation arterial occlusion who underwent high-res",
+    "keyPoints": [
+      "Крововилив у бляшках є ознакою їхньої нестабільності.",
+      "Розподіл крововиливів залежить від конкретної судини.",
+      "Виявлення крововиливів може допомогти у прогнозуванні ризику ішемічних подій."
+    ],
+    "practicalTakeaway": "Використання високорезолюційної МРТ для виявлення крововиливів у бляшках може сприяти оцінці ризику у пацієнтів з хронічною оклюзією передньої мозкової артерії.",
+    "specialty": "неврологія",
+    "tags": [
+      "інфаркт міокарда",
+      "магнітно-резонансна томографія",
+      "атеросклероз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42568104",
+    "title": "Звʼязок між даними смарт-годинників та когнітивною функцією у дорослих",
+    "journal": "Journal of the American Heart Association",
+    "publishedAt": "2026-08-07T00:00:00Z",
+    "abstract": "Дослідження аналізує звʼязок між даними з смарт-годинників, зокрема щоденним серцевим ритмом та фізичною активністю, і когнітивною функцією у дорослих. Використання даних з електронної дослідницької програми дозволяє виявити субклінічні фактори серцево-судинної системи, що мають потенційний вплив на здоровʼя мозку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42568104/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-08T15:55:39Z",
+    "originalTitle": "Associations Between Smartwatch-Derived Measures and Cognitive Function: Findings From the Electronic Framingham Heart Study.",
+    "originalAbstract": "Daily heart rate (HR) and physical activity are biomarkers of cardiovascular disease. A smartwatch-derived metric, daily HR per step (DHRPS), has also been associated with cardiovascular disease. Integrating smartwatch data with neuropsychological assessments in older adults makes it possible to capture subclinical cardiovascular factors relevant to brain health. This cross-sectional study combined the electronic Framingham Heart Study smartwatch data (2021-2024) with neuropsychological assessme",
+    "keyPoints": [
+      "Дослідження вивчало звʼязок між даними смарт-годинників та когнітивною функцією.",
+      "Зібрані дані включали щоденний серцевий ритм та фізичну активність.",
+      "Результати можуть допомогти у ранній діагностиці ризиків для мозку."
+    ],
+    "practicalTakeaway": "Використання даних з смарт-годинників може сприяти виявленню субклінічних факторів, що впливають на когнітивне здоровʼя.",
+    "specialty": "неврологія",
+    "tags": [
+      "кардіологія",
+      "інформатика",
+      "здоровʼя мозку"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42554107",
     "title": "Оцінка безпечних поведінкових практик щодо хіміотерапії серед онкологічних медсестер у Газі",
     "journal": "Cancer",
@@ -190,90 +274,6 @@
       "насильство",
       "психічне здоровʼя",
       "діти і підлітки"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42533293",
-    "title": "Уточнення генетичного внеску у підтипи цукрового діабету 2 типу",
-    "journal": "Diabetes, obesity & metabolism",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "abstract": "Дослідження аналізує генетичний профіль підтипів цукрового діабету 2 типу, визначених у когорті біобанку Катару, з метою покращення їх класифікації та управління захворюванням.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42533293/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-31T06:25:20Z",
-    "originalTitle": "Refining the Genetic Contribution to Type 2 Diabetes Subtypes.",
-    "originalAbstract": "Type 2 diabetes (T2D) is a complex and highly heterogeneous disease driven in part by genetic predisposition and can be stratified into clinical subgroups to aid disease management. We recently grouped T2D subjects in the Qatar Biobank (QBB) cohort into Severe Insulin-Deficient Diabetes (SIDD), Severe Insulin-Resistant Diabetes (SIRD), Mild Obesity-Related Diabetes (MOD) and Mild Age-Related Diabetes (MARD) subtypes. Herein, we focused on the genetic makeup of these subtypes. We used the QBB coh",
-    "keyPoints": [
-      "Досліджено генетичний профіль підтипів цукрового діабету 2 типу.",
-      "Використано дані когорті біобанку Катару.",
-      "Мета — покращити класифікацію та управління захворюванням."
-    ],
-    "practicalTakeaway": "Генетичний аналіз може допомогти у точнішій класифікації підтипів цукрового діабету 2 типу.",
-    "specialty": "ендокринологія",
-    "tags": [
-      "генетика",
-      "цукровий діабет",
-      "класифікація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42533292",
-    "title": "Комбінована терапія для аденоміозу з недостатньою ефективністю HIFU: ретроспективне дослідження",
-    "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
-    "publishedAt": "2026-12-01T00:00:00Z",
-    "abstract": "Мета дослідження — оцінити безпеку та ефективність послідовної комбінації GnRH-агонистів, гістероскопічної хірургії та ВМС з левоноргестрелом у пацієнток з аденоміозом, у яких не досягнуто оптимальних результатів після HIFU (NPV < 50%). Вивчено 71 пацієнтку.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42533292/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-31T06:25:20Z",
-    "originalTitle": "Efficacy and safety of combined GnRH-a, hysteroscopic surgery, and LNG-IUS for adenomyosis with suboptimal HIFU ablation: a retrospective study.",
-    "originalAbstract": "To evaluate the safety and efficacy of sequential combination therapy comprising gonadotropin-releasing hormone agonist (GnRH-a), hysteroscopic surgery (residual lesion resection plus endometrial ablation), and levonorgestrel-releasing intrauterine system (LNG-IUS) insertion in patients with adenomyosis who exhibited suboptimal response to high-intensity focused ultrasound (HIFU) ablation (non-perfused volume (NPV) ratio < 50%). This retrospective study enrolled 71 patients with adenomyosis who ",
-    "keyPoints": [
-      "Дослідження оцінює комбіновану терапію для аденоміозу.",
-      "Розглядається безпека та ефективність послідовних методів.",
-      "Зосереджено на випадках недостатньої відповіді на HIFU."
-    ],
-    "practicalTakeaway": "Комбінована терапія може бути розглянута для пацієнток з аденоміозом, які не отримали достатнього результату від HIFU.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "гінекологія",
-      "аденоміоз",
-      "лікування"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42509595",
-    "title": "Траєкторії метану у дихальних тестах та їх зв’язок із повільним транзитом кишечника",
-    "journal": "Neurogastroenterology and motility",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "abstract": "Дослідження аналізувало 188 дорослих з запором, у яких визначали рівень метану у диханні після глюкозного навантаження та оцінювали швидкість транзиту по кишечнику. За допомогою моделювання групових траєкторій було класифіковано динаміку рівня метану у часі. Виявлено, що різні траєкторії метану асоціюються із повільним транзитом кишечника.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42509595/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-28T06:04:42Z",
-    "originalTitle": "Methane Trajectory Phenotypes on Glucose Breath Testing Are Associated With Slow Colonic Transit: A Group-Based Trajectory Modeling Analysis.",
-    "originalAbstract": "Intestinal methanogen overgrowth (IMO) is defined by a single binary threshold of CH4 ≥ 10 ppm and is associated with slow transit constipation. We aimed to identify distinct breath methane trajectory phenotypes in patients with constipation and test their association with slow colonic transit. We retrospectively analyzed 188 adults with constipation who underwent glucose breath testing and colonic transit assessment. Group-based trajectory modeling was used to classify CH4 kinetics into phenoty",
-    "keyPoints": [
-      "Різні траєкторії рівня метану у дихальних тестах повʼязані із швидкістю транзиту кишечника.",
-      "Визначення траєкторій метану може допомогти у класифікації пацієнтів із запором.",
-      "Дослідження використовувало ретроспективний аналіз та моделювання групових траєкторій."
-    ],
-    "practicalTakeaway": "Аналіз траєкторій рівня метану у дихальних тестах може бути корисним для оцінки швидкості транзиту кишечника у пацієнтів із запором.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "діагностика",
-      "транзит кишечника",
-      "метан"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
