@@ -1,5 +1,31 @@
 [
   {
+    "title": "Виправлення щодо катетерних вводників: Abiomed та Oscor",
+    "abstract": "Компанії Abiomed і Oscor повідомили про можливу витік у катетерних вводниках 14Fr і 23Fr, що може підвищити ризик кровотечі в місці доступу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-correction-abiomed-and-oscor-issue-correction-catheter-introducer",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-10T22:20:51Z",
+    "updatedAt": "2026-08-10T22:20:51Z",
+    "originalTitle": "Catheter Introducer Correction: Abiomed and Oscor Issue Correction for Catheter Introducer",
+    "originalAbstract": "Abiomed and Oscor have identified a potential for introducer sheath leakage in 14Fr and 23Fr Introducers that may increase the risk of access-site bleeding.",
+    "keyPoints": [
+      "14Fr і 23Fr вводники, період не вказаний",
+      "Можлива витік у sheath, ризик кровотечі",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетерні вводники",
+      "безпека медичних пристроїв",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання медичних дихальних систем для новонароджених від Medline",
     "abstract": "Medline оголосила про всеукраїнське відкликання певних моделей дихальних систем для новонароджених через випадки несправностей.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medline-industries-lp-issues-nationwide-recall-hudson-rci-neonatalinfant-heated-wire-breathing",
@@ -22,6 +48,34 @@
       "новонароджені",
       "медичне обладнання",
       "Medline"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук Victory Medical Center Pharmacy щодо глутатіону через підвищені рівні ендотоксинів",
+    "abstract": "Victory Medical Center Pharmacy проводить добровільний відклик ліків глутатіону через виявлення підвищених рівнів бактеріальних ендотоксинів.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-10T22:20:51Z",
+    "updatedAt": "2026-08-10T22:20:51Z",
+    "originalTitle": "Victory Medical Center Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 5, 2026 – Austin, Texas, Victory Medical Center Pharmacy is voluntarily recalling certain lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin leve",
+    "keyPoints": [
+      "Відкликання стосується певних партій глутатіону 200 мг/мл.",
+      "Проведено через виявлення підвищених рівнів бактеріальних ендотоксинів.",
+      "Відгук здійснюється по всій країні, починаючи з 5 серпня 2026 року."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "глутатіон",
+      "ендотоксини",
+      "фармація",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -216,34 +270,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
-    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-25T05:57:37Z",
-    "updatedAt": "2026-07-25T05:57:37Z",
-    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
-    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
-    "keyPoints": [
-      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
-      "Причина — наявність частинок сталі.",
-      "Застосовувано в Тайвані."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "препарати",
-      "ін'єкції",
-      "сталь",
-      "Taiwan"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
     "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
@@ -270,28 +296,28 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук Baxter щодо цефазоліну в розчині дексози",
-    "abstract": "Baxter оголосила про добровільний відгук партії цефазоліну через частинки у розчині.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml-20mg-ml-single",
+    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
+    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-07-28T11:44:52Z",
-    "updatedAt": "2026-07-28T11:44:52Z",
-    "originalTitle": "BAXTER ISSUES VOLUNTARY NATIONWIDE RECALL OF CEFAZOLIN IN DEXTROSE INJECTION, USP, 2G / 100ML (20MG / ML) SINGLE-DOSE INFUSION BAG IN 100ML DUE TO PARTICULATE MATTER FOUND IN SOLUTION",
-    "originalAbstract": "July 24, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling Lot LD175708, Exp 14-Feb 2027 of Cefazolin in Dextrose Injection due to a report of particulate matter found in the solution identified as cardboard. Risk Statement: The use of the defective product has a",
+    "publishedAt": "2026-07-25T05:57:37Z",
+    "updatedAt": "2026-07-25T05:57:37Z",
+    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
+    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
     "keyPoints": [
-      "Відгук стосується партії LD175708, термін придатності 14-02-2027.",
-      "Знайдені частинки у розчині, ідентифіковані як картон.",
-      "Відгук стосується продукту в США, дата оголошення — 24 липня 2026."
+      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
+      "Причина — наявність частинок сталі.",
+      "Застосовувано в Тайвані."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "відгук",
-      "цефазолін",
-      "частинки",
-      "Baxter",
-      "дексоза"
+      "відкликання",
+      "препарати",
+      "ін'єкції",
+      "сталь",
+      "Taiwan"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -372,6 +398,34 @@
       "відкликання",
       "стент-графти",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук Baxter щодо цефазоліну в розчині дексози",
+    "abstract": "Baxter оголосила про добровільний відгук партії цефазоліну через частинки у розчині.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml-20mg-ml-single",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-28T11:44:52Z",
+    "updatedAt": "2026-07-28T11:44:52Z",
+    "originalTitle": "BAXTER ISSUES VOLUNTARY NATIONWIDE RECALL OF CEFAZOLIN IN DEXTROSE INJECTION, USP, 2G / 100ML (20MG / ML) SINGLE-DOSE INFUSION BAG IN 100ML DUE TO PARTICULATE MATTER FOUND IN SOLUTION",
+    "originalAbstract": "July 24, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling Lot LD175708, Exp 14-Feb 2027 of Cefazolin in Dextrose Injection due to a report of particulate matter found in the solution identified as cardboard. Risk Statement: The use of the defective product has a",
+    "keyPoints": [
+      "Відгук стосується партії LD175708, термін придатності 14-02-2027.",
+      "Знайдені частинки у розчині, ідентифіковані як картон.",
+      "Відгук стосується продукту в США, дата оголошення — 24 липня 2026."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "цефазолін",
+      "частинки",
+      "Baxter",
+      "дексоза"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -581,60 +635,6 @@
       "відкликання",
       "медичний пристрій",
       "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання маркерів BioZorb через ризик ускладнень",
-    "abstract": "Hologic відкликає BioZorb 3D біорозсмоктувані маркери після повідомлень про ускладнення у пацієнтів.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/implantable-marker-recall-hologic-removes-biozorb-3d-bioabsorbable-markers-due-risk-patient",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "Implantable Marker Recall: Hologic Removes BioZorb 3D Bioabsorbable Markers due to Risk for Patient Complications",
-    "originalAbstract": "BioZorb Markers are implantable and used to mark soft tissue for procedures. They are being recalled after reports of patient complications.",
-    "keyPoints": [
-      "Відкликання стосується BioZorb 3D маркерів.",
-      "Використовуються для маркування м'яких тканин.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу епідситуації щодо безпеки імплантованих медичних виробів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні маркери",
-      "відкликання",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання аптечок: North American Rescue виправляє комплекти з пристроями TRUE METRIX",
-    "abstract": "Компанія North American Rescue випускає виправлення для аптечок, що містять глюкометри TRUE METRIX, які були відкликані виробником.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/first-aid-kit-recall-north-american-rescue-issues-correction-first-aid-kits-containing-true-metrix",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-02T04:41:02Z",
-    "updatedAt": "2026-07-02T04:41:02Z",
-    "originalTitle": "First Aid Kit Recall: North American Rescue Issues Correction for First Aid Kits Containing TRUE METRIX Devices",
-    "originalAbstract": "North American Rescue is correcting first aid kits that contain blood glucose monitors affected by Trividia’s TRUE METRIX recall",
-    "keyPoints": [
-      "Відкликання стосується аптечок з глюкометрами TRUE METRIX",
-      "Компанія North American Rescue випускає корекцію",
-      "Відкликання пов'язане з виробником Trividia"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо відкликаних медичних пристроїв.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "аптечки",
-      "глюкометри",
-      "TRUE METRIX",
-      "медичні пристрої"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
