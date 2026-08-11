@@ -1,5 +1,83 @@
 [
   {
+    "title": "Терапія ковтання при дисфагії у пацієнтів з гострим та підгострим інсультом",
+    "abstract": "Дисфагія після інсульту підвищує ризик смерті, проте ефективність терапевтичних підходів залишається недостатньо вивченою. Це оновлення дослідження 2018 року аналізує вплив терапій для покращення ковтання у пацієнтів з дисфагією протягом шести місяців після інсульту.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000323.pub4/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-10T00:00:00Z",
+    "updatedAt": "2026-08-11T10:33:46Z",
+    "originalTitle": "Swallowing therapy for dysphagia in acute and subacute stroke.",
+    "originalAbstract": "Post-stroke dysphagia ((PSD) impaired swallowing following stroke), increases risk of death, yet the effects of potential treatments are unclear. This review updates the 2018 review. To assess the effects of swallowing therapies on swallowing impairment (SI) among stroke survivors with dysphagia, within six months of stroke onset. We searched MEDLINE, Embase, OVID, three other databases and trials registries on 31 July 2025. Randomised controlled trials (RCTs) that compared interventions for PSD…",
+    "keyPoints": [
+      "Дослідження аналізує ефективність терапій для дисфагії у пацієнтів з інсультом.",
+      "Вивчено рандомізовані контрольовані дослідження, проведені до 31 липня 2025 року.",
+      "Результати допомагають оцінити вплив терапій на покращення ковтання у цей період."
+    ],
+    "practicalTakeaway": "Оновлений аналіз свідчить про необхідність подальших досліджень щодо терапій для дисфагії після інсульту.",
+    "specialty": "неврологія",
+    "tags": [
+      "інсульт",
+      "дисфагія",
+      "терапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Глюкагонподібний пептид-1 рецепторні агонисти проти метформіну для запобігання серцево-судинних ускладнень у дорослих з цукровим діабетом типу 2",
+    "abstract": "Це протокол для огляду Cochrane, що оцінює клінічні переваги та побічні ефекти глюкагонподібних пептид-1 рецепторних агонистів у порівнянні з метформіном для запобігання серцево-судинних подій у дорослих з цукровим діабетом типу 2.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016380/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-10T00:00:00Z",
+    "updatedAt": "2026-08-11T10:33:46Z",
+    "originalTitle": "Glucagon-like peptide-1 receptor agonist-based regimens compared with metformin-based regimens for preventing cardiovascular disease in adults with type 2 diabetes mellitus.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the clinical benefits and adverse effects of glucagon-like peptide-1 receptor agonist-based regimens, compared with metformin-based glucose-lowering regimens, for preventing cardiovascular events including all-cause mortality, cardiovascular mortality, non-fatal myocardial infarction, non-fatal stroke, and metabolic adverse events (including transient hypoglycemia) in adults with type 2 diabetes mel…",
+    "keyPoints": [
+      "Огляд порівнює глюкагонподібні пептид-1 рецепторні агонисти та метформін.",
+      "Мета — оцінити вплив на серцево-судинні події та смертність.",
+      "Результати допоможуть визначити ефективність та безпеку препаратів."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення переваг та ризиків застосування глюкагонподібних пептид-1 рецепторних агонистів у порівнянні з метформіном для профілактики серцево-судинних ускладнень у пацієнтів з цукровим діабетом типу 2.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "цукровий діабет",
+      "серцево-судинні захворювання",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Фармакологічне лікування міоми матки",
+    "abstract": "Це протокол для огляду Cochrane, мета якого — оцінити переваги та ризики застосування медикаментозних препаратів для лікування міоми матки у жінок репродуктивного віку у порівнянні з плацебо, іншими медикаментами або хірургічним втручанням.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016379/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-10T00:00:00Z",
+    "updatedAt": "2026-08-11T10:33:46Z",
+    "originalTitle": "Pharmacological treatment for uterine fibroids.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of pharmacological treatments for uterine fibroids in women of reproductive age compared with placebo or no treatment, another pharmacological treatment or surgery.",
+    "keyPoints": [
+      "Огляд досліджень щодо медикаментозної терапії міоми матки.",
+      "Мета — визначити баланс користі та ризиків.",
+      "Фокус на жінках репродуктивного віку."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити ефективність та безпечність фармакологічних методів лікування міоми матки.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "міома матки",
+      "фармакотерапія",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Фекальна трансплантація мікробіоти для лікування гострого нижньої частини шлунково-кишкового тракту гравіс-у-середньому після алогенних трансплантацій стовбурових клітин",
     "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити ефективність та потенційні ризики фекальної трансплантації мікробіоти у пацієнтів з гострим нижньої частини шлунково-кишкового тракту гравіс-у-середньому, що не реагують на стероїди, після алогенних трансплантацій стовбурових клітин. Порівнюється з стандартним доглядом, спостереженням, плацебо або іншими методами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016225/full",
@@ -176,84 +254,6 @@
       "доказова медицина",
       "недоношені",
       "нейророзвиток"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Неоад'ювантна хіміотерапія перед хірургією проти хірургії з подальшою хіміотерапією при просунутому епітеліальному раку яєчників",
-    "abstract": "Дослідження порівнює ефективність неоад'ювантної хіміотерапії перед хірургічним втручанням з традиційною тактикою — спершу хірургія, потім хіміотерапія у пацієнток з просунутим епітеліальним раком яєчників. Аналіз оновлено у 2025 році.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005343.pub8/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "updatedAt": "2026-08-05T06:02:44Z",
-    "originalTitle": "Neoadjuvant chemotherapy before surgery versus surgery followed by chemotherapy for initial treatment in advanced epithelial ovarian cancer.",
-    "originalAbstract": "Epithelial ovarian cancer (EOC) presents at an advanced stage in the majority of women. These women require a combination of surgery and chemotherapy for optimal treatment. Conventional treatment has been to perform surgery first and then give chemotherapy. However, there may be advantages to using chemotherapy before surgery. This is an update of a review first published in 2007 and last updated in 2025. To assess the advantages and disadvantages of treating women with advanced EOC with chemoth…",
-    "keyPoints": [
-      "Дослідження порівнює два підходи до лікування просунутого раку яєчників.",
-      "Розглядаються переваги та недоліки застосування хіміотерапії перед хірургією.",
-      "Оновлення даних проводилось у 2025 році."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають оцінити потенційні переваги та недоліки застосування неоад'ювантної хіміотерапії у лікуванні просунутого епітеліального раку яєчників.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "хірургія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Психологічні та психосоціальні втручання при травматичному стресі у дорослих, що живуть у тривалому конфлікті",
-    "abstract": "Це протокол для аналізу, метою якого є оцінити переваги та ризики різних психотерапевтичних і психосоціальних втручань для зменшення травматичного психологічного стресу у дорослих, які зазнали тривалого конфлікту.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016367/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "updatedAt": "2026-08-05T06:02:44Z",
-    "originalTitle": "Psychological and psychosocial interventions for trauma-related psychological distress in adults living in ongoing conflict.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the relative benefit and harms of different psychotherapeutic or psychosocial interventions for trauma-related psychological distress in adults affected by ongoing conflict.",
-    "keyPoints": [
-      "Оцінка ефективності психотерапевтичних та психосоціальних втручань.",
-      "Фокус на дорослих у тривалому конфлікті.",
-      "Аналіз потенційних ризиків і переваг втручань."
-    ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення найбільш ефективних психологічних підходів для підтримки дорослих у конфліктних умовах.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "психологія",
-      "психосоціальні втручання",
-      "конфлікт"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Альбумін у пацієнтів із цирозом печінки та бактеріальними інфекціями",
-    "abstract": "Дослідження аналізує ефективність внутрішньовенного застосування людського альбуміну у пацієнтів із цирозом печінки та бактеріальними інфекціями. Мета — визначити користь і шкоду такої терапії порівняно з відсутністю лікування, плацебо або іншими внутрішньовенними рідинами.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014636.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "updatedAt": "2026-07-29T16:48:06Z",
-    "originalTitle": "Albumin for people with liver cirrhosis and bacterial infections.",
-    "originalAbstract": "People with liver cirrhosis are at an increased risk of bacterial infections, with a high rate of complications and mortality. Adding albumin to antibiotics may reduce their occurrence. To assess the benefits and harms of intravenous administration of human albumin in people with liver cirrhosis and bacterial infections versus no intervention, placebo, or other intravenous fluids. We identified randomised clinical trials (RCTs) through electronic searches in the Cochrane Hepato-Biliary Group Con…",
-    "keyPoints": [
-      "Альбумін може зменшити ускладнення та смертність у пацієнтів із цирозом печінки та бактеріальними інфекціями.",
-      "Дослідження базується на рандомізованих клінічних випробуваннях.",
-      "Ефективність внутрішньовенного застосування альбуміну потребує подальшого підтвердження."
-    ],
-    "practicalTakeaway": "Внутрішньовенне застосування альбуміну у таких пацієнтів потребує додаткових досліджень для визначення його ролі у клінічній практиці.",
-    "specialty": "гематологія",
-    "tags": [
-      "цироз печінки",
-      "бактеріальні інфекції",
-      "альбумін"
     ],
     "priorityScore": 2,
     "aiProcessed": true,

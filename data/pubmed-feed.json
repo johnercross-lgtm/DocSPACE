@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42576170",
+    "title": "Нейробіологічні маркери у старших дорослих з різними профілями суб'єктивних та об'єктивних когнітивних змін",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "publishedAt": "2026-08-01T00:00:00Z",
+    "abstract": "Дослідження аналізує звʼязки між нейробіологічними маркерами та профілями когнітивних змін у старших дорослих. Вивчено 648 учасників із різними комбінаціями суб'єктивних та об'єктивних когнітивних станів, зокрема рівень нейрофіламентарного білка, фосфорильованого тау 217 та інших біомаркерів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42576170/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-11T10:33:33Z",
+    "originalTitle": "Neurobiological markers across joint profiles of subjective cognitive decline and objective cognitive function in older adults.",
+    "originalAbstract": "Subjective cognitive concerns frequently diverge from objective cognitive performance in cognitively unimpaired (CU) older adults, yet the neurobiological basis of this mismatch remains unclear. In 648 participants from the Investigating Gains in Neurocognition in an Intervention Trial of Exercise (IGNITE), we defined four profiles by integrating subjective and objective cognitive status. We examined associations with plasma neurofilament light chain (NfL), phosphorylated tau 217 (p-tau217), gli",
+    "keyPoints": [
+      "Досліджено 648 старших дорослих з різними профілями когнітивних змін.",
+      "Аналізувалися нейробіологічні маркери у плазмі крові.",
+      "Звʼязки між профілями та біомаркерами залишаються невизначеними."
+    ],
+    "practicalTakeaway": "Поточні дані не підтверджують чіткий звʼязок між нейробіологічними маркерами та профілями когнітивних змін у старших дорослих.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейробіологія",
+      "когнітивні порушення",
+      "біомаркери"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42576168",
+    "title": "Післяопераційна гіпокальціємія при тотальній тиреоїдектомії та повторній тиреоїдектомії",
+    "journal": "The Laryngoscope",
+    "publishedAt": "2026-08-10T00:00:00Z",
+    "abstract": "Дослідження показало, що повторна тиреоїдектомія з інтервалом щонайменше три місяці сприяє кращому збереженню паращитовидних залоз і зменшенню потреби у післяопераційних кальцієвих добавках порівняно з первинною тотальною тиреоїдектомією.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42576168/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-11T10:33:33Z",
+    "originalTitle": "Postoperative Hypocalcemia Following Total Thyroidectomy Versus Completion Thyroidectomy.",
+    "originalAbstract": "Completion thyroidectomy performed with at least a three-month interval demonstrates superior parathyroid preservation compared to primary total thyroidectomy, as evidenced by significantly higher postoperative parathyroid hormone levels (51.90 ± 30.26 pg/mL vs. 30.90 ± 17.10 pg/mL, p = 0.006). Postoperative calcium supplementation requirements were significantly lower in the completion thyroidectomy cohort compared to the total thyroidectomy group (4.2% vs. 25.0%, p = 0.049). A staged surgical ",
+    "keyPoints": [
+      "Повторна тиреоїдектомія з інтервалом понад три місяці забезпечує кращу збереженість паращитовидних залоз.",
+      "Пацієнти після повторної операції менше потребують кальцієвих добавок.",
+      "Результати свідчать про переваги планування повторної тиреоїдектомії для зменшення ускладнень."
+    ],
+    "practicalTakeaway": "При плануванні тиреоїдектомії враховуйте можливі переваги повторної операції для збереження функції паращитовидних залоз.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "хірургія",
+      "ендокринологія",
+      "післяопераційні ускладнення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42576167",
+    "title": "Структурна гетерогенність фрагментів TDP-43 у хворобі Альцгеймера та первинному віковому тау-опатії за допомогою штучного інтелекту",
+    "journal": "Neuropathology and applied neurobiology",
+    "publishedAt": "2026-08-01T00:00:00Z",
+    "abstract": "Дослідження аналізує структурні особливості фрагментів TDP-43 у мозку при хворобі Альцгеймера та первинній віковій тау-опатії, використовуючи AI-3D сегментацію. Виявлено різноманіття локалізації та характеристик TDP-43, що може впливати на розуміння патогенезу цих нейродегенеративних захворювань.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42576167/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-11T10:33:33Z",
+    "originalTitle": "Structural Heterogeneity of TDP-43 Fragments in Alzheimer's Disease and Primary Age-Related Tauopathy by Artificial Intelligence (AI)-Based 3D Segmentation.",
+    "originalAbstract": "TAR DNA-binding protein 43 (TDP-43) inclusions are defining pathological features of frontotemporal lobar degeneration (FTLD) but are also often observed in Alzheimer's disease (AD) and primary age-related tauopathy (PART). TDP-43 in AD is either associated with cognitive impairment or a protective-life prolonging impact, and yet the localization, cellular and fragment characteristics of TDP-43 need to be determined. We investigated the relationships between TDP-43 volumetric inclusion burden in",
+    "keyPoints": [
+      "Аналіз структурних особливостей TDP-43 у хворобі Альцгеймера та тау-опатії.",
+      "Використання штучного інтелекту для 3D сегментації та дослідження фрагментів TDP-43.",
+      "Різноманіття локалізації та характеристик TDP-43 у мозку при нейродегенеративних захворюваннях."
+    ],
+    "practicalTakeaway": "Вивчення структурної гетерогенності TDP-43 може сприяти кращому розумінню патогенезу нейродегенеративних захворювань.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейродегенеративні захворювання",
+      "TDP-43",
+      "штучний інтелект"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42568106",
     "title": "Біомеханічна перевага китайської техніки вузлу у реконструкції задньої cruciate зв'язки: дослідження на трупах",
     "journal": "Orthopaedic surgery",
@@ -192,90 +276,6 @@
       "антиоксиданти"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42543054",
-    "title": "Взаємозв'язки між інтерсекційною дискримінацією, самоефективністю у керуванні здоров’ям та результатами для здоров’я серед чорних трансгендерних жінок",
-    "journal": "Nursing outlook",
-    "publishedAt": "2026-08-02T00:00:00Z",
-    "abstract": "Дослідження аналізує, як інтерсекційна дискримінація впливає на самоефективність у керуванні здоров’ям та психічний стан чорних трансгендерних жінок. Виявлено, що дискримінація може знижувати здатність до самоуправління здоров’ям і посилювати симптоми посттравматичного стресового розладу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42543054/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-02T22:40:59Z",
-    "originalTitle": "Associations between intersectional discrimination, self-efficacy to manage one's health, and health outcomes among Black transgender women.",
-    "originalAbstract": "Black transgender women are disproportionately exposed to discrimination and healthcare barriers associated with poor health and delayed treatment-seeking. Consequently, traditional treatment pathways may not be accessible. Thus, health self-management (HSM) may be critical in promoting health among Black transgender women. The purpose of this study is to examine the relationships among intersectional discrimination, self-efficacy for health management, and mental health outcomes (PTSD symptoms,",
-    "keyPoints": [
-      "Дискримінація повʼязана з меншим рівнем самоефективності у керуванні здоровʼям.",
-      "Знижена самоефективність може погіршувати психічний стан.",
-      "Дослідження підкреслює важливість підтримки у цій групі."
-    ],
-    "practicalTakeaway": "Підтримка та інтервенції, спрямовані на підвищення самоефективності у керуванні здоров’ям, можуть позитивно впливати на психічне здоровʼя чорних трансгендерних жінок.",
-    "specialty": "психіатрія",
-    "tags": [
-      "доказова медицина",
-      "загальні наслідки для здоровʼя",
-      "соціальні фактори"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42543052",
-    "title": "Варіабельність серцевого ритму та ступінь тривожності: систематичний огляд і мета-аналіз",
-    "journal": "Comprehensive psychiatry",
-    "publishedAt": "2026-07-27T00:00:00Z",
-    "abstract": "Тривожність є поширеним психічним розладом із значними наслідками для здоровʼя. Оцінка її ступеня за допомогою психометричних шкал має субʼєктивний характер, що знижує точність вимірювань. Варіабельність серцевого ритму (ВСР) може слугувати додатковим інструментом для оцінки тривожності, доповнюючи субʼєктивні оцінки симптомів. Проведено систематичний огляд і мета-аналіз відповідно до PRISMA 2020.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42543052/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-02T22:40:59Z",
-    "originalTitle": "Heart rate variability and anxiety severity: A systematic review and meta-analysis.",
-    "originalAbstract": "Anxiety is a common mental disorder with high individual and public health costs. Psychometric scales are frequently applied to describe anxiety severity; however, their subjective nature reduces measurement precision. Heart rate variability (HRV) may serve as a complementary tool for assessing anxiety by adding physiological information beyond subjective symptom ratings. We conducted a systematic review and meta-analysis, reported in accordance with PRISMA 2020 (PROSPERO: CRD42024623381). We co",
-    "keyPoints": [
-      "ВСР може бути корисним додатковим інструментом для оцінки тривожності.",
-      "Дослідження показують звʼязок між ВСР і ступенем тривожності.",
-      "Мета-аналіз підтверджує потенціал ВСР у клінічній практиці."
-    ],
-    "practicalTakeaway": "Врахування варіабельності серцевого ритму може покращити обʼєктивну оцінку ступеня тривожності.",
-    "specialty": "психіатрія",
-    "tags": [
-      "психічні розлади",
-      "діагностика",
-      "мета-аналіз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42533295",
-    "title": "Вплив насильства на психічне здоровʼя дітей та підлітків у Мексиці",
-    "journal": "Journal of interpersonal violence",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "abstract": "Дослідження виявило, що жертви насильства серед дітей та підлітків з хронічними захворюваннями у Мексиці мають підвищений ризик розвитку психічних розладів. Вивчення проводилось у госпітальній установі та охоплювало дані за минулий рік і все життя.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42533295/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-07-31T06:25:20Z",
-    "originalTitle": "Child and Adolescent Victimization and Mental Health Associations: A Hospital-Based Cross-Sectional Study in Mexico.",
-    "originalAbstract": "Child and adolescent victimization is a significant public health concern with profound effects on development and mental health. However, evidence from Mexico remains limited, particularly in hospital settings. The objective of this study was to estimate the prevalence of past-year and lifetime victimization among children and adolescents with chronic diseases and to examine its association with mental health outcomes. In this cross-sectional study, children and adolescents aged 6-17 years atte",
-    "keyPoints": [
-      "Значна поширеність жертви насильства серед дітей з хронічними захворюваннями.",
-      "Звʼязок між досвідом насильства та погіршенням психічного здоровʼя.",
-      "Дослідження підкреслює важливість виявлення жертв насильства у медичних закладах."
-    ],
-    "practicalTakeaway": "Врахування історії насильства у медичній практиці може сприяти покращенню психічної підтримки дітей та підлітків.",
-    "specialty": "психіатрія",
-    "tags": [
-      "насильство",
-      "психічне здоровʼя",
-      "діти і підлітки"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
