@@ -1,5 +1,57 @@
 [
   {
+    "title": "Відкликання наборів для внутрішньовенного введення Baxter",
+    "abstract": "Baxter відкликає набори Duo-Vent через можливість потрапляння повітря у пацієнта.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-14T05:06:02Z",
+    "updatedAt": "2026-08-14T05:06:02Z",
+    "originalTitle": "Intravascular Administration Set Recall: Baxter Removes Duo-Vent Solution Sets",
+    "originalAbstract": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
+    "keyPoints": [
+      "Виробник: Baxter, США",
+      "Модель: Duo-Vent, відкликання",
+      "Проблема: можливість потрапляння повітря"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "інфузійні системи",
+      "безпека пацієнтів"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Виправлення комплектів швидкого доступу від Medline",
+    "abstract": "Medline виправляє комплекти швидкого доступу, видаляючи компоненти для знеболення ICU Medical.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-icu-medical-pain",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-14T05:06:02Z",
+    "updatedAt": "2026-08-14T05:06:02Z",
+    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Components",
+    "originalAbstract": "Medline is correcting affected convenience kits by removing included ICU Medical pain management components containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP.",
+    "keyPoints": [
+      "Виправлення стосується комплектів швидкого доступу.",
+      "В комплект входили компоненти ICU Medical.",
+      "Виправлення пов'язане з Huons Bupivacaine Hydrochloride."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичне обладнання",
+      "безпека",
+      "лікарські засоби"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Виправлення щодо катетерних вводників: Abiomed та Oscor",
     "abstract": "Компанії Abiomed і Oscor повідомили про можливу витік у катетерних вводниках 14Fr і 23Fr, що може підвищити ризик кровотечі в місці доступу.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-correction-abiomed-and-oscor-issue-correction-catheter-introducer",
@@ -54,34 +106,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук Victory Medical Center Pharmacy щодо глутатіону через підвищені рівні ендотоксинів",
-    "abstract": "Victory Medical Center Pharmacy проводить добровільний відклик ліків глутатіону через виявлення підвищених рівнів бактеріальних ендотоксинів.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-10T22:20:51Z",
-    "updatedAt": "2026-08-10T22:20:51Z",
-    "originalTitle": "Victory Medical Center Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – August 5, 2026 – Austin, Texas, Victory Medical Center Pharmacy is voluntarily recalling certain lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin leve",
-    "keyPoints": [
-      "Відкликання стосується певних партій глутатіону 200 мг/мл.",
-      "Проведено через виявлення підвищених рівнів бактеріальних ендотоксинів.",
-      "Відгук здійснюється по всій країні, починаючи з 5 серпня 2026 року."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "глутатіон",
-      "ендотоксини",
-      "фармація",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання партії морфіну через помилку з етикеткою",
     "abstract": "Fresenius Kabi проводить добровільний відкликання однієї партії розчину морфіну через неправильну етикетку.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
@@ -104,6 +128,34 @@
       "лікарські засоби",
       "безпека",
       "фармація"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук Victory Medical Center Pharmacy щодо глутатіону через підвищені рівні ендотоксинів",
+    "abstract": "Victory Medical Center Pharmacy проводить добровільний відклик ліків глутатіону через виявлення підвищених рівнів бактеріальних ендотоксинів.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-10T22:20:51Z",
+    "updatedAt": "2026-08-10T22:20:51Z",
+    "originalTitle": "Victory Medical Center Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 5, 2026 – Austin, Texas, Victory Medical Center Pharmacy is voluntarily recalling certain lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin leve",
+    "keyPoints": [
+      "Відкликання стосується певних партій глутатіону 200 мг/мл.",
+      "Проведено через виявлення підвищених рівнів бактеріальних ендотоксинів.",
+      "Відгук здійснюється по всій країні, починаючи з 5 серпня 2026 року."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "глутатіон",
+      "ендотоксини",
+      "фармація",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -164,33 +216,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
-    "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-18T16:25:46Z",
-    "updatedAt": "2026-07-18T16:25:46Z",
-    "originalTitle": "Catheter Introducer Kit Recall: Abiomed Removes 14Fr Low Profile Introducer Kits",
-    "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.",
-    "keyPoints": [
-      "Відкликання стосується комплектів 14Fr Low Profile",
-      "Можливість утворення тромбів при тривалому застосуванні",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "комплекти",
-      "тромбоз",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Виправлення щодо апаратів Astral від Resmed",
     "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
@@ -212,6 +237,33 @@
       "Astral",
       "технічна несправність",
       "медичне обладнання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
+    "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-18T16:25:46Z",
+    "updatedAt": "2026-07-18T16:25:46Z",
+    "originalTitle": "Catheter Introducer Kit Recall: Abiomed Removes 14Fr Low Profile Introducer Kits",
+    "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.",
+    "keyPoints": [
+      "Відкликання стосується комплектів 14Fr Low Profile",
+      "Можливість утворення тромбів при тривалому застосуванні",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "комплекти",
+      "тромбоз",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -270,32 +322,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
-    "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-25T05:57:37Z",
-    "updatedAt": "2026-07-25T05:57:37Z",
-    "originalTitle": "Early Alert: Percutaneous Catheter Issue from Boston Scientific",
-    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use",
-    "keyPoints": [
-      "Модель ENROUTE Transcarotid від Boston Scientific",
-      "Можливий розрив або частковий розрив наконечника",
-      "Інформація актуальна для перкутанних нейропротекторів"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки медичних виробів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні пристрої",
-      "безпека",
-      "інформація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
     "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
@@ -318,6 +344,32 @@
       "ін'єкції",
       "сталь",
       "Taiwan"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
+    "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-25T05:57:37Z",
+    "updatedAt": "2026-07-25T05:57:37Z",
+    "originalTitle": "Early Alert: Percutaneous Catheter Issue from Boston Scientific",
+    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use",
+    "keyPoints": [
+      "Модель ENROUTE Transcarotid від Boston Scientific",
+      "Можливий розрив або частковий розрив наконечника",
+      "Інформація актуальна для перкутанних нейропротекторів"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки медичних виробів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичні пристрої",
+      "безпека",
+      "інформація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -581,60 +633,6 @@
       "інфузійне обладнання",
       "безпека обладнання",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання серця імплантату: Abiomed видаляє комплекти Impella CP з SmartAssist",
-    "abstract": "Відповідні комплекти Impella CP можуть спричинити низький тиск промивки під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-recall-abiomed-removes-impella-cp-sets-smartassist",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-05T16:33:20Z",
-    "updatedAt": "2026-07-05T16:33:20Z",
-    "originalTitle": "Heart Pump Recall: Abiomed Removes Impella CP Sets with SmartAssist",
-    "originalAbstract": "Specific Impella CP Sets are out of specification; use may result in low purge pressure events from the onset of the case",
-    "keyPoints": [
-      "Відкликання стосується конкретних комплектів Impella CP.",
-      "Можливі низькі тиск промивки з початку використання.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Використання комплектів Impella CP з SmartAssist може бути пов'язане з ризиком низького тиску промивки.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцева хірургія",
-      "імплантати",
-      "відкликання",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання інсулінових помп: Omnipod Pods з можливим пошкодженням трубки",
-    "abstract": "Виробник Omnipod повідомляє про можливий дефект трубки, що може спричинити витік інсуліну.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insulin-pump-recall-insulet-removes-omnipod-pods",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-05T16:33:20Z",
-    "updatedAt": "2026-07-05T16:33:20Z",
-    "originalTitle": "Insulin Pump Recall: Insulet Removes Omnipod Pods",
-    "originalAbstract": "Certain Omnipod Pods may have a tear in the tubing that allows insulin to leak outside the Pod instead of being delivered to the body.",
-    "keyPoints": [
-      "Виробник: Insulet, FDA, 2023 рік",
-      "Модель: Omnipod Pods, можливий дефект трубки",
-      "Можливий ризик витоку інсуліну"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки інсулінових помп.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інсулінова терапія",
-      "відкликання",
-      "медичний пристрій",
-      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
