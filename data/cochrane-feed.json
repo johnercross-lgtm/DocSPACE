@@ -1,5 +1,83 @@
 [
   {
+    "title": "Фізична активність для управління ожирінням у підлітків віком 10-19 років",
+    "abstract": "Обґрунтовано, що ожиріння є глобальною проблемою здоровʼя, що сприяє розвитку неінфекційних захворювань. У підлітків рівень ожиріння зростає швидкими темпами. Хоча існують систематичні огляди щодо ролі фізичної активності у контролі ожиріння у цій віковій групі, у дослідженнях є недоліки, зокрема у повноті звітності та стандартизації оцінки доказовості.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015987/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-13T00:00:00Z",
+    "updatedAt": "2026-08-14T22:01:14Z",
+    "originalTitle": "Physical activity for the management of obesity in adolescents aged 10 to 19 years.",
+    "originalAbstract": "Obesity is a global public health issue and a major contributor to non-communicable diseases. In recent decades, the prevalence of obesity in adolescents has risen at an alarming rate. Although several systematic reviews have evaluated the effects of physical activity for the management of obesity in adolescents, key limitations remain in the literature, particularly in reporting completeness and the lack of standardised assessments of the certainty of evidence. To synthesise evidence on the ben…",
+    "keyPoints": [
+      "Обґрунтовано важливість фізичної активності у управлінні ожирінням у підлітків.",
+      "Дослідження мають недоліки у звітності та стандартизації доказів.",
+      "Потреба у подальших дослідженнях для підтвердження ефективності."
+    ],
+    "practicalTakeaway": "Необхідно враховувати обмеження існуючих досліджень при застосуванні фізичної активності для управління ожирінням у підлітків.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "фізична активність",
+      "ожиріння",
+      "підлітки"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Культури для людських ембріонів перед імплантацією у циклах допоміжних репродуктивних технологій",
+    "abstract": "Дослідження аналізує різні культури для розвитку людських ембріонів перед імплантацією у циклах допоміжних репродуктивних технологій, таких як IVF та ICSI. Вивчено їх вплив на успішність процедур та можливі побічні ефекти.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007876.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-12T00:00:00Z",
+    "updatedAt": "2026-08-14T22:01:14Z",
+    "originalTitle": "Culture media for human pre-implantation embryos in assisted reproductive technology cycles.",
+    "originalAbstract": "Numerous media are commercially available for culture of human pre-implantation embryos in assisted reproductive technology (ART) cycles. It is unknown which culture medium leads to the best success rates after ART. This is the first update of a Cochrane review published in 2015. To evaluate the benefits and harms of different human pre-implantation embryo culture media used for in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) cycles, including intracytoplasmic morphologi…",
+    "keyPoints": [
+      "Різні культури використовуються для розвитку ембріонів перед імплантацією.",
+      "Немає однозначних даних щодо найефективнішої культури.",
+      "Дослідження оновлює попередній аналіз 2015 року."
+    ],
+    "practicalTakeaway": "Обирати культуру ембріонів слід з урахуванням індивідуальних особливостей та клінічної ситуації.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "репродуктологія",
+      "екстракорпоральне запліднення",
+      "ембріологія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Первинне системне лікування при поширеному малоклітинному раку легень: аналіз мережі досліджень",
+    "abstract": "Малоклітинний рак легень у поширеній стадії має поганий прогноз і обмежені терапевтичні можливості. Додавання імунних чекпойнт-інгібіторів до хіміотерапії з платиновими препаратами є важливою стратегією першої лінії лікування. Однак порівняльна ефективність та шкода різних схем залишається невизначеною.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015738.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-11T00:00:00Z",
+    "updatedAt": "2026-08-14T22:01:14Z",
+    "originalTitle": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
+    "originalAbstract": "Extensive-stage small cell lung cancer (SCLC) carries a poor prognosis and has limited therapeutic options. The addition of immune-checkpoint inhibitors (ICIs) to platinum-etoposide (PE) chemotherapy has become an important first-line treatment strategy. However, the comparative benefits and harms of different first-line chemotherapy-based regimens, including ICI-containing combinations, remain unclear. To evaluate the comparative benefits and harms of immunotherapy (anti-PD-1, anti-PD-L1, or an…",
+    "keyPoints": [
+      "Досліджено різні комбінації імунної терапії з хіміотерапією при поширеному раку легень.",
+      "Виявлено невизначеність щодо переваг і ризиків окремих схем лікування.",
+      "Потреба у подальших дослідженнях для визначення оптимальної терапії."
+    ],
+    "practicalTakeaway": "Результати дослідження підкреслюють необхідність індивідуального підходу до вибору терапії при поширеному раку легень.",
+    "specialty": "онкологія",
+    "tags": [
+      "ракові захворювання",
+      "лікування раку",
+      "імунна терапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Терапія ковтання при дисфагії у пацієнтів з гострим та підгострим інсультом",
     "abstract": "Дисфагія після інсульту підвищує ризик смерті, проте ефективність терапевтичних підходів залишається недостатньо вивченою. Це оновлення дослідження 2018 року аналізує вплив терапій для покращення ковтання у пацієнтів з дисфагією протягом шести місяців після інсульту.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000323.pub4/full",
@@ -178,84 +256,6 @@
       "профілактика"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Освітні та навички-засновані програми для запобігання насильству у стосунках у підлітків та молодих дорослих",
-    "abstract": "Це протокол для огляду Cochrane, який має на меті оцінити ефективність та можливі ризики освітніх та навички-заснованих заходів у запобіганні насильству у стосунках серед підлітків і молодих дорослих у порівнянні з неактивними контролями.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016376/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "updatedAt": "2026-08-01T22:40:11Z",
-    "originalTitle": "Educational and skills-based interventions for preventing relationship and dating violence in adolescents and young adults.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To evaluate the benefits and harms of educational and skills-based interventions for the prevention of dating and relationship violence in adolescents and young adults, comparing these interventions with inactive controls (placebo, standard care, waiting list, or no intervention).",
-    "keyPoints": [
-      "Огляд досліджень оцінює профілактичні програми насильства у стосунках.",
-      "Зосереджено на підлітках та молодих дорослих.",
-      "Порівнює програми з плацебо або стандартною опікою."
-    ],
-    "practicalTakeaway": "Огляд допоможе визначити, наскільки ефективні освітні та навички-засновані програми у запобіганні насильству у стосунках.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "педіатрія",
-      "психіатрія",
-      "сімейна медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Анальгетики при гострому панкреатиті: протокол огляду Cochrane",
-    "abstract": "Цей протокол огляду Cochrane має на меті оцінити переваги та ризики застосування різних фармакологічних анальгетиків у пацієнтів з гострим панкреатитом у порівнянні з плацебо, відсутністю лікування або альтернативними режимами знеболення.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016112/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "updatedAt": "2026-08-01T22:40:11Z",
-    "originalTitle": "Analgesic agents versus placebo, no intervention, or alternative analgesic regimens in acute pancreatitis.",
-    "originalAbstract": "This is a protocol for a Cochrane Review (intervention). The objectives are as follows: To assess the benefits and harms of different pharmacological analgesics versus placebo, no intervention, or alternative analgesic regimens in people with acute pancreatitis.",
-    "keyPoints": [
-      "Оцінюється ефективність різних анальгетиків у гострому панкреатиті.",
-      "Розглядаються потенційні ризики застосування анальгетиків.",
-      "Мета — визначити найефективніші та безпечніші засоби знеболення."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити оптимальні підходи до знеболення при гострому панкреатиті.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "анальгетики",
-      "гострий панкреатит",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Вестибулярна стимуляція для підтримки розвитку та запобігання ускладненням у недоношених немовлят",
-    "abstract": "Дослідження аналізує потенційний вплив вестибулярної стимуляції на фізіологічні процеси у недоношених немовлят, зокрема на баланс, координацію, дихання та нейророзвиток. Вказується, що цільова стимуляція може покращити нейродвигальні функції та зменшити апное.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016072.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "updatedAt": "2026-08-01T22:40:11Z",
-    "originalTitle": "Vestibular stimulation for promoting development and preventing morbidity in preterm infants.",
-    "originalAbstract": "The vestibular system is a sensory system within the inner ear and the brain that controls balance and physical coordination. Vestibular stimulation may have an impact on various physiological processes, including breathing, reducing apnea episodes and the need for respiratory support. It has been suggested that targeted vestibular stimulation in premature infants may improve neurodevelopmental outcomes and neuromotor function. To evaluate the benefits and harms of vestibular stimulation for red…",
-    "keyPoints": [
-      "Вестибулярна стимуляція може впливати на дихальні функції у недоношених.",
-      "Може покращувати нейророзвиток та моторні навички.",
-      "Докази щодо користі потребують подальшого підтвердження."
-    ],
-    "practicalTakeaway": "Поточні дані не дозволяють робити остаточні висновки щодо застосування вестибулярної стимуляції у недоношених.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "недоношені",
-      "нейророзвиток"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
