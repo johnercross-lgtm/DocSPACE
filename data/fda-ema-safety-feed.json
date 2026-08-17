@@ -52,6 +52,58 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Оновлення щодо проблеми з комплектами Medline",
+    "abstract": "Деякі аплікатори BD ChloraPrep у комплекті Medline можуть бути нестерильними.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/update-alert-convenience-kit-issue-medline",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-17T10:14:52Z",
+    "updatedAt": "2026-08-17T10:14:52Z",
+    "originalTitle": "Update on Alert: Convenience Kit Issue from Medline",
+    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+    "keyPoints": [
+      "Виробник: Medline",
+      "Продукт: BD ChloraPrep аплікатори",
+      "Проблема: можливий нестерильний стан"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "стерильність",
+      "медичне обладнання",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук про комплект дихальних контурів: Hamilton Medical",
+    "abstract": "Компанія Hamilton Medical відкликає комплекти дихальних контурів для вентиляторів через можливість закупорки.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-17T10:14:52Z",
+    "updatedAt": "2026-08-17T10:14:52Z",
+    "originalTitle": "Breathing Circuit Set Recall: Hamilton Medical Removes Breathing Circuit Set",
+    "originalAbstract": "The ventilator breathing circuits are intended to connect a ventilator to a patient tube or mask. Obstruction may result in inadequate ventilation.",
+    "keyPoints": [
+      "Виклик відкликань через можливу закупорку комплектів дихальних контурів.",
+      "Можливість недостатньої вентиляції при використанні.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "дихальні контури",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Виправлення щодо катетерних вводників: Abiomed та Oscor",
     "abstract": "Компанії Abiomed і Oscor повідомили про можливу витік у катетерних вводниках 14Fr і 23Fr, що може підвищити ризик кровотечі в місці доступу.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-correction-abiomed-and-oscor-issue-correction-catheter-introducer",
@@ -579,59 +631,6 @@
       "медичне обладнання",
       "безпека",
       "інфузійні насоси",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з комплектами Medical Action Industries",
-    "abstract": "У комплекті від Medical Action Industries виявлено можливість потрапляння частинок до кровотоку.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-medical-action-industries",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-12T06:14:00Z",
-    "updatedAt": "2026-07-12T06:14:00Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from Medical Action Industries",
-    "originalAbstract": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
-    "keyPoints": [
-      "Виявлено можливість потрапляння частинок у кров",
-      "Можливе засмічення кровоносних судин",
-      "Джерело — FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "безпека медичних виробів",
-      "комплекти",
-      "FDA",
-      "громадське здоровʼя"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Корекція щодо насосів для інфузій: Fresenius Kabi випустила оновлення для Ivenix",
-    "abstract": "Компанія Fresenius Kabi випустила оновлення для програмного забезпечення насосів Ivenix через можливий збої у визначенні стану батареї.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-ivenix-large-volume-infusion-pump",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-08T22:46:35Z",
-    "updatedAt": "2026-07-08T22:46:35Z",
-    "originalTitle": "Infusion Pump Correction: Fresenius Kabi Issues Correction for Ivenix Large Volume Infusion Pump",
-    "originalAbstract": "A software anomaly may cause a false battery-health value. The pump should remain plugged in at all times.",
-    "keyPoints": [
-      "Випуск оновлення для насосів Ivenix.",
-      "Можливий збої у визначенні стану батареї.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Насоси повинні залишатися підключеними до мережі під час використання.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфузійне обладнання",
-      "безпека обладнання",
       "FDA"
     ],
     "priorityScore": 8,
