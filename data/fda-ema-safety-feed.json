@@ -1,5 +1,61 @@
 [
   {
+    "title": "Відгук про глутатіон через підвищені рівні ендотоксинів",
+    "abstract": "Optimal Balance Pharmacy відкликає один лот глутатіону через виявлення підвищених рівнів ендотоксинів.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-20T15:58:05Z",
+    "updatedAt": "2026-08-20T15:58:05Z",
+    "originalTitle": "Optimal Balance Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026 – Houston, Texas, Optimal Balance Pharmacy is voluntarily recalling one lot of Compounded Glutathione 200 MG/ML 30 ML Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin levels.",
+    "keyPoints": [
+      "Дата відкликання: 19 серпня 2026 року",
+      "Продукт: глутатіон 200 мг/мл, 30 мл, багатократне застосування",
+      "Місце: Х'юстон, Техас"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "глутатіон",
+      "ендотоксини",
+      "фармація",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання розчину Excel® Lactated Ringers через частки у рідині",
+    "abstract": "Компанія B. Braun проводить добровільне відкликання одного лоту розчину через виявлення часток у рідині.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-north-american-recall-excelr-lactated-ringers-injection-1000ml",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-20T15:58:05Z",
+    "updatedAt": "2026-08-20T15:58:05Z",
+    "originalTitle": "B. Braun Medical Inc. Issues Voluntary North American Recall of Excel® Lactated Ringers Injection, 1000mL Due to the Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun), is voluntarily recalling one lot of Excel® Lactated Ringers Injection, 1000mL to the hospital/healthcare facility level, due to the presence of particulate matter in solution identified primarily as cellulose co",
+    "keyPoints": [
+      "Дата відкликання: 19 серпня 2026 року",
+      "Продукт: Excel® Lactated Ringers, 1000мл, один лот",
+      "Причина: наявність часток, ідентифікованих як целюлоза"
+    ],
+    "practicalTakeaway": "Матеріал фіксує оновлені показники за період відкликання.",
+    "specialty": "громадське здоровʼя",
+    "tags": [
+      "відкликання",
+      "лікарські засоби",
+      "частки у рідині",
+      "інфекційні хвороби",
+      "фармацевтика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання наборів для внутрішньовенного введення Baxter",
     "abstract": "Baxter відкликає набори Duo-Vent через можливість потрапляння повітря у пацієнта.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets",
@@ -268,33 +324,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Виправлення щодо апаратів Astral від Resmed",
-    "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-31T22:44:11Z",
-    "updatedAt": "2026-07-31T22:44:11Z",
-    "originalTitle": "Ventilator Correction: Resmed Issues Correction for Astral Ventilator",
-    "originalAbstract": "Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death.",
-    "keyPoints": [
-      "Модель Astral від Resmed, період невказаний",
-      "Можлива несправність електричного компонента",
-      "Можливий ризик переривання терапії"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "Resmed",
-      "Astral",
-      "технічна несправність",
-      "медичне обладнання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
     "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
@@ -316,6 +345,33 @@
       "комплекти",
       "тромбоз",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Виправлення щодо апаратів Astral від Resmed",
+    "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-07-31T22:44:11Z",
+    "updatedAt": "2026-07-31T22:44:11Z",
+    "originalTitle": "Ventilator Correction: Resmed Issues Correction for Astral Ventilator",
+    "originalAbstract": "Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death.",
+    "keyPoints": [
+      "Модель Astral від Resmed, період невказаний",
+      "Можлива несправність електричного компонента",
+      "Можливий ризик переривання терапії"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "Resmed",
+      "Astral",
+      "технічна несправність",
+      "медичне обладнання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -583,55 +639,6 @@
       "медичні пристрої",
       "відкликання",
       "катетер"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Early Alert: Convenience Kits Issue from Medline",
-    "abstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kits-issue-medline",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-12T06:14:00Z",
-    "updatedAt": "2026-07-12T06:14:00Z",
-    "originalTitle": "Early Alert: Convenience Kits Issue from Medline",
-    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "keyPoints": [],
-    "practicalTakeaway": "",
-    "specialty": "фармакотерапія",
-    "tags": [
-      "drug safety",
-      "pharmacovigilance",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": false,
-    "aiModel": ""
-  },
-  {
-    "title": "Виправлення для насосів Ivenix від Fresenius Kabi",
-    "abstract": "Компанія Fresenius Kabi випустила корекцію для насосів Ivenix великого об'єму через можливість відмови при падінні.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-correction-fresenius-kabi-issues-correction-dropped-or-jarred-ivenix-large-volume",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-08T22:46:35Z",
-    "updatedAt": "2026-07-08T22:46:35Z",
-    "originalTitle": "Infusion Pump Correction: Fresenius Kabi Issues Correction for dropped or jarred Ivenix Large Volume Infusion Pumps",
-    "originalAbstract": "If dropped, the Ivenix pump touchscreen may become unresponsive and should be removed from use.",
-    "keyPoints": [
-      "Випуск корекції для насосів Ivenix від Fresenius Kabi",
-      "Можливість несправності при падінні",
-      "Випробування та рекомендації від FDA"
-    ],
-    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній статистиці щодо безпеки медичного обладнання.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичне обладнання",
-      "безпека",
-      "інфузійні насоси",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
