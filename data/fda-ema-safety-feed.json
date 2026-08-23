@@ -1,5 +1,58 @@
 [
   {
+    "title": "Проблема з епідуральними комплектами від Medical Action Industries",
+    "abstract": "Компанія Medical Action Industries виправляє епідуральні комплекти з ампулами натрію хлориду, що підлягають відкликанню Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-23T22:00:11Z",
+    "updatedAt": "2026-08-23T22:00:11Z",
+    "originalTitle": "Early Alert: Epidural Kit Issue from Medical Action Industries",
+    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія Medical Action Industries виправляє комплекти.",
+      "Відкликання стосується ампул натрію хлориду Huons Co.",
+      "Інформація актуальна для медичних закладів."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "епідуральні комплекти",
+      "відкликання",
+      "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з програмним забезпеченням Portrait Core від GE Healthcare",
+    "abstract": "Під час оновлення Portrait Core Services можливе видалення пацієнтів з системи моніторингу Portrait.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-23T22:00:11Z",
+    "updatedAt": "2026-08-23T22:00:11Z",
+    "originalTitle": "Early Alert: Portrait Core Services Software Issue from GE HealthCare",
+    "originalAbstract": "Patients monitored on Portrait Mobile devices can be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+    "keyPoints": [
+      "Проблема стосується системи Portrait Core Services від GE Healthcare.",
+      "Можливе видалення пацієнтів з Portrait під час оновлення.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній ситуації щодо систем моніторингу.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "GE Healthcare",
+      "Portrait",
+      "медичне програмне забезпечення",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відгук про глутатіон через підвищені рівні ендотоксинів",
     "abstract": "Optimal Balance Pharmacy відкликає один лот глутатіону через виявлення підвищених рівнів ендотоксинів.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
@@ -214,34 +267,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання партії морфіну через помилку з етикеткою",
-    "abstract": "Fresenius Kabi проводить добровільний відкликання однієї партії розчину морфіну через неправильну етикетку.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-07T16:22:43Z",
-    "updatedAt": "2026-08-07T16:22:43Z",
-    "originalTitle": "Fresenius Kabi Issues Voluntary Nationwide Recall of One Lot of Morphine Sulfate Injection, USP in a Simplist® Prefilled Syringe Due to Labeling Mix-up",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – 8/4/2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is voluntarily recalling one lot of Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL due to a label mix-up. The MicroVault labeled as Morphine 2 mg/1 mL, may contain a Prefilled Syri",
-    "keyPoints": [
-      "Відкликання стосується однієї партії, дата 4/8/2026",
-      "Має місце помилка з етикеткою MicroVault і Simplist®",
-      "Партія містить 2 мг/1 мл морфіну"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "морфін",
-      "лікарські засоби",
-      "безпека",
-      "фармація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відгук Victory Medical Center Pharmacy щодо глутатіону через підвищені рівні ендотоксинів",
     "abstract": "Victory Medical Center Pharmacy проводить добровільний відклик ліків глутатіону через виявлення підвищених рівнів бактеріальних ендотоксинів.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
@@ -264,6 +289,34 @@
       "ендотоксини",
       "фармація",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання партії морфіну через помилку з етикеткою",
+    "abstract": "Fresenius Kabi проводить добровільний відкликання однієї партії розчину морфіну через неправильну етикетку.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-07T16:22:43Z",
+    "updatedAt": "2026-08-07T16:22:43Z",
+    "originalTitle": "Fresenius Kabi Issues Voluntary Nationwide Recall of One Lot of Morphine Sulfate Injection, USP in a Simplist® Prefilled Syringe Due to Labeling Mix-up",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – 8/4/2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is voluntarily recalling one lot of Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL due to a label mix-up. The MicroVault labeled as Morphine 2 mg/1 mL, may contain a Prefilled Syri",
+    "keyPoints": [
+      "Відкликання стосується однієї партії, дата 4/8/2026",
+      "Має місце помилка з етикеткою MicroVault і Simplist®",
+      "Партія містить 2 мг/1 мл морфіну"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "морфін",
+      "лікарські засоби",
+      "безпека",
+      "фармація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -586,59 +639,6 @@
       "частинки",
       "Baxter",
       "дексоза"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення щодо пристроїв позитивного тиску для дихання Baxter",
-    "abstract": "Baxter випустила корекцію для систем Volara через можливість витоку повітря і медикаментів під час терапії.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/positive-pressure-breathing-device-correction-baxter-issues-correction-volera-positive-pressure",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-15T11:14:40Z",
-    "updatedAt": "2026-07-15T11:14:40Z",
-    "originalTitle": "Positive Pressure Breathing Device Correction: Baxter Issues Correction for Volera Positive Pressure Breathing Devices",
-    "originalAbstract": "Volara system patient circuits may leak air and medication from the nebulizer cup during therapy, leading to reduced oxygenation and ineffective nebulization.",
-    "keyPoints": [
-      "Можливий витік повітря і медикаментів у системах Volara",
-      "Витік може зменшувати кисеньнацію і ефективність небулайзера",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "Baxter",
-      "Volara",
-      "дихальна терапія",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відклик системи доставки катетера для легень Medtronic Harmony DCS",
-    "abstract": "Компанія Medtronic відкликає певні партії системи доставки катетера Harmony через можливість відокремлення кінця.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/pulmonary-valve-catheter-delivery-system-recall-medtronic-removes-harmony-delivery-catheter-system",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-15T11:14:40Z",
-    "updatedAt": "2026-07-15T11:14:40Z",
-    "originalTitle": "Pulmonary Valve Catheter Delivery System Recall: Medtronic Removes Harmony Delivery Catheter System (DCS)",
-    "originalAbstract": "The distal tip in certain lots of the Medtronic Harmony Delivery Catheter System (DCS) may detach which can require endovascular retrieval or surgical intervention.",
-    "keyPoints": [
-      "Відкликано системи Harmony DCS через можливість відокремлення кінця.",
-      "Можливе потребування ендоваскулярного або хірургічного втручання.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Важливо враховувати інформацію про відкликання медичних виробів при їх використанні.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні пристрої",
-      "відкликання",
-      "катетер"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
