@@ -1,5 +1,83 @@
 [
   {
+    "title": "Трансдермальна електрична стимуляція нервів (ТЕНС) при хронічному болю в шиї",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка ефективності та безпеки трансдермальної електричної стимуляції нервів (ТЕНС), застосовуваної самостійно або у поєднанні з іншими методами, порівняно з імітацією ТЕНС, плацебо, відсутністю лікування або іншими клінічними втручаннями у дорослих з хронічним болем у шиї.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016383/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-24T00:00:00Z",
+    "updatedAt": "2026-08-25T10:05:55Z",
+    "originalTitle": "Transcutaneous electrical nerve stimulation (TENS) for chronic neck pain.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of transcutaneous electrical nerve stimulation (TENS), used alone or as an adjunct to other interventions, compared with sham TENS, placebo, no treatment, or other clinical interventions in adults with chronic neck pain.",
+    "keyPoints": [
+      "Огляд досліджень щодо ТЕНС при хронічному болю в шиї.",
+      "Мета — оцінити користь і ризики застосування ТЕНС.",
+      "Застосування у дорослих з хронічним болем у шиї."
+    ],
+    "practicalTakeaway": "Огляд спрямований на визначення ефективності та безпеки ТЕНС для лікування хронічного болю в шиї.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "хронічний біль",
+      "ТЕНС",
+      "огляд"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Синтетичні проти біологічних матеріалів для каротидної ендартеректомії",
+    "abstract": "Каротидна ендартеректомія з використанням пластики є поширеною хірургічною процедурою для зниження ризику інсульту у пацієнтів з стенозом сонної артерії. Вибір матеріалу для пластики включає біологічні, такі як аутовена або бовеновий перикард, та синтетичні, наприклад, поліфторвінілхлорид (PTFE), Dacron, поліуретан і поліестер. Огляд оновлює дослідження, проведені за останні 30 років.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000071.pub5/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-24T00:00:00Z",
+    "updatedAt": "2026-08-25T10:05:55Z",
+    "originalTitle": "Synthetic versus biological patches for carotid endarterectomy.",
+    "originalAbstract": "Extracranial carotid artery stenosis is a major cause of stroke. Carotid endarterectomy with patch angioplasty is a widely used surgical technique to reduce the risk of stroke in people with carotid stenosis. Patch materials include biological materials, like autologous vein or bovine pericardium, and synthetic materials, such as polytetrafluoroethylene (PTFE), Dacron, polyurethane, and polyester. This review is an update of one first published 30 years ago and last updated in 2021, and it has b…",
+    "keyPoints": [
+      "Розглядаються різні матеріали для пластики у каротидній ендартеректомії.",
+      "Обговорюється потенційна ефективність синтетичних та біологічних матеріалів.",
+      "Дослідження оновлює попередні дані за останні 30 років."
+    ],
+    "practicalTakeaway": "Вибір матеріалу для пластики у каротидній ендартеректомії залежить від конкретних клінічних обставин та доступності матеріалів.",
+    "specialty": "хірургія",
+    "tags": [
+      "кардіологія",
+      "доказова медицина",
+      "хірургія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Заходи профілактики денге: огляд картографування досліджень",
+    "abstract": "Денге залишається глобальною проблемою охорони здоров'я, особливо у країнах з низьким та середнім рівнем доходу. Незважаючи на зростання кількості досліджень щодо профілактики, існує потреба у структурованій карті, що об'єднує первинні дослідження та систематичні огляди. Така карта допоможе краще зрозуміти обсяг та якість існуючих знань.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016299.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-24T00:00:00Z",
+    "updatedAt": "2026-08-25T10:05:55Z",
+    "originalTitle": "Interventions for preventing dengue: a mapping review.",
+    "originalAbstract": "Dengue remains a pressing global health challenge, particularly in low- and middle-income countries (LMIC). Despite a growing volume of research on prevention strategies, there is a notable lack of consolidated, high-level research capturing the full scope of existing knowledge. The current evidence landscape is fragmented, with studies varying widely in design, focus, and quality. A structured map that includes both primary studies and systematic reviews is urgently needed. Such evidence and ga…",
+    "keyPoints": [
+      "Дослідження показують фрагментарність даних щодо профілактики денге.",
+      "Потреба у структурованій карті досліджень для узагальнення знань.",
+      "Значущість систематичних оглядів для формування профілактичних стратегій."
+    ],
+    "practicalTakeaway": "Створення структурованої карти досліджень допоможе краще орієнтуватися у наявних знаннях щодо профілактики денге.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "профілактика",
+      "дослідження"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Тренування з інтерфейсом мозок-комп'ютер для відновлення рухів після інсульту",
     "abstract": "Мета дослідження — оцінити ефективність тренувань з інтерфейсом мозок-комп'ютер для відновлення моторики у пацієнтів після інсульту. Враховуючи поширеність порушень руху після інсульту, дослідження аналізує потенціал цієї нейрореабілітаційної технології, яка використовує зворотний зв'язок для стимулювання нейропластичності.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015065.pub2/full",
@@ -176,84 +254,6 @@
       "ракові захворювання",
       "лікування раку",
       "імунна терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Підшкірне імуноглобулін для хронічного запального демієлінізуючого полірадикулоневриту",
-    "abstract": "Дослідження аналізує можливість застосування підшкірного імуноглобуліну як альтернативи внутрішньовенному для лікування CIDP, хронічного імуномедійованого невропатичного захворювання, що викликає слабкість та сенсорні порушення. Вивчено потенційні переваги підшкірного введення, такі як зручність та покращення якості життя пацієнтів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014542.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-11T00:00:00Z",
-    "updatedAt": "2026-08-18T04:00:10Z",
-    "originalTitle": "Subcutaneous immunoglobulin for chronic inflammatory demyelinating polyradiculoneuropathy.",
-    "originalAbstract": "Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) is a heterogeneous immune-mediated neuropathy that causes weakness and sensory deficits over the course of at least two months. Intravenous immunoglobulin (IVIg) is considered a first-line treatment in CIDP, both as induction and maintenance treatment. Subcutaneous immunoglobulin (SCIg) may present a viable alternative, offering potential advantages such as ease of use, participant preference, improved health-related quality of lif…",
-    "keyPoints": [
-      "Підшкірне імуноглобулін може бути альтернативою внутрішньовенному при CIDP.",
-      "Може забезпечити зручність та переваги для пацієнтів.",
-      "Дослідження оцінює потенційні переваги та безпеку застосування."
-    ],
-    "practicalTakeaway": "Розглядається можливість застосування підшкірного імуноглобуліну для лікування CIDP як зручна альтернатива внутрішньовенним методам.",
-    "specialty": "неврологія",
-    "tags": [
-      "імунологія",
-      "хірургія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Терапія ковтання при дисфагії у пацієнтів з гострим та підгострим інсультом",
-    "abstract": "Дисфагія після інсульту підвищує ризик смерті, проте ефективність терапевтичних підходів залишається недостатньо вивченою. Це оновлення дослідження 2018 року аналізує вплив терапій для покращення ковтання у пацієнтів з дисфагією протягом шести місяців після інсульту.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000323.pub4/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-10T00:00:00Z",
-    "updatedAt": "2026-08-11T10:33:46Z",
-    "originalTitle": "Swallowing therapy for dysphagia in acute and subacute stroke.",
-    "originalAbstract": "Post-stroke dysphagia ((PSD) impaired swallowing following stroke), increases risk of death, yet the effects of potential treatments are unclear. This review updates the 2018 review. To assess the effects of swallowing therapies on swallowing impairment (SI) among stroke survivors with dysphagia, within six months of stroke onset. We searched MEDLINE, Embase, OVID, three other databases and trials registries on 31 July 2025. Randomised controlled trials (RCTs) that compared interventions for PSD…",
-    "keyPoints": [
-      "Дослідження аналізує ефективність терапій для дисфагії у пацієнтів з інсультом.",
-      "Вивчено рандомізовані контрольовані дослідження, проведені до 31 липня 2025 року.",
-      "Результати допомагають оцінити вплив терапій на покращення ковтання у цей період."
-    ],
-    "practicalTakeaway": "Оновлений аналіз свідчить про необхідність подальших досліджень щодо терапій для дисфагії після інсульту.",
-    "specialty": "неврологія",
-    "tags": [
-      "інсульт",
-      "дисфагія",
-      "терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Глюкагонподібний пептид-1 рецепторні агонисти проти метформіну для запобігання серцево-судинних ускладнень у дорослих з цукровим діабетом типу 2",
-    "abstract": "Це протокол для огляду Cochrane, що оцінює клінічні переваги та побічні ефекти глюкагонподібних пептид-1 рецепторних агонистів у порівнянні з метформіном для запобігання серцево-судинних подій у дорослих з цукровим діабетом типу 2.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016380/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-10T00:00:00Z",
-    "updatedAt": "2026-08-11T10:33:46Z",
-    "originalTitle": "Glucagon-like peptide-1 receptor agonist-based regimens compared with metformin-based regimens for preventing cardiovascular disease in adults with type 2 diabetes mellitus.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the clinical benefits and adverse effects of glucagon-like peptide-1 receptor agonist-based regimens, compared with metformin-based glucose-lowering regimens, for preventing cardiovascular events including all-cause mortality, cardiovascular mortality, non-fatal myocardial infarction, non-fatal stroke, and metabolic adverse events (including transient hypoglycemia) in adults with type 2 diabetes mel…",
-    "keyPoints": [
-      "Огляд порівнює глюкагонподібні пептид-1 рецепторні агонисти та метформін.",
-      "Мета — оцінити вплив на серцево-судинні події та смертність.",
-      "Результати допоможуть визначити ефективність та безпеку препаратів."
-    ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення переваг та ризиків застосування глюкагонподібних пептид-1 рецепторних агонистів у порівнянні з метформіном для профілактики серцево-судинних ускладнень у пацієнтів з цукровим діабетом типу 2.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "цукровий діабет",
-      "серцево-судинні захворювання",
-      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
