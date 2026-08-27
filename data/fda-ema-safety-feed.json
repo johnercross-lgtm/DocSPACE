@@ -1,25 +1,53 @@
 [
   {
-    "title": "Проблема з епідуральними комплектами від Medical Action Industries",
-    "abstract": "Компанія Medical Action Industries виправляє епідуральні комплекти з ампулами натрію хлориду, що підлягають відкликанню Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
+    "title": "Вакцина Baxter відкликає дві партії розчину NaCl через можливе забруднення",
+    "abstract": "Компанія Baxter добровільно відкликає дві партії розчину 0,9% NaCl через можливе виявлення частинок скловолокна.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-08-23T22:00:11Z",
-    "updatedAt": "2026-08-23T22:00:11Z",
-    "originalTitle": "Early Alert: Epidural Kit Issue from Medical Action Industries",
-    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+    "publishedAt": "2026-08-27T14:16:46Z",
+    "updatedAt": "2026-08-27T14:16:46Z",
+    "originalTitle": "Baxter Issues Voluntary Nationwide Recall for Two Lots of 0.9% Sodium Chloride Injection Due to Potential Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling two lots of 0.9% Sodium Chloride Injection due to the potential presence of particulate matter identified as fiberglass in the solution.",
     "keyPoints": [
-      "Компанія Medical Action Industries виправляє комплекти.",
-      "Відкликання стосується ампул натрію хлориду Huons Co.",
-      "Інформація актуальна для медичних закладів."
+      "Дата відкликання: 25 серпня 2026 року",
+      "Партії: дві, з можливим забрудненням",
+      "Джерело: FDA"
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "епідуральні комплекти",
       "відкликання",
-      "медична безпека"
+      "NaCl",
+      "забруднення",
+      "фармацевтика",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
+    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-27T14:16:46Z",
+    "updatedAt": "2026-08-27T14:16:46Z",
+    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+    "keyPoints": [
+      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
+      "Можливе відокремлення кінчика під час застосування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетер",
+      "безпека",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -47,6 +75,32 @@
       "Portrait",
       "медичне програмне забезпечення",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з епідуральними комплектами від Medical Action Industries",
+    "abstract": "Компанія Medical Action Industries виправляє епідуральні комплекти з ампулами натрію хлориду, що підлягають відкликанню Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-23T22:00:11Z",
+    "updatedAt": "2026-08-23T22:00:11Z",
+    "originalTitle": "Early Alert: Epidural Kit Issue from Medical Action Industries",
+    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія Medical Action Industries виправляє комплекти.",
+      "Відкликання стосується ампул натрію хлориду Huons Co.",
+      "Інформація актуальна для медичних закладів."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "епідуральні комплекти",
+      "відкликання",
+      "медична безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -585,60 +639,6 @@
       "інфузійні системи",
       "Baxter",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання торако-стент-графтів Bolton Medical",
-    "abstract": "Компанія Bolton Medical відкликає систему Relay Pro через можливі проблеми з від'єднанням. Це може призвести до необхідності відкритої хірургії та ускладнень, включаючи смерть пацієнта.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/thoracic-stent-graft-recall-bolton-medical-removes-relay-pro-system",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-18T16:25:46Z",
-    "updatedAt": "2026-07-18T16:25:46Z",
-    "originalTitle": "Thoracic Stent Graft Recall: Bolton Medical Removes Relay Pro System",
-    "originalAbstract": "Affected grafts may not unclasp from the delivery system. This may require conversion to open surgical repair and can result in patient death.",
-    "keyPoints": [
-      "Відкликання системи Relay Pro від Bolton Medical.",
-      "Можливість несправності — незакріплення від системи доставки.",
-      "Може знадобитися відкритий хірургічний ремонт."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки медичних виробів.",
-    "specialty": "хірургія",
-    "tags": [
-      "відкликання",
-      "стент-графти",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук Baxter щодо цефазоліну в розчині дексози",
-    "abstract": "Baxter оголосила про добровільний відгук партії цефазоліну через частинки у розчині.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-cefazolin-dextrose-injection-usp-2g-100ml-20mg-ml-single",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-28T11:44:52Z",
-    "updatedAt": "2026-07-28T11:44:52Z",
-    "originalTitle": "BAXTER ISSUES VOLUNTARY NATIONWIDE RECALL OF CEFAZOLIN IN DEXTROSE INJECTION, USP, 2G / 100ML (20MG / ML) SINGLE-DOSE INFUSION BAG IN 100ML DUE TO PARTICULATE MATTER FOUND IN SOLUTION",
-    "originalAbstract": "July 24, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling Lot LD175708, Exp 14-Feb 2027 of Cefazolin in Dextrose Injection due to a report of particulate matter found in the solution identified as cardboard. Risk Statement: The use of the defective product has a",
-    "keyPoints": [
-      "Відгук стосується партії LD175708, термін придатності 14-02-2027.",
-      "Знайдені частинки у розчині, ідентифіковані як картон.",
-      "Відгук стосується продукту в США, дата оголошення — 24 липня 2026."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "цефазолін",
-      "частинки",
-      "Baxter",
-      "дексоза"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
