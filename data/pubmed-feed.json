@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42659649",
+    "title": "Додаток: управління м'язово-скелетним болем у літніх через цифрове рішення: вторинний аналіз дослідження",
+    "journal": "JMIR rehabilitation and assistive technologies",
+    "publishedAt": "2026-08-27T00:00:00Z",
+    "abstract": "Ця публікація є доповненням до дослідження, що аналізує застосування цифрового рішення для управління м'язово-скелетним болем у літніх пацієнтів. Вона виправляє DOI статті 10.2196/49673.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659649/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-28T05:50:01Z",
+    "originalTitle": "Addendum: Managing Musculoskeletal Pain in Older Adults Through a Digital Care Solution: Secondary Analysis of a Prospective Clinical Study.",
+    "originalAbstract": "[This corrects the article DOI: 10.2196/49673.].",
+    "keyPoints": [
+      "Аналізовано застосування цифрових технологій для зменшення м'язово-скелетного болю у літніх.",
+      "Дослідження базується на вторинному аналізі проспективного клінічного дослідження.",
+      "Результати мають значення для розвитку цифрових підходів у реабілітації літніх пацієнтів."
+    ],
+    "practicalTakeaway": "Цифрові рішення можуть бути корисними для управління м'язово-скелетним болем у літніх.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "цифрові технології",
+      "літні пацієнти",
+      "м'язово-скелетний біль"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42659648",
+    "title": "Вплив цифрових програм на депресію та працездатність при м'язово-скелетних захворюваннях: довгострокове дослідження",
+    "journal": "Journal of medical Internet research",
+    "publishedAt": "2026-08-27T00:00:00Z",
+    "abstract": "Ця публікація уточнює результати дослідження, яке аналізує вплив цифрових програм для лікування м'язово-скелетних захворювань на рівень депресії та працездатність. Вивчення проводилось у довгостроковій перспективі.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659648/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-28T05:50:01Z",
+    "originalTitle": "Addendum: Impacts of Digital Care Programs for Musculoskeletal Conditions on Depression and Work Productivity: Longitudinal Cohort Study.",
+    "originalAbstract": "[This corrects the article DOI: 10.2196/38942.].",
+    "keyPoints": [
+      "Дослідження оцінює вплив цифрових програм на психічний стан і працездатність.",
+      "Результати базуються на довгостроковому спостереженні.",
+      "Значення для розвитку цифрових підходів у реабілітації м'язово-скелетних захворювань."
+    ],
+    "practicalTakeaway": "Цифрові програми можуть мати позитивний вплив на психічне здоров'я та працездатність пацієнтів із м'язово-скелетними захворюваннями.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "цифрові технології",
+      "м'язово-скелетні захворювання",
+      "психічне здоров'я"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42659647",
+    "title": "Додаток: Важливість відповідності раси та статі між пацієнтами і фізіотерапевтами у цифровій реабілітації м'язово-скелетних захворювань: спостережне дослідження",
+    "journal": "Journal of medical Internet research",
+    "publishedAt": "2026-08-27T00:00:00Z",
+    "abstract": "Ця публікація уточнює попередню статтю щодо ролі відповідності раси і статі між пацієнтами та фізіотерапевтами у цифровій реабілітації для м'язово-скелетних захворювань. Вона базується на спостережному, довгостроковому дослідженні.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659647/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-08-28T05:50:01Z",
+    "originalTitle": "Addendum: Exploring the Importance of Race and Gender Concordance Between Patients and Physical Therapists in Digital Rehabilitation for Musculoskeletal Conditions: Observational, Longitudinal Study.",
+    "originalAbstract": "[This corrects the article DOI: 10.2196/65354.].",
+    "keyPoints": [
+      "Розглядається вплив відповідності раси і статі на результати цифрової реабілітації.",
+      "Дослідження є спостережним і довгостроковим.",
+      "Виправляє попередню публікацію з DOI 10.2196/65354."
+    ],
+    "practicalTakeaway": "Результати дослідження можуть впливати на підходи до персоналізації цифрової реабілітації.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "цифрова медицина",
+      "реабілітація",
+      "соціальні фактори"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42640271",
     "title": "Досвід системних дефіцитів у системі охорони здоров'я під час SARS-CoV-2: швидкий опитування медичних помічників в Ірландії",
     "journal": "Irish medical journal",
@@ -192,90 +276,6 @@
       "кардіохірургія"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42617160",
-    "title": "Форенсична нейропсихологія у кримінальному контексті: основи, додаткова валідність та застосування до оцінки кримінальної відповідальності",
-    "journal": "Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "abstract": "Дослідження аналізує роль форенсичної нейропсихології у кримінальних оцінках, підкреслюючи важливість спеціалізованих знань для розвитку цієї галузі. Вивчено потенціал додаткової валідності нейропсихологічних оцінок у визначенні кримінальної відповідальності.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42617160/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-19T22:02:54Z",
-    "originalTitle": "Forensic neuropsychology in criminal contexts: foundations, incremental validity, and applications to criminal responsibility evaluations.",
-    "originalAbstract": "The subspecialty of forensic neuropsychology has expanded considerably over the past two decades, along with increasing involvement of neuropsychological assessment in criminal forensic evaluations. Despite this growth, the role of neuropsychology in criminal responsibility (CR) evaluations remains underexamined. This paper (a) outlines the foundational importance of specialized knowledge in forensic neuropsychology as a basis for subspecialty development; (b) examines the potential incremental ",
-    "keyPoints": [
-      "Розвиток форенсичної нейропсихології за останні 20 років.",
-      "Важливість спеціалізованих знань для оцінки кримінальної відповідальності.",
-      "Можливості нейропсихологічних оцінок у кримінальних розслідуваннях."
-    ],
-    "practicalTakeaway": "Застосування нейропсихологічних оцінок у кримінальних справах потребує врахування їхньої додаткової валідності.",
-    "specialty": "неврологія",
-    "tags": [
-      "доказова медицина",
-      "юриспруденція",
-      "нейропсихологія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42617159",
-    "title": "Використання позасудинного видалення вуглекислого газу у комбінації з інгаляційним оксидом азоту при гострому респіраторному дистрес-синдромі з активним кровотечею з дихальних шляхів: клінічний випадок",
-    "journal": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
-    "publishedAt": "2026-08-19T00:00:00Z",
-    "abstract": "Описано випадок застосування низькопоточного позасудинного видалення вуглекислого газу (ECCO2R) у пацієнта з гострим респіраторним дистрес-синдромом (ARDS) та активним кровотечею з дихальних шляхів. Пацієнт, 68 років, із метастатичним раком легень, ускладненим імунною реакцією та ураженням легень, отримав інтубацію та комбіновану терапію для покращення газообміну.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42617159/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-19T22:02:54Z",
-    "originalTitle": "Extracorporeal Carbon Dioxide Removal Combined With Inhaled Nitric Oxide for Hypercapnic Acute Respiratory Distress Syndrome With Active Airway Hemorrhage: A Case Report.",
-    "originalAbstract": "Low-flow extracorporeal carbon dioxide removal (ECCO2R) may be useful when severe hypercapnia limits ultra-protective ventilation but full venovenous extracorporeal membrane oxygenation (VV-ECMO) is not pursued. We describe a 68 year old man with metastatic lung adenocarcinoma who developed amivantamab-associated immune-related interstitial lung disease complicated by acute respiratory distress syndrome (ARDS) and active airway hemorrhage. After endotracheal intubation, the dominant physiologic ",
-    "keyPoints": [
-      "Використання ECCO2R може бути корисним при тяжкому гіперкапію, коли не доцільно застосовувати повну екстракорпоральну мембранну кисеньову терапію.",
-      "Комбінована терапія з інгаляційним оксидом азоту може допомогти у випадках з активним кровотечею з дихальних шляхів.",
-      "Даний клінічний випадок демонструє можливості застосування таких методів у складних ситуаціях ARDS."
-    ],
-    "practicalTakeaway": "У випадках тяжкого ARDS з активним кровотечею застосування ECCO2R у комбінації з інгаляційним оксидом азоту може бути розглянуто як альтернативний підхід.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "доказова медицина",
-      "інтенсивна терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42604861",
-    "title": "Стереодивергентний синтез C5-α-заміщених похідних лінезоліду з D-маннітолу та їх антимікробна активність",
-    "journal": "Chirality",
-    "publishedAt": "2026-09-01T00:00:00Z",
-    "abstract": "Розроблено стереодивергентну синтетичну стратегію для отримання енантіопурних C5-α-заміщених аналогів лінезоліду з використанням D-маннітолу як дешевої хіральної сировини. Метод дозволяє контролювати конфігурацію похідних, що містять етіль або фенільні групи на α-замісці бокової ланцюга C5, вводячи другий стереогенний центр з високим діастерео-контролем. Основні етапи включають високоспецифічні нуклеофільні додавання органічних нуклеофілів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42604861/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-17T04:05:04Z",
-    "originalTitle": "Stereodivergent Synthesis of C5-α-Substituted Linezolid Derivatives From D-Mannitol and Structure-Antibacterial Activity Evaluation.",
-    "originalAbstract": "A stereodivergent synthetic strategy enabling access to enantiopure C5-α-substituted linezolid analogues has been developed from D-mannitol as an inexpensive chiral pool precursor. The approach provides controlled access to both syn- and anti-configured derivatives bearing ethyl or phenyl substituents at the α-position of the C5 acetamidomethyl side chain, thereby introducing a second stereogenic center with high diastereocontrol. Key steps include highly selective nucleophilic additions of orga",
-    "keyPoints": [
-      "Розроблено новий синтетичний підхід до похідних лінезоліду.",
-      "Можливість отримання різних стереоізомерів з високим контролем.",
-      "Досліджено антимікробну активність отриманих сполук."
-    ],
-    "practicalTakeaway": "Цей метод відкриває перспективи для створення нових антимікробних препаратів на основі похідних лінезоліду.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "синтез",
-      "антибіотики",
-      "стереохімія"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
