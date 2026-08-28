@@ -1,5 +1,83 @@
 [
   {
+    "title": "Фізичні вправи для підвищення кардіореспіраторної підготовки у людей з травмою хребта",
+    "abstract": "Дослідження оцінює короткостроковий вплив фізичних вправ (до 6 тижнів) на кардіореспіраторну підготовку у людей з травмою хребта, порівняно з відсутністю втручань. Аналіз включає дані з кількох баз даних до 9 грудня 2025 року.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014476.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-28T00:00:00Z",
+    "updatedAt": "2026-08-28T20:59:10Z",
+    "originalTitle": "Physical exercise training to increase cardiorespiratory fitness in people with spinal cord injury.",
+    "originalAbstract": "Cardiorespiratory fitness (CRF) is a key determinant of health, independence, and quality of life for people with spinal cord injury (SCI). It is therefore important to know whether, and to what extent, physical exercise training increases CRF in people with SCI. To assess the short- ( 6 weeks) effects (benefits and harms) of physical exercise training for improving CRF compared with no intervention in people with SCI. We searched CENTRAL, MEDLINE and three other databases to 9 December 2025, an…",
+    "keyPoints": [
+      "Фізичні вправи можуть покращувати кардіореспіраторну підготовку у людей з травмою хребта.",
+      "Дослідження охоплює короткостроковий період до 6 тижнів.",
+      "Результати допомагають оцінити користь та можливі ризики фізичних тренувань."
+    ],
+    "practicalTakeaway": "Короткострокові фізичні тренування можуть сприяти підвищенню кардіореспіраторної підготовки у людей з травмою хребта.",
+    "specialty": "неврологія",
+    "tags": [
+      "реабілітація",
+      "фізична активність",
+      "травма хребта"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Заходи щодо ліквідації метицилін-резистентного стафілокока у пацієнтів із муковісцидозом",
+    "abstract": "Муковісцидоз — генетичне захворювання, що супроводжується частими пневмоніями з резистентними бактеріями, що погіршує функцію легень і сприяє ранній смерті. Метицилін-резистний стафілокок (MRSA) є важким інфекційним агентом у госпітальних умовах і негативно впливає на пацієнтів із муковісцидозом. Хронічна інфекція MRSA може спричиняти швидше погіршення стану легень у цих пацієнтів. Відсутня чітка доказова база щодо ефективності заходів з ліквідації MRSA.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009650.pub6/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-27T00:00:00Z",
+    "updatedAt": "2026-08-28T20:59:10Z",
+    "originalTitle": "Interventions for the eradication of meticillin-resistant Staphylococcus aureus (MRSA) in people with cystic fibrosis.",
+    "originalAbstract": "Cystic fibrosis (CF) is a genetic disorder characterised by recurrent and persistent pulmonary infections from resistant organisms, resulting in deterioration of lung function and early mortality. Meticillin-resistant Staphylococcus aureus (MRSA) is an important infection in hospital patients and harmful to people with CF (pwCF). Chronic pulmonary MRSA infection may confer a worse clinical outcome on pwCF and result in a faster decline in lung function. Robust evidence clearly guiding MRSA eradi…",
+    "keyPoints": [
+      "Виявлення та ліквідація MRSA важливі для пацієнтів із муковісцидозом.",
+      "Хронічна MRSA-інфекція може погіршувати прогноз стану легень.",
+      "Доказова база щодо ефективності заходів ще недостатня."
+    ],
+    "practicalTakeaway": "Необхідно проводити дослідження щодо ефективності заходів з ліквідації MRSA у пацієнтів із муковісцидозом.",
+    "specialty": "педіатрія",
+    "tags": [
+      "інфекційні хвороби",
+      "муковісцидоз",
+      "MRSA"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Що означає Cochrane сьогодні",
+    "abstract": "Ця публікація аналізує сучасне значення та роль Cochrane у сфері доказової медицини, зосереджуючись на її внеску у систематизацію та поширення високоякісних клінічних досліджень.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.ED000179/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-27T00:00:00Z",
+    "updatedAt": "2026-08-28T20:59:10Z",
+    "originalTitle": "What Cochrane means now.",
+    "originalAbstract": "",
+    "keyPoints": [
+      "Cochrane продовжує бути ключовим гравцем у сфері доказової медицини.",
+      "Організація сприяє поширенню систематичних оглядів та рекомендацій.",
+      "Її діяльність впливає на формування клінічних практик та політик охорони здоровʼя."
+    ],
+    "practicalTakeaway": "Cochrane залишається важливим джерелом високоякісної інформації для медичних фахівців.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "доказова медицина",
+      "інформація",
+      "Cochrane"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Трансдермальна електрична стимуляція нервів (ТЕНС) при хронічному болю в шиї",
     "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка ефективності та безпеки трансдермальної електричної стимуляції нервів (ТЕНС), застосовуваної самостійно або у поєднанні з іншими методами, порівняно з імітацією ТЕНС, плацебо, відсутністю лікування або іншими клінічними втручаннями у дорослих з хронічним болем у шиї.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016383/full",
@@ -176,84 +254,6 @@
       "онкологія",
       "хіміотерапія",
       "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Фізична активність для управління ожирінням у підлітків віком 10-19 років",
-    "abstract": "Обґрунтовано, що ожиріння є глобальною проблемою здоровʼя, що сприяє розвитку неінфекційних захворювань. У підлітків рівень ожиріння зростає швидкими темпами. Хоча існують систематичні огляди щодо ролі фізичної активності у контролі ожиріння у цій віковій групі, у дослідженнях є недоліки, зокрема у повноті звітності та стандартизації оцінки доказовості.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015987/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-13T00:00:00Z",
-    "updatedAt": "2026-08-14T22:01:14Z",
-    "originalTitle": "Physical activity for the management of obesity in adolescents aged 10 to 19 years.",
-    "originalAbstract": "Obesity is a global public health issue and a major contributor to non-communicable diseases. In recent decades, the prevalence of obesity in adolescents has risen at an alarming rate. Although several systematic reviews have evaluated the effects of physical activity for the management of obesity in adolescents, key limitations remain in the literature, particularly in reporting completeness and the lack of standardised assessments of the certainty of evidence. To synthesise evidence on the ben…",
-    "keyPoints": [
-      "Обґрунтовано важливість фізичної активності у управлінні ожирінням у підлітків.",
-      "Дослідження мають недоліки у звітності та стандартизації доказів.",
-      "Потреба у подальших дослідженнях для підтвердження ефективності."
-    ],
-    "practicalTakeaway": "Необхідно враховувати обмеження існуючих досліджень при застосуванні фізичної активності для управління ожирінням у підлітків.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "фізична активність",
-      "ожиріння",
-      "підлітки"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Культури для людських ембріонів перед імплантацією у циклах допоміжних репродуктивних технологій",
-    "abstract": "Дослідження аналізує різні культури для розвитку людських ембріонів перед імплантацією у циклах допоміжних репродуктивних технологій, таких як IVF та ICSI. Вивчено їх вплив на успішність процедур та можливі побічні ефекти.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007876.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-12T00:00:00Z",
-    "updatedAt": "2026-08-14T22:01:14Z",
-    "originalTitle": "Culture media for human pre-implantation embryos in assisted reproductive technology cycles.",
-    "originalAbstract": "Numerous media are commercially available for culture of human pre-implantation embryos in assisted reproductive technology (ART) cycles. It is unknown which culture medium leads to the best success rates after ART. This is the first update of a Cochrane review published in 2015. To evaluate the benefits and harms of different human pre-implantation embryo culture media used for in vitro fertilization (IVF) and intracytoplasmic sperm injection (ICSI) cycles, including intracytoplasmic morphologi…",
-    "keyPoints": [
-      "Різні культури використовуються для розвитку ембріонів перед імплантацією.",
-      "Немає однозначних даних щодо найефективнішої культури.",
-      "Дослідження оновлює попередній аналіз 2015 року."
-    ],
-    "practicalTakeaway": "Обирати культуру ембріонів слід з урахуванням індивідуальних особливостей та клінічної ситуації.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "репродуктологія",
-      "екстракорпоральне запліднення",
-      "ембріологія"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Первинне системне лікування при поширеному малоклітинному раку легень: аналіз мережі досліджень",
-    "abstract": "Малоклітинний рак легень у поширеній стадії має поганий прогноз і обмежені терапевтичні можливості. Додавання імунних чекпойнт-інгібіторів до хіміотерапії з платиновими препаратами є важливою стратегією першої лінії лікування. Однак порівняльна ефективність та шкода різних схем залишається невизначеною.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015738.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-11T00:00:00Z",
-    "updatedAt": "2026-08-14T22:01:14Z",
-    "originalTitle": "First-line systemic treatment for people with extensive-stage small cell lung cancer: a network meta-analysis.",
-    "originalAbstract": "Extensive-stage small cell lung cancer (SCLC) carries a poor prognosis and has limited therapeutic options. The addition of immune-checkpoint inhibitors (ICIs) to platinum-etoposide (PE) chemotherapy has become an important first-line treatment strategy. However, the comparative benefits and harms of different first-line chemotherapy-based regimens, including ICI-containing combinations, remain unclear. To evaluate the comparative benefits and harms of immunotherapy (anti-PD-1, anti-PD-L1, or an…",
-    "keyPoints": [
-      "Досліджено різні комбінації імунної терапії з хіміотерапією при поширеному раку легень.",
-      "Виявлено невизначеність щодо переваг і ризиків окремих схем лікування.",
-      "Потреба у подальших дослідженнях для визначення оптимальної терапії."
-    ],
-    "practicalTakeaway": "Результати дослідження підкреслюють необхідність індивідуального підходу до вибору терапії при поширеному раку легень.",
-    "specialty": "онкологія",
-    "tags": [
-      "ракові захворювання",
-      "лікування раку",
-      "імунна терапія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
