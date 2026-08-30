@@ -1,5 +1,59 @@
 [
   {
+    "title": "Проблема з наборами для внутрішньовенних інфузій від Avid Medical",
+    "abstract": "Avid Medical відкликає деякі набори через можливе забруднення Aspergillus penicillioides.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-30T23:56:15Z",
+    "updatedAt": "2026-08-30T23:56:15Z",
+    "originalTitle": "Early Alert: IV Start Kit Issue from Avid Medical",
+    "originalAbstract": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+    "keyPoints": [
+      "Відкликання наборів від Avid Medical через можливе забруднення.",
+      "Забруднення пов'язане з застосуванням BD ChloraPrep Applicator.",
+      "Матеріал допомагає орієнтуватися в актуальній статистиці."
+    ],
+    "practicalTakeaway": "Інформація може бути використана для моніторингу епідситуації.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекція",
+      "відкликання",
+      "медичні набори"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання розчину натрію хлориду B. Braun через частки",
+    "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-30T23:56:15Z",
+    "updatedAt": "2026-08-30T23:56:15Z",
+    "originalTitle": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to presence of particulate matter identified a",
+    "keyPoints": [
+      "Відкликання стосується трьох партій розчину натрію хлориду 100 мл, у контейнерах по 150 мл.",
+      "Дата оголошення: 19 серпня 2026 року.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "натрій хлорид",
+      "частки",
+      "FDA",
+      "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Вакцина Baxter відкликає дві партії розчину NaCl через можливе забруднення",
     "abstract": "Компанія Baxter добровільно відкликає дві партії розчину 0,9% NaCl через можливе виявлення частинок скловолокна.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
@@ -54,6 +108,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Проблема з епідуральними комплектами від Medical Action Industries",
+    "abstract": "Компанія Medical Action Industries виправляє епідуральні комплекти з ампулами натрію хлориду, що підлягають відкликанню Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-23T22:00:11Z",
+    "updatedAt": "2026-08-23T22:00:11Z",
+    "originalTitle": "Early Alert: Epidural Kit Issue from Medical Action Industries",
+    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія Medical Action Industries виправляє комплекти.",
+      "Відкликання стосується ампул натрію хлориду Huons Co.",
+      "Інформація актуальна для медичних закладів."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "епідуральні комплекти",
+      "відкликання",
+      "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Проблема з програмним забезпеченням Portrait Core від GE Healthcare",
     "abstract": "Під час оновлення Portrait Core Services можливе видалення пацієнтів з системи моніторингу Portrait.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
@@ -75,32 +155,6 @@
       "Portrait",
       "медичне програмне забезпечення",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з епідуральними комплектами від Medical Action Industries",
-    "abstract": "Компанія Medical Action Industries виправляє епідуральні комплекти з ампулами натрію хлориду, що підлягають відкликанню Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-23T22:00:11Z",
-    "updatedAt": "2026-08-23T22:00:11Z",
-    "originalTitle": "Early Alert: Epidural Kit Issue from Medical Action Industries",
-    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
-    "keyPoints": [
-      "Компанія Medical Action Industries виправляє комплекти.",
-      "Відкликання стосується ампул натрію хлориду Huons Co.",
-      "Інформація актуальна для медичних закладів."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "епідуральні комплекти",
-      "відкликання",
-      "медична безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -585,60 +639,6 @@
       "медичні пристрої",
       "безпека",
       "інформація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук на цетиризинові таблетки через можливе забруднення ранітидином",
-    "abstract": "Компанія Unique Pharmaceutical Laboratories відкликає чотири партії цетиризинових таблеток через потенційне забруднення.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/unique-pharmaceutical-laboratories-div-j-b-chemicals-pharmaceuticals-ltd-issues-voluntary-nationwide",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-21T22:38:46Z",
-    "updatedAt": "2026-07-21T22:38:46Z",
-    "originalTitle": "Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Issues Voluntary Nationwide Recall of Cetirizine Hydrochloride Tablets USP 5 mg Due to Potential Cross Contamination with Ranitidine",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – July 18th, 2026 – Panoli, Gujarat, Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) is voluntarily recalling four lots of Cetirizine Hydrochloride Tablets USP 5 mg to the consumer level due to cross contamination with Ranitidine.",
-    "keyPoints": [
-      "Дата відкликання: 18 липня 2026 року",
-      "Місце: Панолі, Ґуджарат",
-      "Проблема: можливе забруднення ранітидином"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "ліки",
-      "забруднення",
-      "фармація",
-      "інфекційні хвороби"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Попередження: проблема з інфузійними системами Baxter",
-    "abstract": "Можливе наявність повітря у системах Baxter для інфузій, що може призвести до подачі повітря через венозний катетер.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-intravascular-administration-set-issue-baxter",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-21T22:38:46Z",
-    "updatedAt": "2026-07-21T22:38:46Z",
-    "originalTitle": "Early Alert: Intravascular Administration Set Issue from Baxter",
-    "originalAbstract": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
-    "keyPoints": [
-      "Моделі Baxter можуть містити повітря у системі.",
-      "Можливий ризик подачі повітря пацієнту.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Цю інформацію можна використовувати для моніторингу епідситуації.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфузійні системи",
-      "Baxter",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
