@@ -78,6 +78,84 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Аудіопротези при легкому та помірному зниженні слуху у дорослих",
+    "abstract": "Це оновлення існуючого огляду. Основною клінічною інтервенцією при легкому та помірному зниженні слуху є використання слухових апаратів, які підсилюють мову та навколишні звуки. Апаратами забезпечують тих, хто звертається з проблемами слуху. З моменту попереднього огляду 2017 року опубліковано додаткові рандомізовані контрольовані дослідження. Огляд оновлює рівень доказовості та оцінює два додаткові показники: психічне здоровʼя та когнітивні функції.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012023.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-26T00:00:00Z",
+    "updatedAt": "2026-09-01T08:43:00Z",
+    "originalTitle": "Hearing aids for mild to moderate hearing loss in adults.",
+    "originalAbstract": "This is an update of an existing review. The main clinical intervention for mild to moderate hearing loss is the provision of hearing aids, which amplify speech in addition to environmental sounds. Hearing aids are routinely offered and fitted to those who seek help for hearing difficulties. Since the previous 2017 review, further randomised-controlled trials (RCTs) have been published. This review updates the certainty of the evidence and assesses two additional outcomes: mental health and cogn…",
+    "keyPoints": [
+      "Аудіопротези покращують сприйняття мови у дорослих з легким та помірним зниженням слуху.",
+      "Додаткові дослідження підтверджують їхню ефективність, зокрема у сфері психічного здоровʼя.",
+      "Оновлений огляд враховує нові дані з 2017 року."
+    ],
+    "practicalTakeaway": "Враховуючи наявні дані, застосування слухових апаратів є обґрунтованим для дорослих з легким та помірним зниженням слуху.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "слухові апарати",
+      "зниження слуху",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Мінімізація взяття крові у передчасних немовлят",
+    "abstract": "Ідіопатичне крововтрачання є значним чинником анемії та потреби у трансфузіях у передчасних немовлят. Ефективність заходів щодо зменшення взяття крові залишається невизначеною. Більшість попередніх досліджень зосереджувалися на стратегічних трансфузіях плаценти, а не на збереженні крові під час післяпологового догляду. Це дослідження оцінює переваги та ризики стратегій мінімізації взяття крові у порівнянні зі стандартними методами у передчасних немовлят.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016077.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-26T00:00:00Z",
+    "updatedAt": "2026-09-01T08:43:00Z",
+    "originalTitle": "Minimizing blood sampling in preterm infants.",
+    "originalAbstract": "Iatrogenic blood loss contributes substantially to anemia and transfusion exposure in preterm infants. The effectiveness of interventions aimed at minimizing blood sampling remains unclear. Most prior trials have focused on placental transfusion strategies rather than blood conservation during postnatal care. To evaluate the benefits and harms of strategies to minimize blood sampling, compared with standard blood sampling, in preterm infants. We used CENTRAL, PubMed, two other databases, and two…",
+    "keyPoints": [
+      "Дослідження аналізує ефективність стратегій зменшення взяття крові у передчасних немовлят.",
+      "Значна кількість крововтрат у цій групі сприяє анемії та трансфузіям.",
+      "Результати допомагають визначити потенційні переваги та ризики таких стратегій."
+    ],
+    "practicalTakeaway": "Враховуючи невизначеність щодо ефективності, необхідні додаткові дослідження для визначення оптимальних стратегій зменшення крововтрат у передчасних немовлят.",
+    "specialty": "нефрологія",
+    "tags": [
+      "доказова медицина",
+      "педіатрія",
+      "інтенсивна терапія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Електронні сигарети для допомоги у відмові від куріння",
+    "abstract": "Це оновлення систематичного огляду досліджує безпеку, переносимість та ефективність електронних сигарет у допомозі курцям досягти довгострокової відмови від куріння порівняно з іншими видами електронних сигарет. Вивчення проводиться в рамках живого систематичного огляду.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub11/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-08-26T00:00:00Z",
+    "updatedAt": "2026-09-01T08:43:00Z",
+    "originalTitle": "Electronic cigarettes for smoking cessation.",
+    "originalAbstract": "Electronic cigarettes (EC) are handheld electronic vaping devices that produce an aerosol by heating a liquid. People who smoke, healthcare providers, and regulators want to know if EC can help people quit smoking, and if they are safe to use for this purpose. This update was conducted as part of a living systematic review. To examine the safety, tolerability, and effectiveness of EC for helping people who smoke tobacco achieve long-term smoking abstinence, in comparison to non-nicotine EC, othe…",
+    "keyPoints": [
+      "Електронні сигарети розглядаються як засіб допомоги у відмові від куріння.",
+      "Досліджуються їх безпека та ефективність у довгостроковій перспективі.",
+      "Порівнюються з ненікотиновими електронними сигаретами та іншими методами."
+    ],
+    "practicalTakeaway": "На даний час недостатньо доказів, щоб зробити остаточні висновки щодо безпеки та ефективності електронних сигарет для відмови від куріння.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "куріння",
+      "електронні сигарети",
+      "відмова від куріння"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Трансдермальна електрична стимуляція нервів (ТЕНС) при хронічному болю в шиї",
     "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка ефективності та безпеки трансдермальної електричної стимуляції нервів (ТЕНС), застосовуваної самостійно або у поєднанні з іншими методами, порівняно з імітацією ТЕНС, плацебо, відсутністю лікування або іншими клінічними втручаннями у дорослих з хронічним болем у шиї.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016383/full",
@@ -176,84 +254,6 @@
       "інсульт",
       "нейрореабілітація",
       "моторна функція"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Терапія доповненням альфа-1-антитрипсину для хворих на дефіцит альфа-1-антитрипсину та захворювань легень",
-    "abstract": "Дефіцит альфа-1-антитрипсину (ААТД) є генетичним станом, що може проявлятися хронічною обструктивною хворобою легень (ХОЗЛ), викликаючи кашель та задуху. Терапія доповненням ААТ може запобігти або уповільнити прогресування ХОЗЛ у пацієнтів із ААТД. Водночас корекція дефіциту білка є логічним підходом до лікування цього стану.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015930.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-21T00:00:00Z",
-    "updatedAt": "2026-08-21T15:58:04Z",
-    "originalTitle": "Alpha 1 antitrypsin augmentation therapy for alpha 1 antitrypsin deficiency-associated lung disease.",
-    "originalAbstract": "Alpha-1 antitrypsin (AAT) is a protein produced by the liver that stops certain enzymes from harming body tissues, especially in the lungs. AAT deficiency (AATD) is a genetic condition that can manifest clinically as chronic obstructive pulmonary disease (COPD), causing cough and breathlessness. AAT augmentation therapy could help prevent or slow the progression of COPD in people with AATD. Whilst correcting the protein deficit seems a logical approach to treating a condition caused by a protein…",
-    "keyPoints": [
-      "Дефіцит альфа-1-антитрипсину може спричиняти ХОЗЛ.",
-      "Терапія доповненням ААТ потенційно запобігає прогресуванню захворювання.",
-      "Доказова база щодо ефективності цієї терапії потребує подальших досліджень."
-    ],
-    "practicalTakeaway": "Обговорюйте можливість терапії доповненням альфа-1-антитрипсину з фахівцем, враховуючи індивідуальні особливості стану.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "легені",
-      "хронічні захворювання",
-      "генетика"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Метаоксантині для профілактики та лікування періодичних гіпоксій або дихальної недостатності у пізньо недоношених немовлят",
-    "abstract": "Дослідження аналізує застосування метаоксантинів, зокрема кофеїну, для покращення дихальної функції у пізньо недоношених немовлят (34-36 тижнів гестації). Враховуючи підвищений ризик гіпоксій та дихальної недостатності через фізіологічну незрілість, дослідження оцінює їхню ефективність у профілактиці та лікуванні цих станів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016113.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-20T00:00:00Z",
-    "updatedAt": "2026-08-21T15:58:04Z",
-    "originalTitle": "Methylxanthines for the prevention or treatment of intermittent hypoxemia or respiratory insufficiency in late preterm infants.",
-    "originalAbstract": "Late preterm infants (34 0/7 to 36 6/7 weeks' gestation, i.e. 34 weeks and 0 days to 36 weeks and 6 days) are at increased risk of intermittent hypoxemia and respiratory insufficiency due to physiological immaturity, compared to full-term infants. Methylxanthines, most frequently caffeine, are used to improve respiratory function and long-term outcomes in very preterm infants. However, the use of methylxanthines in late preterm infants for preventing or treating intermittent hypoxemia and respir…",
-    "keyPoints": [
-      "Метаоксантині застосовуються для покращення дихальної функції у пізньо недоношених.",
-      "Дослідження аналізує їхню роль у профілактиці гіпоксій.",
-      "Враховується ризик дихальної недостатності через фізіологічну незрілість."
-    ],
-    "practicalTakeaway": "Використання метаоксантинів у пізньо недоношених потребує подальших досліджень для визначення їхньої ефективності та безпеки.",
-    "specialty": "нефрологія",
-    "tags": [
-      "доказова медицина",
-      "неонатологія",
-      "дослідження"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Гемцитабін у хіміотерапії при прогресуючих пухлинах жовчних шляхів",
-    "abstract": "Цей протокол огляду Cochrane має на меті оцінити ефективність та можливі ризики внутрішньовенного застосування гемцитабіну як монотерапії або у комбінації з іншими препаратами у пацієнтів з прогресуючими пухлинами жовчних шляхів у порівнянні з плацебо або хіміотерапією без гемцитабіну.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016126/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-17T00:00:00Z",
-    "updatedAt": "2026-08-18T04:00:10Z",
-    "originalTitle": "Gemcitabine-based chemotherapy for advanced biliary tract carcinomas.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the benefits and harms of intravenous administration of gemcitabine monotherapy or gemcitabine-based combination chemotherapy versus placebo or non-gemcitabine-based chemotherapy in people with advanced biliary tract carcinomas.",
-    "keyPoints": [
-      "Оцінюється ефективність гемцитабіну у лікуванні пухлин жовчних шляхів.",
-      "Розглядаються ризики та користь гемцитабіну у порівнянні з іншими методами.",
-      "Дослідження спрямовані на визначення оптимальної терапії для пацієнтів з прогресуючими пухлинами."
-    ],
-    "practicalTakeaway": "Результати цього огляду допоможуть визначити роль гемцитабіну у лікуванні пухлин жовчних шляхів.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "хіміотерапія",
-      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
