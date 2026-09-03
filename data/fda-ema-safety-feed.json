@@ -1,5 +1,57 @@
 [
   {
+    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
+    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-03T08:06:52Z",
+    "updatedAt": "2026-09-03T08:06:52Z",
+    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
+    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
+      "Виправлення стосується комплектів для швидкого реагування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "безпека",
+      "медичні комплекти",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Медлайн виправляє комплекти з BD ChloraPrep через можливу нестерильність",
+    "abstract": "Медлайн повідомляє про можливу нестерильність деяких комплектів з BD ChloraPrep, вироблених для медичних закладів.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-03T08:06:52Z",
+    "updatedAt": "2026-09-03T08:06:52Z",
+    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+    "keyPoints": [
+      "Виробник: Medline",
+      "Продукти: комплекти з BD ChloraPrep",
+      "Проблема: можлива нестерильність"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекція",
+      "стерильність",
+      "медичне обладнання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Проблема з наборами для внутрішньовенних інфузій від Avid Medical",
     "abstract": "Avid Medical відкликає деякі набори через можливе забруднення Aspergillus penicillioides.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
@@ -54,6 +106,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
+    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-27T14:16:46Z",
+    "updatedAt": "2026-08-27T14:16:46Z",
+    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+    "keyPoints": [
+      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
+      "Можливе відокремлення кінчика під час застосування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетер",
+      "безпека",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Вакцина Baxter відкликає дві партії розчину NaCl через можливе забруднення",
     "abstract": "Компанія Baxter добровільно відкликає дві партії розчину 0,9% NaCl через можливе виявлення частинок скловолокна.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
@@ -82,25 +160,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
-    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+    "title": "Проблема з програмним забезпеченням Portrait Core від GE Healthcare",
+    "abstract": "Під час оновлення Portrait Core Services можливе видалення пацієнтів з системи моніторингу Portrait.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-08-27T14:16:46Z",
-    "updatedAt": "2026-08-27T14:16:46Z",
-    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
-    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+    "publishedAt": "2026-08-23T22:00:11Z",
+    "updatedAt": "2026-08-23T22:00:11Z",
+    "originalTitle": "Early Alert: Portrait Core Services Software Issue from GE HealthCare",
+    "originalAbstract": "Patients monitored on Portrait Mobile devices can be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
     "keyPoints": [
-      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
-      "Можливе відокремлення кінчика під час застосування.",
+      "Проблема стосується системи Portrait Core Services від GE Healthcare.",
+      "Можливе видалення пацієнтів з Portrait під час оновлення.",
       "Джерело: FDA."
     ],
-    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
+    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній ситуації щодо систем моніторингу.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "катетер",
-      "безпека",
+      "GE Healthcare",
+      "Portrait",
+      "медичне програмне забезпечення",
       "FDA"
     ],
     "priorityScore": 8,
@@ -128,33 +207,6 @@
       "епідуральні комплекти",
       "відкликання",
       "медична безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з програмним забезпеченням Portrait Core від GE Healthcare",
-    "abstract": "Під час оновлення Portrait Core Services можливе видалення пацієнтів з системи моніторингу Portrait.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-23T22:00:11Z",
-    "updatedAt": "2026-08-23T22:00:11Z",
-    "originalTitle": "Early Alert: Portrait Core Services Software Issue from GE HealthCare",
-    "originalAbstract": "Patients monitored on Portrait Mobile devices can be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-    "keyPoints": [
-      "Проблема стосується системи Portrait Core Services від GE Healthcare.",
-      "Можливе видалення пацієнтів з Portrait під час оновлення.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній ситуації щодо систем моніторингу.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "GE Healthcare",
-      "Portrait",
-      "медичне програмне забезпечення",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -585,60 +637,6 @@
       "відкликання",
       "лікарські засоби",
       "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання Циклофосфамід для ін'єкцій через частки сталі",
-    "abstract": "Компанія Sunny Pharmtech, Inc. відкликає три лоти препарату через наявність частинок сталі.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sunny-pharmtech-inc-issues-voluntary-nationwide-recall-cyclophosphamide-injection-usp-user-level-due",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-25T05:57:37Z",
-    "updatedAt": "2026-07-25T05:57:37Z",
-    "originalTitle": "Sunny Pharmtech, Inc. Issues Voluntary Nationwide Recall of Cyclophosphamide for Injection, USP to the User Level Due to the Presence of Particulate Matter",
-    "originalAbstract": "July 24, 2026 - Taoyuan City, Taiwan - Sunny Pharmtech, Inc is voluntarily recalling three lots of Cyclophosphamide for Injection, USP, 1g/vial and 2g/vial, to the User Level due to the presence of particulate matter identified as steel. To date, no adverse events or injuries associated with this pa",
-    "keyPoints": [
-      "Відкликання трьох лотів Циклофосфаміду, 24 липня 2026 року.",
-      "Причина — наявність частинок сталі.",
-      "Застосовувано в Тайвані."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "препарати",
-      "ін'єкції",
-      "сталь",
-      "Taiwan"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Попередження: проблеми з перкутанним катетером Boston Scientific",
-    "abstract": "Модель ENROUTE Transcarotid може мати розрив або частковий розрив наконечника артеріального оболонки під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-percutaneous-catheter-issue-boston-scientific",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-25T05:57:37Z",
-    "updatedAt": "2026-07-25T05:57:37Z",
-    "originalTitle": "Early Alert: Percutaneous Catheter Issue from Boston Scientific",
-    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use",
-    "keyPoints": [
-      "Модель ENROUTE Transcarotid від Boston Scientific",
-      "Можливий розрив або частковий розрив наконечника",
-      "Інформація актуальна для перкутанних нейропротекторів"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки медичних виробів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні пристрої",
-      "безпека",
-      "інформація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
