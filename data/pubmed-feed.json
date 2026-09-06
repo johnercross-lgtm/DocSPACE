@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42701091",
+    "title": "Біологічні ефекти технічно-специфічної мануальної терапії у здорових та пацієнтів із м'язово-скелетними порушеннями: систематичний огляд із мета-аналізом",
+    "journal": "The Journal of manual & manipulative therapy",
+    "publishedAt": "2026-09-05T00:00:00Z",
+    "abstract": "Цей систематичний огляд та мета-аналіз оцінює нейрофізіологічні та метаболічні ефекти мануальної терапії, зокрема різниці між техніками (з високою швидкістю та малою амплітудою проти інших) та анатомічними регіонами. Вивчення спрямоване на розкриття біологічних механізмів дії цієї терапії.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42701091/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-06T07:57:18Z",
+    "originalTitle": "Biological effects of technique-specific manual therapy in healthy individuals and people with musculoskeletal disorders: a systematic review with meta-analysis.",
+    "originalAbstract": "Introduction Manual therapy (MT) is widely recommended for musculoskeletal disorders, yet its biological mechanisms remain poorly synthesized, with existing evidence often aggregating distinct techniques and outcome domains. This systematic review and meta-analysis evaluates the neurophysiological and metabolic effects of MT, exploring differences between technique characteristics (high-velocity low-amplitude [HVLA] vs. non-HVLA) and anatomical regions. Methods Registered prospectively (PROSPERO",
+    "keyPoints": [
+      "Огляд досліджує біологічні механізми мануальної терапії.",
+      "Розглядаються різні техніки та регіони застосування.",
+      "Зосереджено на нейрофізіологічних та метаболічних ефектах."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають краще зрозуміти біологічні механізми мануальної терапії.",
+    "specialty": "неврологія",
+    "tags": [
+      "мануальна терапія",
+      "біологічні механізми",
+      "мета-аналіз"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42701090",
+    "title": "Індекс стеатозної печінки: валідована модель машинного навчання для диференціації фенотипів стеатозної хвороби печінки",
+    "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+    "publishedAt": "2026-09-05T00:00:00Z",
+    "abstract": "Дослідження представило модель машинного навчання — Індекс стеатозної печінки (SLI), яка на основі клінічних та лабораторних даних здатна розрізняти різні фенотипи стеатозної хвороби печінки, включаючи MASLD, MetALD та ALD. Модель не використовує дані про споживання алкоголю.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42701090/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-06T07:57:18Z",
+    "originalTitle": "Steatosis liver index: A validated machine learning model using clinical data distinguishes steatotic liver disease phenotypes.",
+    "originalAbstract": "Steatotic liver disease (SLD) is a leading cause of liver disease worldwide. Itsstratified into metabolic dysfunction-associated steatotic liver disease (MASLD), metabolic dysfunction and alcohol-associated liver disease (MetALD), and alcohol-associated liver disease (ALD) based on self-reported alcohol use remains a challenge. We developed the Steatosis Liver Index (SLI), an ordinal machine-learning model that distinguishes these phenotypes using SLD clinical and laboratory variables without al",
+    "keyPoints": [
+      "Модель SLI допомагає диференціювати фенотипи стеатозної хвороби печінки.",
+      "Використовуються клінічні та лабораторні дані без врахування споживання алкоголю.",
+      "Дослідження має потенціал для покращення діагностики та класифікації SLD."
+    ],
+    "practicalTakeaway": "Модель SLI може бути корисною для клінічної практики у диференціації типів стеатозної хвороби печінки.",
+    "specialty": "гастроентерологія",
+    "tags": [
+      "діагностика",
+      "машинне навчання",
+      "печінка"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42701088",
+    "title": "Кровотеча з прямої кишки у ранньому віці: ознака некротизуючого ентероколіту у високоризикових немовлят",
+    "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+    "publishedAt": "2026-09-05T00:00:00Z",
+    "abstract": "Дослідження аналізує причини, лікування та результати кровотечі з прямої кишки у немовлят до 3 місяців. Виявлено, що ця симптоматика може бути ознакою некротизуючого ентероколіту (NEC), особливо у високоризикових груп. Аналіз даних 91 немовляти показав важливість ранньої діагностики та моніторингу для запобігання ускладненням.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42701088/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-06T07:57:18Z",
+    "originalTitle": "Rectal bleeding in early infancy: a warning sign of necrotizing enterocolitis that should not be overlooked in high-risk infants.",
+    "originalAbstract": "Rectal bleeding in infants younger than 3 months may arise from benign conditions but can also represent an early sign of necrotizing enterocolitis (NEC). We aimed to describe etiology, management, and outcomes of rectal bleeding in early infancy. We retrospectively analysed data from patients presenting with rectal bleeding between 2015 and 2024, collecting demographics, comorbidities, diagnostic work-up, treatments, recurrence, and outcomes. Ninety-one infants were included, with a median age ",
+    "keyPoints": [
+      "Кровотеча з прямої кишки у немовлят може бути ознакою NEC.",
+      "Раннє виявлення важливе для запобігання ускладненням.",
+      "Дослідження охоплює дані за 2015–2024 роки."
+    ],
+    "practicalTakeaway": "У немовлят до 3 місяців кровотеча з прямої кишки потребує уваги для виключення NEC.",
+    "specialty": "нефрологія",
+    "tags": [
+      "доказова медицина",
+      "педіатрія",
+      "інфекційні хвороби"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42686659",
     "title": "Ферроптоз-імунна вісь у діабетичній хворобі нирок: нові терапевтичні цілі",
     "journal": "Antioxidants & redox signaling",
@@ -192,90 +276,6 @@
       "м'язово-скелетний біль"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42659648",
-    "title": "Вплив цифрових програм на депресію та працездатність при м'язово-скелетних захворюваннях: довгострокове дослідження",
-    "journal": "Journal of medical Internet research",
-    "publishedAt": "2026-08-27T00:00:00Z",
-    "abstract": "Ця публікація уточнює результати дослідження, яке аналізує вплив цифрових програм для лікування м'язово-скелетних захворювань на рівень депресії та працездатність. Вивчення проводилось у довгостроковій перспективі.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42659648/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-28T05:50:01Z",
-    "originalTitle": "Addendum: Impacts of Digital Care Programs for Musculoskeletal Conditions on Depression and Work Productivity: Longitudinal Cohort Study.",
-    "originalAbstract": "[This corrects the article DOI: 10.2196/38942.].",
-    "keyPoints": [
-      "Дослідження оцінює вплив цифрових програм на психічний стан і працездатність.",
-      "Результати базуються на довгостроковому спостереженні.",
-      "Значення для розвитку цифрових підходів у реабілітації м'язово-скелетних захворювань."
-    ],
-    "practicalTakeaway": "Цифрові програми можуть мати позитивний вплив на психічне здоров'я та працездатність пацієнтів із м'язово-скелетними захворюваннями.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "цифрові технології",
-      "м'язово-скелетні захворювання",
-      "психічне здоров'я"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42659647",
-    "title": "Додаток: Важливість відповідності раси та статі між пацієнтами і фізіотерапевтами у цифровій реабілітації м'язово-скелетних захворювань: спостережне дослідження",
-    "journal": "Journal of medical Internet research",
-    "publishedAt": "2026-08-27T00:00:00Z",
-    "abstract": "Ця публікація уточнює попередню статтю щодо ролі відповідності раси і статі між пацієнтами та фізіотерапевтами у цифровій реабілітації для м'язово-скелетних захворювань. Вона базується на спостережному, довгостроковому дослідженні.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42659647/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-28T05:50:01Z",
-    "originalTitle": "Addendum: Exploring the Importance of Race and Gender Concordance Between Patients and Physical Therapists in Digital Rehabilitation for Musculoskeletal Conditions: Observational, Longitudinal Study.",
-    "originalAbstract": "[This corrects the article DOI: 10.2196/65354.].",
-    "keyPoints": [
-      "Розглядається вплив відповідності раси і статі на результати цифрової реабілітації.",
-      "Дослідження є спостережним і довгостроковим.",
-      "Виправляє попередню публікацію з DOI 10.2196/65354."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть впливати на підходи до персоналізації цифрової реабілітації.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "цифрова медицина",
-      "реабілітація",
-      "соціальні фактори"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42640271",
-    "title": "Досвід системних дефіцитів у системі охорони здоров'я під час SARS-CoV-2: швидкий опитування медичних помічників в Ірландії",
-    "journal": "Irish medical journal",
-    "publishedAt": "2026-08-20T00:00:00Z",
-    "abstract": "Мета дослідження — описати умови праці та стан добробуту медичних помічників в Ірландії під час першої хвилі COVID-19 та вивчити звʼязки між доступом до засобів індивідуального захисту та результатами, повʼязаними з інфекцією. Проведено швидкий опитування 456 медичних помічників у різних закладах охорони здоровʼя. Аналізувалися дані щодо сектору, PPE, навчання, переведення на іншу посаду, оплату, лікарняних та ізоляції. Відкриті відповіді підлягали тематичному аналізу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42640271/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-08-25T16:07:41Z",
-    "originalTitle": "Experience of Systematic Deficits in Healthcare During SARS-CoV-2: A Rapid-Response Survey of Healthcare Assistants.",
-    "originalAbstract": "To describe Irish Healthcare Assistants'/carers' (HCAs) working conditions and wellbeing during COVID-19 Wave 1 and examine associations between PPE access and infection-related outcomes. A 24-hour rapid-response, mixed-method survey (23/04/2020) of HCAs/carers in Ireland (456) across care settings. Quantitative data (sector/setting, PPE, training, redeployment, pay, sick leave/isolation) were analysed in SPSS; free-text responses underwent thematic analysis (manual and N-Vivo12). Full PPE follo",
-    "keyPoints": [
-      "Опитування виявило системні дефіцити у забезпеченні PPE.",
-      "Недостатній доступ до засобів захисту був повʼязаний з підвищеним ризиком інфекцій.",
-      "Працівники повідомляли про погіршення стану добробуту під час пандемії."
-    ],
-    "practicalTakeaway": "Забезпечення достатнього доступу до PPE є важливим для зменшення ризиків інфікування та підтримки добробуту медичних працівників.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "COVID-19",
-      "охорона здоровʼя",
-      "засоби захисту"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
