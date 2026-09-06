@@ -1,25 +1,79 @@
 [
   {
-    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
-    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+    "title": "Попередження: проблема з касетами контролерів серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає автоматичні контролери Impella через несправність касет для промивання, що може спричинити затримки у підтримці кровообігу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-03T08:06:52Z",
-    "updatedAt": "2026-09-03T08:06:52Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
-    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+    "publishedAt": "2026-09-06T17:38:31Z",
+    "updatedAt": "2026-09-06T17:38:31Z",
+    "originalTitle": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
     "keyPoints": [
-      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
-      "Виправлення стосується комплектів для швидкого реагування.",
+      "Відкликання контролерів Abiomed Impella",
+      "Проблема з розпізнаванням касет для промивання",
+      "Може спричинити затримки у підтримці кровообігу"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцева недостатність",
+      "медичне обладнання",
+      "відкликання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання розчину натрію хлориду B. Braun через частки",
+    "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-30T23:56:15Z",
+    "updatedAt": "2026-08-30T23:56:15Z",
+    "originalTitle": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to presence of particulate matter identified a",
+    "keyPoints": [
+      "Відкликання стосується трьох партій розчину натрію хлориду 100 мл, у контейнерах по 150 мл.",
+      "Дата оголошення: 19 серпня 2026 року.",
       "Джерело: FDA."
     ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "безпека",
-      "медичні комплекти",
-      "FDA"
+      "відкликання",
+      "натрій хлорид",
+      "частки",
+      "FDA",
+      "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Оновлення системи моніторингу Portrait Core Services",
+    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-06T17:38:31Z",
+    "updatedAt": "2026-09-06T17:38:31Z",
+    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+    "keyPoints": [
+      "Оновлення стосується Portrait Core Services.",
+      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "моніторинг",
+      "Portrait",
+      "оновлення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -52,6 +106,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
+    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-03T08:06:52Z",
+    "updatedAt": "2026-09-03T08:06:52Z",
+    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
+    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
+      "Виправлення стосується комплектів для швидкого реагування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "безпека",
+      "медичні комплекти",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Проблема з наборами для внутрішньовенних інфузій від Avid Medical",
     "abstract": "Avid Medical відкликає деякі набори через можливе забруднення Aspergillus penicillioides.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
@@ -72,34 +152,6 @@
       "інфекція",
       "відкликання",
       "медичні набори"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання розчину натрію хлориду B. Braun через частки",
-    "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-30T23:56:15Z",
-    "updatedAt": "2026-08-30T23:56:15Z",
-    "originalTitle": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to presence of particulate matter identified a",
-    "keyPoints": [
-      "Відкликання стосується трьох партій розчину натрію хлориду 100 мл, у контейнерах по 150 мл.",
-      "Дата оголошення: 19 серпня 2026 року.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "натрій хлорид",
-      "частки",
-      "FDA",
-      "медична безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -585,58 +637,6 @@
       "Astral",
       "технічна несправність",
       "медичне обладнання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення комплектів для зручності від Argon Medical",
-    "abstract": "Argon Medical виправляє комплекти, видаляючи ампули з лідакаїном від Spectra Medical Devices.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-argon-medical-issues-correction-convenience-kits-containing-spectra",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-31T22:44:11Z",
-    "updatedAt": "2026-07-31T22:44:11Z",
-    "originalTitle": "Convenience Kit Correction: Argon Medical Issues Correction for Convenience Kits Containing Spectra Medical Device Lidocaine Ampules",
-    "originalAbstract": "Argon Medical is correcting affected convenience kits by removing included Spectra Medical Devices Lidocaine Ampules.",
-    "keyPoints": [
-      "Argon Medical випускає комплекти для зручності.",
-      "У комплекті були ампули лідакаїну від Spectra Medical Devices.",
-      "Виправлення стосується конкретних комплектів."
-    ],
-    "practicalTakeaway": "Виробник проводить корекцію комплектів для зручності.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичне обладнання",
-      "ампули",
-      "корекція"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання партії папаверін гідрохлориду ін'єкцій, США",
-    "abstract": "Американська компанія проводить добровільне відкликання однієї партії препарату через виявлення частинок.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-issues-voluntary-nationwide-recall-one-lot-papaverine-hydrochloride-injection",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-28T11:44:52Z",
-    "updatedAt": "2026-07-28T11:44:52Z",
-    "originalTitle": "American Regent, Inc. Issues Voluntary Nationwide Recall of One Lot of Papaverine Hydrochloride Injection, USP 60 mg/ 2 mL Due to the Presence of Visible Particulate Matter",
-    "originalAbstract": "July 24, 2026 – Shirley, NY, American Regent, Inc. is conducting a nationwide voluntary recall of a single lot of Papaverine Hydrochloride Injection, USP, 60 mg/2 mL single dose vial to the consumer level. The product is being recalled due to the presence of particulate matter identified as glass an",
-    "keyPoints": [
-      "Відкликання стосується однієї партії препарату.",
-      "Партія містить видимі частки, ідентифіковані як скляні.",
-      "Відкликання проводиться на рівні споживачів."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці щодо безпеки лікарських засобів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "лікарські засоби",
-      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
