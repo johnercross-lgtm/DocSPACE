@@ -1,5 +1,83 @@
 [
   {
+    "title": "Лікування симптоматичної гіпермобільності у дітей",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг і ризиків консервативних, фармакологічних, хірургічних та багатокомпонентних втручань для мʼязово-скелетних симптомів у дітей із станами, асоційованими з гіпермобільністю.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016390/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-07T00:00:00Z",
+    "updatedAt": "2026-09-07T19:19:42Z",
+    "originalTitle": "Treatment for symptomatic hypermobility in childhood.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of conservative, pharmacological, surgical, and multi-component interventions for musculoskeletal symptoms in children with hypermobility-associated conditions.",
+    "keyPoints": [
+      "Оцінюється ефективність різних методів лікування гіпермобільності у дітей.",
+      "Розглядаються консервативні, фармакологічні та хірургічні підходи.",
+      "Мета — визначити баланс користі та ризиків для пацієнтів."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш обґрунтовані підходи до лікування гіпермобільності у дітей.",
+    "specialty": "педіатрія",
+    "tags": [
+      "доказова медицина",
+      "дитяча медицина",
+      "м'язово-скелетні захворювання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Довгострокове гормональне лікування у перименопаузі та постменопаузі",
+    "abstract": "Це оновлений аналіз досліджень, що оцінює довгострокові (не менше одного року) наслідки застосування гормональної терапії у жінок у період перименопаузи та постменопаузи. Мета — визначити вплив на смертність, серцево-судинні захворювання, рак, захворювання жовчного міхура, переломи та когнітивні функції.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004143.pub7/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-04T00:00:00Z",
+    "updatedAt": "2026-09-07T19:19:42Z",
+    "originalTitle": "Long-term hormone therapy for perimenopausal and postmenopausal women.",
+    "originalAbstract": "Hormone therapy is widely provided to control menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005. To assess the long-term effects of prolonged use (at least one year) of hormone therapy on mortality, cardiovascular outcomes, cancer, gallbladder disease, fractures and cognition in perimenopausal and postmenopausal women. We used the Coch…",
+    "keyPoints": [
+      "Дослідження аналізує довгостроковий вплив гормональної терапії.",
+      "Розглядаються наслідки для серцево-судинної системи, раку та когнітивних функцій.",
+      "Збір даних оновлений з 2005 року."
+    ],
+    "practicalTakeaway": "Застосування гормональної терапії має враховувати потенційні довгострокові наслідки для здоровʼя.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "гормональна терапія",
+      "жінки у перименопаузі та постменопаузі",
+      "довгострокові наслідки"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Профілактика інфекцій при імплантації зубів з кістковою аугментацією: протокол дослідження",
+    "abstract": "Це протокол для дослідження, яке має оцінити ефективність та можливі шкоди системної профілактики антибіотиками у пацієнтів, що проходять імплантацію зубів з кістковою аугментацією. Також буде проаналізовано, чи впливають доза, тривалість, час застосування та тип антибіотика на результати.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016385/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-04T00:00:00Z",
+    "updatedAt": "2026-09-07T19:19:42Z",
+    "originalTitle": "Interventions for replacing missing teeth: antibiotic prophylaxis for dental implant placement with bone augmentation procedures.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of systemic prophylactic antibiotics versus no antibiotics or placebo in people undergoing dental implant placement with concomitant bone augmentation procedures, and to assess whether the effects of systemic prophylactic antibiotics differ according to the dosage, duration, timing of administration, and type of antibiotic.",
+    "keyPoints": [
+      "Оцінюється ефективність профілактики антибіотиками при імплантації зубів з кістковою аугментацією.",
+      "Дослідження порівнює системну профілактику антибіотиками з відсутністю антибіотиків або плацебо.",
+      "Аналізує вплив дози, тривалості та типу антибіотика на результати."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення оптимальних підходів до застосування антибіотиків при імплантації з кістковою аугментацією.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "інфекційні хвороби",
+      "стоматологія",
+      "антибіотики"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Сульфат магнію для жінок із ризиком передчасних пологів для нейропротекції плода",
     "abstract": "Ця публікація оновлює аналіз щодо застосування сульфату магнію у жінок із ризиком передчасних пологів з метою нейропротекції плода. Попередні дослідження показали його потенційні переваги у запобіганні церебрального паралічу у дітей. Оновлений аналіз враховує нові рандомізовані контрольовані дослідження та довгострокові результати попередніх.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004661.pub5/full",
@@ -178,84 +256,6 @@
       "доказова медицина"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Мінімізація взяття крові у передчасних немовлят",
-    "abstract": "Ідіопатичне крововтрачання є значним чинником анемії та потреби у трансфузіях у передчасних немовлят. Ефективність заходів щодо зменшення взяття крові залишається невизначеною. Більшість попередніх досліджень зосереджувалися на стратегічних трансфузіях плаценти, а не на збереженні крові під час післяпологового догляду. Це дослідження оцінює переваги та ризики стратегій мінімізації взяття крові у порівнянні зі стандартними методами у передчасних немовлят.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016077.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-26T00:00:00Z",
-    "updatedAt": "2026-09-01T08:43:00Z",
-    "originalTitle": "Minimizing blood sampling in preterm infants.",
-    "originalAbstract": "Iatrogenic blood loss contributes substantially to anemia and transfusion exposure in preterm infants. The effectiveness of interventions aimed at minimizing blood sampling remains unclear. Most prior trials have focused on placental transfusion strategies rather than blood conservation during postnatal care. To evaluate the benefits and harms of strategies to minimize blood sampling, compared with standard blood sampling, in preterm infants. We used CENTRAL, PubMed, two other databases, and two…",
-    "keyPoints": [
-      "Дослідження аналізує ефективність стратегій зменшення взяття крові у передчасних немовлят.",
-      "Значна кількість крововтрат у цій групі сприяє анемії та трансфузіям.",
-      "Результати допомагають визначити потенційні переваги та ризики таких стратегій."
-    ],
-    "practicalTakeaway": "Враховуючи невизначеність щодо ефективності, необхідні додаткові дослідження для визначення оптимальних стратегій зменшення крововтрат у передчасних немовлят.",
-    "specialty": "нефрологія",
-    "tags": [
-      "доказова медицина",
-      "педіатрія",
-      "інтенсивна терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Електронні сигарети для допомоги у відмові від куріння",
-    "abstract": "Це оновлення систематичного огляду досліджує безпеку, переносимість та ефективність електронних сигарет у допомозі курцям досягти довгострокової відмови від куріння порівняно з іншими видами електронних сигарет. Вивчення проводиться в рамках живого систематичного огляду.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010216.pub11/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-26T00:00:00Z",
-    "updatedAt": "2026-09-01T08:43:00Z",
-    "originalTitle": "Electronic cigarettes for smoking cessation.",
-    "originalAbstract": "Electronic cigarettes (EC) are handheld electronic vaping devices that produce an aerosol by heating a liquid. People who smoke, healthcare providers, and regulators want to know if EC can help people quit smoking, and if they are safe to use for this purpose. This update was conducted as part of a living systematic review. To examine the safety, tolerability, and effectiveness of EC for helping people who smoke tobacco achieve long-term smoking abstinence, in comparison to non-nicotine EC, othe…",
-    "keyPoints": [
-      "Електронні сигарети розглядаються як засіб допомоги у відмові від куріння.",
-      "Досліджуються їх безпека та ефективність у довгостроковій перспективі.",
-      "Порівнюються з ненікотиновими електронними сигаретами та іншими методами."
-    ],
-    "practicalTakeaway": "На даний час недостатньо доказів, щоб зробити остаточні висновки щодо безпеки та ефективності електронних сигарет для відмови від куріння.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "куріння",
-      "електронні сигарети",
-      "відмова від куріння"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Трансдермальна електрична стимуляція нервів (ТЕНС) при хронічному болю в шиї",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка ефективності та безпеки трансдермальної електричної стимуляції нервів (ТЕНС), застосовуваної самостійно або у поєднанні з іншими методами, порівняно з імітацією ТЕНС, плацебо, відсутністю лікування або іншими клінічними втручаннями у дорослих з хронічним болем у шиї.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016383/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-24T00:00:00Z",
-    "updatedAt": "2026-08-25T10:05:55Z",
-    "originalTitle": "Transcutaneous electrical nerve stimulation (TENS) for chronic neck pain.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of transcutaneous electrical nerve stimulation (TENS), used alone or as an adjunct to other interventions, compared with sham TENS, placebo, no treatment, or other clinical interventions in adults with chronic neck pain.",
-    "keyPoints": [
-      "Огляд досліджень щодо ТЕНС при хронічному болю в шиї.",
-      "Мета — оцінити користь і ризики застосування ТЕНС.",
-      "Застосування у дорослих з хронічним болем у шиї."
-    ],
-    "practicalTakeaway": "Огляд спрямований на визначення ефективності та безпеки ТЕНС для лікування хронічного болю в шиї.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "хронічний біль",
-      "ТЕНС",
-      "огляд"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
