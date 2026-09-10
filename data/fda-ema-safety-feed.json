@@ -1,5 +1,31 @@
 [
   {
+    "title": "Відкликання пристроїв Luna G3 APAP через дефект прошивки",
+    "abstract": "BMC Medical повідомила про відкликання 20 160 пристроїв Luna G3 APAP у США через дефект прошивки.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-10T08:11:44Z",
+    "updatedAt": "2026-09-10T08:11:44Z",
+    "originalTitle": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
+    "originalAbstract": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
+    "keyPoints": [
+      "Відкликання стосується 20 160 пристроїв Luna G3 APAP.",
+      "Дата повідомлення — 15 липня 2026 року.",
+      "Пристрої розповсюджені в США."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "пристрої",
+      "фірмвар"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Попередження: проблема з касетами контролерів серцевого насосу Abiomed",
     "abstract": "Abiomed відкликає автоматичні контролери Impella через несправність касет для промивання, що може спричинити затримки у підтримці кровообігу.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
@@ -74,6 +100,34 @@
       "моніторинг",
       "Portrait",
       "оновлення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання Infinion CX Lead від Boston Scientific",
+    "abstract": "Boston Scientific відкликає Infinion CX Lead через можливий механічний стрес у зоні кріплення.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-10T08:11:44Z",
+    "updatedAt": "2026-09-10T08:11:44Z",
+    "originalTitle": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+    "originalAbstract": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+    "keyPoints": [
+      "Виріб: Infinion CX Lead, виробник: Boston Scientific",
+      "Можливий механічний стрес у зоні кріплення",
+      "Потреба у вилученні та заміні виробу"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "неврологія",
+    "tags": [
+      "медичне обладнання",
+      "відкликання",
+      "нейрохірургія",
+      "інновації",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -583,60 +637,6 @@
       "препарати",
       "безпека",
       "інфекційні хвороби"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання комплектів для введення Abiomed 14Fr Low Profile",
-    "abstract": "Компанія Abiomed відкликала комплекти для введення через можливість утворення тромбів при тривалому використанні.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-kit-recall-abiomed-removes-14fr-low-profile-introducer-kits",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-18T16:25:46Z",
-    "updatedAt": "2026-07-18T16:25:46Z",
-    "originalTitle": "Catheter Introducer Kit Recall: Abiomed Removes 14Fr Low Profile Introducer Kits",
-    "originalAbstract": "Prolonged use of the Abiomed 14Fr Low Profile Introducer may lead to thrombus formation.",
-    "keyPoints": [
-      "Відкликання стосується комплектів 14Fr Low Profile",
-      "Можливість утворення тромбів при тривалому застосуванні",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "комплекти",
-      "тромбоз",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення щодо апаратів Astral від Resmed",
-    "abstract": "Resmed повідомила про можливу несправність електричного компонента в деяких моделях Astral, що може призвести до переривання або зупинки терапії.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-correction-resmed-issues-correction-astral-ventilator",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-07-31T22:44:11Z",
-    "updatedAt": "2026-07-31T22:44:11Z",
-    "originalTitle": "Ventilator Correction: Resmed Issues Correction for Astral Ventilator",
-    "originalAbstract": "Failure of an electrical component in certain Astral ventilators may cause an interruption or failure in therapy which may result in serious injury or death.",
-    "keyPoints": [
-      "Модель Astral від Resmed, період невказаний",
-      "Можлива несправність електричного компонента",
-      "Можливий ризик переривання терапії"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "Resmed",
-      "Astral",
-      "технічна несправність",
-      "медичне обладнання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
