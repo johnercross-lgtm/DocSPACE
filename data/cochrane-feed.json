@@ -1,5 +1,83 @@
 [
   {
+    "title": "Прийом йоду для запобігання йододефіцитних розладів у дітей та підлітків",
+    "abstract": "Йод є важливим мікроелементом, необхідним для синтезу щитовидних гормонів, що впливають на ріст і нейрологічний розвиток. Запобігання йододефіциту у дітей є пріоритетом, оскільки його наслідки включають ендемічний зоб, затримку росту, порушення розвитку нервової системи, інтелектуальні порушення та дитячу смертність.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014475.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-10T00:00:00Z",
+    "updatedAt": "2026-09-11T08:07:18Z",
+    "originalTitle": "Iodine supplementation for preventing iodine deficiency disorders in children and adolescents.",
+    "originalAbstract": "Iodine is a micronutrient crucial in the early stages of human development, as it is essential for synthesising thyroid hormones involved in somatic growth and neurodevelopment. It is far better to prevent iodine deficiency than to treat it, since children are particularly vulnerable to iodine deficiency disorders, which involve a broad spectrum of consequences including endemic goitre, delayed growth and development of the central nervous system, intellectual impairment, and infant mortality. T…",
+    "keyPoints": [
+      "Йод важливий для розвитку щитовидної залози та нервової системи.",
+      "Діти особливо вразливі до йододефіциту.",
+      "Запобігання йододефіциту має переваги перед лікуванням."
+    ],
+    "practicalTakeaway": "Забезпечення достатнього споживання йоду у дитячому віці може запобігти розвитку йододефіцитних розладів.",
+    "specialty": "педіатрія",
+    "tags": [
+      "інфекційні хвороби",
+      "доказова медицина",
+      "загальне здоровʼя"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Моделі на основі зображень для прогнозування ускладнень мозкових судин при стенозі сонної артерії",
+    "abstract": "Це протокол для огляду Cochrane (прогноз). Мета — систематично оцінити та критично проаналізувати багатофакторні прогностичні моделі, створені для дорослих з стенозом сонної артерії, у яких основними предикторами є зображувальні біомаркери (наприклад, характеристики бляшки, визначені за допомогою МРТ, КТ або ультразвуку). Основна увага приділяється оцінці здатності цих моделей прогнозувати ускладнення мозкових судин.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016391/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-11T08:07:18Z",
+    "originalTitle": "Imaging‑based models for predicting cerebrovascular complications of carotid stenosis.",
+    "originalAbstract": "This is a protocol for a Cochrane review (prognosis). The objectives are as follows: Primary objective To systematically review and critically appraise multivariable prognostic models developed for adults (≥ 18 years) with carotid stenosis in which imaging biomarkers (e.g. plaque characteristics derived from magnetic resonance imaging (MRI), computed tomography (CT), or ultrasound) constitute the core predictors. The primary focus is to evaluate the predictive performance of these models for cer…",
+    "keyPoints": [
+      "Огляд систематично оцінює прогностичні моделі для стенозу сонної артерії.",
+      "Фокус на зображувальні біомаркери, такі як характеристики бляшки.",
+      "Мета — визначити точність моделей у прогнозуванні ускладнень."
+    ],
+    "practicalTakeaway": "Огляд допоможе визначити, наскільки ефективні сучасні зображувальні моделі для прогнозування ускладнень при стенозі сонної артерії.",
+    "specialty": "неврологія",
+    "tags": [
+      "діагностика",
+      "прогнозування",
+      "зображувальні методи"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Тімозин-α1 для лікування хронічного гепатиту В",
+    "abstract": "Хронічний гепатит В є глобальною проблемою охорони здоров'я, спричиненою інфекцією вірусу гепатиту В (HBV). Мета лікування — запобігти розвитку ускладнень, таких як цироз, печінкова недостатність, рак печінки та смерть. Рандомізовані дослідження оцінювали різні імунотерапії, зокрема тімозин-α1, але результати були неоднозначними.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014610.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-11T08:07:18Z",
+    "originalTitle": "Thymosin-ɑ1 for people with chronic hepatitis B.",
+    "originalAbstract": "Chronic hepatitis B is a global public health concern. It is caused by infection with the hepatitis B virus (HBV). The goal of treating chronic HBV infection is to prevent progression to chronic hepatitis, cirrhosis, hepatic decompensation, liver failure, hepatocellular carcinoma, and death. Individual studies have evaluated various immunomodulatory therapies with inconsistent results. Thymosin-ɑ1 is known to have antiviral effects; however, results of randomised clinical trials on the effects o…",
+    "keyPoints": [
+      "Дослідження аналізує ефективність тімозин-α1 у лікуванні хронічного гепатиту В.",
+      "Результати рандомізованих клінічних досліджень є суперечливими.",
+      "Мета — запобігти прогресуванню захворювання та ускладненням."
+    ],
+    "practicalTakeaway": "Докази щодо застосування тімозин-α1 при хронічному гепатиті В залишаються неоднозначними.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "гепатологія",
+      "імунологія"
+    ],
+    "priorityScore": 3,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Лікування симптоматичної гіпермобільності у дітей",
     "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг і ризиків консервативних, фармакологічних, хірургічних та багатокомпонентних втручань для мʼязово-скелетних симптомів у дітей із станами, асоційованими з гіпермобільністю.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016390/full",
@@ -176,84 +254,6 @@
       "реабілітація",
       "фізична активність",
       "травма хребта"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Заходи щодо ліквідації метицилін-резистентного стафілокока у пацієнтів із муковісцидозом",
-    "abstract": "Муковісцидоз — генетичне захворювання, що супроводжується частими пневмоніями з резистентними бактеріями, що погіршує функцію легень і сприяє ранній смерті. Метицилін-резистний стафілокок (MRSA) є важким інфекційним агентом у госпітальних умовах і негативно впливає на пацієнтів із муковісцидозом. Хронічна інфекція MRSA може спричиняти швидше погіршення стану легень у цих пацієнтів. Відсутня чітка доказова база щодо ефективності заходів з ліквідації MRSA.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009650.pub6/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-27T00:00:00Z",
-    "updatedAt": "2026-08-28T20:59:10Z",
-    "originalTitle": "Interventions for the eradication of meticillin-resistant Staphylococcus aureus (MRSA) in people with cystic fibrosis.",
-    "originalAbstract": "Cystic fibrosis (CF) is a genetic disorder characterised by recurrent and persistent pulmonary infections from resistant organisms, resulting in deterioration of lung function and early mortality. Meticillin-resistant Staphylococcus aureus (MRSA) is an important infection in hospital patients and harmful to people with CF (pwCF). Chronic pulmonary MRSA infection may confer a worse clinical outcome on pwCF and result in a faster decline in lung function. Robust evidence clearly guiding MRSA eradi…",
-    "keyPoints": [
-      "Виявлення та ліквідація MRSA важливі для пацієнтів із муковісцидозом.",
-      "Хронічна MRSA-інфекція може погіршувати прогноз стану легень.",
-      "Доказова база щодо ефективності заходів ще недостатня."
-    ],
-    "practicalTakeaway": "Необхідно проводити дослідження щодо ефективності заходів з ліквідації MRSA у пацієнтів із муковісцидозом.",
-    "specialty": "педіатрія",
-    "tags": [
-      "інфекційні хвороби",
-      "муковісцидоз",
-      "MRSA"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Що означає Cochrane сьогодні",
-    "abstract": "Ця публікація аналізує сучасне значення та роль Cochrane у сфері доказової медицини, зосереджуючись на її внеску у систематизацію та поширення високоякісних клінічних досліджень.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.ED000179/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-27T00:00:00Z",
-    "updatedAt": "2026-08-28T20:59:10Z",
-    "originalTitle": "What Cochrane means now.",
-    "originalAbstract": "",
-    "keyPoints": [
-      "Cochrane продовжує бути ключовим гравцем у сфері доказової медицини.",
-      "Організація сприяє поширенню систематичних оглядів та рекомендацій.",
-      "Її діяльність впливає на формування клінічних практик та політик охорони здоровʼя."
-    ],
-    "practicalTakeaway": "Cochrane залишається важливим джерелом високоякісної інформації для медичних фахівців.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "доказова медицина",
-      "інформація",
-      "Cochrane"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Аудіопротези при легкому та помірному зниженні слуху у дорослих",
-    "abstract": "Це оновлення існуючого огляду. Основною клінічною інтервенцією при легкому та помірному зниженні слуху є використання слухових апаратів, які підсилюють мову та навколишні звуки. Апаратами забезпечують тих, хто звертається з проблемами слуху. З моменту попереднього огляду 2017 року опубліковано додаткові рандомізовані контрольовані дослідження. Огляд оновлює рівень доказовості та оцінює два додаткові показники: психічне здоровʼя та когнітивні функції.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012023.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-26T00:00:00Z",
-    "updatedAt": "2026-09-01T08:43:00Z",
-    "originalTitle": "Hearing aids for mild to moderate hearing loss in adults.",
-    "originalAbstract": "This is an update of an existing review. The main clinical intervention for mild to moderate hearing loss is the provision of hearing aids, which amplify speech in addition to environmental sounds. Hearing aids are routinely offered and fitted to those who seek help for hearing difficulties. Since the previous 2017 review, further randomised-controlled trials (RCTs) have been published. This review updates the certainty of the evidence and assesses two additional outcomes: mental health and cogn…",
-    "keyPoints": [
-      "Аудіопротези покращують сприйняття мови у дорослих з легким та помірним зниженням слуху.",
-      "Додаткові дослідження підтверджують їхню ефективність, зокрема у сфері психічного здоровʼя.",
-      "Оновлений огляд враховує нові дані з 2017 року."
-    ],
-    "practicalTakeaway": "Враховуючи наявні дані, застосування слухових апаратів є обґрунтованим для дорослих з легким та помірним зниженням слуху.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "слухові апарати",
-      "зниження слуху",
-      "доказова медицина"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
