@@ -1,5 +1,59 @@
 [
   {
+    "title": "Відгук про препарати через підвищений рівень ендотоксинів",
+    "abstract": "Centric Compounding відкликає шість партій ін’єкційних препаратів через виявлення підвищеного рівня ендотоксинів.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-13T18:17:08Z",
+    "updatedAt": "2026-09-13T18:17:08Z",
+    "originalTitle": "Centric Compounding Issues Nationwide Recall of Glutathione, Myer’s Cocktail, and Tri-Immune Boost Due to Elevated Endotoxin Levels",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – 9/9/2026 – Houston, Texas, Centric Compounding is voluntarily recalling 6 lots of Glutathione 200mg/mL, Myer’s Cocktail, and Tri-Immune Boost injectable vials to the consumer level. The products have been found to be compounded with a Glutathione API containing elevated endot",
+    "keyPoints": [
+      "Відгук стосується шести партій препаратів.",
+      "Препарати: Glutathione, Myer’s Cocktail, Tri-Immune Boost.",
+      "Виявлено підвищений рівень ендотоксинів у API Glutathione."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відгук",
+      "препарати",
+      "ендотоксини",
+      "фармацевтика",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Корекція епідуральних комплектів через використання ампул Spectra Medical Devices",
+    "abstract": "Компанія Medical Action Industries випускає корекцію щодо епідуральних комплектів з ампулами Lidocaine, що містять відкликані ампули Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-13T18:17:08Z",
+    "updatedAt": "2026-09-13T18:17:08Z",
+    "originalTitle": "Epidural Kit Correction: Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
+    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Випуск корекції щодо епідуральних комплектів",
+      "Використання ампул Spectra Medical Devices Lidocaine",
+      "Відкликання ампул Huons Co."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "епідуральні комплекти",
+      "ампули Lidocaine",
+      "відкликання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання пристроїв Luna G3 APAP через дефект прошивки",
     "abstract": "BMC Medical повідомила про відкликання 20 160 пристроїв Luna G3 APAP у США через дефект прошивки.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
@@ -80,32 +134,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Оновлення системи моніторингу Portrait Core Services",
-    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-06T17:38:31Z",
-    "updatedAt": "2026-09-06T17:38:31Z",
-    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-    "keyPoints": [
-      "Оновлення стосується Portrait Core Services.",
-      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "моніторинг",
-      "Portrait",
-      "оновлення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання Infinion CX Lead від Boston Scientific",
     "abstract": "Boston Scientific відкликає Infinion CX Lead через можливий механічний стрес у зоні кріплення.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
@@ -128,6 +156,32 @@
       "нейрохірургія",
       "інновації",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Оновлення системи моніторингу Portrait Core Services",
+    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-06T17:38:31Z",
+    "updatedAt": "2026-09-06T17:38:31Z",
+    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+    "keyPoints": [
+      "Оновлення стосується Portrait Core Services.",
+      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "моніторинг",
+      "Portrait",
+      "оновлення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -212,32 +266,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
-    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-27T14:16:46Z",
-    "updatedAt": "2026-08-27T14:16:46Z",
-    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
-    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
-    "keyPoints": [
-      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
-      "Можливе відокремлення кінчика під час застосування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетер",
-      "безпека",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Вакцина Baxter відкликає дві партії розчину NaCl через можливе забруднення",
     "abstract": "Компанія Baxter добровільно відкликає дві партії розчину 0,9% NaCl через можливе виявлення частинок скловолокна.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
@@ -259,6 +287,32 @@
       "NaCl",
       "забруднення",
       "фармацевтика",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
+    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-27T14:16:46Z",
+    "updatedAt": "2026-08-27T14:16:46Z",
+    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+    "keyPoints": [
+      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
+      "Можливе відокремлення кінчика під час застосування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетер",
+      "безпека",
       "FDA"
     ],
     "priorityScore": 8,
@@ -583,60 +637,6 @@
       "лікарські засоби",
       "безпека",
       "фармація"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення щодо комплектів з відкликаними маніфолдами Namic",
-    "abstract": "Компанія Medical Action Industries випустила корекцію щодо комплектів, що містять відкликані маніфолди Namic.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medical-action-industries-issues-correction-kits-containing-recalled",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-04T06:06:06Z",
-    "updatedAt": "2026-08-04T06:06:06Z",
-    "originalTitle": "Convenience Kit Correction: Medical Action Industries Issues Correction for Kits Containing Recalled Namic Manifolds",
-    "originalAbstract": "Particulates have the potential to be introduced into blood circulation and become lodged within blood vessels.",
-    "keyPoints": [
-      "Випуск корекції від Medical Action Industries.",
-      "Комплекти містять відкликані маніфолди Namic.",
-      "Можливе потрапляння часток у кровотік."
-    ],
-    "practicalTakeaway": "Важливо враховувати інформацію про відкликання медичних комплектів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичні комплекти",
-      "відкликання",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук американської компанії через сторонні матеріали у препаратах Adequan®",
-    "abstract": "Американська компанія проводить відгук двох партій препаратів Adequan® через виявлення сторонніх волокон у продукції.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/american-regent-inc-animal-health-issues-nationwide-recall-two-lots-adequanr-canine-and-two-lots",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-04T06:06:06Z",
-    "updatedAt": "2026-08-04T06:06:06Z",
-    "originalTitle": "American Regent, Inc. Animal Health Issues Nationwide Recall of Two Lots of Adequan® Canine and Two Lots of Adequan® I.M. Due to Visible Glass Fiber Material in the Product",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – July 31, 2026 – Shirley, NY, American Regent, Inc. Animal Health is conducting a nationwide recall of two lots (25011 and 3369) of Adequan® Canine Injection (for dogs), 100 mg/mL 5mL multi-dose vials and two lots (24416 and 25265P) of Adequan® i.m. Injection (for horses), 500",
-    "keyPoints": [
-      "Відгук двох партій препаратів Adequan® (25011, 3369, 24416, 25265P)",
-      "Препарати для собак та коней, виробництво США",
-      "Виявлення скляних волокон у продукції"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "громадське здоровʼя",
-    "tags": [
-      "відгук",
-      "фармацевтика",
-      "препарати",
-      "безпека",
-      "інфекційні хвороби"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
