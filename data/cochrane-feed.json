@@ -78,6 +78,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Гольмієва лазерна енуклеація простати для лікування симптомів нижніх сечовивідних шляхів у чоловіків з доброякісною гіперплазією простати",
+    "abstract": "Це дослідження оцінює ефективність гольмієвої лазерної енуклеації простати (HoLEP) у порівнянні з іншими хірургічними методами для лікування симптомів нижніх сечовивідних шляхів у чоловіків з доброякісною гіперплазією простати. Аналіз включає порівняння функціональних результатів, періоперативних показників та ускладнень.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013291.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-09T00:00:00Z",
+    "updatedAt": "2026-09-14T16:00:05Z",
+    "originalTitle": "Holmium laser enucleation of the prostate for the treatment of lower urinary tract symptoms in men with benign prostatic hyperplasia.",
+    "originalAbstract": "A range of surgical options is available for the treatment of benign prostatic hyperplasia (BPH), including holmium laser enucleation of the prostate (HoLEP). The evidence is unclear regarding differences in functional, perioperative, and morbidity outcomes between these modalities. To assess the effects of holmium laser enucleation of the prostate compared with other surgical treatments for lower urinary tract symptoms in men with benign prostatic hyperplasia. We searched multiple databases (in…",
+    "keyPoints": [
+      "Дослідження порівнює HoLEP з іншими хірургічними методами.",
+      "Результати стосуються функціональних та ускладненьних показників.",
+      "Збір даних з кількох баз даних для всебічної оцінки."
+    ],
+    "practicalTakeaway": "Результати дослідження допомагають визначити ефективність та безпеку HoLEP у лікуванні симптомів нижніх сечовивідних шляхів у чоловіків з доброякісною гіперплазією простати.",
+    "specialty": "хірургія",
+    "tags": [
+      "хірургія",
+      "урологія",
+      "доказова медицина"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Лікування симптоматичної гіпермобільності у дітей",
     "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг і ризиків консервативних, фармакологічних, хірургічних та багатокомпонентних втручань для мʼязово-скелетних симптомів у дітей із станами, асоційованими з гіпермобільністю.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016390/full",
@@ -156,6 +182,32 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Неонатальні ускладнення у пізньо-ранніх та ранніх термінах: систематичний огляд досліджень",
+    "abstract": "Цей протокол передбачає оцінку неонатальних ускладнень, зокрема смертності та захворювань, у немовлят, народжених у пізньо-ранніх та ранніх термінах, порівняно з повнотерміновими новонародженими.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016188/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-04T00:00:00Z",
+    "updatedAt": "2026-09-14T16:00:05Z",
+    "originalTitle": "Neonatal complications in late-preterm and early-term infants: a systematic review of observational studies.",
+    "originalAbstract": "This is a protocol for a Cochrane review (flexible). The objectives are as follows: To assess neonatal complications, specifically neonatal mortality and morbidities, in late-preterm and early-term infants compared to full-term newborns.",
+    "keyPoints": [
+      "Оцінка неонатальної смертності та ускладнень у різних термінах народження.",
+      "Порівняння ризиків між пізньо-ранніми, ранніми та повнотерміновими новонародженими.",
+      "Збір даних з досліджень для визначення потенційних ризиків ускладнень."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення ризиків ускладнень у новонароджених, народжених у пізньо-ранніх та ранніх термінах.",
+    "specialty": "нефрологія",
+    "tags": [
+      "неонатологія",
+      "доказова медицина",
+      "дослідження"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Сульфат магнію для жінок із ризиком передчасних пологів для нейропротекції плода",
     "abstract": "Ця публікація оновлює аналіз щодо застосування сульфату магнію у жінок із ризиком передчасних пологів з метою нейропротекції плода. Попередні дослідження показали його потенційні переваги у запобіганні церебрального паралічу у дітей. Оновлений аналіз враховує нові рандомізовані контрольовані дослідження та довгострокові результати попередніх.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004661.pub5/full",
@@ -204,58 +256,6 @@
       "стимуляція"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Допоміжні технології для лікування хронічного болю у попереку",
-    "abstract": "Біль у попереку є поширеною глобальною проблемою здоровʼя, що спричиняє обмеження активності у молодих і дорослих. Це одна з головних причин звернення до лікаря та потреби у реабілітації, що впливає на мільйони людей і має значний економічний вплив через втрату продуктивності та медичні витрати.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015492.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-02T00:00:00Z",
-    "updatedAt": "2026-09-04T13:47:00Z",
-    "originalTitle": "Assistive technologies (lumbar supports and other devices) for treating chronic low back pain.",
-    "originalAbstract": "Low back pain (LBP) is a major global health problem. It is the most common cause of activity limitation amongst individuals younger than 45 years, and one of the most frequent reasons for visits to a doctor. The 2019 Global Burden of Disease study named LBP as the leading cause of the need for rehabilitation, estimated to affect 568 million people. Its socioeconomic burden is substantial, with LBP-related costs from productivity loss and healthcare services utilisation making a significant impa…",
-    "keyPoints": [
-      "Біль у попереку є поширеною причиною обмеження активності.",
-      "Допоміжні технології можуть використовуватись у лікуванні.",
-      "Дослідження оцінює їхню ефективність та безпеку."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити роль допоміжних технологій у лікуванні хронічного болю у попереку.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "лікування болю",
-      "реабілітація",
-      "медичні технології"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Фізичні вправи для підвищення кардіореспіраторної підготовки у людей з травмою хребта",
-    "abstract": "Дослідження оцінює короткостроковий вплив фізичних вправ (до 6 тижнів) на кардіореспіраторну підготовку у людей з травмою хребта, порівняно з відсутністю втручань. Аналіз включає дані з кількох баз даних до 9 грудня 2025 року.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014476.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-08-28T00:00:00Z",
-    "updatedAt": "2026-08-28T20:59:10Z",
-    "originalTitle": "Physical exercise training to increase cardiorespiratory fitness in people with spinal cord injury.",
-    "originalAbstract": "Cardiorespiratory fitness (CRF) is a key determinant of health, independence, and quality of life for people with spinal cord injury (SCI). It is therefore important to know whether, and to what extent, physical exercise training increases CRF in people with SCI. To assess the short- ( 6 weeks) effects (benefits and harms) of physical exercise training for improving CRF compared with no intervention in people with SCI. We searched CENTRAL, MEDLINE and three other databases to 9 December 2025, an…",
-    "keyPoints": [
-      "Фізичні вправи можуть покращувати кардіореспіраторну підготовку у людей з травмою хребта.",
-      "Дослідження охоплює короткостроковий період до 6 тижнів.",
-      "Результати допомагають оцінити користь та можливі ризики фізичних тренувань."
-    ],
-    "practicalTakeaway": "Короткострокові фізичні тренування можуть сприяти підвищенню кардіореспіраторної підготовки у людей з травмою хребта.",
-    "specialty": "неврологія",
-    "tags": [
-      "реабілітація",
-      "фізична активність",
-      "травма хребта"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
