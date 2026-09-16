@@ -1,5 +1,31 @@
 [
   {
+    "title": "Відкликання капсул для моніторингу кислотності стравоходу",
+    "abstract": "Компанії Medtronic і Given Imaging відкликали капсули Bravo CF через можливість несправності.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-16T18:59:52Z",
+    "updatedAt": "2026-09-16T18:59:52Z",
+    "originalTitle": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
+    "originalAbstract": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
+    "keyPoints": [
+      "Відкликання стосується капсул Bravo CF для моніторингу кислотності.",
+      "Можливі проблеми з прикріпленням або відділенням капсули.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медицина",
+      "капсули",
+      "відкликання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відгук про препарати через підвищений рівень ендотоксинів",
     "abstract": "Centric Compounding відкликає шість партій ін’єкційних препаратів через виявлення підвищеного рівня ендотоксинів.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
@@ -74,6 +100,58 @@
       "відкликання",
       "пристрої",
       "фірмвар"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з дихальним контуром Draeger",
+    "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-16T18:59:52Z",
+    "updatedAt": "2026-09-16T18:59:52Z",
+    "originalTitle": "Early Alert: Breathing Circuit Issue from Draeger",
+    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+    "keyPoints": [
+      "Відкликання hoses VentStar Resus Neo",
+      "Можливість тріщин у hoses",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "дихальна система",
+      "безпека медичного обладнання",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Оновлення системи моніторингу Portrait Core Services",
+    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-06T17:38:31Z",
+    "updatedAt": "2026-09-06T17:38:31Z",
+    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+    "keyPoints": [
+      "Оновлення стосується Portrait Core Services.",
+      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "моніторинг",
+      "Portrait",
+      "оновлення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -162,26 +240,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Оновлення системи моніторингу Portrait Core Services",
-    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
+    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-06T17:38:31Z",
-    "updatedAt": "2026-09-06T17:38:31Z",
-    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+    "publishedAt": "2026-09-03T08:06:52Z",
+    "updatedAt": "2026-09-03T08:06:52Z",
+    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
+    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
     "keyPoints": [
-      "Оновлення стосується Portrait Core Services.",
-      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
+      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
+      "Виправлення стосується комплектів для швидкого реагування.",
       "Джерело: FDA."
     ],
-    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
+    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "моніторинг",
-      "Portrait",
-      "оновлення"
+      "безпека",
+      "медичні комплекти",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -214,32 +292,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
-    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-03T08:06:52Z",
-    "updatedAt": "2026-09-03T08:06:52Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
-    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-    "keyPoints": [
-      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
-      "Виправлення стосується комплектів для швидкого реагування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "безпека",
-      "медичні комплекти",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Проблема з наборами для внутрішньовенних інфузій від Avid Medical",
     "abstract": "Avid Medical відкликає деякі набори через можливе забруднення Aspergillus penicillioides.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
@@ -260,6 +312,32 @@
       "інфекція",
       "відкликання",
       "медичні набори"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
+    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-27T14:16:46Z",
+    "updatedAt": "2026-08-27T14:16:46Z",
+    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+    "keyPoints": [
+      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
+      "Можливе відокремлення кінчика під час застосування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетер",
+      "безпека",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -287,32 +365,6 @@
       "NaCl",
       "забруднення",
       "фармацевтика",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
-    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-27T14:16:46Z",
-    "updatedAt": "2026-08-27T14:16:46Z",
-    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
-    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
-    "keyPoints": [
-      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
-      "Можливе відокремлення кінчика під час застосування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетер",
-      "безпека",
       "FDA"
     ],
     "priorityScore": 8,
@@ -581,62 +633,6 @@
       "новонароджені",
       "медичне обладнання",
       "Medline"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук Victory Medical Center Pharmacy щодо глутатіону через підвищені рівні ендотоксинів",
-    "abstract": "Victory Medical Center Pharmacy проводить добровільний відклик ліків глутатіону через виявлення підвищених рівнів бактеріальних ендотоксинів.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/victory-medical-center-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-10T22:20:51Z",
-    "updatedAt": "2026-08-10T22:20:51Z",
-    "originalTitle": "Victory Medical Center Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – August 5, 2026 – Austin, Texas, Victory Medical Center Pharmacy is voluntarily recalling certain lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin leve",
-    "keyPoints": [
-      "Відкликання стосується певних партій глутатіону 200 мг/мл.",
-      "Проведено через виявлення підвищених рівнів бактеріальних ендотоксинів.",
-      "Відгук здійснюється по всій країні, починаючи з 5 серпня 2026 року."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "глутатіон",
-      "ендотоксини",
-      "фармація",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання партії морфіну через помилку з етикеткою",
-    "abstract": "Fresenius Kabi проводить добровільний відкликання однієї партії розчину морфіну через неправильну етикетку.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fresenius-kabi-issues-voluntary-nationwide-recall-one-lot-morphine-sulfate-injection-usp-simplistr",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-07T16:22:43Z",
-    "updatedAt": "2026-08-07T16:22:43Z",
-    "originalTitle": "Fresenius Kabi Issues Voluntary Nationwide Recall of One Lot of Morphine Sulfate Injection, USP in a Simplist® Prefilled Syringe Due to Labeling Mix-up",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – 8/4/2026 – LAKE ZURICH, Ill.— Fresenius Kabi, an operating company of the Fresenius Group, is voluntarily recalling one lot of Morphine Sulfate Injection USP, Simplist® 2 mg/1 mL due to a label mix-up. The MicroVault labeled as Morphine 2 mg/1 mL, may contain a Prefilled Syri",
-    "keyPoints": [
-      "Відкликання стосується однієї партії, дата 4/8/2026",
-      "Має місце помилка з етикеткою MicroVault і Simplist®",
-      "Партія містить 2 мг/1 мл морфіну"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "морфін",
-      "лікарські засоби",
-      "безпека",
-      "фармація"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
