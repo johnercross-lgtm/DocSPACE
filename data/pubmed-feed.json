@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42750776",
+    "title": "Гомозигентність CTLA-4 спричиняє пізній розвиток аутоімунних захворювань у мишей",
+    "journal": "iScience",
+    "publishedAt": "2026-09-18T00:00:00Z",
+    "abstract": "Дослідження на мишах з мутацією Y139C у гені CTLA4 показало, що у молодих гетерозиготних особин спостерігаються ознаки лімфопроліферації та активовані Т-клітини, але без проявів аутоімунії. Це свідчить про можливий розвиток аутоімунних патологій у дорослому віці при гомозигентності CTLA-4.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750776/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-17T14:27:29Z",
+    "originalTitle": "CTLA-4 haploinsufficiency leads to late-onset autoimmune pathology in mice.",
+    "originalAbstract": "In humans, the loss of function in a single copy of the CTLA4 gene leads to an immune disorder characterized by a spectrum of immunodeficient and autoimmune manifestations. To investigate the pathogenicity of CTLA-4 haploinsufficiency, we utilized a heterozygous mouse model carrying a patient-derived Y139C mutation. We found that young heterozygous mice exhibited lymphoproliferative features and an activated T cell phenotype, without displaying autoimmunity. Co-culture assays revealed impaired t",
+    "keyPoints": [
+      "У молодих гетерозиготних мишей спостерігаються ознаки лімфопроліферації.",
+      "Автоімунні прояви у мишей з цією мутацією з'являються пізніше.",
+      "Мутація Y139C у CTLA4 може бути пов'язана з розвитком аутоімунних захворювань."
+    ],
+    "practicalTakeaway": "Дослідження вказують на потенційний зв'язок між гомозигентністю CTLA-4 та розвитком аутоімунних захворювань у дорослому віці.",
+    "specialty": "імунологія",
+    "tags": [
+      "імунологія",
+      "аутоімунітет",
+      "генетика"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42750775",
+    "title": "Зміни у емоційних оцінках опікунів під час навігаційних сесій у нейроонкології",
+    "journal": "Neuro-oncology practice",
+    "publishedAt": "2026-10-01T00:00:00Z",
+    "abstract": "Дослідження аналізує вплив програми CARING, яка надає підтримку опікунам пацієнтів з нейроонкологічними захворюваннями через телефонні сесії. Аналізуються зміни у рівнях стресу, розчарування, контролю та надії у процесі восьми тижневих індивідуальних сесій. Результати допомагають зрозуміти, як навігаційна підтримка впливає на емоційний стан опікунів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750775/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-17T14:27:29Z",
+    "originalTitle": "Change in caregiver emotional ratings in response to neuro-oncology caregiver navigation sessions.",
+    "originalAbstract": "The CARING intervention is designed to help neuro-oncology caregivers recognize existing social support and improve coping. Caregivers received 8 weekly phone-based individual manualized sessions with a navigator. Our objective was to understand the impact of CARING navigation sessions on ratings of stress, frustration, in control, and hopefulness for each session and across the sessions. In this secondary analysis of data from a randomized controlled trial of CARING, caregiver self-report emoti",
+    "keyPoints": [
+      "Програма CARING передбачає телефонну підтримку опікунів нейроонкологічних пацієнтів.",
+      "Аналізуються зміни у емоційних оцінках опікунів під час сесій.",
+      "Дослідження сприяє розумінню впливу навігаційної підтримки на емоційний стан опікунів."
+    ],
+    "practicalTakeaway": "Навігаційна підтримка може позитивно впливати на емоційний стан опікунів пацієнтів з нейроонкологією.",
+    "specialty": "неврологія",
+    "tags": [
+      "нейроонкологія",
+      "психологічна підтримка",
+      "дослідження"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42750773",
+    "title": "Використання медичних ресурсів та 30-денні госпітальні витрати після хірургії мозкових пухлин: одноперсональне дослідження",
+    "journal": "Neuro-oncology practice",
+    "publishedAt": "2026-10-01T00:00:00Z",
+    "abstract": "Дослідження аналізує госпітальні витрати та використання медичних ресурсів у перші 30 днів після операцій з видалення мозкових пухлин. Виявлено ключові фактори, що впливають на вартість лікування, що має значення для оптимізації ресурсів у нейроонкології.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42750773/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-17T14:27:29Z",
+    "originalTitle": "Healthcare utilization and 30-day in-hospital costs following brain tumor surgery: A single-center, retrospective cohort study.",
+    "originalAbstract": "Brain tumors cause more than 248 000 deaths annually, and their incidence continues to rise. Despite medical advances, outcomes have improved marginally, and the associated economic burden is substantial. European spending was estimated at €37.8 billion in 2019. Although several cost drivers have been identified, robust and methodologically sound cost evaluations remain limited. This study aimed to quantify 30-day in-hospital healthcare consumption and identify cost drivers in brain tumor surger",
+    "keyPoints": [
+      "Проаналізовано госпітальні витрати у перші 30 днів після операції.",
+      "Виявлено основні драйвери витрат у лікуванні мозкових пухлин.",
+      "Дослідження базується на даних однієї медичної установи."
+    ],
+    "practicalTakeaway": "Розуміння факторів, що впливають на витрати після хірургії мозкових пухлин, може допомогти у плануванні ресурсів та покращенні економічної ефективності лікування.",
+    "specialty": "неврологія",
+    "tags": [
+      "економіка охорони здоровʼя",
+      "нейроонкологія",
+      "госпітальні витрати"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42725902",
     "title": "Пам'ять про Деніела Л. Кастнера, MD (1951–2026)",
     "journal": "Journal of Human Immunity",
@@ -192,90 +276,6 @@
       "охорона здоров'я"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42710066",
-    "title": "Цільова терапія комплементу в аутоімунних захворюваннях",
-    "journal": "Current opinion in hematology",
-    "publishedAt": "2026-07-28T00:00:00Z",
-    "abstract": "Комплемент є ключовим фактором у механізмах ушкодження клітин і тканин при гемато- та аутоімунних захворюваннях. Останні дослідження сприяли впровадженню нових інгібіторів у клінічну практику. Огляд підсумовує механізми дії комплементу у системних, гемато- та ниркових аутоімунних захворюваннях, аналізує нові біомаркери та терапевтичні підходи.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710066/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-08T23:41:58Z",
-    "originalTitle": "Complement targeting in autoimmune diseases.",
-    "originalAbstract": "Complement is a central effector of cell and tissue injury in hematological and autoimmune diseases, and recent intensive research brought new inhibitors to the clinic. This review summarizes complement-mediated mechanisms across hematological, systemic, and kidney-specific autoimmune diseases, appraises emerging biomarker strategies, and evaluates these therapies. For years, clinical complement inhibition was possible only at C5, first in paroxysmal nocturnal hemoglobinuria. The arsenal has now",
-    "keyPoints": [
-      "Комплемент відіграє важливу роль у розвитку аутоімунних захворювань.",
-      "Нові інгібітори комплементу вже застосовуються у клініці.",
-      "Досліджуються біомаркери для оцінки терапевтичної ефективності."
-    ],
-    "practicalTakeaway": "Враховуйте можливості цільової терапії комплементу при лікуванні аутоімунних захворювань.",
-    "specialty": "імунологія",
-    "tags": [
-      "аутоімунні захворювання",
-      "комплемент",
-      "терапія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42710064",
-    "title": "Автоактивні Т-клітини CD1a у сенсориці пошкодження шкіри",
-    "journal": "The British journal of dermatology",
-    "publishedAt": "2026-09-08T00:00:00Z",
-    "abstract": "Дослідження вивчає роль Т-клітин, зокрема CD1a-реактивних, у виявленні пошкоджень шкіри. Виявлено, що клітини Лангерганса, які беруть участь у цій процесі, змінюються при атопічному дерматиті, але роль CD1a у розвитку захворювання залишається недостатньо дослідженою.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42710064/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-08T23:41:58Z",
-    "originalTitle": "CD1a-autoreactive T cell sensing of skin barrier compromise.",
-    "originalAbstract": "T cells are often enriched at barrier tissues, yet little is known of their roles in barrier sensing and relevance to associated disease. CD1a is a Major Histocompatibility Complex class I-like molecule expressed by Langerhans cells, which forms complexes with lipid antigens to facilitate recognition by non-classical CD1a-reactive T cells. Langerhans cells are altered in lesional atopic dermatitis (AD) skin, but the role of CD1a in disease pathogenesis has not been extensively investigated. Huma",
-    "keyPoints": [
-      "Т-клітини відіграють роль у сенсориці пошкоджень шкіри.",
-      "CD1a-реактивні Т-клітини можуть бути залучені у патогенез атопічного дерматиту.",
-      "Зміни клітин Лангерганса пов'язані з пошкодженнями шкіри."
-    ],
-    "practicalTakeaway": "Розуміння ролі CD1a-реактивних Т-клітин може сприяти розвитку нових підходів до лікування дерматитів.",
-    "specialty": "дерматологія",
-    "tags": [
-      "імунологія",
-      "дерматологія",
-      "інфекційні хвороби"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42701091",
-    "title": "Біологічні ефекти технічно-специфічної мануальної терапії у здорових та пацієнтів із м'язово-скелетними порушеннями: систематичний огляд із мета-аналізом",
-    "journal": "The Journal of manual & manipulative therapy",
-    "publishedAt": "2026-09-05T00:00:00Z",
-    "abstract": "Цей систематичний огляд та мета-аналіз оцінює нейрофізіологічні та метаболічні ефекти мануальної терапії, зокрема різниці між техніками (з високою швидкістю та малою амплітудою проти інших) та анатомічними регіонами. Вивчення спрямоване на розкриття біологічних механізмів дії цієї терапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42701091/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-06T07:57:18Z",
-    "originalTitle": "Biological effects of technique-specific manual therapy in healthy individuals and people with musculoskeletal disorders: a systematic review with meta-analysis.",
-    "originalAbstract": "Introduction Manual therapy (MT) is widely recommended for musculoskeletal disorders, yet its biological mechanisms remain poorly synthesized, with existing evidence often aggregating distinct techniques and outcome domains. This systematic review and meta-analysis evaluates the neurophysiological and metabolic effects of MT, exploring differences between technique characteristics (high-velocity low-amplitude [HVLA] vs. non-HVLA) and anatomical regions. Methods Registered prospectively (PROSPERO",
-    "keyPoints": [
-      "Огляд досліджує біологічні механізми мануальної терапії.",
-      "Розглядаються різні техніки та регіони застосування.",
-      "Зосереджено на нейрофізіологічних та метаболічних ефектах."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають краще зрозуміти біологічні механізми мануальної терапії.",
-    "specialty": "неврологія",
-    "tags": [
-      "мануальна терапія",
-      "біологічні механізми",
-      "мета-аналіз"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
