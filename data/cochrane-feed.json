@@ -1,5 +1,83 @@
 [
   {
+    "title": "Фізіотерапія у кардіології для хворих на коронарну хворобу серця",
+    "abstract": "Дослідження аналізує ефективність фізіотерапії у рамках кардіологічної реабілітації для пацієнтів із коронарною хворобою серця. Виявлено, що програми, що включають фізичну активність, мають потенціал покращити клінічні результати та знизити ризики у цій групі пацієнтів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001800.pub5/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-18T00:00:00Z",
+    "updatedAt": "2026-09-18T08:18:43Z",
+    "originalTitle": "Exercise-based cardiac rehabilitation for coronary heart disease.",
+    "originalAbstract": "Coronary heart disease (CHD) is the leading cause of death globally. CHD mortality rates remain steady in low- and middle-income countries but are declining in high-income countries, meaning more people are living with CHD and need support to manage their symptoms and prognosis. Exercise-based cardiac rehabilitation (CR) aims to improve the health outcomes of people with CHD. To assess the clinical and cost-effectiveness of exercise-based CR (exercise training alone or combined with psychosocial…",
+    "keyPoints": [
+      "Фізіотерапія може покращити результати у пацієнтів із коронарною хворобою.",
+      "Програми реабілітації, що включають фізичну активність, мають потенціал знизити ризики.",
+      "Дослідження аналізує клінічну та економічну ефективність таких програм."
+    ],
+    "practicalTakeaway": "Реабілітаційні програми з фізичною активністю можуть бути корисними для пацієнтів із коронарною хворобою серця.",
+    "specialty": "кардіологія",
+    "tags": [
+      "кардіологія",
+      "реабілітація",
+      "фізична активність"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Модулатори прогестеронового рецептора при ендометріозі",
+    "abstract": "Ендометріоз — це наявність тканини, схожої на ендометрій, за межами матки, залежна від естрогену і поширена переважно у репродуктивному віці. Модулатори прогестеронового рецептора мають протипроліферативний ефект на ендометрій і використовуються для лікування цього стану. Оновлений аналіз оцінює їхню ефективність і безпеку.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009881.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-18T08:18:43Z",
+    "originalTitle": "Progesterone receptor modulators for endometriosis.",
+    "originalAbstract": "Endometriosis is defined as the presence of endometrium-like tissue developing outside the uterine cavity. This condition is oestrogen-dependent and thus is seen primarily during the reproductive years. Owing to their antiproliferative effects on the endometrium, progesterone receptor modulators (PRMs) have been advocated for the treatment of endometriosis. This is an update of a Cochrane review previously published in 2017. To assess the effectiveness and safety of progesterone receptor modulat…",
+    "keyPoints": [
+      "Модулатори прогестеронового рецептора застосовуються для лікування ендометріозу.",
+      "Дослідження аналізує їхню ефективність і безпеку.",
+      "Оновлений аналіз базується на попередньому огляді 2017 року."
+    ],
+    "practicalTakeaway": "Використання модулюючих прогестеронових рецепторів може мати потенційний терапевтичний ефект при ендометріозі, але потребує подальших досліджень.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "ендометріоз",
+      "прогестерон",
+      "лікування"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Фармакологічні засоби для зниження рівня ліпідів у крові при профілактиці серцево-судинних захворювань",
+    "abstract": "Мета дослідження — порівняти ефективність та безпеку різних препаратів для зниження рівня ліпідів у крові, включаючи статини різної інтенсивності, нестатинові засоби та їх комбінації, для первинної та вторинної профілактики серцево-судинних захворювань у дорослих. Аналіз передбачає використання парних та мережевих метааналізів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016387/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-16T00:00:00Z",
+    "updatedAt": "2026-09-18T08:18:43Z",
+    "originalTitle": "Pharmacological lipid-lowering therapies for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia: a systematic review and network meta-analysis.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: Primary To compare the effects and safety of lipid-lowering therapies, including statin regimens (high intensity, moderate intensity, and low intensity), non-statin therapies, and combination regimens, for the primary and secondary prevention of cardiovascular disease in adults, using pairwise and network meta-analysis where appropriate. Secondary To obtain an estimate of the relative ranking of these lipid-l…",
+    "keyPoints": [
+      "Порівнюються різні препарати для зниження ліпідів.",
+      "Мета — визначити їх ефективність і безпеку.",
+      "Дослідження охоплює первинну і вторинну профілактику."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективні та безпечні засоби для зниження рівня ліпідів у крові у дорослих.",
+    "specialty": "кардіологія",
+    "tags": [
+      "ліпідемія",
+      "серцево-судинні захворювання",
+      "ліпідознижуючі препарати"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Прийом йоду для запобігання йододефіцитних розладів у дітей та підлітків",
     "abstract": "Йод є важливим мікроелементом, необхідним для синтезу щитовидних гормонів, що впливають на ріст і нейрологічний розвиток. Запобігання йододефіциту у дітей є пріоритетом, оскільки його наслідки включають ендемічний зоб, затримку росту, порушення розвитку нервової системи, інтелектуальні порушення та дитячу смертність.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014475.pub2/full",
@@ -178,84 +256,6 @@
       "антибіотики"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Неонатальні ускладнення у пізньо-ранніх та ранніх термінах: систематичний огляд досліджень",
-    "abstract": "Цей протокол передбачає оцінку неонатальних ускладнень, зокрема смертності та захворювань, у немовлят, народжених у пізньо-ранніх та ранніх термінах, порівняно з повнотерміновими новонародженими.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016188/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-04T00:00:00Z",
-    "updatedAt": "2026-09-14T16:00:05Z",
-    "originalTitle": "Neonatal complications in late-preterm and early-term infants: a systematic review of observational studies.",
-    "originalAbstract": "This is a protocol for a Cochrane review (flexible). The objectives are as follows: To assess neonatal complications, specifically neonatal mortality and morbidities, in late-preterm and early-term infants compared to full-term newborns.",
-    "keyPoints": [
-      "Оцінка неонатальної смертності та ускладнень у різних термінах народження.",
-      "Порівняння ризиків між пізньо-ранніми, ранніми та повнотерміновими новонародженими.",
-      "Збір даних з досліджень для визначення потенційних ризиків ускладнень."
-    ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення ризиків ускладнень у новонароджених, народжених у пізньо-ранніх та ранніх термінах.",
-    "specialty": "нефрологія",
-    "tags": [
-      "неонатологія",
-      "доказова медицина",
-      "дослідження"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Сульфат магнію для жінок із ризиком передчасних пологів для нейропротекції плода",
-    "abstract": "Ця публікація оновлює аналіз щодо застосування сульфату магнію у жінок із ризиком передчасних пологів з метою нейропротекції плода. Попередні дослідження показали його потенційні переваги у запобіганні церебрального паралічу у дітей. Оновлений аналіз враховує нові рандомізовані контрольовані дослідження та довгострокові результати попередніх.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004661.pub5/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-03T00:00:00Z",
-    "updatedAt": "2026-09-04T13:47:00Z",
-    "originalTitle": "Magnesium sulphate for women at risk of preterm birth for neuroprotection of the fetus.",
-    "originalAbstract": "Magnesium sulphate is a common therapy in perinatal care. Its benefits when given to women at risk of preterm birth for fetal neuroprotection (prevention of cerebral palsy for children) were shown in a 2009 Cochrane review. Internationally, use of magnesium sulphate for preterm cerebral palsy prevention is now recommended practice. As new randomised controlled trials (RCTs) and longer-term follow-up of prior RCTs have since been conducted, this review updates the previously published version. To…",
-    "keyPoints": [
-      "Сульфат магнію застосовується для нейропротекції плода при ризику передчасних пологів.",
-      "Попередні дослідження вказують на можливу користь у запобіганні церебрального паралічу.",
-      "Оновлений аналіз враховує нові дослідження та довгострокові результати."
-    ],
-    "practicalTakeaway": "Застосування сульфату магнію у жінок із ризиком передчасних пологів може мати потенційні переваги для нейропротекції плода, але необхідні додаткові дослідження для підтвердження ефективності.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "нейропротекція",
-      "передчасні пологи",
-      "сульфат магнію"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Мультисенсорна стимуляція для підтримки розвитку та профілактики захворювань у недоношених немовлят",
-    "abstract": "Мультисенсорна стимуляція — це структурований підхід, що передбачає стимуляцію двох або більше сенсорних систем у недоношених немовлят з метою підтримки їхнього раннього нейророзвитку. Вона може сприяти стабілізації фізіологічних функцій, таких як дихальні ритми, частота серцевих скорочень і насичення киснем.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016073.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-03T00:00:00Z",
-    "updatedAt": "2026-09-04T13:47:00Z",
-    "originalTitle": "Multisensory stimulation for promoting development and preventing morbidity in preterm infants.",
-    "originalAbstract": "Multisensory stimulation is a structured, developmentally appropriate intervention that provides simultaneous or sequential stimulation of two or more senses (e.g. tactile, auditory, visual, or vestibular) in a controlled and non-stressful manner, with the aim of supporting early neurodevelopment in preterm infants. It has the potential to enhance physiological regulation in preterm infants by stabilizing key functions, such as respiratory patterns, heart rate, and oxygen saturation; reducing th…",
-    "keyPoints": [
-      "Мультисенсорна стимуляція може підтримати нейророзвиток недоношених.",
-      "Ця терапія сприяє стабілізації фізіологічних функцій.",
-      "Дослідження вивчає її потенціал у профілактиці захворювань."
-    ],
-    "practicalTakeaway": "Мультисенсорна стимуляція може бути корисною для підтримки розвитку недоношених немовлят.",
-    "specialty": "педіатрія",
-    "tags": [
-      "нейророзвиток",
-      "недоношені",
-      "стимуляція"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
