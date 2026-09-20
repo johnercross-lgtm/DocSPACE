@@ -1,5 +1,57 @@
 [
   {
+    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
+    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
+    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+    "keyPoints": [
+      "Оновлення інструкцій для системи NOxBOXi.",
+      "Можливий витік кисню під час терапії.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "оксид азоту",
+      "інструкція",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
+    "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
+    "originalAbstract": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
+    "keyPoints": [
+      "Видалення продукту стосується Sodium Chloride Flush.",
+      "Виробник — Huons Co., Ltd.",
+      "Джерело — FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "фармацевтика",
+      "відгук",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відкликання капсул для моніторингу кислотності стравоходу",
     "abstract": "Компанії Medtronic і Given Imaging відкликали капсули Bravo CF через можливість несправності.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
@@ -106,32 +158,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з дихальним контуром Draeger",
-    "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-16T18:59:52Z",
-    "updatedAt": "2026-09-16T18:59:52Z",
-    "originalTitle": "Early Alert: Breathing Circuit Issue from Draeger",
-    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-    "keyPoints": [
-      "Відкликання hoses VentStar Resus Neo",
-      "Можливість тріщин у hoses",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "дихальна система",
-      "безпека медичного обладнання",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Оновлення системи моніторингу Portrait Core Services",
     "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
@@ -152,6 +178,34 @@
       "моніторинг",
       "Portrait",
       "оновлення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання розчину натрію хлориду B. Braun через частки",
+    "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-08-30T23:56:15Z",
+    "updatedAt": "2026-08-30T23:56:15Z",
+    "originalTitle": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to presence of particulate matter identified a",
+    "keyPoints": [
+      "Відкликання стосується трьох партій розчину натрію хлориду 100 мл, у контейнерах по 150 мл.",
+      "Дата оголошення: 19 серпня 2026 року.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "натрій хлорид",
+      "частки",
+      "FDA",
+      "медична безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -184,28 +238,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання розчину натрію хлориду B. Braun через частки",
-    "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+    "title": "Проблема з дихальним контуром Draeger",
+    "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-08-30T23:56:15Z",
-    "updatedAt": "2026-08-30T23:56:15Z",
-    "originalTitle": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to presence of particulate matter identified a",
+    "publishedAt": "2026-09-16T18:59:52Z",
+    "updatedAt": "2026-09-16T18:59:52Z",
+    "originalTitle": "Early Alert: Breathing Circuit Issue from Draeger",
+    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
     "keyPoints": [
-      "Відкликання стосується трьох партій розчину натрію хлориду 100 мл, у контейнерах по 150 мл.",
-      "Дата оголошення: 19 серпня 2026 року.",
-      "Джерело: FDA."
+      "Відкликання hoses VentStar Resus Neo",
+      "Можливість тріщин у hoses",
+      "Джерело: FDA"
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "відкликання",
-      "натрій хлорид",
-      "частки",
-      "FDA",
-      "медична безпека"
+      "дихальна система",
+      "безпека медичного обладнання",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -579,60 +631,6 @@
       "відгук",
       "дихальні контури",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення щодо катетерних вводників: Abiomed та Oscor",
-    "abstract": "Компанії Abiomed і Oscor повідомили про можливу витік у катетерних вводниках 14Fr і 23Fr, що може підвищити ризик кровотечі в місці доступу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-introducer-correction-abiomed-and-oscor-issue-correction-catheter-introducer",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-10T22:20:51Z",
-    "updatedAt": "2026-08-10T22:20:51Z",
-    "originalTitle": "Catheter Introducer Correction: Abiomed and Oscor Issue Correction for Catheter Introducer",
-    "originalAbstract": "Abiomed and Oscor have identified a potential for introducer sheath leakage in 14Fr and 23Fr Introducers that may increase the risk of access-site bleeding.",
-    "keyPoints": [
-      "14Fr і 23Fr вводники, період не вказаний",
-      "Можлива витік у sheath, ризик кровотечі",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетерні вводники",
-      "безпека медичних пристроїв",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання медичних дихальних систем для новонароджених від Medline",
-    "abstract": "Medline оголосила про всеукраїнське відкликання певних моделей дихальних систем для новонароджених через випадки несправностей.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/medline-industries-lp-issues-nationwide-recall-hudson-rci-neonatalinfant-heated-wire-breathing",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-07T16:22:43Z",
-    "updatedAt": "2026-08-07T16:22:43Z",
-    "originalTitle": "Medline Industries, LP Issues Nationwide Recall of Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits",
-    "originalAbstract": "On July 13, 2026, Medline Industries, LP initiated a nationwide recall of Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits. Medline received reports of sporadic failures involving the electrical connector of certain neonatal and infant heated wire breathing circuits. In affected circuits, t",
-    "keyPoints": [
-      "Дата відкликання: 13 липня 2026 року",
-      "Відкликано моделі Hudson RCI Neonatal/Infant Heated Wire Breathing Circuits",
-      "Повідомлення про несправності електричних з'єднань у системах"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "дихальні системи",
-      "новонароджені",
-      "медичне обладнання",
-      "Medline"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
