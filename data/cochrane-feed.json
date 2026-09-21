@@ -1,5 +1,83 @@
 [
   {
+    "title": "Діагностична точність біологічних маркерів для виявлення обструктивного апное сну",
+    "abstract": "Це протокол для дослідження, яке має оцінити точність будь-яких біологічних маркерів, знайдених у крові, слині, сечі або конденсаті дихання, для виявлення обструктивного апное сну (OSA) у дорослих. Дослідження також аналізуватиме ефективність окремих маркерів або їх комбінацій у порівнянні з полісомнографією та домашніми тестами.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016281/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-21T00:00:00Z",
+    "updatedAt": "2026-09-21T16:00:57Z",
+    "originalTitle": "Diagnostic accuracy of biological markers for detecting obstructive sleep apnoea.",
+    "originalAbstract": "This is a protocol for a Cochrane review (diagnostic). The objectives are as follows: To determine the accuracy of any type of biological marker found in blood, saliva, urine or breath condensation to detect obstructive sleep apnoea (OSA) in adults (> 18 years). Secondary objectives To identify the accuracy of individual biomarkers alone or in combination for detecting OSA. To find the accuracy of biological markers compared to overnight polysomnography (PSG) and home sleep apnoea test (HSAT). T…",
+    "keyPoints": [
+      "Оцінюється точність біологічних маркерів для діагностики OSA.",
+      "Розглядаються маркери з крові, слини, сечі та дихання.",
+      "Порівнюється з полісомнографією та домашніми тестами."
+    ],
+    "practicalTakeaway": "Дослідження має визначити потенціал біологічних маркерів у діагностиці обструктивного апное сну.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "діагностика",
+      "обструктивний апнея сну",
+      "біологічні маркери"
+    ],
+    "priorityScore": 5,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Напівсидяче положення для профілактики вентилюваної пневмонії у дорослих на штучній вентиляції легень",
+    "abstract": "Вентилювана пневмонія (ВП) пов'язана з підвищеною смертністю, тривалістю госпіталізації та витратами. Хоча рекомендації вказують на використання напівсидячого положення для запобігання ВП, доказова база залишаєтья неоднозначною. Оновлений аналіз переглядає дані щодо ефективності та безпеки цього методу у пацієнтів на механічній вентиляції.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009946.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-21T00:00:00Z",
+    "updatedAt": "2026-09-21T16:00:57Z",
+    "originalTitle": "Semi-recumbent position for the prevention of ventilator-associated pneumonia in adults requiring mechanical ventilation.",
+    "originalAbstract": "Ventilator-associated pneumonia (VAP) is associated with increased mortality, hospital stay, and healthcare costs in critically ill patients. Although guidelines recommend a semi-recumbent position for VAP prevention, the evidence remains uncertain due to limitations in prior reviews. This update revises the 2016 review. To assess the effectiveness and safety of semi-recumbent versus supine or another positioning, and different degrees or types of semi-recumbent positioning in mechanically venti…",
+    "keyPoints": [
+      "Напівсидяче положення може знижувати ризик ВП.",
+      "Доказова база має обмеження та потребує уточнення.",
+      "Рекомендується враховувати індивідуальні особливості пацієнта."
+    ],
+    "practicalTakeaway": "При застосуванні напівсидячого положення слід враховувати індивідуальні особливості пацієнта та клінічний контекст.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "пневмонія",
+      "інтенсивна терапія"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Міфепристон проти інших методів для запобігання вагітності у жінок репродуктивного віку, що використовують екстрену контрацепцію",
+    "abstract": "Дослідження оцінює ефективність, безпеку та прийнятність міфепристону порівняно з іншими методами у жінок репродуктивного віку, які застосовують екстрену контрацепцію для запобігання вагітності.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016275/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-21T00:00:00Z",
+    "updatedAt": "2026-09-21T16:00:57Z",
+    "originalTitle": "Mifepristone versus other interventions for the prevention of pregnancy in reproductive-age women using emergency contraception.",
+    "originalAbstract": "Emergency contraception uses drugs or intrauterine devices to prevent pregnancy after unprotected intercourse. Understanding the effectiveness, safety, and acceptability of the various methods available is critical for reproductive healthcare providers and their patients. To evaluate the effectiveness, safety, and acceptability of mifepristone compared to other interventions in reproductive-age women using emergency contraception for the prevention of pregnancy. We used CENTRAL, MEDLINE, Embase,…",
+    "keyPoints": [
+      "Міфепристон може бути ефективним у запобіганні вагітності після незахищеного статевого акту.",
+      "Безпека та прийнятність міфепристону порівнюються з іншими методами екстреної контрацепції.",
+      "Дослідження базується на аналізі даних з різних джерел, включаючи CENTRAL, MEDLINE та Embase."
+    ],
+    "practicalTakeaway": "Міфепристон є потенційно ефективним варіантом для екстреної контрацепції, але потребує додаткових досліджень щодо безпеки та прийнятності.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "контрацепція",
+      "екстрена контрацепція",
+      "міфепристон"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Фізіотерапія у кардіології для хворих на коронарну хворобу серця",
     "abstract": "Дослідження аналізує ефективність фізіотерапії у рамках кардіологічної реабілітації для пацієнтів із коронарною хворобою серця. Виявлено, що програми, що включають фізичну активність, мають потенціал покращити клінічні результати та знизити ризики у цій групі пацієнтів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001800.pub5/full",
@@ -176,84 +254,6 @@
       "хірургія",
       "урологія",
       "доказова медицина"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Лікування симптоматичної гіпермобільності у дітей",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг і ризиків консервативних, фармакологічних, хірургічних та багатокомпонентних втручань для мʼязово-скелетних симптомів у дітей із станами, асоційованими з гіпермобільністю.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016390/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-07T00:00:00Z",
-    "updatedAt": "2026-09-07T19:19:42Z",
-    "originalTitle": "Treatment for symptomatic hypermobility in childhood.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of conservative, pharmacological, surgical, and multi-component interventions for musculoskeletal symptoms in children with hypermobility-associated conditions.",
-    "keyPoints": [
-      "Оцінюється ефективність різних методів лікування гіпермобільності у дітей.",
-      "Розглядаються консервативні, фармакологічні та хірургічні підходи.",
-      "Мета — визначити баланс користі та ризиків для пацієнтів."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш обґрунтовані підходи до лікування гіпермобільності у дітей.",
-    "specialty": "педіатрія",
-    "tags": [
-      "доказова медицина",
-      "дитяча медицина",
-      "м'язово-скелетні захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Довгострокове гормональне лікування у перименопаузі та постменопаузі",
-    "abstract": "Це оновлений аналіз досліджень, що оцінює довгострокові (не менше одного року) наслідки застосування гормональної терапії у жінок у період перименопаузи та постменопаузи. Мета — визначити вплив на смертність, серцево-судинні захворювання, рак, захворювання жовчного міхура, переломи та когнітивні функції.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004143.pub7/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-04T00:00:00Z",
-    "updatedAt": "2026-09-07T19:19:42Z",
-    "originalTitle": "Long-term hormone therapy for perimenopausal and postmenopausal women.",
-    "originalAbstract": "Hormone therapy is widely provided to control menopausal symptoms and has been used for the management and prevention of cardiovascular disease, osteoporosis and dementia in older women. This is an updated version of a Cochrane review first published in 2005. To assess the long-term effects of prolonged use (at least one year) of hormone therapy on mortality, cardiovascular outcomes, cancer, gallbladder disease, fractures and cognition in perimenopausal and postmenopausal women. We used the Coch…",
-    "keyPoints": [
-      "Дослідження аналізує довгостроковий вплив гормональної терапії.",
-      "Розглядаються наслідки для серцево-судинної системи, раку та когнітивних функцій.",
-      "Збір даних оновлений з 2005 року."
-    ],
-    "practicalTakeaway": "Застосування гормональної терапії має враховувати потенційні довгострокові наслідки для здоровʼя.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "гормональна терапія",
-      "жінки у перименопаузі та постменопаузі",
-      "довгострокові наслідки"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Профілактика інфекцій при імплантації зубів з кістковою аугментацією: протокол дослідження",
-    "abstract": "Це протокол для дослідження, яке має оцінити ефективність та можливі шкоди системної профілактики антибіотиками у пацієнтів, що проходять імплантацію зубів з кістковою аугментацією. Також буде проаналізовано, чи впливають доза, тривалість, час застосування та тип антибіотика на результати.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016385/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-04T00:00:00Z",
-    "updatedAt": "2026-09-07T19:19:42Z",
-    "originalTitle": "Interventions for replacing missing teeth: antibiotic prophylaxis for dental implant placement with bone augmentation procedures.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of systemic prophylactic antibiotics versus no antibiotics or placebo in people undergoing dental implant placement with concomitant bone augmentation procedures, and to assess whether the effects of systemic prophylactic antibiotics differ according to the dosage, duration, timing of administration, and type of antibiotic.",
-    "keyPoints": [
-      "Оцінюється ефективність профілактики антибіотиками при імплантації зубів з кістковою аугментацією.",
-      "Дослідження порівнює системну профілактику антибіотиками з відсутністю антибіотиків або плацебо.",
-      "Аналізує вплив дози, тривалості та типу антибіотика на результати."
-    ],
-    "practicalTakeaway": "Дослідження спрямоване на визначення оптимальних підходів до застосування антибіотиків при імплантації з кістковою аугментацією.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "інфекційні хвороби",
-      "стоматологія",
-      "антибіотики"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
