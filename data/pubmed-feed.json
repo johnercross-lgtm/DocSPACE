@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42774038",
+    "title": "Вплив інтернету на довіру до лікарів у Китаї",
+    "journal": "Frontiers in public health",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження аналізує причинно-наслідковий зв'язок між використанням інтернету та рівнем довіри до лікарів серед китайських мешканців. Використовуючи дані з панельних досліджень за 2016–2022 роки, автори застосували модель з двонаправленими фіксованими ефектами та метод збігу за ймовірністю для контролю за змінними. Результати сприяють розумінню змін у відносинах між лікарями та пацієнтами у цифрову епоху.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774038/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-23T14:26:20Z",
+    "originalTitle": "Promotion or suppression? Does internet use by the Chinese public affect physician trust?",
+    "originalAbstract": "This study aims to explore the causal relationship between internet use and the level of physician trust among Chinese residents, providing rigorous empirical evidence for understanding the changes in doctor-patient relationships in the digital era. Using four waves of panel data from the China Family Panel Studies (CFPS) spanning 2016 to 2022, we construct a two-way fixed effects model to control for individual and time heterogeneity. We further employ propensity score matching (PSM) to allevia",
+    "keyPoints": [
+      "Досліджено вплив інтернету на довіру до лікарів у Китаї.",
+      "Застосовано панельні дані та методи статистичного аналізу.",
+      "Результати допомагають зрозуміти зміни у відносинах лікар-пацієнт у цифрову епоху."
+    ],
+    "practicalTakeaway": "Розуміння впливу інтернету на довіру до лікарів може допомогти у формуванні стратегій покращення комунікації у медичній сфері.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "інтернет",
+      "довіра до лікаря",
+      "Китай"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42774031",
+    "title": "Протизапальна дія флувоксаміну у моделі уретиту у щурів",
+    "journal": "Molecular vision",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження оцінювало потенційний захисний ефект флувоксаміну, селективного інгібітора зворотного захоплення серотоніну з відомими протизапальними властивостями, на тканини рогівки, лімбу та сітківки у моделі уретиту, викликаного ендотоксином у щурів. Вивчали клінічні та гістопатологічні зміни у чотирьох групах тварин.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774031/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-23T14:26:20Z",
+    "originalTitle": "Anti-inflammatory action of fluvoxamine in an endotoxin-induced uveitis rat model: Histopathological evidence.",
+    "originalAbstract": "To investigate the potential protective effects of fluvoxamine (FVX), a selective serotonin reuptake inhibitor with known anti-inflammatory properties, on corneal, limbal, and retinal tissues in a rat model of endotoxin-induced uveitis (EIU), clinical and histopathologic evaluations were performed. Twenty-eight female Wistar Albino rats were divided into four groups: controls, EIU, EIU + FVX, and FVX (n = 7 per group). EIU was induced by a single intraperitoneal injection of lipopolysaccharide (",
+    "keyPoints": [
+      "Флувоксамін показав протизапальні властивості у моделі уретиту у щурів.",
+      "Дослідження підтвердило його потенціал для захисту очних тканин.",
+      "Результати базуються на гістопатологічних та клінічних оцінках."
+    ],
+    "practicalTakeaway": "Флувоксамін може мати потенціал для застосування у запальних захворюваннях очей.",
+    "specialty": "неврологія",
+    "tags": [
+      "запальні захворювання",
+      "очні хвороби",
+      "дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42774025",
+    "title": "Мультиомний профайлінг імунних та метаболічних змін у собак під час старіння",
+    "journal": "Frontiers in immunology",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження створює системний огляд імунних та метаболічних змін у молодих і старших собак за допомогою мультиомного аналізу. Це дозволяє краще зрозуміти процеси старіння у собак на молекулярному рівні.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42774025/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-23T14:26:20Z",
+    "originalTitle": "Multiomic profiling of canine immune and metabolic aging in a cohort of young and senior beagles.",
+    "originalAbstract": "Developing a comprehensive understanding of canine aging requires integration of immune, metabolic, and genetic changes across molecular layers. While high-throughput omics have been widely applied to human aging, canine studies have typically used single modalities or small cohorts, limiting systems-level insight, particularly for immune and metabolic aging. To address this gap, we generated a multiomic immune and metabolic aging reference in a cohort of senior and young beagle dogs. We perform",
+    "keyPoints": [
+      "Використано мультиомний підхід для дослідження старіння собак.",
+      "Проаналізовано імунні та метаболічні зміни у молодих і старших собак.",
+      "Дослідження сприяє системному розумінню процесів старіння у собак."
+    ],
+    "practicalTakeaway": "Мультиомний аналіз може допомогти у вивченні біологічних процесів старіння у тварин.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "старіння",
+      "мультиоміка",
+      "собаки"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42763785",
     "title": "Закритий спінальний дісрафіз: пренатальні ознаки та результати після народження за 10 років двох центрів",
     "journal": "Ultrasound in obstetrics & gynecology : the official journal of the International Society of Ultrasound in Obstetrics and Gynecology",
@@ -190,90 +274,6 @@
       "імунологія",
       "генетика",
       "аутоінфламаторні захворювання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42734633",
-    "title": "Фармакогеноміка та штучний інтелект у серцево-судинних захворюваннях: перспективи прецизійної медицини",
-    "journal": "Pharmacogenomics",
-    "publishedAt": "2026-09-14T00:00:00Z",
-    "abstract": "Дослідження розглядає застосування фармакогенетики та штучного інтелекту у управлінні серцево-судинними захворюваннями. Ці технології мають потенціал для покращення персоналізованого підходу до лікування, враховуючи генетичні та клінічні особливості пацієнтів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42734633/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-14T15:59:44Z",
-    "originalTitle": "Pharmacogenomics and artificial intelligence in cardiovascular disease: emerging tools for precision medicine.",
-    "originalAbstract": "Cardiovascular diseases (CVD) remain a predominant cause of mortality and morbidity globally. Conventional therapy methods may be constrained by their inadequate acknowledgment of individual genetic and clinical variations. In this context, pharmacogenetics and artificial intelligence (AI) applications, essential elements of the precision medicine approach, present a novel paradigm for the management of cardiovascular disorders. Pharmacogenetics elucidates the genetic basis of individual respons",
-    "keyPoints": [
-      "Фармакогенетика допомагає враховувати генетичні особливості пацієнтів у терапії.",
-      "Штучний інтелект сприяє аналізу великих обсягів медичних даних.",
-      "Застосування цих технологій може покращити результати лікування серцево-судинних захворювань."
-    ],
-    "practicalTakeaway": "Інтеграція фармакогенетики та штучного інтелекту у клінічну практику може сприяти більш точному та персоналізованому лікуванню серцево-судинних захворювань.",
-    "specialty": "кардіологія",
-    "tags": [
-      "прецизійна медицина",
-      "фармакогенетика",
-      "штучний інтелект"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42734632",
-    "title": "Огляд причин гендерних відмінностей у тривалих лікарняних",
-    "journal": "Scandinavian journal of work, environment & health",
-    "publishedAt": "2026-09-14T00:00:00Z",
-    "abstract": "Дослідження аналізує чинники, що впливають на різницю у тривалості лікарняних між чоловіками та жінками у Європі. Виявлено, що жінки мають вищі показники тривалих відсутностей, що може бути пов'язано з репродуктивним здоров'ям та соціальними факторами. Причини цих відмінностей залишаються недостатньо з'ясованими.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42734632/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-14T15:59:44Z",
-    "originalTitle": "A review of reviews exploring gender differences in sickness absence.",
-    "originalAbstract": "Long-term sickness absence is a risk factor for leaving the workforce, causing economic stress and deteriorating health. Women have higher rates of sickness absence compared to men in most, but not all, European countries. Reasons for apparent gender differences are currently poorly understood, but hypotheses include that women may have more health problems (particularly those associated with reproductive health). Other hypotheses for gender differences include gendered health beliefs, attitudes",
-    "keyPoints": [
-      "Жінки мають вищі показники тривалих лікарняних у Європі.",
-      "Причини різниць можуть включати репродуктивне здоров'я та соціальні фактори.",
-      "Дослідження потребують подальшого аналізу для з'ясування причин."
-    ],
-    "practicalTakeaway": "Розуміння причин гендерних відмінностей у лікарняних може допомогти у розробці цілеспрямованих політик охорони здоров'я.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "гендерні відмінності",
-      "лікарняні",
-      "здоров'я жінок"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42724958",
-    "title": "Імпортований малярійний паразит Plasmodium falciparum у мандрівника з зниженим імунітетом",
-    "journal": "Cureus",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "У статті описано випадок імпортованої малярії у 35-річного чоловіка після подорожі до ендемічної зони. Пацієнт скаржився на втому, жовтяницю та циклічні лихоманки. Аналіз крові виявив паразитів Plasmodium falciparum, що спричинило початок антималярійної терапії. Подальше дослідження виявило раніше не діагностований дефіцит глюкози.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42724958/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-11T18:41:19Z",
-    "originalTitle": "When Prior Exposure Doesn't Protect: Imported Plasmodium falciparum Malaria in a Returning Traveler With Waning Immunity.",
-    "originalAbstract": "Malaria remains a leading cause of infectious morbidity worldwide, yet imported cases present a diagnostic challenge in non-endemic settings. We report a case of imported malaria in a previously healthy 35-year-old man, who presented with increasing fatigue, jaundice, and cyclical fevers following travel to an endemic area. Peripheral blood smear demonstrated Plasmodium falciparum trophozoites, prompting initiation of antimalarial therapy. Further testing detected previously undiagnosed glucose-",
-    "keyPoints": [
-      "Випадок імпортованої малярії у мандрівника з зниженим імунітетом.",
-      "Діагностика базується на аналізі крові та виявленні паразитів.",
-      "Необхідність швидкого початку терапії для запобігання ускладненням."
-    ],
-    "practicalTakeaway": "При підозрі на малярію у мандрівників з симптомами слід швидко проводити аналіз крові та розпочинати терапію.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "малярія",
-      "Plasmodium falciparum",
-      "імпортований випадок"
     ],
     "priorityScore": 8,
     "aiProcessed": true,

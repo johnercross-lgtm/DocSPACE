@@ -1,5 +1,57 @@
 [
   {
+    "title": "Корекція комплектів AVID Medical через recalls Huons Sodium Chloride",
+    "abstract": "AVID Medical виправляє комплекти з ампулами натрію хлориду компанії Huons, що були відкликані.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-23T14:26:36Z",
+    "updatedAt": "2026-09-23T14:26:36Z",
+    "originalTitle": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
+    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія AVID Medical виправляє комплекти з ампулами натрію хлориду.",
+      "Відкликання стосується продуктів компанії Huons.",
+      "Інформація актуальна для медичних закладів."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медицина",
+      "відкликання",
+      "натрій хлорид"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відклик вентиляційних наборів INCA від CooperSurgical",
+    "abstract": "Компанія CooperSurgical відкликає набори INCA для інфантів через можливі проблеми з з'єднанням.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-23T14:26:36Z",
+    "updatedAt": "2026-09-23T14:26:36Z",
+    "originalTitle": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
+    "originalAbstract": "The cannula sets may exhibit a loose connection between the flexible tubing and the nasal cannula resulting in reduced effectiveness and decreased oxygenation.",
+    "keyPoints": [
+      "Відкликання стосується наборів INCA для новонароджених.",
+      "Можлива несправність — слабке з'єднання між трубкою та носовою канюлею.",
+      "Джерело — FDA."
+    ],
+    "practicalTakeaway": "Матеріал фіксує оновлені показники щодо відкликання наборів INCA.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "вентиляція",
+      "інфекційні хвороби",
+      "відкликання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
     "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
@@ -158,32 +210,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Оновлення системи моніторингу Portrait Core Services",
-    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-06T17:38:31Z",
-    "updatedAt": "2026-09-06T17:38:31Z",
-    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-    "keyPoints": [
-      "Оновлення стосується Portrait Core Services.",
-      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "моніторинг",
-      "Portrait",
-      "оновлення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання розчину натрію хлориду B. Braun через частки",
     "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
@@ -206,6 +232,34 @@
       "частки",
       "FDA",
       "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання Infinion CX Lead від Boston Scientific",
+    "abstract": "Boston Scientific відкликає Infinion CX Lead через можливий механічний стрес у зоні кріплення.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-10T08:11:44Z",
+    "updatedAt": "2026-09-10T08:11:44Z",
+    "originalTitle": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+    "originalAbstract": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+    "keyPoints": [
+      "Виріб: Infinion CX Lead, виробник: Boston Scientific",
+      "Можливий механічний стрес у зоні кріплення",
+      "Потреба у вилученні та заміні виробу"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "неврологія",
+    "tags": [
+      "медичне обладнання",
+      "відкликання",
+      "нейрохірургія",
+      "інновації",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -264,54 +318,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання Infinion CX Lead від Boston Scientific",
-    "abstract": "Boston Scientific відкликає Infinion CX Lead через можливий механічний стрес у зоні кріплення.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+    "title": "Оновлення системи моніторингу Portrait Core Services",
+    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-10T08:11:44Z",
-    "updatedAt": "2026-09-10T08:11:44Z",
-    "originalTitle": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-    "originalAbstract": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+    "publishedAt": "2026-09-06T17:38:31Z",
+    "updatedAt": "2026-09-06T17:38:31Z",
+    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
     "keyPoints": [
-      "Виріб: Infinion CX Lead, виробник: Boston Scientific",
-      "Можливий механічний стрес у зоні кріплення",
-      "Потреба у вилученні та заміні виробу"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "неврологія",
-    "tags": [
-      "медичне обладнання",
-      "відкликання",
-      "нейрохірургія",
-      "інновації",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
-    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-03T08:06:52Z",
-    "updatedAt": "2026-09-03T08:06:52Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
-    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-    "keyPoints": [
-      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
-      "Виправлення стосується комплектів для швидкого реагування.",
+      "Оновлення стосується Portrait Core Services.",
+      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
       "Джерело: FDA."
     ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
+    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "безпека",
-      "медичні комплекти",
-      "FDA"
+      "моніторинг",
+      "Portrait",
+      "оновлення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -338,6 +364,32 @@
       "інфекція",
       "стерильність",
       "медичне обладнання"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
+    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-03T08:06:52Z",
+    "updatedAt": "2026-09-03T08:06:52Z",
+    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
+    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+    "keyPoints": [
+      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
+      "Виправлення стосується комплектів для швидкого реагування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "безпека",
+      "медичні комплекти",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -579,58 +631,6 @@
       "медичне обладнання",
       "безпека",
       "лікарські засоби"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Оновлення щодо проблеми з комплектами Medline",
-    "abstract": "Деякі аплікатори BD ChloraPrep у комплекті Medline можуть бути нестерильними.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/update-alert-convenience-kit-issue-medline",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-17T10:14:52Z",
-    "updatedAt": "2026-08-17T10:14:52Z",
-    "originalTitle": "Update on Alert: Convenience Kit Issue from Medline",
-    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "keyPoints": [
-      "Виробник: Medline",
-      "Продукт: BD ChloraPrep аплікатори",
-      "Проблема: можливий нестерильний стан"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "стерильність",
-      "медичне обладнання",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про комплект дихальних контурів: Hamilton Medical",
-    "abstract": "Компанія Hamilton Medical відкликає комплекти дихальних контурів для вентиляторів через можливість закупорки.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-set-recall-hamilton-medical-removes-breathing-circuit-set",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-17T10:14:52Z",
-    "updatedAt": "2026-08-17T10:14:52Z",
-    "originalTitle": "Breathing Circuit Set Recall: Hamilton Medical Removes Breathing Circuit Set",
-    "originalAbstract": "The ventilator breathing circuits are intended to connect a ventilator to a patient tube or mask. Obstruction may result in inadequate ventilation.",
-    "keyPoints": [
-      "Виклик відкликань через можливу закупорку комплектів дихальних контурів.",
-      "Можливість недостатньої вентиляції при використанні.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "дихальні контури",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
