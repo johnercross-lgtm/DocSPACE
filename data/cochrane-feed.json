@@ -1,5 +1,83 @@
 [
   {
+    "title": "Комбіновані гормональні, прогестин-окремі та безгормональні контрацептиви для контрацепції після пологів у годувальниць",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг та ризиків різних методів контрацепції після пологів у годувальниць, зокрема комбінованих гормональних, прогестин-окремих та безгормональних засобів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016393/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-23T00:00:00Z",
+    "updatedAt": "2026-09-24T19:22:48Z",
+    "originalTitle": "Combined hormonal versus nonhormonal versus progestin-only contraceptives for postpartum contraception in lactating individuals.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of combined hormonal, progestin-only, and nonhormonal contraceptive methods for postpartum contraception in lactating individuals.",
+    "keyPoints": [
+      "Огляд досліджень щодо контрацепції після пологів у годувальниць.",
+      "Порівнює гормональні та безгормональні методи.",
+      "Мета — визначити їхні переваги та ризики."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш безпечні та ефективні методи контрацепції для годувальниць після пологів.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "контрацепція",
+      "післяпологовий період",
+      "гінекологія"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Електрофізіологічні процедури для запобігання падінь у літніх людей, що проживають у громаді",
+    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити ефективність та безпеку електрофізіологічних процедур у запобіганні падінь серед літніх людей, що проживають у громаді.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016363/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-23T00:00:00Z",
+    "updatedAt": "2026-09-24T19:22:48Z",
+    "originalTitle": "Electrophysiology procedures for preventing falls in older people living in the community.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the efficacy and safety of electrophysiology procedures in preventing falls among older people living in the community.",
+    "keyPoints": [
+      "Огляд досліджень щодо електрофізіологічних процедур для запобігання падінь.",
+      "Мета — оцінити безпеку та ефективність процедур.",
+      "Фокус на літніх у громаді."
+    ],
+    "practicalTakeaway": "Дослідження спрямовані на визначення ролі електрофізіологічних процедур у профілактиці падінь у літніх.",
+    "specialty": "неврологія",
+    "tags": [
+      "загальне здоровʼя",
+      "передстаречий вік",
+      "профілактика падінь"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Антифунгальна терапія для новонароджених з інвазивною грибковою інфекцією",
+    "abstract": "Множина антифунгальних препаратів та комбінацій застосовуються для лікування новонароджених з підозрою або підтвердженою інвазивною грибковою інфекцією. Необхідно порівняти їх ефективність та безпеку. Це дослідження оцінює вплив різних препаратів на смертність та ускладнення у новонароджених.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003953.pub4/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-23T00:00:00Z",
+    "updatedAt": "2026-09-24T19:22:48Z",
+    "originalTitle": "Antifungal therapy for newborn infants with invasive fungal infection.",
+    "originalAbstract": "A variety of antifungal drugs, drug preparations and drug combinations are available to treat newborn infants with suspected or confirmed invasive fungal infection. There is a need to assess their relative merits. To evaluate the benefits and harms of treatment with one antifungal drug or drug combination or preparation versus another on mortality and morbidity in newborn infants with suspected or confirmed invasive fungal infection. We searched CENTRAL, MEDLINE, Embase, Emcare, and three trial…",
+    "keyPoints": [
+      "Порівнюються різні антифунгальні препарати та їх комбінації.",
+      "Мета — оцінити вплив на смертність та ускладнення.",
+      "Дослідження базується на систематичному пошуку даних."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективну та безпечну антифунгальну терапію для новонароджених з грибковими інфекціями.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфекційні хвороби",
+      "новонароджені",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Діагностична точність біологічних маркерів для виявлення обструктивного апное сну",
     "abstract": "Це протокол для дослідження, яке має оцінити точність будь-яких біологічних маркерів, знайдених у крові, слині, сечі або конденсаті дихання, для виявлення обструктивного апное сну (OSA) у дорослих. Дослідження також аналізуватиме ефективність окремих маркерів або їх комбінацій у порівнянні з полісомнографією та домашніми тестами.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016281/full",
@@ -178,84 +256,6 @@
       "загальне здоровʼя"
     ],
     "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Моделі на основі зображень для прогнозування ускладнень мозкових судин при стенозі сонної артерії",
-    "abstract": "Це протокол для огляду Cochrane (прогноз). Мета — систематично оцінити та критично проаналізувати багатофакторні прогностичні моделі, створені для дорослих з стенозом сонної артерії, у яких основними предикторами є зображувальні біомаркери (наприклад, характеристики бляшки, визначені за допомогою МРТ, КТ або ультразвуку). Основна увага приділяється оцінці здатності цих моделей прогнозувати ускладнення мозкових судин.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016391/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-09T00:00:00Z",
-    "updatedAt": "2026-09-11T08:07:18Z",
-    "originalTitle": "Imaging‑based models for predicting cerebrovascular complications of carotid stenosis.",
-    "originalAbstract": "This is a protocol for a Cochrane review (prognosis). The objectives are as follows: Primary objective To systematically review and critically appraise multivariable prognostic models developed for adults (≥ 18 years) with carotid stenosis in which imaging biomarkers (e.g. plaque characteristics derived from magnetic resonance imaging (MRI), computed tomography (CT), or ultrasound) constitute the core predictors. The primary focus is to evaluate the predictive performance of these models for cer…",
-    "keyPoints": [
-      "Огляд систематично оцінює прогностичні моделі для стенозу сонної артерії.",
-      "Фокус на зображувальні біомаркери, такі як характеристики бляшки.",
-      "Мета — визначити точність моделей у прогнозуванні ускладнень."
-    ],
-    "practicalTakeaway": "Огляд допоможе визначити, наскільки ефективні сучасні зображувальні моделі для прогнозування ускладнень при стенозі сонної артерії.",
-    "specialty": "неврологія",
-    "tags": [
-      "діагностика",
-      "прогнозування",
-      "зображувальні методи"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Тімозин-α1 для лікування хронічного гепатиту В",
-    "abstract": "Хронічний гепатит В є глобальною проблемою охорони здоров'я, спричиненою інфекцією вірусу гепатиту В (HBV). Мета лікування — запобігти розвитку ускладнень, таких як цироз, печінкова недостатність, рак печінки та смерть. Рандомізовані дослідження оцінювали різні імунотерапії, зокрема тімозин-α1, але результати були неоднозначними.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014610.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-09T00:00:00Z",
-    "updatedAt": "2026-09-11T08:07:18Z",
-    "originalTitle": "Thymosin-ɑ1 for people with chronic hepatitis B.",
-    "originalAbstract": "Chronic hepatitis B is a global public health concern. It is caused by infection with the hepatitis B virus (HBV). The goal of treating chronic HBV infection is to prevent progression to chronic hepatitis, cirrhosis, hepatic decompensation, liver failure, hepatocellular carcinoma, and death. Individual studies have evaluated various immunomodulatory therapies with inconsistent results. Thymosin-ɑ1 is known to have antiviral effects; however, results of randomised clinical trials on the effects o…",
-    "keyPoints": [
-      "Дослідження аналізує ефективність тімозин-α1 у лікуванні хронічного гепатиту В.",
-      "Результати рандомізованих клінічних досліджень є суперечливими.",
-      "Мета — запобігти прогресуванню захворювання та ускладненням."
-    ],
-    "practicalTakeaway": "Докази щодо застосування тімозин-α1 при хронічному гепатиті В залишаються неоднозначними.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "гепатологія",
-      "імунологія"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Гольмієва лазерна енуклеація простати для лікування симптомів нижніх сечовивідних шляхів у чоловіків з доброякісною гіперплазією простати",
-    "abstract": "Це дослідження оцінює ефективність гольмієвої лазерної енуклеації простати (HoLEP) у порівнянні з іншими хірургічними методами для лікування симптомів нижніх сечовивідних шляхів у чоловіків з доброякісною гіперплазією простати. Аналіз включає порівняння функціональних результатів, періоперативних показників та ускладнень.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013291.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-09T00:00:00Z",
-    "updatedAt": "2026-09-14T16:00:05Z",
-    "originalTitle": "Holmium laser enucleation of the prostate for the treatment of lower urinary tract symptoms in men with benign prostatic hyperplasia.",
-    "originalAbstract": "A range of surgical options is available for the treatment of benign prostatic hyperplasia (BPH), including holmium laser enucleation of the prostate (HoLEP). The evidence is unclear regarding differences in functional, perioperative, and morbidity outcomes between these modalities. To assess the effects of holmium laser enucleation of the prostate compared with other surgical treatments for lower urinary tract symptoms in men with benign prostatic hyperplasia. We searched multiple databases (in…",
-    "keyPoints": [
-      "Дослідження порівнює HoLEP з іншими хірургічними методами.",
-      "Результати стосуються функціональних та ускладненьних показників.",
-      "Збір даних з кількох баз даних для всебічної оцінки."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають визначити ефективність та безпеку HoLEP у лікуванні симптомів нижніх сечовивідних шляхів у чоловіків з доброякісною гіперплазією простати.",
-    "specialty": "хірургія",
-    "tags": [
-      "хірургія",
-      "урологія",
-      "доказова медицина"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
