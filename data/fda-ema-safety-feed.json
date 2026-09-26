@@ -1,5 +1,60 @@
 [
   {
+    "title": "Відгук катетерів Boston Scientific Imager II",
+    "abstract": "Компанія Boston Scientific відкликає катетери Imager II через виробничу проблему, що може спричинити затримки та емболію.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-26T23:56:00Z",
+    "updatedAt": "2026-09-26T23:56:00Z",
+    "originalTitle": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
+    "originalAbstract": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+    "keyPoints": [
+      "Відгук стосується катетерів Imager II",
+      "Проблема виникла через виробничий дефект",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "катетери",
+      "відгук",
+      "FDA",
+      "медична безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання контролерів серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає автоматизовані контролери Impella через несправність, що може спричинити затримки у підтримці кровообігу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-26T23:56:00Z",
+    "updatedAt": "2026-09-26T23:56:00Z",
+    "originalTitle": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+    "keyPoints": [
+      "Відкликання стосується автоматичних контролерів Impella.",
+      "Причина — несправність розпізнавання касет.",
+      "Може спричинити затримки у підтримці кровообігу."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцевий насос",
+      "відкликання",
+      "медичне обладнання",
+      "Abiomed",
+      "Impella"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Корекція комплектів AVID Medical через recalls Huons Sodium Chloride",
     "abstract": "AVID Medical виправляє комплекти з ампулами натрію хлориду компанії Huons, що були відкликані.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
@@ -52,32 +107,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
-    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
-    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
-    "keyPoints": [
-      "Оновлення інструкцій для системи NOxBOXi.",
-      "Можливий витік кисню під час терапії.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "оксид азоту",
-      "інструкція",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
     "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
@@ -98,6 +127,32 @@
       "фармацевтика",
       "відгук",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
+    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
+    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+    "keyPoints": [
+      "Оновлення інструкцій для системи NOxBOXi.",
+      "Можливий витік кисню під час терапії.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "оксид азоту",
+      "інструкція",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -266,32 +321,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з касетами контролерів серцевого насосу Abiomed",
-    "abstract": "Abiomed відкликає автоматичні контролери Impella через несправність касет для промивання, що може спричинити затримки у підтримці кровообігу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-06T17:38:31Z",
-    "updatedAt": "2026-09-06T17:38:31Z",
-    "originalTitle": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-    "keyPoints": [
-      "Відкликання контролерів Abiomed Impella",
-      "Проблема з розпізнаванням касет для промивання",
-      "Може спричинити затримки у підтримці кровообігу"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцева недостатність",
-      "медичне обладнання",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Проблема з дихальним контуром Draeger",
     "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
@@ -338,6 +367,32 @@
       "моніторинг",
       "Portrait",
       "оновлення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Попередження: проблема з касетами контролерів серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає автоматичні контролери Impella через несправність касет для промивання, що може спричинити затримки у підтримці кровообігу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-06T17:38:31Z",
+    "updatedAt": "2026-09-06T17:38:31Z",
+    "originalTitle": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+    "keyPoints": [
+      "Відкликання контролерів Abiomed Impella",
+      "Проблема з розпізнаванням касет для промивання",
+      "Може спричинити затримки у підтримці кровообігу"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцева недостатність",
+      "медичне обладнання",
+      "відкликання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -579,58 +634,6 @@
       "частки у рідині",
       "інфекційні хвороби",
       "фармацевтика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання наборів для внутрішньовенного введення Baxter",
-    "abstract": "Baxter відкликає набори Duo-Vent через можливість потрапляння повітря у пацієнта.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/intravascular-administration-set-recall-baxter-removes-duo-vent-solution-sets",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-14T05:06:02Z",
-    "updatedAt": "2026-08-14T05:06:02Z",
-    "originalTitle": "Intravascular Administration Set Recall: Baxter Removes Duo-Vent Solution Sets",
-    "originalAbstract": "Baxter administration sets may have air bubbles in the drip chamber and tubing, which may result in air being delivered through the IV line to the patient.",
-    "keyPoints": [
-      "Виробник: Baxter, США",
-      "Модель: Duo-Vent, відкликання",
-      "Проблема: можливість потрапляння повітря"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "інфузійні системи",
-      "безпека пацієнтів"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Виправлення комплектів швидкого доступу від Medline",
-    "abstract": "Medline виправляє комплекти швидкого доступу, видаляючи компоненти для знеболення ICU Medical.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-icu-medical-pain",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-14T05:06:02Z",
-    "updatedAt": "2026-08-14T05:06:02Z",
-    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing ICU Medical Pain Management Components",
-    "originalAbstract": "Medline is correcting affected convenience kits by removing included ICU Medical pain management components containing Huons Bupivacaine Hydrochloride in Dextrose Injection, USP.",
-    "keyPoints": [
-      "Виправлення стосується комплектів швидкого доступу.",
-      "В комплект входили компоненти ICU Medical.",
-      "Виправлення пов'язане з Huons Bupivacaine Hydrochloride."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медичне обладнання",
-      "безпека",
-      "лікарські засоби"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
