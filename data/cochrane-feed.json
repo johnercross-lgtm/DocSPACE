@@ -1,5 +1,83 @@
 [
   {
+    "title": "Цільові рівні артеріального тиску при гіпертонії у пацієнтів з цукровим діабетом",
+    "abstract": "Цей протокол досліджує, чи зниження цільового рівня артеріального тиску (≤ 130/85 мм рт. ст.) порівняно з стандартними (≤ 140-160/90-100 мм рт. ст.) може зменшити рівень смертності та ускладнень у людей з підвищеним тиском та цукровим діабетом.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016392/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-25T00:00:00Z",
+    "updatedAt": "2026-09-28T09:52:47Z",
+    "originalTitle": "Blood pressure targets for hypertension in people with diabetes mellitus.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To determine if lower blood pressure (BP) targets (i.e. ≤ 130/85 mmHg), compared with standard BP targets (i.e. ≤ 140 to 160/90 to 100 mmHg) are associated with reduction in mortality and morbidity in people with elevated BP and diabetes mellitus.",
+    "keyPoints": [
+      "Досліджується вплив зниження цільового артеріального тиску у пацієнтів з діабетом.",
+      "Мета — визначити, чи зменшує це ризик смертності та ускладнень.",
+      "Результати допоможуть уточнити цільові рівні тиску для цієї групи."
+    ],
+    "practicalTakeaway": "Результати дослідження допоможуть визначити оптимальні цільові рівні артеріального тиску для пацієнтів з діабетом.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "гіпертонія",
+      "діабет",
+      "артеріальний тиск"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Переливання червоних кров'яних клітин при серповидноклітинній анемії: огляд Cochrane",
+    "abstract": "Це огляд Cochrane аналізує ефективність та безпеку переливання червоних кров'яних клітин для лікування або профілактики ускладнень серповидноклітинної анемії. Вивчено застосування при гострому респіраторному синдромі та довгострокових програмах профілактики ускладнень.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012082.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-24T00:00:00Z",
+    "updatedAt": "2026-09-28T09:52:47Z",
+    "originalTitle": "Red blood cell transfusion to treat or prevent complications in sickle cell disease: an overview of Cochrane reviews.",
+    "originalAbstract": "Sickle cell disease (SCD) is one of the most common severe monogenic disorders globally. SCD can cause severe pain, significant end-organ damage, pulmonary complications, and premature death. Red blood cell (RBC) transfusions are used to treat complications of SCD, e.g. acute chest syndrome (ACS), or they can be part of a regular long-term transfusion programme to prevent SCD complications. To summarise the evidence from Cochrane reviews of the benefits and harms of RBC transfusions versus no tr…",
+    "keyPoints": [
+      "Переливання крові використовують для лікування ускладнень серповидноклітинної анемії.",
+      "Досліджуються переваги та ризики застосування переливань.",
+      "Огляд базується на аналізі Cochrane reviews."
+    ],
+    "practicalTakeaway": "Докази щодо застосування переливання крові при серповидноклітинній анемії залишаються обмеженими, що потребує подальших досліджень.",
+    "specialty": "гематологія",
+    "tags": [
+      "доказова медицина",
+      "гематологія",
+      "серповидноклітинна анемія"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Зуклопентіксол ацетат для гострого шизофренії та подібних психічних розладів",
+    "abstract": "Шизофренія є важким психічним захворюванням, що може спричиняти довготривлу інвалідність і значні порушення у повсякденному житті. У хворих можливі психотичні епізоди, що супроводжуються страхом та тривогою, а іноді — агресією або насильством. У таких випадках застосовуються медикаменти з швидким початком дії для контролю агресії та збудження у психіатричних умовах.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000525.pub4/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-24T00:00:00Z",
+    "updatedAt": "2026-09-28T09:52:47Z",
+    "originalTitle": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses.",
+    "originalAbstract": "Schizophrenia is a serious mental health condition that can cause long-term disability and major disruption to daily life. People living with schizophrenia may experience psychosis, causing frightening and distressing experiences. At times, this distress may lead to aggressive or violent behaviour towards themselves or others. On such occasions, medications used for the management of aggression and agitation in psychiatric settings must have a rapid onset of action, low frequency of administrati…",
+    "keyPoints": [
+      "Зуклопентіксол ацетат використовується для гострих психічних станів.",
+      "Медикамент має швидкий початок дії.",
+      "Застосовується для контролю агресії та збудження."
+    ],
+    "practicalTakeaway": "Зуклопентіксол ацетат може бути ефективним для швидкого контролю гострих психічних симптомів у шизофренії та подібних розладах.",
+    "specialty": "психіатрія",
+    "tags": [
+      "психічні розлади",
+      "лікування гострих станів",
+      "антипсихотики"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Комбіновані гормональні, прогестин-окремі та безгормональні контрацептиви для контрацепції після пологів у годувальниць",
     "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг та ризиків різних методів контрацепції після пологів у годувальниць, зокрема комбінованих гормональних, прогестин-окремих та безгормональних засобів.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016393/full",
@@ -178,84 +256,6 @@
       "фізична активність"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Модулатори прогестеронового рецептора при ендометріозі",
-    "abstract": "Ендометріоз — це наявність тканини, схожої на ендометрій, за межами матки, залежна від естрогену і поширена переважно у репродуктивному віці. Модулатори прогестеронового рецептора мають протипроліферативний ефект на ендометрій і використовуються для лікування цього стану. Оновлений аналіз оцінює їхню ефективність і безпеку.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009881.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-16T00:00:00Z",
-    "updatedAt": "2026-09-18T08:18:43Z",
-    "originalTitle": "Progesterone receptor modulators for endometriosis.",
-    "originalAbstract": "Endometriosis is defined as the presence of endometrium-like tissue developing outside the uterine cavity. This condition is oestrogen-dependent and thus is seen primarily during the reproductive years. Owing to their antiproliferative effects on the endometrium, progesterone receptor modulators (PRMs) have been advocated for the treatment of endometriosis. This is an update of a Cochrane review previously published in 2017. To assess the effectiveness and safety of progesterone receptor modulat…",
-    "keyPoints": [
-      "Модулатори прогестеронового рецептора застосовуються для лікування ендометріозу.",
-      "Дослідження аналізує їхню ефективність і безпеку.",
-      "Оновлений аналіз базується на попередньому огляді 2017 року."
-    ],
-    "practicalTakeaway": "Використання модулюючих прогестеронових рецепторів може мати потенційний терапевтичний ефект при ендометріозі, але потребує подальших досліджень.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "ендометріоз",
-      "прогестерон",
-      "лікування"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Фармакологічні засоби для зниження рівня ліпідів у крові при профілактиці серцево-судинних захворювань",
-    "abstract": "Мета дослідження — порівняти ефективність та безпеку різних препаратів для зниження рівня ліпідів у крові, включаючи статини різної інтенсивності, нестатинові засоби та їх комбінації, для первинної та вторинної профілактики серцево-судинних захворювань у дорослих. Аналіз передбачає використання парних та мережевих метааналізів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016387/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-16T00:00:00Z",
-    "updatedAt": "2026-09-18T08:18:43Z",
-    "originalTitle": "Pharmacological lipid-lowering therapies for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia: a systematic review and network meta-analysis.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: Primary To compare the effects and safety of lipid-lowering therapies, including statin regimens (high intensity, moderate intensity, and low intensity), non-statin therapies, and combination regimens, for the primary and secondary prevention of cardiovascular disease in adults, using pairwise and network meta-analysis where appropriate. Secondary To obtain an estimate of the relative ranking of these lipid-l…",
-    "keyPoints": [
-      "Порівнюються різні препарати для зниження ліпідів.",
-      "Мета — визначити їх ефективність і безпеку.",
-      "Дослідження охоплює первинну і вторинну профілактику."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективні та безпечні засоби для зниження рівня ліпідів у крові у дорослих.",
-    "specialty": "кардіологія",
-    "tags": [
-      "ліпідемія",
-      "серцево-судинні захворювання",
-      "ліпідознижуючі препарати"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Прийом йоду для запобігання йододефіцитних розладів у дітей та підлітків",
-    "abstract": "Йод є важливим мікроелементом, необхідним для синтезу щитовидних гормонів, що впливають на ріст і нейрологічний розвиток. Запобігання йододефіциту у дітей є пріоритетом, оскільки його наслідки включають ендемічний зоб, затримку росту, порушення розвитку нервової системи, інтелектуальні порушення та дитячу смертність.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014475.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-10T00:00:00Z",
-    "updatedAt": "2026-09-11T08:07:18Z",
-    "originalTitle": "Iodine supplementation for preventing iodine deficiency disorders in children and adolescents.",
-    "originalAbstract": "Iodine is a micronutrient crucial in the early stages of human development, as it is essential for synthesising thyroid hormones involved in somatic growth and neurodevelopment. It is far better to prevent iodine deficiency than to treat it, since children are particularly vulnerable to iodine deficiency disorders, which involve a broad spectrum of consequences including endemic goitre, delayed growth and development of the central nervous system, intellectual impairment, and infant mortality. T…",
-    "keyPoints": [
-      "Йод важливий для розвитку щитовидної залози та нервової системи.",
-      "Діти особливо вразливі до йододефіциту.",
-      "Запобігання йододефіциту має переваги перед лікуванням."
-    ],
-    "practicalTakeaway": "Забезпечення достатнього споживання йоду у дитячому віці може запобігти розвитку йододефіцитних розладів.",
-    "specialty": "педіатрія",
-    "tags": [
-      "інфекційні хвороби",
-      "доказова медицина",
-      "загальне здоровʼя"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
