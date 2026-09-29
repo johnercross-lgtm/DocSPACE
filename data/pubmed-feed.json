@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42806969",
+    "title": "Травматична розрив м'яза передньої зубчастої м'язи у професійного волейболіста: випадок із практики",
+    "journal": "Cureus",
+    "publishedAt": "2026-08-01T00:00:00Z",
+    "abstract": "У даному випадку описано рідкісну травму передньої зубчастої м'язи у 26-річного професійного волейболіста, який звернувся з гострим болем у задній частині плеча після виконання сервісу. Симптоми тривали дві тижні, що ускладнювало діагностику через неспецифічність проявів.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806969/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-29T09:54:26Z",
+    "originalTitle": "Traumatic Serratus Anterior Muscle Tear Presenting as Isolated Posterior Shoulder Pain in a Professional Volleyball Athlete: A Case Report.",
+    "originalAbstract": "Serratus anterior muscle injuries are rare, most commonly reported in rowing and overhead throwing athletes. These injuries typically present with anterolateral chest wall pain and a palpable mass. Atypical presentations may lead to diagnostic challenges, particularly when symptoms mimic shoulder pathology. We report the case of a 26-year-old male professional volleyball player who presented with acute-onset posterior shoulder pain following a serving motion. The pain persisted for two weeks and",
+    "keyPoints": [
+      "Розрив передньої зубчастої м'язи є рідкісною травмою, зазвичай у спортсменів, що займаються греблею або підкиданням м'яча.",
+      "Може проявлятися болем у задній частині плеча, що ускладнює диференціальну діагностику.",
+      "Діагностика ускладнюється при неспецифічних симптомах, що імітують патологію плеча."
+    ],
+    "practicalTakeaway": "При підозрі на травму передньої зубчастої м'язи у спортсменів з болем у плечі важливо враховувати рідкісні діагнози та застосовувати відповідну діагностичну тактику.",
+    "specialty": "неврологія",
+    "tags": [
+      "травма",
+      "спорт",
+      "діагностика"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42806968",
+    "title": "Пороги калоричного парезу у пацієнтів з гострим одностороннім вестибулярним порушенням: ретроспективний аналіз",
+    "journal": "Frontiers in neurology",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження порівнює традиційні та альтернативні пороги калоричного парезу з результатами відеоімпульсного тесту голови (vHIT) у пацієнтів з гострим одностороннім вестибулярним порушенням. Аналіз спрямований на покращення інтерпретації результатів тестів у клінічній практиці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806968/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-29T09:54:26Z",
+    "originalTitle": "Caloric canal paresis thresholds in relation to vHIT-defined acute unilateral vestibular dysfunction: a retrospective analysis.",
+    "originalAbstract": "Caloric testing and the video head impulse test (vHIT) assess vestibular function at different frequency ranges and provide complementary information in patients with acute vertigo. Although a canal paresis (CP) threshold of 25% is commonly used to define caloric abnormality, interpreting CP values in relation to vHIT-defined unilateral high-frequency vestibular dysfunction remains clinically challenging. We evaluated how conventional and alternative caloric CP thresholds align with vHIT-defined",
+    "keyPoints": [
+      "Поріг калоричного парезу 25% є стандартним для визначення порушення.",
+      "Дослідження аналізує співвідношення між калоричними та vHIT результатами.",
+      "Результати допомагають краще розуміти клінічну значущість порогів у діагностиці."
+    ],
+    "practicalTakeaway": "Результати дослідження можуть сприяти більш точній інтерпретації калоричних тестів у пацієнтів з гострим одностороннім вестибулярним порушенням.",
+    "specialty": "неврологія",
+    "tags": [
+      "діагностика",
+      "вестибулярна функція",
+      "клінічні дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42806967",
+    "title": "Вираз PD-L1 у клітинах пухлини, статус mismatch repair та виживаність при колоректальному раку: ретроспективне дослідження пакистанської когорті",
+    "journal": "Frontiers in oncology",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження оцінює потенціал виразу PD-L1 у клітинах пухлини як біомаркера для прогнозування результатів у пацієнтів з колоректальним раком, використовуючи статус MSI/MMR. Виявлено, що рівень PD-L1 залежить від обраного методу оцінки, і його застосування як клінічного маркера потребує подальших досліджень.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806967/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-09-29T09:54:26Z",
+    "originalTitle": "Tumor-cell PD-L1 expression, mismatch repair status, and survival outcomes in colorectal carcinoma: a retrospective Pakistani cohort study.",
+    "originalAbstract": "Tumor-cell programmed death-ligand 1 (PD-L1) expression has been investigated as a biomarker for colorectal carcinoma (CRC), but the reported positivity rates vary by antibody clone, scoring method, and threshold. Tumor-cell PD-L1 is not a validated companion diagnostic tool for CRC. We assessed whether PD-L1 expression scored with the ZR3 clone functions as a clinicopathological or prognostic biomarker in a Pakistani cohort, using microsatellite instability/mismatch-repair (MSI/MMR) status as t",
+    "keyPoints": [
+      "Вираз PD-L1 у клітинах пухлини може мати прогностичне значення.",
+      "Статус MSI/MMR використовується для оцінки характеристик раку.",
+      "Залежність результатів від методів оцінки вимагає додаткових досліджень."
+    ],
+    "practicalTakeaway": "Враховуйте обмеження методів оцінки PD-L1 при їх використанні у клінічній практиці.",
+    "specialty": "онкологія",
+    "tags": [
+      "онкологія",
+      "біомаркери",
+      "прогнозування"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42798456",
     "title": "Сталість та харчовий склад вибору їжі у лікарняних їдальнях: дослідження до і після інтервенції",
     "journal": "Frontiers in nutrition",
@@ -192,90 +276,6 @@
       "гінекологія"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42763781",
-    "title": "Основи тренінгової програми з артроскопічної хірургії демонструють валідність переносу через покращення операційної роботи",
-    "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
-    "publishedAt": "2026-09-20T00:00:00Z",
-    "abstract": "Дослідження оцінює валідність програми FAST для тренування з артроскопії та її здатність передбачати операційні навички. Учасники — орієнтовно молодші орієнтовані на ортопедію резиденти, які пройшли дводенний курс тренінгу та оцінки навичок. Результати показують, що тестування у рамках програми корелює з реальними операційними навичками.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763781/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-20T13:41:47Z",
-    "originalTitle": "Fundamentals of Arthroscopic Surgery Training Program Shows Transfer Validity Through Enhanced Operative Arthroscopic Performance.",
-    "originalAbstract": "To evaluate the content, construct, concurrent, and transfer validity of the Fundamentals of Arthroscopic Surgery Training (FAST) program and to determine whether FAST testing performance correlated with arthroscopic performance in the operating room. Participants were postgraduate years 1 to 3 (PGY1-3) orthopaedic residents from 7 programs who completed a 2-day FAST Training and Surgical Skills Assessment Course at the Orthopaedic Learning Center in February 2020. Residents underwent pre/postco",
-    "keyPoints": [
-      "Програма FAST має валідність для оцінки навичок з артроскопії.",
-      "Тестування у рамках програми корелює з операційною діяльністю.",
-      "Дослідження підтверджує ефективність тренінгової програми для молодших орієнтованих на ортопедію резидентів."
-    ],
-    "practicalTakeaway": "Програма FAST може бути корисною для оцінки та розвитку навичок з артроскопії у молодших орієнтованих на ортопедію резидентів.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "артроскопія",
-      "медична освіта",
-      "операційні навички"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42763779",
-    "title": "Грецький досвід впровадження генетичного тесту EndoPredict у пацієнтів з ER+/HER2- раком молочної залози",
-    "journal": "Cureus",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "Це дослідження з реального світу оцінює застосування тесту EndoPredict® для прогнозування ризику рецидиву раку молочної залози у перед- і постменопаузальних пацієнтів. Тест поєднує молекулярні та клінічні дані для визначення потенційної користі від хіміотерапії.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42763779/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-20T13:41:47Z",
-    "originalTitle": "A Greek Real-World Experience With the Implementation of the EndoPredict Gene Signature in a Cohort of Pre-menopausal and Post-menopausal Patients With ER+/HER2- Breast Cancer.",
-    "originalAbstract": "Background EndoPredict® is a guideline-recommended gene signature assay guiding whether adjuvant treatment should include chemotherapy or not. The EndoPredict® Clinical (EPclin) Risk Score combines molecular and clinical data to predict the distant recurrence of breast cancer, providing valuable information about the prognosis and chemotherapy benefit in both pre- and post-menopausal patients. Methodology This is a real-world, retrospective study aiming to characterize the EPclin Risk Score's ut",
-    "keyPoints": [
-      "EndoPredict® допомагає визначити необхідність хіміотерапії у пацієнтів з ER+/HER2- раком.",
-      "EPclin Risk Score поєднує молекулярні та клінічні дані для прогнозування рецидиву.",
-      "Дослідження базується на реальних клінічних даних у грецькій популяції."
-    ],
-    "practicalTakeaway": "Використання тесту EndoPredict може сприяти персоналізованому підходу до лікування раку молочної залози.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "генетика",
-      "прогнозування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42750776",
-    "title": "Гомозигентність CTLA-4 спричиняє пізній розвиток аутоімунних захворювань у мишей",
-    "journal": "iScience",
-    "publishedAt": "2026-09-18T00:00:00Z",
-    "abstract": "Дослідження на мишах з мутацією Y139C у гені CTLA4 показало, що у молодих гетерозиготних особин спостерігаються ознаки лімфопроліферації та активовані Т-клітини, але без проявів аутоімунії. Це свідчить про можливий розвиток аутоімунних патологій у дорослому віці при гомозигентності CTLA-4.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42750776/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-17T14:27:29Z",
-    "originalTitle": "CTLA-4 haploinsufficiency leads to late-onset autoimmune pathology in mice.",
-    "originalAbstract": "In humans, the loss of function in a single copy of the CTLA4 gene leads to an immune disorder characterized by a spectrum of immunodeficient and autoimmune manifestations. To investigate the pathogenicity of CTLA-4 haploinsufficiency, we utilized a heterozygous mouse model carrying a patient-derived Y139C mutation. We found that young heterozygous mice exhibited lymphoproliferative features and an activated T cell phenotype, without displaying autoimmunity. Co-culture assays revealed impaired t",
-    "keyPoints": [
-      "У молодих гетерозиготних мишей спостерігаються ознаки лімфопроліферації.",
-      "Автоімунні прояви у мишей з цією мутацією з'являються пізніше.",
-      "Мутація Y139C у CTLA4 може бути пов'язана з розвитком аутоімунних захворювань."
-    ],
-    "practicalTakeaway": "Дослідження вказують на потенційний зв'язок між гомозигентністю CTLA-4 та розвитком аутоімунних захворювань у дорослому віці.",
-    "specialty": "імунологія",
-    "tags": [
-      "імунологія",
-      "аутоімунітет",
-      "генетика"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
