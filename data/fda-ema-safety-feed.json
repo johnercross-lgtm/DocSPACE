@@ -55,6 +55,60 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Виправлення комплектів BD через ампули натрію хлориду",
+    "abstract": "BD випускає корекцію для комплектів і trays з ампулами натрію хлориду, що були відкликані.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-30T09:46:45Z",
+    "updatedAt": "2026-09-30T09:46:45Z",
+    "originalTitle": "Convenience Kit Correction: Becton Dickinson Issues Correction for Kits and Procedure Trays Containing Recalled Sodium Chloride Ampules",
+    "originalAbstract": "BD is correcting convenience kits and procedural trays containing recalled Huons Co. sodium chloride ampules",
+    "keyPoints": [
+      "Компанія BD випускає корекцію для комплектів і trays.",
+      "Відкликання стосується ампул натрію хлориду компанії Huons Co.",
+      "Інформація актуальна для комплектів і trays, що містять ці ампули."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "BD",
+      "ампули",
+      "відкликання",
+      "інфекційні хвороби",
+      "статистика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Попередження: проблема з контролером серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає певні моделі контролерів Impella через аналіз сервісних записів.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-30T09:46:45Z",
+    "updatedAt": "2026-09-30T09:46:45Z",
+    "originalTitle": "Early Alert: Heart Pump Controller Issue from Abiomed",
+    "originalAbstract": "Abiomed is removing certain Impella Controllers with various hardware, firmware, and/or software updates based on a retrospective review of servicing records.",
+    "keyPoints": [
+      "Відкликання стосується моделей Impella контролерів.",
+      "Проблема виявлена на основі ретроспективного аналізу.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "кардіологія",
+      "медична техніка",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Корекція комплектів AVID Medical через recalls Huons Sodium Chloride",
     "abstract": "AVID Medical виправляє комплекти з ампулами натрію хлориду компанії Huons, що були відкликані.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
@@ -578,62 +632,6 @@
       "епідуральні комплекти",
       "відкликання",
       "медична безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про глутатіон через підвищені рівні ендотоксинів",
-    "abstract": "Optimal Balance Pharmacy відкликає один лот глутатіону через виявлення підвищених рівнів ендотоксинів.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/optimal-balance-pharmacy-issues-voluntary-nationwide-recall-certain-lots-compounded-glutathione-200",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-20T15:58:05Z",
-    "updatedAt": "2026-08-20T15:58:05Z",
-    "originalTitle": "Optimal Balance Pharmacy Issues Voluntary Nationwide Recall of Certain Lots of Compounded Glutathione 200 mg/mL Multi-Dose Vials Due to Elevated Endotoxin Levels",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026 – Houston, Texas, Optimal Balance Pharmacy is voluntarily recalling one lot of Compounded Glutathione 200 MG/ML 30 ML Multi-Dose Vials to the patient level. The product is being recalled because pharmacy testing identified elevated bacterial endotoxin levels.",
-    "keyPoints": [
-      "Дата відкликання: 19 серпня 2026 року",
-      "Продукт: глутатіон 200 мг/мл, 30 мл, багатократне застосування",
-      "Місце: Х'юстон, Техас"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "глутатіон",
-      "ендотоксини",
-      "фармація",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання розчину Excel® Lactated Ringers через частки у рідині",
-    "abstract": "Компанія B. Braun проводить добровільне відкликання одного лоту розчину через виявлення часток у рідині.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-north-american-recall-excelr-lactated-ringers-injection-1000ml",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-20T15:58:05Z",
-    "updatedAt": "2026-08-20T15:58:05Z",
-    "originalTitle": "B. Braun Medical Inc. Issues Voluntary North American Recall of Excel® Lactated Ringers Injection, 1000mL Due to the Presence of Particulate Matter",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun), is voluntarily recalling one lot of Excel® Lactated Ringers Injection, 1000mL to the hospital/healthcare facility level, due to the presence of particulate matter in solution identified primarily as cellulose co",
-    "keyPoints": [
-      "Дата відкликання: 19 серпня 2026 року",
-      "Продукт: Excel® Lactated Ringers, 1000мл, один лот",
-      "Причина: наявність часток, ідентифікованих як целюлоза"
-    ],
-    "practicalTakeaway": "Матеріал фіксує оновлені показники за період відкликання.",
-    "specialty": "громадське здоровʼя",
-    "tags": [
-      "відкликання",
-      "лікарські засоби",
-      "частки у рідині",
-      "інфекційні хвороби",
-      "фармацевтика"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
