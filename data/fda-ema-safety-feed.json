@@ -1,5 +1,59 @@
 [
   {
+    "title": "Відгук щодо дихальної системи: Draeger видаляє шланги VentStar Resus Neo",
+    "abstract": "Draeger вилучає шланги VentStar Resus Neo через можливість тріщин, що може призвести до обмеження вентиляції або затримки терапії.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-03T18:45:56Z",
+    "updatedAt": "2026-10-03T18:45:56Z",
+    "originalTitle": "Breathing Circuit Recall: Draeger Removes VentStar Resus Neo Hoses",
+    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+    "keyPoints": [
+      "Вилучення шлангів VentStar Resus Neo",
+      "Можливість тріщин у шлангах",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал фіксує оновлені показники щодо вилучення шлангів VentStar Resus Neo.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "дихальна система",
+      "безпека обладнання",
+      "Draeger"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання глутатіону через підвищений рівень ендотоксинів",
+    "abstract": "Greenwich Rx відкликає певні партії глутатіону через можливе підвищення рівня ендотоксинів.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/greenwich-rx-issues-voluntary-nationwide-recall-compounded-glutathione-due-elevated-endotoxin-levels",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-03T18:45:56Z",
+    "updatedAt": "2026-10-03T18:45:56Z",
+    "originalTitle": "Greenwich Rx Issues Voluntary Nationwide Recall of Compounded Glutathione Due to Elevated Endotoxin Levels",
+    "originalAbstract": "IMMEDIATE RELEASE - Tomball, Texas – October 1, 2026 – Greenwich Rx, a 503A compounding pharmacy, is voluntarily recalling specific lots of its compounded glutathione to the consumer level. The product is being recalled due to potential elevated endotoxin levels.",
+    "keyPoints": [
+      "Відкликання стосується конкретних партій глутатіону.",
+      "Дата відкликання: 1 жовтня 2026 року.",
+      "Проведено компанією Greenwich Rx, Техас."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "глутатіон",
+      "ендотоксини",
+      "фармація",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відгук катетерів Boston Scientific Imager II",
     "abstract": "Компанія Boston Scientific відкликає катетери Imager II через виробничу проблему, що може спричинити затримки та емболію.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
@@ -161,32 +215,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
-    "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
-    "originalAbstract": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
-    "keyPoints": [
-      "Видалення продукту стосується Sodium Chloride Flush.",
-      "Виробник — Huons Co., Ltd.",
-      "Джерело — FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "фармацевтика",
-      "відгук",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
     "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
@@ -207,6 +235,32 @@
       "оксид азоту",
       "інструкція",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
+    "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
+    "originalAbstract": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
+    "keyPoints": [
+      "Видалення продукту стосується Sodium Chloride Flush.",
+      "Виробник — Huons Co., Ltd.",
+      "Джерело — FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "фармацевтика",
+      "відгук",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -293,32 +347,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання пристроїв Luna G3 APAP через дефект прошивки",
-    "abstract": "BMC Medical повідомила про відкликання 20 160 пристроїв Luna G3 APAP у США через дефект прошивки.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-10T08:11:44Z",
-    "updatedAt": "2026-09-10T08:11:44Z",
-    "originalTitle": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
-    "originalAbstract": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
-    "keyPoints": [
-      "Відкликання стосується 20 160 пристроїв Luna G3 APAP.",
-      "Дата повідомлення — 15 липня 2026 року.",
-      "Пристрої розповсюджені в США."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "пристрої",
-      "фірмвар"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання розчину натрію хлориду B. Braun через частки",
     "abstract": "Компанія B. Braun добровільно відкликає три партії розчину натрію хлориду через виявлення частинок.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
@@ -375,32 +403,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Проблема з дихальним контуром Draeger",
-    "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-16T18:59:52Z",
-    "updatedAt": "2026-09-16T18:59:52Z",
-    "originalTitle": "Early Alert: Breathing Circuit Issue from Draeger",
-    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-    "keyPoints": [
-      "Відкликання hoses VentStar Resus Neo",
-      "Можливість тріщин у hoses",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "дихальна система",
-      "безпека медичного обладнання",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Оновлення системи моніторингу Portrait Core Services",
     "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
@@ -421,6 +423,58 @@
       "моніторинг",
       "Portrait",
       "оновлення"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання пристроїв Luna G3 APAP через дефект прошивки",
+    "abstract": "BMC Medical повідомила про відкликання 20 160 пристроїв Luna G3 APAP у США через дефект прошивки.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-10T08:11:44Z",
+    "updatedAt": "2026-09-10T08:11:44Z",
+    "originalTitle": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
+    "originalAbstract": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
+    "keyPoints": [
+      "Відкликання стосується 20 160 пристроїв Luna G3 APAP.",
+      "Дата повідомлення — 15 липня 2026 року.",
+      "Пристрої розповсюджені в США."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "пристрої",
+      "фірмвар"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з дихальним контуром Draeger",
+    "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-16T18:59:52Z",
+    "updatedAt": "2026-09-16T18:59:52Z",
+    "originalTitle": "Early Alert: Breathing Circuit Issue from Draeger",
+    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+    "keyPoints": [
+      "Відкликання hoses VentStar Resus Neo",
+      "Можливість тріщин у hoses",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "дихальна система",
+      "безпека медичного обладнання",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -579,59 +633,6 @@
       "забруднення",
       "фармацевтика",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з програмним забезпеченням Portrait Core від GE Healthcare",
-    "abstract": "Під час оновлення Portrait Core Services можливе видалення пацієнтів з системи моніторингу Portrait.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-portrait-core-services-software-issue-ge-healthcare",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-23T22:00:11Z",
-    "updatedAt": "2026-08-23T22:00:11Z",
-    "originalTitle": "Early Alert: Portrait Core Services Software Issue from GE HealthCare",
-    "originalAbstract": "Patients monitored on Portrait Mobile devices can be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-    "keyPoints": [
-      "Проблема стосується системи Portrait Core Services від GE Healthcare.",
-      "Можливе видалення пацієнтів з Portrait під час оновлення.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Інформація допомагає орієнтуватися в актуальній ситуації щодо систем моніторингу.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "GE Healthcare",
-      "Portrait",
-      "медичне програмне забезпечення",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з епідуральними комплектами від Medical Action Industries",
-    "abstract": "Компанія Medical Action Industries виправляє епідуральні комплекти з ампулами натрію хлориду, що підлягають відкликанню Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-epidural-kit-issue-medical-action-industries",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-23T22:00:11Z",
-    "updatedAt": "2026-08-23T22:00:11Z",
-    "originalTitle": "Early Alert: Epidural Kit Issue from Medical Action Industries",
-    "originalAbstract": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
-    "keyPoints": [
-      "Компанія Medical Action Industries виправляє комплекти.",
-      "Відкликання стосується ампул натрію хлориду Huons Co.",
-      "Інформація актуальна для медичних закладів."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "епідуральні комплекти",
-      "відкликання",
-      "медична безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
