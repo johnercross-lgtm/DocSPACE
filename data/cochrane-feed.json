@@ -78,6 +78,58 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Оральні апарати при обструктивному апное сну у дорослих",
+    "abstract": "Це протокол для огляду Cochrane, мета якого полягає у оцінці переваг та ризиків застосування оральних апаратів для лікування обструктивного апное сну у дорослих.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015834/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-28T00:00:00Z",
+    "updatedAt": "2026-10-05T00:13:27Z",
+    "originalTitle": "Oral appliances for obstructive sleep apnoea in adults.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of oral appliances for obstructive sleep apnoea in adults.",
+    "keyPoints": [
+      "Огляд досліджень щодо оральних апаратів для апное сну у дорослих.",
+      "Мета — оцінити користь і шкоду таких пристроїв.",
+      "Результати допоможуть визначити їхню ефективність."
+    ],
+    "practicalTakeaway": "Результати цього огляду допоможуть зрозуміти, наскільки оральні апарати можуть бути корисними для дорослих з обструктивним апное сну.",
+    "specialty": "сімейна медицина",
+    "tags": [
+      "сімейна медицина",
+      "здоровʼя сну",
+      "лікування апное"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Стратегії лікування для контролю рівнів холестерину та тригліцеридів у профілактиці серцево-судинних захворювань",
+    "abstract": "Це протокол для огляду Cochrane, який має на меті оцінити переваги та ризики стратегій лікування, орієнтованих на досягнення цільових рівнів ліпідів, порівняно з відсутністю цільових показників, у первинній та вторинній профілактиці серцево-судинних захворювань у дорослих з дисліпідемією.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016388/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-09-28T00:00:00Z",
+    "updatedAt": "2026-10-05T00:13:27Z",
+    "originalTitle": "Treat-to-target strategies for low-density lipoprotein cholesterol and triglyceride levels for primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of a treat-to-target (goal-directed) strategy versus a no-target strategy for lipid-lowering therapy in the primary and secondary prevention of cardiovascular disease in adults with dyslipidaemia.",
+    "keyPoints": [
+      "Огляд порівнює цільові та нецільові стратегії лікування ліпідів.",
+      "Мета — оцінити ефективність та безпеку обох підходів.",
+      "Фокус — профілактика серцево-судинних захворювань у дорослих."
+    ],
+    "practicalTakeaway": "Результати цього огляду допоможуть визначити оптимальні підходи до лікування дисліпідемії для зниження ризику серцево-судинних захворювань.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "ліпідемія",
+      "серцево-судинні захворювання",
+      "лікування"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Цільові рівні артеріального тиску при гіпертонії у пацієнтів з цукровим діабетом",
     "abstract": "Цей протокол досліджує, чи зниження цільового рівня артеріального тиску (≤ 130/85 мм рт. ст.) порівняно з стандартними (≤ 140-160/90-100 мм рт. ст.) може зменшити рівень смертності та ускладнень у людей з підвищеним тиском та цукровим діабетом.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016392/full",
@@ -204,58 +256,6 @@
       "профілактика падінь"
     ],
     "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Антифунгальна терапія для новонароджених з інвазивною грибковою інфекцією",
-    "abstract": "Множина антифунгальних препаратів та комбінацій застосовуються для лікування новонароджених з підозрою або підтвердженою інвазивною грибковою інфекцією. Необхідно порівняти їх ефективність та безпеку. Це дослідження оцінює вплив різних препаратів на смертність та ускладнення у новонароджених.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003953.pub4/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-23T00:00:00Z",
-    "updatedAt": "2026-09-24T19:22:48Z",
-    "originalTitle": "Antifungal therapy for newborn infants with invasive fungal infection.",
-    "originalAbstract": "A variety of antifungal drugs, drug preparations and drug combinations are available to treat newborn infants with suspected or confirmed invasive fungal infection. There is a need to assess their relative merits. To evaluate the benefits and harms of treatment with one antifungal drug or drug combination or preparation versus another on mortality and morbidity in newborn infants with suspected or confirmed invasive fungal infection. We searched CENTRAL, MEDLINE, Embase, Emcare, and three trial…",
-    "keyPoints": [
-      "Порівнюються різні антифунгальні препарати та їх комбінації.",
-      "Мета — оцінити вплив на смертність та ускладнення.",
-      "Дослідження базується на систематичному пошуку даних."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш ефективну та безпечну антифунгальну терапію для новонароджених з грибковими інфекціями.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекційні хвороби",
-      "новонароджені",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Діагностична точність біологічних маркерів для виявлення обструктивного апное сну",
-    "abstract": "Це протокол для дослідження, яке має оцінити точність будь-яких біологічних маркерів, знайдених у крові, слині, сечі або конденсаті дихання, для виявлення обструктивного апное сну (OSA) у дорослих. Дослідження також аналізуватиме ефективність окремих маркерів або їх комбінацій у порівнянні з полісомнографією та домашніми тестами.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016281/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-21T00:00:00Z",
-    "updatedAt": "2026-09-21T16:00:57Z",
-    "originalTitle": "Diagnostic accuracy of biological markers for detecting obstructive sleep apnoea.",
-    "originalAbstract": "This is a protocol for a Cochrane review (diagnostic). The objectives are as follows: To determine the accuracy of any type of biological marker found in blood, saliva, urine or breath condensation to detect obstructive sleep apnoea (OSA) in adults (> 18 years). Secondary objectives To identify the accuracy of individual biomarkers alone or in combination for detecting OSA. To find the accuracy of biological markers compared to overnight polysomnography (PSG) and home sleep apnoea test (HSAT). T…",
-    "keyPoints": [
-      "Оцінюється точність біологічних маркерів для діагностики OSA.",
-      "Розглядаються маркери з крові, слини, сечі та дихання.",
-      "Порівнюється з полісомнографією та домашніми тестами."
-    ],
-    "practicalTakeaway": "Дослідження має визначити потенціал біологічних маркерів у діагностиці обструктивного апное сну.",
-    "specialty": "сімейна медицина",
-    "tags": [
-      "діагностика",
-      "обструктивний апнея сну",
-      "біологічні маркери"
-    ],
-    "priorityScore": 5,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }

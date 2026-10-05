@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42829986",
+    "title": "Діситамаб ведотин у лікуванні уротеліального раку: огляд досліджень",
+    "journal": "Expert review of clinical pharmacology",
+    "publishedAt": "2026-10-04T00:00:00Z",
+    "abstract": "У статті аналізується потенціал діситамаб ведотину як нової терапії для пацієнтів з уротеліальним раком. Вивчено рівень експресії HER-2 та його ампліфікацію у цій патології, а також роль таргетної терапії та імунотерапії у сучасному лікуванні. Обговорюється перспектива застосування діситамаб ведотину у клінічній практиці.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829986/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-05T00:13:17Z",
+    "originalTitle": "Disitamab vedotin in urothelial carcinoma patients: a clinical trial perspective from ARON working group.",
+    "originalAbstract": "In recent years, studies have demonstrated that in urothelial carcinoma (UC), the rate of HER-2 protein overexpression (immunohistochemistry 2+ and 3+) ranges from 18.1% to 36%, and the rate of HER-2 gene amplification reaches 10%-23%. The advent of HER-2-targeted antibody-drug conjugates and immune checkpoint inhibitors has reshaped the treatment landscape of advanced urothelial carcinoma. In the current paper, we discuss the role of disitamab vedotin as an innovative anticancer therapy in UC p",
+    "keyPoints": [
+      "Рівень HER-2 експресії у уротеліальному раку становить 18.1-36%.",
+      "Діситамаб ведотин є перспективною терапією для цієї патології.",
+      "Таргетна терапія HER-2 змінює підходи до лікування уротеліального раку."
+    ],
+    "practicalTakeaway": "Діситамаб ведотин може стати важливим елементом лікування уротеліального раку у майбутньому.",
+    "specialty": "онкологія",
+    "tags": [
+      "онкологія",
+      "лікування раку",
+      "HER-2"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42829984",
+    "title": "Готовність до виписки з лікарні та якість життя пацієнтів після операції на тип А розшаруванні аорти",
+    "journal": "Nursing open",
+    "publishedAt": "2026-10-01T00:00:00Z",
+    "abstract": "Дослідження оцінює рівень готовності до виписки та її зв'язок із якістю життя пацієнтів, які перенесли операцію на тип А розшаруванні аорти, на 30 та 90 днів після виписки. Вивчення проводилось у вигляді проспективного когортного дослідження з довгостроковим спостереженням.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829984/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-05T00:13:17Z",
+    "originalTitle": "Readiness for Hospital Discharge and Quality of Life Among Patients Undergoing Surgery for Type A Aortic Dissection: A Prospective Observational Cohort Study.",
+    "originalAbstract": "To examine the level and associated factors of readiness for hospital discharge among patients undergoing surgery for type A aortic dissection, and its correlations with quality of life at 30 and 90 days post-discharge. A prospective observational cohort study with a cross-sectional baseline assessment and longitudinal follow-up at 30 and 90 days post-discharge. This study employed a convenience sampling method to recruit 186 patients who underwent surgery for type A aortic dissection at the Dep",
+    "keyPoints": [
+      "Оцінено рівень готовності до виписки пацієнтів після операції на аорту.",
+      "Виявлено зв'язок між готовністю до виписки та якістю життя.",
+      "Дослідження проводилось у загальнонаціональному контексті."
+    ],
+    "practicalTakeaway": "Розуміння рівня готовності до виписки може допомогти покращити післяопераційний догляд.",
+    "specialty": "кардіологія",
+    "tags": [
+      "доказова медицина",
+      "серцево-судинні захворювання",
+      "післяопераційний догляд"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42829981",
+    "title": "Захворювання згортання крові у котів: огляд причин, діагностики та лікування",
+    "journal": "Journal of feline medicine and surgery",
+    "publishedAt": "2026-10-01T00:00:00Z",
+    "abstract": "Захворювання згортання крові у котів є рідкісними, але можуть становити загрозу для життя. Вони діагностуються за допомогою анамнезу, фізикального огляду, швидких тестів та розуміння фізіології гемостазу. Огляд охоплює основи гемостазу, поширені порушення, інтерпретацію тестів та можливі підходи до лікування.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829981/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-05T00:13:17Z",
+    "originalTitle": "Clotting and Coagulation Disorders in Cats: A clinical review of causes, diagnosis and management.",
+    "originalAbstract": "Hemostatic disorders in cats, while uncommon, can be life-threatening. In general, they can be diagnosed by utilizing a combination of history, physical examination findings, point-of-care assays and a basic understanding of hemostasis. This review aims to provide a general overview of hemostasis physiology, discuss common hemostatic disorders, diagnosis and interpretation of hemostatic testing, and summarize treatments of hemostatic disorders. The underlying cause of hemostatic disorders can of",
+    "keyPoints": [
+      "Захворювання згортання крові у котів є рідкісними, але потенційно небезпечними.",
+      "Діагностика базується на анамнезі, фізикальному огляді та швидких тестах.",
+      "Лікування залежить від причинного фактора захворювання."
+    ],
+    "practicalTakeaway": "Для діагностики захворювань згортання крові у котів важливо комплексно оцінити клінічні дані та результати тестів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "згортання крові",
+      "котики",
+      "діагностика"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42819732",
     "title": "Цільове тестування на анти-CCP для визначення ризику ревматоїдного артриту в первинній медичній практиці: попередня економічна оцінка.",
     "journal": "Rheumatology advances in practice",
@@ -192,90 +276,6 @@
       "лікарня"
     ],
     "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42798452",
-    "title": "Чотиривимірний просторовий атлас травми спинного мозку",
-    "journal": "Frontiers in immunology",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження створює просторову карту молекулярних механізмів у зоні травми спинного мозку, зокрема виявляє домінуючу роль сигналів Spp1-інтегрин у міжклітинній комунікації між мікрогліями та фібробластами в рубцевих зонах.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798452/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-26T13:53:20Z",
-    "originalTitle": "A four-dimensional spatial atlas of spinal cord injury reveals predominant Spp1-integrin signaling driving microglia-fibroblast crosstalk in fibrotic niches.",
-    "originalAbstract": "Spinal cord injury (SCI) leads to fibrotic scarring that blocks axonal regeneration, yet the molecular mechanisms controlling scar formation remain incompletely understood. Microglia and fibroblasts accumulate at lesion sites, but their intercellular communication, spatial organization and therapeutic tractability have not been systematically mapped. We integrated spatial transcriptomics, single-cell transcriptomics, bulk RNA sequencing, and microarray profiling across multiple post-injury time ",
-    "keyPoints": [
-      "Виявлено ключову роль сигналів Spp1-інтегрин у міжклітинній комунікації після травми.",
-      "Мапування просторової організації клітин сприяє розумінню процесів рубцювання.",
-      "Дослідження підкреслює потенціал цільової терапії для регуляції рубцевих процесів."
-    ],
-    "practicalTakeaway": "Розуміння молекулярних механізмів у зоні травми спинного мозку може сприяти розробці нових терапевтичних стратегій.",
-    "specialty": "неврологія",
-    "tags": [
-      "травма спинного мозку",
-      "мікроглія",
-      "фіброз"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42798450",
-    "title": "Порівняння vonoprazan і інгібіторів протонної помпи у лікуванні виразок після гастроскопічної дисекції та запобіганні кровотечі: мета-аналіз рандомізованих досліджень",
-    "journal": "Frontiers in medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує ефективність vonoprazan у порівнянні з інгібіторами протонної помпи для лікування виразок після гастроскопічної дисекції шлунка та запобігання кровотечі. Включено рандомізовані дослідження, результати об'єднані для оцінки ризиків та різниць у показниках.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42798450/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-26T13:53:20Z",
-    "originalTitle": "Comparison of vonoprazan and proton pump inhibitors for the management of gastric post-endoscopic submucosal dissection ulcers and preventing delayed bleeding: a meta-analysis of randomized controlled trials.",
-    "originalAbstract": "Delayed bleeding and artificial-ulcer healing are important clinical concerns after gastric endoscopic submucosal dissection (ESD). Vonoprazan rapidly suppresses gastric acid, but its efficacy relative to proton pump inhibitors (PPIs) remains uncertain. We searched seven databases from inception to May 31, 2026. Randomized controlled trials (RCTs) comparing vonoprazan with PPIs after gastric ESD were included. Outcomes were pooled as relative risks (RRs) or mean differences (MDs), with 95% confi",
-    "keyPoints": [
-      "Vonoprazan швидко пригнічує кислотність у шлунку.",
-      "Докази щодо переваг vonoprazan перед інгібіторами протонної помпи є неоднозначними.",
-      "Дослідження включає рандомізовані контрольовані випробування до травня 2026 року."
-    ],
-    "practicalTakeaway": "Вибір між vonoprazan і інгібіторами протонної помпи для післяендоскопічного лікування шлункових виразок потребує врахування індивідуальних ризиків та клінічних обставин.",
-    "specialty": "гастроентерологія",
-    "tags": [
-      "гастроентерологія",
-      "доказова медицина",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42774038",
-    "title": "Вплив інтернету на довіру до лікарів у Китаї",
-    "journal": "Frontiers in public health",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження аналізує причинно-наслідковий зв'язок між використанням інтернету та рівнем довіри до лікарів серед китайських мешканців. Використовуючи дані з панельних досліджень за 2016–2022 роки, автори застосували модель з двонаправленими фіксованими ефектами та метод збігу за ймовірністю для контролю за змінними. Результати сприяють розумінню змін у відносинах між лікарями та пацієнтами у цифрову епоху.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42774038/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-23T14:26:20Z",
-    "originalTitle": "Promotion or suppression? Does internet use by the Chinese public affect physician trust?",
-    "originalAbstract": "This study aims to explore the causal relationship between internet use and the level of physician trust among Chinese residents, providing rigorous empirical evidence for understanding the changes in doctor-patient relationships in the digital era. Using four waves of panel data from the China Family Panel Studies (CFPS) spanning 2016 to 2022, we construct a two-way fixed effects model to control for individual and time heterogeneity. We further employ propensity score matching (PSM) to allevia",
-    "keyPoints": [
-      "Досліджено вплив інтернету на довіру до лікарів у Китаї.",
-      "Застосовано панельні дані та методи статистичного аналізу.",
-      "Результати допомагають зрозуміти зміни у відносинах лікар-пацієнт у цифрову епоху."
-    ],
-    "practicalTakeaway": "Розуміння впливу інтернету на довіру до лікарів може допомогти у формуванні стратегій покращення комунікації у медичній сфері.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "інтернет",
-      "довіра до лікаря",
-      "Китай"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
