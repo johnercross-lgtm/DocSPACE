@@ -1,5 +1,31 @@
 [
   {
+    "title": "Корекція інструкцій щодо використання IV-наборів ICU Medical",
+    "abstract": "Звіт про чорні плями та частки у крапельних камерах не впливає на безпеку або функціональність пристрою.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-07T01:02:48Z",
+    "updatedAt": "2026-10-07T01:02:47Z",
+    "originalTitle": "IV Tubing Set Correction: ICU Medical Updates Use Instructions for IV Tubing Sets",
+    "originalAbstract": "Black specks and particulate reported in drip chambers of certain ICU Medical IV tubing sets does not affect device safety, performance, or intended use.",
+    "keyPoints": [
+      "Звіт про чорні плями у крапельних камерах IV-наборів ICU Medical.",
+      "Не впливає на безпеку, роботу або призначення пристрою.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Наявність чорних плям і часток у крапельних камерах не впливає на безпеку або функціональність IV-наборів ICU Medical.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "IV-набори",
+      "ICU Medical",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відгук щодо дихальної системи: Draeger видаляє шланги VentStar Resus Neo",
     "abstract": "Draeger вилучає шланги VentStar Resus Neo через можливість тріщин, що може призвести до обмеження вентиляції або затримки терапії.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-draeger-removes-ventstar-resus-neo-hoses",
@@ -163,26 +189,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Корекція комплектів AVID Medical через recalls Huons Sodium Chloride",
-    "abstract": "AVID Medical виправляє комплекти з ампулами натрію хлориду компанії Huons, що були відкликані.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
+    "title": "Попередження: проблема з вентилятором у React Health",
+    "abstract": "На пристроях VOCSN можливе від'єднання кабелю IFT, що спричиняє перезавантаження та системні помилки.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-23T14:26:36Z",
-    "updatedAt": "2026-09-23T14:26:36Z",
-    "originalTitle": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
-    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+    "publishedAt": "2026-10-07T01:02:48Z",
+    "updatedAt": "2026-10-07T01:02:47Z",
+    "originalTitle": "Early Alert: Ventilator Issue from React Health",
+    "originalAbstract": "IFT cable connector on VOCSN devices may become unseated and lose communication with internal flow transducer board leading to reboots, System Fault 10 Alarms.",
     "keyPoints": [
-      "Компанія AVID Medical виправляє комплекти з ампулами натрію хлориду.",
-      "Відкликання стосується продуктів компанії Huons.",
-      "Інформація актуальна для медичних закладів."
+      "Проблема стосується кабелю IFT на VOCSN.",
+      "Може спричинити перезавантаження та системні помилки.",
+      "Джерело: FDA."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Важливо враховувати можливість від'єднання кабелю IFT у VOCSN для моніторингу стану обладнання.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "медицина",
-      "відкликання",
-      "натрій хлорид"
+      "Ventilator",
+      "React Health",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -215,26 +241,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
-    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+    "title": "Корекція комплектів AVID Medical через recalls Huons Sodium Chloride",
+    "abstract": "AVID Medical виправляє комплекти з ампулами натрію хлориду компанії Huons, що були відкликані.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
-    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+    "publishedAt": "2026-09-23T14:26:36Z",
+    "updatedAt": "2026-09-23T14:26:36Z",
+    "originalTitle": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Huons Sodium Chloride Ampules",
+    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
     "keyPoints": [
-      "Оновлення інструкцій для системи NOxBOXi.",
-      "Можливий витік кисню під час терапії.",
-      "Джерело: FDA."
+      "Компанія AVID Medical виправляє комплекти з ампулами натрію хлориду.",
+      "Відкликання стосується продуктів компанії Huons.",
+      "Інформація актуальна для медичних закладів."
     ],
-    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "оксид азоту",
-      "інструкція",
-      "FDA"
+      "медицина",
+      "відкликання",
+      "натрій хлорид"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -261,6 +287,32 @@
       "фармацевтика",
       "відгук",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
+    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
+    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+    "keyPoints": [
+      "Оновлення інструкцій для системи NOxBOXi.",
+      "Можливий витік кисню під час терапії.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "оксид азоту",
+      "інструкція",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -579,60 +631,6 @@
       "інфекція",
       "відкликання",
       "медичні набори"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про перкутанний катетер ENROUTE від Boston Scientific",
-    "abstract": "Можливе відокремлення або часткове відокремлення кінчика артеріального оболонка під час використання.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-27T14:16:46Z",
-    "updatedAt": "2026-08-27T14:16:46Z",
-    "originalTitle": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
-    "originalAbstract": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
-    "keyPoints": [
-      "Відгук стосується системи ENROUTE Transcarotid Neuroprotection.",
-      "Можливе відокремлення кінчика під час застосування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Відгук фіксує оновлені показники щодо безпеки системи ENROUTE.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "катетер",
-      "безпека",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Вакцина Baxter відкликає дві партії розчину NaCl через можливе забруднення",
-    "abstract": "Компанія Baxter добровільно відкликає дві партії розчину 0,9% NaCl через можливе виявлення частинок скловолокна.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-27T14:16:46Z",
-    "updatedAt": "2026-08-27T14:16:46Z",
-    "originalTitle": "Baxter Issues Voluntary Nationwide Recall for Two Lots of 0.9% Sodium Chloride Injection Due to Potential Presence of Particulate Matter",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling two lots of 0.9% Sodium Chloride Injection due to the potential presence of particulate matter identified as fiberglass in the solution.",
-    "keyPoints": [
-      "Дата відкликання: 25 серпня 2026 року",
-      "Партії: дві, з можливим забрудненням",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "NaCl",
-      "забруднення",
-      "фармацевтика",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
