@@ -1,5 +1,57 @@
 [
   {
+    "title": "Щоденне припинення седації порівняно з її відсутністю у критичних пацієнтів на ШВЛ",
+    "abstract": "Дослідження аналізує вплив щоденного припинення седації (ДСІ) на тривалість штучної вентиляції легень, смертність, перебування у відділенні інтенсивної терапії та ускладнення, пов’язані з недо- або передозуванням седаційних препаратів. Оновлення аналізу з 2014 року базується на даних, отриманих у пацієнтів дорослого та дитячого віку, що потребують інвазивної ШВЛ.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009176.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-07T00:00:00Z",
+    "updatedAt": "2026-10-08T01:21:37Z",
+    "originalTitle": "Daily sedation interruption versus no daily sedation interruption for critically ill adults and children requiring invasive mechanical ventilation.",
+    "originalAbstract": "Daily sedation interruption (DSI) aims to limit drug accumulation and promote a more awake state, thereby reducing the duration of mechanical ventilation and its associated complications. This is an update of a Cochrane review first published in 2014. To assess the effects of DSI versus sedation management without DSI on the duration of invasive mechanical ventilation, mortality, intensive care unit (ICU) length of stay, adverse events related to under- or oversedation (including accidental remo…",
+    "keyPoints": [
+      "Дослідження порівнює щоденне припинення седації з її відсутністю.",
+      "Мета — зменшити тривалість штучної вентиляції та ускладнення.",
+      "Результати базуються на аналізі даних з 2014 року."
+    ],
+    "practicalTakeaway": "Враховувати можливий вплив щоденного припинення седації на тривалість ШВЛ та ускладнення у критичних пацієнтів.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інтенсивна терапія",
+      "седація",
+      "ШВЛ"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Діагностична точність ультразвуку, КТ та МРТ у оцінці вузлів щитоподібної залози",
+    "abstract": "Це протокол для дослідження, яке має оцінити точність ультразвуку, комп’ютерної томографії та магнітно-резонансної томографії у визначенні злоякісних вузлів щитоподібної залози, порівнюючи результати з гістопатологічним дослідженням як стандартом. Оцінка включає визначення чутливості та специфічності кожного методу у диференціації злоякісних та доброякісних вузлів у рамках передопераційної діагностики.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016398/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-06T00:00:00Z",
+    "updatedAt": "2026-10-08T01:21:37Z",
+    "originalTitle": "Diagnostic accuracy of ultrasound, computed tomography, and magnetic resonance imaging for the evaluation of thyroid nodules.",
+    "originalAbstract": "This is a protocol for a Cochrane review (diagnostic). The objectives are as follows: To assess the diagnostic accuracy of US, CT, and MRI - each considered separately - in identifying malignant thyroid nodules, using histopathological examination as the reference standard. Each modality will be evaluated within its established role in the preoperative diagnostic pathway. This includes estimating the sensitivity and specificity of each imaging modality for differentiating malignant from benign t…",
+    "keyPoints": [
+      "Оцінюється точність ультразвуку, КТ та МРТ у визначенні злоякісних вузлів щитоподібної залози.",
+      "Використовується гістопатологічне дослідження як стандарт порівняння.",
+      "Результати допоможуть визначити роль кожного методу у передопераційній діагностиці."
+    ],
+    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір методів діагностики вузлів щитоподібної залози перед операцією.",
+    "specialty": "ендокринологія",
+    "tags": [
+      "діагностика",
+      "щитоподібна залоза",
+      "медичні дослідження"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Лікування герпесу губ: огляд досліджень",
     "abstract": "Герпес губ — поширена рецидивна інфекція, викликана вірусом герпесу простого типу. Стандартне лікування передбачає застосування нуклеозидних противірусних препаратів. Дослідження також вивчали альтернативні методи, такі як цинк, мед і фотодинамічна терапія, для скорочення тривалості висипу та полегшення симптомів. Однак більшість оглядів не включають ці терапії.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015216.pub2/full",
@@ -202,58 +254,6 @@
       "психічні розлади",
       "лікування гострих станів",
       "антипсихотики"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Комбіновані гормональні, прогестин-окремі та безгормональні контрацептиви для контрацепції після пологів у годувальниць",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінка переваг та ризиків різних методів контрацепції після пологів у годувальниць, зокрема комбінованих гормональних, прогестин-окремих та безгормональних засобів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016393/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-23T00:00:00Z",
-    "updatedAt": "2026-09-24T19:22:48Z",
-    "originalTitle": "Combined hormonal versus nonhormonal versus progestin-only contraceptives for postpartum contraception in lactating individuals.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of combined hormonal, progestin-only, and nonhormonal contraceptive methods for postpartum contraception in lactating individuals.",
-    "keyPoints": [
-      "Огляд досліджень щодо контрацепції після пологів у годувальниць.",
-      "Порівнює гормональні та безгормональні методи.",
-      "Мета — визначити їхні переваги та ризики."
-    ],
-    "practicalTakeaway": "Результати дослідження допоможуть визначити найбільш безпечні та ефективні методи контрацепції для годувальниць після пологів.",
-    "specialty": "акушерство і гінекологія",
-    "tags": [
-      "контрацепція",
-      "післяпологовий період",
-      "гінекологія"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Електрофізіологічні процедури для запобігання падінь у літніх людей, що проживають у громаді",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити ефективність та безпеку електрофізіологічних процедур у запобіганні падінь серед літніх людей, що проживають у громаді.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016363/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-23T00:00:00Z",
-    "updatedAt": "2026-09-24T19:22:48Z",
-    "originalTitle": "Electrophysiology procedures for preventing falls in older people living in the community.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the efficacy and safety of electrophysiology procedures in preventing falls among older people living in the community.",
-    "keyPoints": [
-      "Огляд досліджень щодо електрофізіологічних процедур для запобігання падінь.",
-      "Мета — оцінити безпеку та ефективність процедур.",
-      "Фокус на літніх у громаді."
-    ],
-    "practicalTakeaway": "Дослідження спрямовані на визначення ролі електрофізіологічних процедур у профілактиці падінь у літніх.",
-    "specialty": "неврологія",
-    "tags": [
-      "загальне здоровʼя",
-      "передстаречий вік",
-      "профілактика падінь"
     ],
     "priorityScore": 2,
     "aiProcessed": true,
