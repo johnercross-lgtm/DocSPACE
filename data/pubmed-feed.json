@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42856089",
+    "title": "Двонаправлені хімілюмінесцентні зонда для тестування сечі при раку",
+    "journal": "Angewandte Chemie (International ed. in English)",
+    "publishedAt": "2026-10-10T00:00:00Z",
+    "abstract": "Розроблено хімілюмінесцентні зонда з подвійним блокуванням для діагностики раку через аналіз сечі. Зонда активуються за допомогою біоортогональних реакцій, що дозволяє зменшити фоновий сигнал і підвищити точність виявлення біомаркерів раку.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856089/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-10T15:34:17Z",
+    "originalTitle": "Biomarker and Bioorthogonality Dual-Locked Chemiluminescent Probes for Cancer Urine Test.",
+    "originalAbstract": "Bioorthogonality-activatable optical imaging activates caged or quenched probes via bioorthogonal reactions for disease diagnosis. Although chemiluminescence enables low-background detection, it has rarely been applied to bioorthogonality-activatable imaging. Here, we synthesize chemiluminescent tetrazine probes (CLTZs) by coupling a tetrazine acceptor to a phenoxy-1,2-dioxetane donor through π-conjugated vinylene linkers, enabling biomarker and bioorthogonality dual-locked activation for cancer",
+    "keyPoints": [
+      "Зонда активуються біоортогональними реакціями.",
+      "Застосовуються для діагностики раку через сечу.",
+      "Зменшують фоновий сигнал при виявленні біомаркерів."
+    ],
+    "practicalTakeaway": "Ці хімілюмінесцентні зонда можуть покращити точність тестів на рак за допомогою аналізу сечі.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "біомаркери",
+      "діагностика раку",
+      "хімілюмінесценція"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42856088",
+    "title": "Роль еозинофілів у COPD та астмі: порівняльний аналіз",
+    "journal": "Allergy",
+    "publishedAt": "2026-10-10T00:00:00Z",
+    "abstract": "Дослідження аналізує бідінаційні зв'язки еозинофілів із хронічною обструктивною хворобою легень (COPD) та астмою, а також їх можливі різні механізми. У великій когорті британського біобанку вивчалися зв'язки рівнів еозинофілів у крові з розвитком цих захворювань.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856088/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-10T15:34:17Z",
+    "originalTitle": "Not Just Th2: Eosinophil-Associated Proteomic Networks Reveal Fundamental Differences Between COPD and Asthma.",
+    "originalAbstract": "While eosinophils are established pathogenic drivers and therapeutic targets in asthma, their role in chronic obstructive pulmonary disease (COPD) remains conflicting. This study aimed to investigate the bidirectional associations of eosinophils with COPD and asthma, and to elucidate the potential distinct underlying mechanisms. In 302,370 UK Biobank participants, multivariable-adjusted Cox proportional hazards models assessed associations between blood eosinophil counts and incident COPD, asthm",
+    "keyPoints": [
+      "Еозинофіли відіграють різну роль у COPD та астмі.",
+      "Дослідження виявило потенційно різні механізми їх впливу.",
+      "Результати мають значення для цілеспрямованої терапії."
+    ],
+    "practicalTakeaway": "Розуміння ролі еозинофілів може допомогти у диференціації та лікуванні COPD і астми.",
+    "specialty": "нефрологія",
+    "tags": [
+      "COPD",
+      "астма",
+      "еозинофіли"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "pmid": "42856086",
+    "title": "Соціальна тривожність та рівень тілесно-орієнтованих поведінкових розладів у підлітків: послідовний аналіз ролі сорому та емоційної регуляції",
+    "journal": "Clinical psychology & psychotherapy",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "abstract": "Дослідження аналізує зв'язок між симптомами соціальної тривожності та тяжкістю тілесно-орієнтованих поведінкових розладів у підлітків, з урахуванням ролі сорому та труднощів у регуляції емоцій. Виявлено, що сором та проблеми з емоційною регуляцією посередньо впливають на цей зв'язок.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42856086/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-10T15:34:17Z",
+    "originalTitle": "Social Anxiety Symptoms and Body-Focused Repetitive Behaviour Severity in Adolescents: A Serial Mediation Analysis of Shame and Emotion Regulation Difficulties.",
+    "originalAbstract": "Body-focused repetitive behaviour disorders (BFRBDs), including trichotillomania (TTM) and skin-picking disorder (SPD), typically emerge during adolescence. These disorders have been conceptualized within emotion regulation models, in which body-focused repetitive behaviours (BFRBs) may function as attempts to regulate aversive emotional states. Although anxiety frequently co-occurs with BFRBDs, its association with BFRB severity is generally modest, highlighting the need to examine affective an",
+    "keyPoints": [
+      "Тілесно-орієнтовані поведінкові розлади починаються у підлітковому віці.",
+      "Сором та труднощі з емоційною регуляцією мають посередній вплив на зв'язок між соціальною тривожністю та розладами.",
+      "Дослідження підкреслює важливість врахування емоційних факторів у розумінні та лікуванні таких розладів."
+    ],
+    "practicalTakeaway": "У підлітків із соціальною тривожністю важливо враховувати емоційні чинники, зокрема сором та труднощі з регуляцією емоцій, для ефективного підходу до профілактики та лікування тілесно-орієнтованих поведінкових розладів.",
+    "specialty": "психіатрія",
+    "tags": [
+      "соціальна тривожність",
+      "підлітки",
+      "емоційна регуляція"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "pmid": "42841152",
     "title": "Чесність із собою: труднощі, зміни та переорієнтація у кар'єрі",
     "journal": "Clinics in colon and rectal surgery",
@@ -192,90 +276,6 @@
       "діагностика"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42819728",
-    "title": "Техніка перенаправлення кровотоку у стегновій артерії для запобігання ішемії органів черевної порожнини під час френдестендової ендоваскулярної аортальної реконструкції",
-    "journal": "Journal of vascular surgery cases and innovative techniques",
-    "publishedAt": "2026-12-01T00:00:00Z",
-    "abstract": "Описано техніку перенаправлення кровотоку у стегновій артерії, що дозволяє підтримувати безперервну перфузію внутрішніх органів під час френдестендової ендоваскулярної аортальної операції. Метод використовує пасивне перерозподілення кровотоку через феморальний шовт, що зменшує ризик ішемії під час процедури.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42819728/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-10-02T01:05:52Z",
-    "originalTitle": "Femoral flow redirection technique to limit visceral artery ischemia during fenestrated endovascular aortic repair.",
-    "originalAbstract": "Fenestrated endovascular aortic repair is an established treatment for complex juxtarenal and pararenal aneurysms but remains associated with postoperative renal insufficiency, partly due to reduced visceral perfusion during target vessel cannulation. We describe a femoral flow redirection technique that maintains continuous visceral perfusion during fenestrated endovascular aortic repair using a femoral sheath that passively redistributes flow to visceral sheaths. Femoral flow redirection can b",
-    "keyPoints": [
-      "Техніка спрямована на збереження перфузії внутрішніх органів під час операції.",
-      "Використання феморального шовту для пасивного перенаправлення кровотоку.",
-      "Може зменшити ризик ішемії органів черевної порожнини."
-    ],
-    "practicalTakeaway": "Застосування техніки перенаправлення кровотоку у стегновій артерії може знизити ризик ішемії під час френдестендової ендоваскулярної аортальної реконструкції.",
-    "specialty": "хірургія",
-    "tags": [
-      "ендоваскулярна хірургія",
-      "аортальна реконструкція",
-      "перфузія органів"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42819727",
-    "title": "Вплив додавання амінокислот з розгалуженим ланцюгом після фізичних навантажень на м'язову масу у пацієнтів з гастроінтестинальним раком",
-    "journal": "Progress in rehabilitation medicine",
-    "publishedAt": "2026-01-01T00:00:00Z",
-    "abstract": "Дослідження оцінювало вплив прийому нутрієнтної добавки з амінокислотами з розгалуженим ланцюгом після фізичних вправ на м'язову масу та здатність ходити у пацієнтів, що перенесли операцію з приводу гастроінтестинального раку. У дослідженні взяли участь 50 пацієнтів із гастроінтестинальним раком, які були рандомізовані на групу з додаванням BCAA або без нього. Результати вказують на потенційний вплив такої нутрієнтної підтримки на м'язову масу.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42819727/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-10-02T01:05:52Z",
-    "originalTitle": "Effect of Branched-Chain Amino Acid-enriched nutritional supplement after exercise on skeletal muscle mass in patients undergoing surgery for gastrointestinal cancer.",
-    "originalAbstract": "To investigate the effects of branched-chain amino acid (BCAA)-enriched nutritional supplementation after exercise on skeletal muscle and walking ability in patients undergoing gastrointestinal cancer surgery. Fifty patients with gastric or colorectal cancer scheduled for surgery were enrolled in this single-center, single-blind, randomized controlled study. Patients were randomly assigned to a BCAA-enriched jelly group (test group) or an amino acid-free jelly group (control group). Both groups ",
-    "keyPoints": [
-      "Дослідження вивчало вплив BCAA після фізичних вправ у пацієнтів з гастроінтестинальним раком.",
-      "Учасники були рандомізовані на групу з додаванням BCAA або без нього.",
-      "Результати можуть мати значення для реабілітації після онкологічних операцій."
-    ],
-    "practicalTakeaway": "Прийом нутрієнтної добавки з BCAA після фізичних вправ може впливати на м'язову масу у пацієнтів з гастроінтестинальним раком.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "реабілітація",
-      "нутрієнтна підтримка"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42806969",
-    "title": "Травматична розрив м'яза передньої зубчастої м'язи у професійного волейболіста: випадок із практики",
-    "journal": "Cureus",
-    "publishedAt": "2026-08-01T00:00:00Z",
-    "abstract": "У даному випадку описано рідкісну травму передньої зубчастої м'язи у 26-річного професійного волейболіста, який звернувся з гострим болем у задній частині плеча після виконання сервісу. Симптоми тривали дві тижні, що ускладнювало діагностику через неспецифічність проявів.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42806969/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-09-29T09:54:26Z",
-    "originalTitle": "Traumatic Serratus Anterior Muscle Tear Presenting as Isolated Posterior Shoulder Pain in a Professional Volleyball Athlete: A Case Report.",
-    "originalAbstract": "Serratus anterior muscle injuries are rare, most commonly reported in rowing and overhead throwing athletes. These injuries typically present with anterolateral chest wall pain and a palpable mass. Atypical presentations may lead to diagnostic challenges, particularly when symptoms mimic shoulder pathology. We report the case of a 26-year-old male professional volleyball player who presented with acute-onset posterior shoulder pain following a serving motion. The pain persisted for two weeks and",
-    "keyPoints": [
-      "Розрив передньої зубчастої м'язи є рідкісною травмою, зазвичай у спортсменів, що займаються греблею або підкиданням м'яча.",
-      "Може проявлятися болем у задній частині плеча, що ускладнює диференціальну діагностику.",
-      "Діагностика ускладнюється при неспецифічних симптомах, що імітують патологію плеча."
-    ],
-    "practicalTakeaway": "При підозрі на травму передньої зубчастої м'язи у спортсменів з болем у плечі важливо враховувати рідкісні діагнози та застосовувати відповідну діагностичну тактику.",
-    "specialty": "неврологія",
-    "tags": [
-      "травма",
-      "спорт",
-      "діагностика"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }

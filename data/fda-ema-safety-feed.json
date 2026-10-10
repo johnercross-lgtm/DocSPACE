@@ -1,5 +1,59 @@
 [
   {
+    "title": "Відкликання двох партій Brevital® Sodium через частки",
+    "abstract": "Par Health добровільно відкликає дві партії препарату через виявлення часток целюлози.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-brevitalr-sodium-500-mgvial-civ-methohexital",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-10T15:34:08Z",
+    "updatedAt": "2026-10-10T15:34:08Z",
+    "originalTitle": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) Due to the Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 8, 2026 –Par Health is voluntarily recalling two lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose.",
+    "keyPoints": [
+      "Відкликання двох партій Brevital® Sodium 8 жовтня 2026 року",
+      "Причина — наявність часток целюлози",
+      "Препарат для ін'єкцій, виробник — Par Health"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "препарати",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Проблема з системою ультразвукової діагностики Philips Lumify",
+    "abstract": "Можливі збої у роботі через проблеми з програмним забезпеченням або з'єднанням датчика.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-diagnostic-ultrasound-system-issue-philips-ultrasound",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-10T15:34:08Z",
+    "updatedAt": "2026-10-10T15:34:08Z",
+    "originalTitle": "Early Alert: Diagnostic Ultrasound System Issue from Philips Ultrasound",
+    "originalAbstract": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
+    "keyPoints": [
+      "Проблеми з програмним забезпеченням або з'єднанням датчика у системі Philips Lumify.",
+      "Можливі втрати або затримки у функціональності сканування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "ультразвук",
+      "Philips Lumify",
+      "медичне обладнання",
+      "безпека",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Корекція інструкцій щодо використання IV-наборів ICU Medical",
     "abstract": "Звіт про чорні плями та частки у крапельних камерах не впливає на безпеку або функціональність пристрою.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/iv-tubing-set-correction-icu-medical-updates-use-instructions-iv-tubing-sets",
@@ -107,34 +161,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання контролерів серцевого насосу Abiomed",
-    "abstract": "Abiomed відкликає автоматизовані контролери Impella через несправність, що може спричинити затримки у підтримці кровообігу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-26T23:56:00Z",
-    "updatedAt": "2026-09-26T23:56:00Z",
-    "originalTitle": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-    "keyPoints": [
-      "Відкликання стосується автоматичних контролерів Impella.",
-      "Причина — несправність розпізнавання касет.",
-      "Може спричинити затримки у підтримці кровообігу."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцевий насос",
-      "відкликання",
-      "медичне обладнання",
-      "Abiomed",
-      "Impella"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Виправлення комплектів BD через ампули натрію хлориду",
     "abstract": "BD випускає корекцію для комплектів і trays з ампулами натрію хлориду, що були відкликані.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
@@ -163,26 +189,28 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з контролером серцевого насосу Abiomed",
-    "abstract": "Abiomed відкликає певні моделі контролерів Impella через аналіз сервісних записів.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
+    "title": "Відкликання контролерів серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає автоматизовані контролери Impella через несправність, що може спричинити затримки у підтримці кровообігу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-30T09:46:45Z",
-    "updatedAt": "2026-09-30T09:46:45Z",
-    "originalTitle": "Early Alert: Heart Pump Controller Issue from Abiomed",
-    "originalAbstract": "Abiomed is removing certain Impella Controllers with various hardware, firmware, and/or software updates based on a retrospective review of servicing records.",
+    "publishedAt": "2026-09-26T23:56:00Z",
+    "updatedAt": "2026-09-26T23:56:00Z",
+    "originalTitle": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
     "keyPoints": [
-      "Відкликання стосується моделей Impella контролерів.",
-      "Проблема виявлена на основі ретроспективного аналізу.",
-      "Джерело: FDA."
+      "Відкликання стосується автоматичних контролерів Impella.",
+      "Причина — несправність розпізнавання касет.",
+      "Може спричинити затримки у підтримці кровообігу."
     ],
     "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
+    "specialty": "кардіологія",
     "tags": [
-      "кардіологія",
-      "медична техніка",
-      "безпека"
+      "серцевий насос",
+      "відкликання",
+      "медичне обладнання",
+      "Abiomed",
+      "Impella"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -209,6 +237,32 @@
       "Ventilator",
       "React Health",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Попередження: проблема з контролером серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає певні моделі контролерів Impella через аналіз сервісних записів.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-30T09:46:45Z",
+    "updatedAt": "2026-09-30T09:46:45Z",
+    "originalTitle": "Early Alert: Heart Pump Controller Issue from Abiomed",
+    "originalAbstract": "Abiomed is removing certain Impella Controllers with various hardware, firmware, and/or software updates based on a retrospective review of servicing records.",
+    "keyPoints": [
+      "Відкликання стосується моделей Impella контролерів.",
+      "Проблема виявлена на основі ретроспективного аналізу.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "кардіологія",
+      "медична техніка",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -267,32 +321,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
-    "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
-    "originalAbstract": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
-    "keyPoints": [
-      "Видалення продукту стосується Sodium Chloride Flush.",
-      "Виробник — Huons Co., Ltd.",
-      "Джерело — FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "фармацевтика",
-      "відгук",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
     "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
@@ -313,6 +341,32 @@
       "оксид азоту",
       "інструкція",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
+    "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
+    "originalAbstract": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
+    "keyPoints": [
+      "Видалення продукту стосується Sodium Chloride Flush.",
+      "Виробник — Huons Co., Ltd.",
+      "Джерело — FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "фармацевтика",
+      "відгук",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -579,58 +633,6 @@
       "інфекція",
       "стерильність",
       "медичне обладнання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з комплектами для швидкого реагування від AVID Medical",
-    "abstract": "AVID Medical виправляє комплекти, що містять відкликані ампули натрію хлориду Huons Co.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-03T08:06:52Z",
-    "updatedAt": "2026-09-03T08:06:52Z",
-    "originalTitle": "Early Alert: Convenience Kit Issue from AVID Medical",
-    "originalAbstract": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-    "keyPoints": [
-      "Компанія AVID Medical виправляє комплекти з відкликаними ампулами натрію хлориду Huons Co.",
-      "Виправлення стосується комплектів для швидкого реагування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу ситуації з безпекою медичних комплектів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "безпека",
-      "медичні комплекти",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з наборами для внутрішньовенних інфузій від Avid Medical",
-    "abstract": "Avid Medical відкликає деякі набори через можливе забруднення Aspergillus penicillioides.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-08-30T23:56:15Z",
-    "updatedAt": "2026-08-30T23:56:15Z",
-    "originalTitle": "Early Alert: IV Start Kit Issue from Avid Medical",
-    "originalAbstract": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
-    "keyPoints": [
-      "Відкликання наборів від Avid Medical через можливе забруднення.",
-      "Забруднення пов'язане з застосуванням BD ChloraPrep Applicator.",
-      "Матеріал допомагає орієнтуватися в актуальній статистиці."
-    ],
-    "practicalTakeaway": "Інформація може бути використана для моніторингу епідситуації.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекція",
-      "відкликання",
-      "медичні набори"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
