@@ -1,5 +1,57 @@
 [
   {
+    "title": "Ближньо-прикордонні молекулярні тести для виявлення туберкульозу легень",
+    "abstract": "Дослідження аналізує точність ближньо-прикордонних молекулярних тестів для діагностики туберкульозу легень на основі респіраторних зразків. Ці тести є портативними, не вимагають спеціальної інфраструктури та можуть виконуватися медичними працівниками з базовими навичками.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016396/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-09T00:00:00Z",
+    "updatedAt": "2026-10-11T15:57:48Z",
+    "originalTitle": "Near point-of-care nucleic acid amplification tests (NPOC-NAATs) using respiratory specimens for detection of pulmonary tuberculosis.",
+    "originalAbstract": "Near point-of-care nucleic acid amplification tests (NPOC-NAATs) are a new class of diagnostics that can be used for tuberculosis diagnosis. NPOC-NAATs are suitable for use in peripheral levels of healthcare systems as they are battery-operated instrument-based tests without special infrastructure requirements and can be performed by health care workers with basic technical skills. We evaluated the accuracy of NPOC-NAATs in diagnosing pulmonary tuberculosis using respiratory samples. To assess t…",
+    "keyPoints": [
+      "Оцінено точність молекулярних тестів для туберкульозу легень.",
+      "Тести зручні для використання в периферійних рівнях системи охорони здоров'я.",
+      "Можуть забезпечити швидку діагностику без складної інфраструктури."
+    ],
+    "practicalTakeaway": "Ближньо-прикордонні молекулярні тести можуть бути корисними для швидкої діагностики туберкульозу легень у периферійних медичних закладах.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "діагностика",
+      "туберкульоз",
+      "молекулярні тести"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Інформація та промоційні стратегії фармацевтичної галузі щодо лікарів",
+    "abstract": "Цей аналіз досліджує вплив промоційних заходів фармацевтичних компаній на практику призначення ліків. Використовуючи дані рандомізованих досліджень, він оцінює ефекти таких взаємодій, зокрема надання інформації лікарям та їхній вплив на призначення препаратів.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013423.pub3/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-09T00:00:00Z",
+    "updatedAt": "2026-10-11T15:57:48Z",
+    "originalTitle": "Pharmaceutical industry information and promotional strategies aimed at prescribers.",
+    "originalAbstract": "The influence of pharmaceutical company promotion on prescribing and its impacts have been subject to extensive debate. This review helps to clarify whether and how interactions between clinicians and the pharmaceutical industry influence prescribing. Main objective: to assess the effects, using evidence from randomised trials, and the associations, using evidence from non-randomised studies, of pharmaceutical industry promotional interactions with prescribers (including provision of information…",
+    "keyPoints": [
+      "Досліджено вплив промоційних заходів фармацевтичних компаній на практику призначення ліків.",
+      "Використано дані рандомізованих досліджень для оцінки ефектів.",
+      "Результати допомагають зрозуміти, як взаємодії з промоутерами впливають на рішення лікарів."
+    ],
+    "practicalTakeaway": "Розуміння впливу промоційних стратегій фармацевтичної галузі може допомогти лікарям критично оцінювати отриману інформацію.",
+    "specialty": "доказова медицина",
+    "tags": [
+      "фармацевтика",
+      "промоція",
+      "лікарська практика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Щоденне припинення седації порівняно з її відсутністю у критичних пацієнтів на ШВЛ",
     "abstract": "Дослідження аналізує вплив щоденного припинення седації (ДСІ) на тривалість штучної вентиляції легень, смертність, перебування у відділенні інтенсивної терапії та ускладнення, пов’язані з недо- або передозуванням седаційних препаратів. Оновлення аналізу з 2014 року базується на даних, отриманих у пацієнтів дорослого та дитячого віку, що потребують інвазивної ШВЛ.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009176.pub3/full",
@@ -204,58 +256,6 @@
       "артеріальний тиск"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Переливання червоних кров'яних клітин при серповидноклітинній анемії: огляд Cochrane",
-    "abstract": "Це огляд Cochrane аналізує ефективність та безпеку переливання червоних кров'яних клітин для лікування або профілактики ускладнень серповидноклітинної анемії. Вивчено застосування при гострому респіраторному синдромі та довгострокових програмах профілактики ускладнень.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012082.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-24T00:00:00Z",
-    "updatedAt": "2026-09-28T09:52:47Z",
-    "originalTitle": "Red blood cell transfusion to treat or prevent complications in sickle cell disease: an overview of Cochrane reviews.",
-    "originalAbstract": "Sickle cell disease (SCD) is one of the most common severe monogenic disorders globally. SCD can cause severe pain, significant end-organ damage, pulmonary complications, and premature death. Red blood cell (RBC) transfusions are used to treat complications of SCD, e.g. acute chest syndrome (ACS), or they can be part of a regular long-term transfusion programme to prevent SCD complications. To summarise the evidence from Cochrane reviews of the benefits and harms of RBC transfusions versus no tr…",
-    "keyPoints": [
-      "Переливання крові використовують для лікування ускладнень серповидноклітинної анемії.",
-      "Досліджуються переваги та ризики застосування переливань.",
-      "Огляд базується на аналізі Cochrane reviews."
-    ],
-    "practicalTakeaway": "Докази щодо застосування переливання крові при серповидноклітинній анемії залишаються обмеженими, що потребує подальших досліджень.",
-    "specialty": "гематологія",
-    "tags": [
-      "доказова медицина",
-      "гематологія",
-      "серповидноклітинна анемія"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Зуклопентіксол ацетат для гострого шизофренії та подібних психічних розладів",
-    "abstract": "Шизофренія є важким психічним захворюванням, що може спричиняти довготривлу інвалідність і значні порушення у повсякденному житті. У хворих можливі психотичні епізоди, що супроводжуються страхом та тривогою, а іноді — агресією або насильством. У таких випадках застосовуються медикаменти з швидким початком дії для контролю агресії та збудження у психіатричних умовах.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD000525.pub4/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-24T00:00:00Z",
-    "updatedAt": "2026-09-28T09:52:47Z",
-    "originalTitle": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses.",
-    "originalAbstract": "Schizophrenia is a serious mental health condition that can cause long-term disability and major disruption to daily life. People living with schizophrenia may experience psychosis, causing frightening and distressing experiences. At times, this distress may lead to aggressive or violent behaviour towards themselves or others. On such occasions, medications used for the management of aggression and agitation in psychiatric settings must have a rapid onset of action, low frequency of administrati…",
-    "keyPoints": [
-      "Зуклопентіксол ацетат використовується для гострих психічних станів.",
-      "Медикамент має швидкий початок дії.",
-      "Застосовується для контролю агресії та збудження."
-    ],
-    "practicalTakeaway": "Зуклопентіксол ацетат може бути ефективним для швидкого контролю гострих психічних симптомів у шизофренії та подібних розладах.",
-    "specialty": "психіатрія",
-    "tags": [
-      "психічні розлади",
-      "лікування гострих станів",
-      "антипсихотики"
-    ],
-    "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
