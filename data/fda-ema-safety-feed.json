@@ -1,25 +1,26 @@
 [
   {
-    "title": "Відкликання двох партій Brevital® Sodium через частки",
-    "abstract": "Par Health добровільно відкликає дві партії препарату через виявлення часток целюлози.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-brevitalr-sodium-500-mgvial-civ-methohexital",
+    "title": "Відгук щодо наборів Medline через застосунок BD ChloraPrep",
+    "abstract": "Деякі набори Medline з застосунками BD ChloraPrep підлягають вилученню через можливе грибкове забруднення.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-10-10T15:34:08Z",
-    "updatedAt": "2026-10-10T15:34:08Z",
-    "originalTitle": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) Due to the Presence of Particulate Matter",
-    "originalAbstract": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 8, 2026 –Par Health is voluntarily recalling two lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose.",
+    "publishedAt": "2026-10-13T20:46:01Z",
+    "updatedAt": "2026-10-13T20:46:01Z",
+    "originalTitle": "Convenience Kit Recall: Medline Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+    "originalAbstract": "Certain Medline convenience kits containing recalled BD ChloraPrep applicators should be removed from use due to potential fungal contamination",
     "keyPoints": [
-      "Відкликання двох партій Brevital® Sodium 8 жовтня 2026 року",
-      "Причина — наявність часток целюлози",
-      "Препарат для ін'єкцій, виробник — Par Health"
+      "Вилучено набори Medline з застосунками BD ChloraPrep.",
+      "Можливе грибкове забруднення у деяких наборах.",
+      "Джерело: FDA."
     ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "practicalTakeaway": "Використання наборів з застосунками BD ChloraPrep, які підлягають відкликанню, може бути пов'язане з ризиком грибкової контамінації.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "відкликання",
-      "препарати",
-      "безпека"
+      "відгук",
+      "медичне обладнання",
+      "інфекційний ризик",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -48,6 +49,58 @@
       "медичне обладнання",
       "безпека",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання двох партій Brevital® Sodium через частки",
+    "abstract": "Par Health добровільно відкликає дві партії препарату через виявлення часток целюлози.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/par-health-issues-voluntary-nationwide-recall-two-lots-brevitalr-sodium-500-mgvial-civ-methohexital",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-10T15:34:08Z",
+    "updatedAt": "2026-10-10T15:34:08Z",
+    "originalTitle": "Par Health Issues Voluntary Nationwide Recall of Two Lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) Due to the Presence of Particulate Matter",
+    "originalAbstract": "FOR IMMEDIATE RELEASE - ROCHESTER, MI– October 8, 2026 –Par Health is voluntarily recalling two lots of Brevital® Sodium 500 mg/vial CIV (Methohexital Sodium for Injection, USP) to the hospital level. The product is being recalled due to the presence of particulate matter identified as cellulose.",
+    "keyPoints": [
+      "Відкликання двох партій Brevital® Sodium 8 жовтня 2026 року",
+      "Причина — наявність часток целюлози",
+      "Препарат для ін'єкцій, виробник — Par Health"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "препарати",
+      "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Глобальна корекція для медичного приладу StatStrip® Glucose",
+    "abstract": "Nova Biomedical оголосила про глобальну корекцію для системи вимірювання глюкози StatStrip® через можливу помилку у програмному забезпеченні.",
+    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-13T20:46:01Z",
+    "updatedAt": "2026-10-13T20:46:01Z",
+    "originalTitle": "Nova Biomedical® Announces Global Medical Device Correction for StatStrip® Glucose Hospital Meter",
+    "originalAbstract": "WALTHAM, Mass., October 5, 2026 – Nova Biomedical initiated a global Medical Device Correction on July 24, 2026, for the StatStrip® Glucose Hospital Meter System due to a software issue that may cause a glucose result to be associated with the wrong patient. When a patient ID barcode is scanned, pri",
+    "keyPoints": [
+      "Застосована корекція 24 липня 2026 року.",
+      "Можлива неправильна асоціація результату глюкози з пацієнтом.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "медичні пристрої",
+      "глюкометри",
+      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -269,32 +322,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відклик вентиляційних наборів INCA від CooperSurgical",
-    "abstract": "Компанія CooperSurgical відкликає набори INCA для інфантів через можливі проблеми з з'єднанням.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-23T14:26:36Z",
-    "updatedAt": "2026-09-23T14:26:36Z",
-    "originalTitle": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
-    "originalAbstract": "The cannula sets may exhibit a loose connection between the flexible tubing and the nasal cannula resulting in reduced effectiveness and decreased oxygenation.",
-    "keyPoints": [
-      "Відкликання стосується наборів INCA для новонароджених.",
-      "Можлива несправність — слабке з'єднання між трубкою та носовою канюлею.",
-      "Джерело — FDA."
-    ],
-    "practicalTakeaway": "Матеріал фіксує оновлені показники щодо відкликання наборів INCA.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "вентиляція",
-      "інфекційні хвороби",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Корекція комплектів AVID Medical через recalls Huons Sodium Chloride",
     "abstract": "AVID Medical виправляє комплекти з ампулами натрію хлориду компанії Huons, що були відкликані.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-huons-sodium-chloride",
@@ -321,26 +348,26 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
-    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+    "title": "Відклик вентиляційних наборів INCA від CooperSurgical",
+    "abstract": "Компанія CooperSurgical відкликає набори INCA для інфантів через можливі проблеми з з'єднанням.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
     "source": "FDA",
     "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
-    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+    "publishedAt": "2026-09-23T14:26:36Z",
+    "updatedAt": "2026-09-23T14:26:36Z",
+    "originalTitle": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
+    "originalAbstract": "The cannula sets may exhibit a loose connection between the flexible tubing and the nasal cannula resulting in reduced effectiveness and decreased oxygenation.",
     "keyPoints": [
-      "Оновлення інструкцій для системи NOxBOXi.",
-      "Можливий витік кисню під час терапії.",
-      "Джерело: FDA."
+      "Відкликання стосується наборів INCA для новонароджених.",
+      "Можлива несправність — слабке з'єднання між трубкою та носовою канюлею.",
+      "Джерело — FDA."
     ],
-    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
+    "practicalTakeaway": "Матеріал фіксує оновлені показники щодо відкликання наборів INCA.",
     "specialty": "інфекційні хвороби",
     "tags": [
-      "оксид азоту",
-      "інструкція",
-      "FDA"
+      "вентиляція",
+      "інфекційні хвороби",
+      "відкликання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -367,6 +394,32 @@
       "фармацевтика",
       "відгук",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
+    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-20T08:39:03Z",
+    "updatedAt": "2026-09-20T08:39:03Z",
+    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
+    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
+    "keyPoints": [
+      "Оновлення інструкцій для системи NOxBOXi.",
+      "Можливий витік кисню під час терапії.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "оксид азоту",
+      "інструкція",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -581,58 +634,6 @@
       "дихальна система",
       "безпека медичного обладнання",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Попередження: проблема з касетами контролерів серцевого насосу Abiomed",
-    "abstract": "Abiomed відкликає автоматичні контролери Impella через несправність касет для промивання, що може спричинити затримки у підтримці кровообігу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-06T17:38:31Z",
-    "updatedAt": "2026-09-06T17:38:31Z",
-    "originalTitle": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-    "keyPoints": [
-      "Відкликання контролерів Abiomed Impella",
-      "Проблема з розпізнаванням касет для промивання",
-      "Може спричинити затримки у підтримці кровообігу"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцева недостатність",
-      "медичне обладнання",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Медлайн виправляє комплекти з BD ChloraPrep через можливу нестерильність",
-    "abstract": "Медлайн повідомляє про можливу нестерильність деяких комплектів з BD ChloraPrep, вироблених для медичних закладів.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-03T08:06:52Z",
-    "updatedAt": "2026-09-03T08:06:52Z",
-    "originalTitle": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
-    "originalAbstract": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-    "keyPoints": [
-      "Виробник: Medline",
-      "Продукти: комплекти з BD ChloraPrep",
-      "Проблема: можлива нестерильність"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфекція",
-      "стерильність",
-      "медичне обладнання"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
