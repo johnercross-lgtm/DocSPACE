@@ -1,5 +1,58 @@
 [
   {
+    "title": "Проблема з системою трансплантаційної доставки мітрального клапана від Edwards Lifesciences",
+    "abstract": "Можливий розрив балону під час інфляції може спричинити емболію або потребу у хірургічному втручанні.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-16T23:56:26Z",
+    "updatedAt": "2026-10-16T23:56:26Z",
+    "originalTitle": "Early Alert: Transcatheter Mitral Valve Delivery System Issue from Edwards Lifesciences",
+    "originalAbstract": "Potential balloon burst during inflation can lead to embolism or the need for surgery.",
+    "keyPoints": [
+      "Можливий розрив балону під час інфляції",
+      "Може спричинити емболію або хірургічне втручання",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "кардіологія",
+    "tags": [
+      "кардіологія",
+      "медична безпека",
+      "імплантати",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання наборів AVID Medical через можливе забруднення",
+    "abstract": "Компанія AVID Medical відкликає певні набори через ризик забруднення Aspergillus penicillioides.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-16T23:56:26Z",
+    "updatedAt": "2026-10-16T23:56:26Z",
+    "originalTitle": "Convenience Kit Recall: AVID Medical Removes Convenience Kits Affected by BD ChloraPrep Applicator Recall",
+    "originalAbstract": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+    "keyPoints": [
+      "Відкликання стосується наборів AVID Medical.",
+      "Можливе забруднення Aspergillus penicillioides.",
+      "Джерело — FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "відкликання",
+      "забруднення",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відгук щодо наборів Medline через застосунок BD ChloraPrep",
     "abstract": "Деякі набори Medline з застосунками BD ChloraPrep підлягають вилученню через можливе грибкове забруднення.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-medline-removes-convenience-kits-affected-bd-chloraprep-applicator-recall",
@@ -270,32 +323,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Попередження: проблема з вентилятором у React Health",
-    "abstract": "На пристроях VOCSN можливе від'єднання кабелю IFT, що спричиняє перезавантаження та системні помилки.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-07T01:02:48Z",
-    "updatedAt": "2026-10-07T01:02:47Z",
-    "originalTitle": "Early Alert: Ventilator Issue from React Health",
-    "originalAbstract": "IFT cable connector on VOCSN devices may become unseated and lose communication with internal flow transducer board leading to reboots, System Fault 10 Alarms.",
-    "keyPoints": [
-      "Проблема стосується кабелю IFT на VOCSN.",
-      "Може спричинити перезавантаження та системні помилки.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Важливо враховувати можливість від'єднання кабелю IFT у VOCSN для моніторингу стану обладнання.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "Ventilator",
-      "React Health",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Попередження: проблема з контролером серцевого насосу Abiomed",
     "abstract": "Abiomed відкликає певні моделі контролерів Impella через аналіз сервісних записів.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-issue-abiomed",
@@ -316,6 +343,32 @@
       "кардіологія",
       "медична техніка",
       "безпека"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Попередження: проблема з вентилятором у React Health",
+    "abstract": "На пристроях VOCSN можливе від'єднання кабелю IFT, що спричиняє перезавантаження та системні помилки.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-ventilator-issue-react-health",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-07T01:02:48Z",
+    "updatedAt": "2026-10-07T01:02:47Z",
+    "originalTitle": "Early Alert: Ventilator Issue from React Health",
+    "originalAbstract": "IFT cable connector on VOCSN devices may become unseated and lose communication with internal flow transducer board leading to reboots, System Fault 10 Alarms.",
+    "keyPoints": [
+      "Проблема стосується кабелю IFT на VOCSN.",
+      "Може спричинити перезавантаження та системні помилки.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Важливо враховувати можливість від'єднання кабелю IFT у VOCSN для моніторингу стану обладнання.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "Ventilator",
+      "React Health",
+      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -582,58 +635,6 @@
       "моніторинг",
       "Portrait",
       "оновлення"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання пристроїв Luna G3 APAP через дефект прошивки",
-    "abstract": "BMC Medical повідомила про відкликання 20 160 пристроїв Luna G3 APAP у США через дефект прошивки.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-10T08:11:44Z",
-    "updatedAt": "2026-09-10T08:11:44Z",
-    "originalTitle": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
-    "originalAbstract": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective action was not reported to customers. O",
-    "keyPoints": [
-      "Відкликання стосується 20 160 пристроїв Luna G3 APAP.",
-      "Дата повідомлення — 15 липня 2026 року.",
-      "Пристрої розповсюджені в США."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відкликання",
-      "пристрої",
-      "фірмвар"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з дихальним контуром Draeger",
-    "abstract": "Відкликання hoses VentStar Resus Neo через можливість тріщин, що може ускладнити вентиляцію.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-16T18:59:52Z",
-    "updatedAt": "2026-09-16T18:59:52Z",
-    "originalTitle": "Early Alert: Breathing Circuit Issue from Draeger",
-    "originalAbstract": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-    "keyPoints": [
-      "Відкликання hoses VentStar Resus Neo",
-      "Можливість тріщин у hoses",
-      "Джерело: FDA"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "дихальна система",
-      "безпека медичного обладнання",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
