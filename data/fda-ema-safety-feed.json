@@ -1,5 +1,32 @@
 [
   {
+    "title": "Оновлення інструкцій для системи ультразвукової діагностики Philips Lumify",
+    "abstract": "Можливі проблеми з програмним забезпеченням або з'єднанням датчика можуть спричинити втрату або затримки функцій сканування.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-20T00:43:19Z",
+    "updatedAt": "2026-10-20T00:43:19Z",
+    "originalTitle": "Diagnostic Ultrasound System Correction: Philips Ultrasound Issues Updated Use Instructions for Lumify Diagnostic Ultrasound System",
+    "originalAbstract": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
+    "keyPoints": [
+      "Проблеми з програмою або з'єднанням датчика у системі Lumify",
+      "Можливі втрати або затримки у функціоналі сканування",
+      "Джерело: FDA"
+    ],
+    "practicalTakeaway": "Матеріал фіксує оновлені інструкції щодо використання системи Lumify.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "ультразвук",
+      "Philips Lumify",
+      "інструкції",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Проблема з системою трансплантаційної доставки мітрального клапана від Edwards Lifesciences",
     "abstract": "Можливий розрив балону під час інфляції може спричинити емболію або потребу у хірургічному втручанні.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-transcatheter-mitral-valve-delivery-system-issue-edwards-lifesciences",
@@ -21,6 +48,32 @@
       "медична безпека",
       "імплантати",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання інфузійних наборів BD Alaris",
+    "abstract": "Компанії BD та CareFusion 303, Inc. припиняють виробництво та відгукують інфузійні набори BD Alaris. Модель 8100 отримала оновлені дані щодо роботи.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-20T00:43:19Z",
+    "updatedAt": "2026-10-20T00:43:19Z",
+    "originalTitle": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+    "originalAbstract": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+    "keyPoints": [
+      "Відгук стосується інфузійних наборів BD Alaris.",
+      "Компанії BD та CareFusion 303, Inc. припиняють виробництво.",
+      "Модель 8100 отримала оновлені дані про роботу."
+    ],
+    "practicalTakeaway": "Відгуки інфузійних наборів можуть впливати на їх використання у клінічній практиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфузійні набори",
+      "відгук",
+      "BD Alaris"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -73,34 +126,6 @@
       "відгук",
       "медичне обладнання",
       "інфекційний ризик",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з системою ультразвукової діагностики Philips Lumify",
-    "abstract": "Можливі збої у роботі через проблеми з програмним забезпеченням або з'єднанням датчика.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-diagnostic-ultrasound-system-issue-philips-ultrasound",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-10T15:34:08Z",
-    "updatedAt": "2026-10-10T15:34:08Z",
-    "originalTitle": "Early Alert: Diagnostic Ultrasound System Issue from Philips Ultrasound",
-    "originalAbstract": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
-    "keyPoints": [
-      "Проблеми з програмним забезпеченням або з'єднанням датчика у системі Philips Lumify.",
-      "Можливі втрати або затримки у функціональності сканування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "ультразвук",
-      "Philips Lumify",
-      "медичне обладнання",
-      "безпека",
       "FDA"
     ],
     "priorityScore": 8,
@@ -427,6 +452,34 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Проблема з системою ультразвукової діагностики Philips Lumify",
+    "abstract": "Можливі збої у роботі через проблеми з програмним забезпеченням або з'єднанням датчика.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-diagnostic-ultrasound-system-issue-philips-ultrasound",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-10T15:34:08Z",
+    "updatedAt": "2026-10-10T15:34:08Z",
+    "originalTitle": "Early Alert: Diagnostic Ultrasound System Issue from Philips Ultrasound",
+    "originalAbstract": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
+    "keyPoints": [
+      "Проблеми з програмним забезпеченням або з'єднанням датчика у системі Philips Lumify.",
+      "Можливі втрати або затримки у функціональності сканування.",
+      "Джерело: FDA."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "ультразвук",
+      "Philips Lumify",
+      "медичне обладнання",
+      "безпека",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
     "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
@@ -581,60 +634,6 @@
       "частки",
       "FDA",
       "медична безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання Infinion CX Lead від Boston Scientific",
-    "abstract": "Boston Scientific відкликає Infinion CX Lead через можливий механічний стрес у зоні кріплення.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-10T08:11:44Z",
-    "updatedAt": "2026-09-10T08:11:44Z",
-    "originalTitle": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-    "originalAbstract": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
-    "keyPoints": [
-      "Виріб: Infinion CX Lead, виробник: Boston Scientific",
-      "Можливий механічний стрес у зоні кріплення",
-      "Потреба у вилученні та заміні виробу"
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "неврологія",
-    "tags": [
-      "медичне обладнання",
-      "відкликання",
-      "нейрохірургія",
-      "інновації",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Оновлення системи моніторингу Portrait Core Services",
-    "abstract": "Під час оновлення програмного забезпечення Portrait Core Services пацієнти на мобільних пристроях Portrait можуть бути зняті з системи моніторингу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-06T17:38:31Z",
-    "updatedAt": "2026-09-06T17:38:31Z",
-    "originalTitle": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-    "originalAbstract": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-    "keyPoints": [
-      "Оновлення стосується Portrait Core Services.",
-      "Можливе зняття пацієнтів з моніторингу під час оновлення.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Зняття пацієнтів з моніторингу під час оновлення програмного забезпечення є частиною процесу.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "моніторинг",
-      "Portrait",
-      "оновлення"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
