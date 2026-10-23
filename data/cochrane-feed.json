@@ -1,5 +1,83 @@
 [
   {
+    "title": "Порівняння шляхів швидкого відновлення після хірургії кишечника з традиційним доглядом",
+    "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити вплив шляхів швидкого відновлення після хірургії кишечника порівняно з традиційним періопераційним доглядом у пацієнтів з доброякісними або злоякісними захворюваннями.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016406/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-21T00:00:00Z",
+    "updatedAt": "2026-10-23T08:37:02Z",
+    "originalTitle": "Enhanced Recovery After Surgery (ERAS) pathways versus conventional perioperative care for colorectal resection.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the effects of ERAS pathways compared with conventional perioperative care in people undergoing colorectal resection for malignant or benign conditions.",
+    "keyPoints": [
+      "Огляд порівнює два підходи до догляду після хірургії кишечника.",
+      "Мета — оцінити вплив на результати пацієнтів.",
+      "Зосереджено на періопераційному періоді."
+    ],
+    "practicalTakeaway": "Дослідження спрямоване на визначення ефективності шляхів швидкого відновлення після хірургії кишечника.",
+    "specialty": "хірургія",
+    "tags": [
+      "доказова медицина",
+      "хірургія",
+      "загальні наслідки для здоровʼя"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Теплова стабільність та зберігання адреналіну",
+    "abstract": "Цей протокол огляду Cochrane має на меті оцінити вплив зберігання адреналіну при температурах, що перевищують рекомендовані виробником. Мета — визначити, як такі умови впливають на стабільність препарату.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016409/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-21T00:00:00Z",
+    "updatedAt": "2026-10-23T08:37:02Z",
+    "originalTitle": "Thermal stability and storage of adrenaline.",
+    "originalAbstract": "This is a protocol for a Cochrane review (flexible). The objectives are as follows: To assess the effects of storing adrenaline above the manufacturers' recommended temperature storage range.",
+    "keyPoints": [
+      "Оцінка впливу зберігання адреналіну при високих температурах.",
+      "Фокус на стабільності препарату за умов порушення рекомендацій.",
+      "Мета — визначити потенційні наслідки для ефективності та безпеки."
+    ],
+    "practicalTakeaway": "Зберігання адреналіну за межами рекомендованих температур може впливати на його стабільність.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "зберігання медикаментів",
+      "адреналін",
+      "термічна стабільність"
+    ],
+    "priorityScore": 7,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Антибіотикотерапія при запальному захворюванні органів малого тазу: аналіз мережі досліджень",
+    "abstract": "Це протокол для аналізу систематичних досліджень щодо ефективності та безпеки системних антибіотиків у лікуванні гострого запального захворювання органів малого тазу у жінок репродуктивного віку. Основна мета — порівняти переваги та ризики різних антибіотичних схем. Другорядна — оцінити додавання нітроімідазолу та порівняти ефективність схем із азитроміцином.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016401/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-21T00:00:00Z",
+    "updatedAt": "2026-10-23T08:37:02Z",
+    "originalTitle": "Antibiotic therapy for pelvic inflammatory disease: a network meta-analysis.",
+    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the comparative benefits and harms of systemic antibiotic regimens for the treatment of acute pelvic inflammatory disease in women of reproductive age. The secondary objectives are: to estimate the incremental effect of adding nitroimidazole to an antibiotic backbone; to compare the efficacy of azithromycin-containing regimens with relevant alternatives, where the evidence network permits (in Networ…",
+    "keyPoints": [
+      "Порівнюються різні системні антибіотики для лікування запального захворювання органів малого тазу.",
+      "Дослідження аналізує додавання нітроімідазолу та ефективність азитроміцину.",
+      "Мета — визначити співвідношення користі та ризиків антибіотиків."
+    ],
+    "practicalTakeaway": "Результати аналізу допоможуть визначити найбільш ефективні та безпечні антибіотичні схеми для лікування запального захворювання органів малого тазу.",
+    "specialty": "акушерство і гінекологія",
+    "tags": [
+      "інфекційні хвороби",
+      "доказова медицина",
+      "гінекологія"
+    ],
+    "priorityScore": 2,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
     "title": "Гемодіаліз, гемофільтрація та гемодіаліз для дорослих з нирковою недостатністю",
     "abstract": "Дослідження порівнює різні методи екстракорпоральної діалізу — гемофільтрацію, гемодіаліз та їх комбінації — щодо ефективності видалення рідини та великих молекул. Вказано, що конвективні методи можуть краще усувати середні та великі соліти, ніж стандартний гемодіаліз, особливо при використанні ультраочищеної діалізної рідини.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006258.pub3/full",
@@ -176,84 +254,6 @@
       "діагностика",
       "щитоподібна залоза",
       "медичні дослідження"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Лікування герпесу губ: огляд досліджень",
-    "abstract": "Герпес губ — поширена рецидивна інфекція, викликана вірусом герпесу простого типу. Стандартне лікування передбачає застосування нуклеозидних противірусних препаратів. Дослідження також вивчали альтернативні методи, такі як цинк, мед і фотодинамічна терапія, для скорочення тривалості висипу та полегшення симптомів. Однак більшість оглядів не включають ці терапії.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015216.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-28T00:00:00Z",
-    "updatedAt": "2026-10-01T16:41:49Z",
-    "originalTitle": "Interventions for treatment of herpes labialis (cold sores on the lips).",
-    "originalAbstract": "Herpes labialis (also known as cold sores or fever blisters) is a highly prevalent recurrent infection caused by the herpes simplex virus. Recurrences arise from varied triggers. Standard treatments usually involve nucleoside antivirals. Several studies have investigated alternative treatments such as zinc, honey, and photodynamic therapy for their potential to shorten lesion duration and relieve symptoms, but most reviews exclude these therapies. We wished to address this evidence gap by evalua…",
-    "keyPoints": [
-      "Герпес губ є поширеною рецидивною інфекцією.",
-      "Стандартне лікування — нуклеозидні противірусні препарати.",
-      "Досліджуються альтернативні методи, але їх ефективність ще не підтверджена."
-    ],
-    "practicalTakeaway": "Застосування стандартних противірусних препаратів залишається основним підходом до лікування герпесу губ.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "герпес",
-      "лікування",
-      "дослідження"
-    ],
-    "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Системні азоли при астмі з грибковою сенситизацією",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити вплив додавання системних азолів до стандартного лікування астми у пацієнтів з доказами грибкової сенситизації, включаючи важку астму з грибковою сенситизацією та алергічний бронхопульмональний аспергільоз.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016394/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-28T00:00:00Z",
-    "updatedAt": "2026-10-01T16:41:49Z",
-    "originalTitle": "Systemic azoles for asthma with fungal sensitisation.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the effects of adding systemic azoles to standard asthma care for people with asthma who have evidence of fungal sensitisation (including severe asthma with fungal sensitisation and allergic bronchopulmonary aspergillosis/allergic bronchopulmonary mycosis).",
-    "keyPoints": [
-      "Огляд досліджень щодо застосування системних азолів при астмі з грибковою сенситизацією.",
-      "Мета — оцінити ефективність додавання азолів до стандартної терапії.",
-      "Зосереджено на важкій астмі та алергічному бронхопульмональному аспергільозі."
-    ],
-    "practicalTakeaway": "Дослідження спрямовані на визначення ролі системних азолів у лікуванні астми з грибковою сенситизацією.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "астма",
-      "грибкова сенситизація",
-      "азоли"
-    ],
-    "priorityScore": 3,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Монотерапія пероральними антикоагулянтами проти комбінації з антитромбоцитарними препаратами у дорослих із стабільною коронарною хворобою",
-    "abstract": "Це протокол для огляду Cochrane, метою якого є оцінити переваги та ризики монотерапії пероральними антикоагулянтами порівняно з їх комбінацією з антитромбоцитарними препаратами у дорослих з стабільною коронарною хворобою, що потребує довгострокового антикоагулянтного лікування.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016399/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-09-28T00:00:00Z",
-    "updatedAt": "2026-10-01T16:41:49Z",
-    "originalTitle": "Oral anticoagulant monotherapy versus oral anticoagulant plus antiplatelet therapy in adults with stable coronary artery disease.",
-    "originalAbstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To assess the benefits and harms of oral anticoagulant monotherapy compared with oral anticoagulant plus antiplatelet therapy in adults with stable coronary artery disease requiring long-term anticoagulation.",
-    "keyPoints": [
-      "Огляд порівнює монотерапію антикоагулянтами з комбінацією з антитромбоцитарними препаратами.",
-      "Мета — оцінити переваги та ризики для дорослих із стабільною коронарною хворобою.",
-      "Дослідження зосереджені на довгостроковому лікуванні."
-    ],
-    "practicalTakeaway": "Огляд допомагає визначити оптимальний режим антикоагулянтної терапії для дорослих із стабільною коронарною хворобою.",
-    "specialty": "кардіологія",
-    "tags": [
-      "антикоагулянти",
-      "коронарна хвороба",
-      "лікування"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
