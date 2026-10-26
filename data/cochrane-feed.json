@@ -1,5 +1,23 @@
 [
   {
+    "title": "Music-based interventions for people with kidney failure undergoing haemodialysis.",
+    "abstract": "People receiving haemodialysis for kidney failure experience substantial symptom burden, including anxiety, depression, and pain, which adversely affect physical function and quality of life. Music-based interventions are increasingly used as non-pharmacological strategies to address these symptoms; however, their effectiveness and the certainty of the evidence remain unclear. An updated systematic review of recent randomised controlled trials (RCTs) is therefore warranted. To assess the effects…",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016139.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-26T00:00:00Z",
+    "updatedAt": "2026-10-26T16:18:34Z"
+  },
+  {
+    "title": "Smoking cessation interventions in adults with attention deficit hyperactivity disorder (ADHD) or autism spectrum disorder (ASD).",
+    "abstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: Primary objective To assess the effects of smoking cessation interventions, compared with no intervention, usual care, placebo, or alternative interventions, on sustained abstinence from smoking in adults with attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), or co-occurring ADHD and ASD. Secondary objectives To assess whether the effects of smoking cessation interventions diffe…",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016400/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-22T00:00:00Z",
+    "updatedAt": "2026-10-26T16:18:34Z"
+  },
+  {
     "title": "Порівняння шляхів швидкого відновлення після хірургії кишечника з традиційним доглядом",
     "abstract": "Це протокол для огляду Cochrane, що має на меті оцінити вплив шляхів швидкого відновлення після хірургії кишечника порівняно з традиційним періопераційним доглядом у пацієнтів з доброякісними або злоякісними захворюваннями.",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016406/full",
@@ -76,6 +94,15 @@
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "The role of allogeneic hematopoietic stem cell transplantation in adults with mature T-cell lymphomas.",
+    "abstract": "Mature T-cell lymphomas (MTCL) are a rare, heterogeneous group of malignancies that arise from post-thymic T-lymphocytes, with a generally poor prognosis. For a long time, the standard therapy for most MTCL subtypes has been polychemotherapies. Hopes to prolong overall survival in MTCL have been associated with transplant procedures such as high-dose therapy with autologous stem cell transplantation (autoSCT) or allogeneic stem cell transplantation (alloSCT). To assess the benefits and harms of…",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014672.pub2/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-21T00:00:00Z",
+    "updatedAt": "2026-10-26T16:18:34Z"
   },
   {
     "title": "Гемодіаліз, гемофільтрація та гемодіаліз для дорослих з нирковою недостатністю",
@@ -178,84 +205,6 @@
       "молекулярні тести"
     ],
     "priorityScore": 2,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Інформація та промоційні стратегії фармацевтичної галузі щодо лікарів",
-    "abstract": "Цей аналіз досліджує вплив промоційних заходів фармацевтичних компаній на практику призначення ліків. Використовуючи дані рандомізованих досліджень, він оцінює ефекти таких взаємодій, зокрема надання інформації лікарям та їхній вплив на призначення препаратів.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013423.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-10-09T00:00:00Z",
-    "updatedAt": "2026-10-11T15:57:48Z",
-    "originalTitle": "Pharmaceutical industry information and promotional strategies aimed at prescribers.",
-    "originalAbstract": "The influence of pharmaceutical company promotion on prescribing and its impacts have been subject to extensive debate. This review helps to clarify whether and how interactions between clinicians and the pharmaceutical industry influence prescribing. Main objective: to assess the effects, using evidence from randomised trials, and the associations, using evidence from non-randomised studies, of pharmaceutical industry promotional interactions with prescribers (including provision of information…",
-    "keyPoints": [
-      "Досліджено вплив промоційних заходів фармацевтичних компаній на практику призначення ліків.",
-      "Використано дані рандомізованих досліджень для оцінки ефектів.",
-      "Результати допомагають зрозуміти, як взаємодії з промоутерами впливають на рішення лікарів."
-    ],
-    "practicalTakeaway": "Розуміння впливу промоційних стратегій фармацевтичної галузі може допомогти лікарям критично оцінювати отриману інформацію.",
-    "specialty": "доказова медицина",
-    "tags": [
-      "фармацевтика",
-      "промоція",
-      "лікарська практика"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Щоденне припинення седації порівняно з її відсутністю у критичних пацієнтів на ШВЛ",
-    "abstract": "Дослідження аналізує вплив щоденного припинення седації (ДСІ) на тривалість штучної вентиляції легень, смертність, перебування у відділенні інтенсивної терапії та ускладнення, пов’язані з недо- або передозуванням седаційних препаратів. Оновлення аналізу з 2014 року базується на даних, отриманих у пацієнтів дорослого та дитячого віку, що потребують інвазивної ШВЛ.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009176.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-10-07T00:00:00Z",
-    "updatedAt": "2026-10-08T01:21:37Z",
-    "originalTitle": "Daily sedation interruption versus no daily sedation interruption for critically ill adults and children requiring invasive mechanical ventilation.",
-    "originalAbstract": "Daily sedation interruption (DSI) aims to limit drug accumulation and promote a more awake state, thereby reducing the duration of mechanical ventilation and its associated complications. This is an update of a Cochrane review first published in 2014. To assess the effects of DSI versus sedation management without DSI on the duration of invasive mechanical ventilation, mortality, intensive care unit (ICU) length of stay, adverse events related to under- or oversedation (including accidental remo…",
-    "keyPoints": [
-      "Дослідження порівнює щоденне припинення седації з її відсутністю.",
-      "Мета — зменшити тривалість штучної вентиляції та ускладнення.",
-      "Результати базуються на аналізі даних з 2014 року."
-    ],
-    "practicalTakeaway": "Враховувати можливий вплив щоденного припинення седації на тривалість ШВЛ та ускладнення у критичних пацієнтів.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інтенсивна терапія",
-      "седація",
-      "ШВЛ"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Діагностична точність ультразвуку, КТ та МРТ у оцінці вузлів щитоподібної залози",
-    "abstract": "Це протокол для дослідження, яке має оцінити точність ультразвуку, комп’ютерної томографії та магнітно-резонансної томографії у визначенні злоякісних вузлів щитоподібної залози, порівнюючи результати з гістопатологічним дослідженням як стандартом. Оцінка включає визначення чутливості та специфічності кожного методу у диференціації злоякісних та доброякісних вузлів у рамках передопераційної діагностики.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016398/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-10-06T00:00:00Z",
-    "updatedAt": "2026-10-08T01:21:37Z",
-    "originalTitle": "Diagnostic accuracy of ultrasound, computed tomography, and magnetic resonance imaging for the evaluation of thyroid nodules.",
-    "originalAbstract": "This is a protocol for a Cochrane review (diagnostic). The objectives are as follows: To assess the diagnostic accuracy of US, CT, and MRI - each considered separately - in identifying malignant thyroid nodules, using histopathological examination as the reference standard. Each modality will be evaluated within its established role in the preoperative diagnostic pathway. This includes estimating the sensitivity and specificity of each imaging modality for differentiating malignant from benign t…",
-    "keyPoints": [
-      "Оцінюється точність ультразвуку, КТ та МРТ у визначенні злоякісних вузлів щитоподібної залози.",
-      "Використовується гістопатологічне дослідження як стандарт порівняння.",
-      "Результати допоможуть визначити роль кожного методу у передопераційній діагностиці."
-    ],
-    "practicalTakeaway": "Результати дослідження можуть вплинути на вибір методів діагностики вузлів щитоподібної залози перед операцією.",
-    "specialty": "ендокринологія",
-    "tags": [
-      "діагностика",
-      "щитоподібна залоза",
-      "медичні дослідження"
-    ],
-    "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }

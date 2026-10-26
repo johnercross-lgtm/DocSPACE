@@ -56,6 +56,50 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+    "abstract": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-26T16:18:31Z",
+    "updatedAt": "2026-10-26T16:18:31Z",
+    "originalTitle": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+    "originalAbstract": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
+    "title": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+    "abstract": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-26T16:18:31Z",
+    "updatedAt": "2026-10-26T16:18:31Z",
+    "originalTitle": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+    "originalAbstract": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
     "title": "Оновлення інструкцій для системи ультразвукової діагностики Philips Lumify",
     "abstract": "Можливі проблеми з програмним забезпеченням або з'єднанням датчика можуть спричинити втрату або затримки функцій сканування.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/diagnostic-ultrasound-system-correction-philips-ultrasound-issues-updated-use-instructions-lumify",
@@ -582,60 +626,6 @@
       "оксид азоту",
       "інструкція",
       "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відкликання капсул для моніторингу кислотності стравоходу",
-    "abstract": "Компанії Medtronic і Given Imaging відкликали капсули Bravo CF через можливість несправності.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-16T18:59:52Z",
-    "updatedAt": "2026-09-16T18:59:52Z",
-    "originalTitle": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-    "originalAbstract": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
-    "keyPoints": [
-      "Відкликання стосується капсул Bravo CF для моніторингу кислотності.",
-      "Можливі проблеми з прикріпленням або відділенням капсули.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "медицина",
-      "капсули",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук про препарати через підвищений рівень ендотоксинів",
-    "abstract": "Centric Compounding відкликає шість партій ін’єкційних препаратів через виявлення підвищеного рівня ендотоксинів.",
-    "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-13T18:17:08Z",
-    "updatedAt": "2026-09-13T18:17:08Z",
-    "originalTitle": "Centric Compounding Issues Nationwide Recall of Glutathione, Myer’s Cocktail, and Tri-Immune Boost Due to Elevated Endotoxin Levels",
-    "originalAbstract": "FOR IMMEDIATE RELEASE – 9/9/2026 – Houston, Texas, Centric Compounding is voluntarily recalling 6 lots of Glutathione 200mg/mL, Myer’s Cocktail, and Tri-Immune Boost injectable vials to the consumer level. The products have been found to be compounded with a Glutathione API containing elevated endot",
-    "keyPoints": [
-      "Відгук стосується шести партій препаратів.",
-      "Препарати: Glutathione, Myer’s Cocktail, Tri-Immune Boost.",
-      "Виявлено підвищений рівень ендотоксинів у API Glutathione."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "відгук",
-      "препарати",
-      "ендотоксини",
-      "фармацевтика",
-      "безпека"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
