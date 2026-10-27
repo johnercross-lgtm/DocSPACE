@@ -1,5 +1,38 @@
 [
   {
+    "pmid": "42932875",
+    "title": "Differential Diagnosis of Early-Stage Pulmonary Sarcoidosis With Normal Serum Angiotensin-Converting Enzyme Activity Using Peripheral Blood Indicators: Machine Learning Models Development and Validation.",
+    "journal": "JMIR medical informatics",
+    "publishedAt": "2026-10-26T00:00:00Z",
+    "abstract": "Early-stage pulmonary sarcoidosis with serum angiotensin-converting enzyme (sACE) activity within the normal range is difficult to distinguish from other pulmonary diseases with similar radiographic characteristics. This study aimed to develop and validate machine learning (ML)-based diagnostic models for differentiating early-stage pulmonary sarcoidosis using indices from routine peripheral blood tests. From May 2014 to May 2021, a total of 1142 patients with atypical initial pulmonary imaging",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932875/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-27T00:53:13Z"
+  },
+  {
+    "pmid": "42932874",
+    "title": "Integrating Natural Language Processing in Child and Adolescent Mental Health Services Research Using Normalization Process Theory: Implementation Report.",
+    "journal": "JMIR medical informatics",
+    "publishedAt": "2026-10-26T00:00:00Z",
+    "abstract": "Anxiety problems are prevalent among autistic children and adolescents and those with attention-deficit/hyperactivity disorder (ADHD). Natural language processing (NLP) is increasingly used to structure information from electronic health records (EHRs), but its implementation within secure child and adolescent mental health services (CAMHS) research environments is less frequently reported. This study documented the specification, governance, integration, and evaluation of an NLP-enabled informa",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932874/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-27T00:53:13Z"
+  },
+  {
+    "pmid": "42932872",
+    "title": "Generative Large Language Models for Psychiatric Concept Detection in Spanish-Language Electronic Health Records: Development and Evaluation Study.",
+    "journal": "Journal of medical Internet research",
+    "publishedAt": "2026-10-26T00:00:00Z",
+    "abstract": "The accurate detection of clinical symptoms in electronic health records (EHRs) is pivotal for advancing large-scale genetic and longitudinal studies in psychiatry. Free-text clinical notes are an essential source of symptom-level information, particularly in psychiatry; however, the automated extraction of symptoms from clinical text remains challenging. We aimed to evaluate the ability of open-source generative large language models (LLMs) to detect psychiatric symptom-level concepts from clin",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932872/",
+    "category": "general_medicine",
+    "source": "PubMed",
+    "updatedAt": "2026-10-27T00:53:13Z"
+  },
+  {
     "pmid": "42919820",
     "title": "Psychological and Neurodevelopmental Correlates of Extreme Demand Avoidance in a Clinical Sample, an Exploratory Study.",
     "journal": "Autism research : official journal of the International Society for Autism Research",
@@ -141,90 +174,6 @@
       "лапароскопія"
     ],
     "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42893598",
-    "title": "Діагностична ефективність нейровізуалізації у пацієнтів з неосновними нападами у відділенні невідкладної допомоги",
-    "journal": "The neurologist",
-    "publishedAt": "2026-10-19T00:00:00Z",
-    "abstract": "Дослідження оцінює частоту застосування нейровізуалізації у пацієнтів з повторними нападами епілепсії у відділенні невідкладної допомоги, її діагностичну цінність та фактори, що впливають на виявлення гострих змін, які змінюють клінічне управління.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42893598/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-10-18T23:42:41Z",
-    "originalTitle": "Diagnostic Yield of Neuroimaging in Patients With Nonindex Seizures in the Emergency Department.",
-    "originalAbstract": "The diagnostic yield of neuroimaging in patients with nonindex seizures, defined as those with established epilepsy presenting to the emergency department with a recurrent seizure, remains uncertain. Although head computed tomography (CT) is frequently performed, its impact on clinical decision-making is often limited. This study aimed to assess the frequency of neuroimaging use, its diagnostic yield, and the clinical factors associated with acute findings leading to management changes. We condu",
-    "keyPoints": [
-      "Частота застосування нейровізуалізації у пацієнтів з повторними нападами епілепсії.",
-      "Діагностична цінність нейровізуалізації при гострих змінах.",
-      "Фактори, що асоціюються з виявленням гострих змін, що впливають на управління."
-    ],
-    "practicalTakeaway": "Застосування нейровізуалізації у пацієнтів з повторними нападами епілепсії має обмежену діагностичну цінність, що слід враховувати при плануванні обстежень.",
-    "specialty": "неврологія",
-    "tags": [
-      "нейровізуалізація",
-      "епілепсія",
-      "діагностика"
-    ],
-    "priorityScore": 7,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42893597",
-    "title": "Різниця у післяопераційних результатах у чоловіків і жінок із колоректальним раком у військовій системі охорони здоровʼя США",
-    "journal": "American journal of clinical oncology",
-    "publishedAt": "2026-10-19T00:00:00Z",
-    "abstract": "Дослідження аналізує відмінності у післяопераційних результатах між чоловіками та жінками з колоректальним раком у системі військової охорони здоровʼя США. Враховуються біологічні, поведінкові та доступ до медичних послуг фактори, що можуть впливати на діагностику та лікування. Аналіз охоплює пацієнтів із стадіями I–III, які отримували хірургічне лікування у період з 2001 по 2014 роки.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42893597/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-10-18T23:42:41Z",
-    "originalTitle": "Sex Differences in Postoperative Outcomes for Men and Women With Colon Cancer in the US Military Health System.",
-    "originalAbstract": "Biological, behavioral, and health care access differences between men and women may contribute to differences in colon cancer diagnosis and treatment. We compared postoperative outcomes between men and women with colon cancer in the universal access Military Health System (MHS) to better understand sex-based differences in surgery. We identified patients with stage I to III colon adenocarcinoma receiving surgery in the Military Cancer Epidemiology (MilCanEpi) database between 2001 and 2014. Thi",
-    "keyPoints": [
-      "Дослідження порівнює результати післяопераційного лікування у чоловіків і жінок із колоректальним раком.",
-      "Аналіз враховує біологічні та поведінкові фактори, а також доступ до медичних послуг.",
-      "Обʼєкт дослідження — військова система охорони здоровʼя США."
-    ],
-    "practicalTakeaway": "Результати дослідження допомагають краще зрозуміти потенційні відмінності у післяопераційних результатах за статтю у пацієнтів із колоректальним раком.",
-    "specialty": "онкологія",
-    "tags": [
-      "онкологія",
-      "доказова медицина",
-      "статеві відмінності"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "pmid": "42881139",
-    "title": "Поза детоксикацією: роль трудотерапії в клініках залежності",
-    "journal": "Drug and alcohol review",
-    "publishedAt": "2026-11-01T00:00:00Z",
-    "abstract": "Дослідження аналізує вплив занять трудотерапією, таких як музика, малювання та спорт, на результати лікування пацієнтів із алкогольною та наркотичною залежністю у турецькому госпіталі. Вивчено зміни у тривалості госпіталізації та завершенні лікування до та після припинення цих заходів через регуляторні зміни.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42881139/",
-    "category": "general_medicine",
-    "source": "PubMed",
-    "updatedAt": "2026-10-16T08:15:22Z",
-    "originalTitle": "Beyond Detoxification: The Critical Role of Occupational Therapy in Addiction Clinics.",
-    "originalAbstract": "This study examines the impact of occupational therapy (OT) activities-such as music, painting and sports-on treatment outcomes for patients with alcohol and substance use disorder treated at the inpatient addiction treatment unit of Sakarya University Training and Research Hospital, in Turkey. The research specifically compares hospitalisation duration and treatment completion rates before and after these activities were discontinued due to regulatory changes. A total of 332 patients were analy",
-    "keyPoints": [
-      "Трудотерапія може впливати на результати лікування залежності.",
-      "Зміни у програмі трудотерапії відбилися на тривалості госпіталізації.",
-      "Дослідження базується на аналізі даних пацієнтів у турецькому госпіталі."
-    ],
-    "practicalTakeaway": "Застосування трудотерапії у програмах лікування залежності може мати значення для покращення результатів.",
-    "specialty": "психіатрія",
-    "tags": [
-      "залежність",
-      "трудотерапія",
-      "лікування"
-    ],
-    "priorityScore": 7,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
   }
