@@ -1,5 +1,49 @@
 [
   {
+    "title": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
+    "abstract": "Medline removes or corrects all brand beds & accessories due to fire, electrical overheating, entrapment & asphyxiation risks. Risk of serious injury or death.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-30T01:21:47Z",
+    "updatedAt": "2026-10-30T01:21:47Z",
+    "originalTitle": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
+    "originalAbstract": "Medline removes or corrects all brand beds & accessories due to fire, electrical overheating, entrapment & asphyxiation risks. Risk of serious injury or death.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
+    "title": "Early Alert: B. Braun Removes Streamline Bloodline Set for Dialog+",
+    "abstract": "The dialyzer connector may not be attached appropriately, resulting in leaking and potential blood loss.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-b-braun-removes-streamline-bloodline-set-dialog",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-30T01:21:47Z",
+    "updatedAt": "2026-10-30T01:21:47Z",
+    "originalTitle": "Early Alert: B. Braun Removes Streamline Bloodline Set for Dialog+",
+    "originalAbstract": "The dialyzer connector may not be attached appropriately, resulting in leaking and potential blood loss.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
     "title": "Відгук ветеринарних препаратів Wedgewood через потенційні проблеми з потужністю",
     "abstract": "Wedgewood Pharmacy відкликає деякі ветеринарні препарати через можливі проблеми з якістю аналізів.",
     "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wedgewood-pharmacy-issues-recall-certain-compounded-veterinary-medications-within-expiry-due",
@@ -22,34 +66,6 @@
       "препарати",
       "якість",
       "лабораторія"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Оновлення: імпортний alert для медичних виробів Olympus з Японії",
-    "abstract": "FDA повідомляє про імпортний alert для деяких медичних пристроїв Olympus, вироблених у Японії.",
-    "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-23T08:37:16Z",
-    "updatedAt": "2026-10-23T08:37:16Z",
-    "originalTitle": "Update: Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
-    "originalAbstract": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
-    "keyPoints": [
-      "FDA оголосила про імпортний alert для медичних виробів Olympus.",
-      "Вироби виробляються в Японії компанією Olympus Medical Systems Corporation.",
-      "Інформація стосується медичних пристроїв, вироблених у Японії."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "FDA",
-      "імпортний alert",
-      "медичні пристрої",
-      "Olympus",
-      "Японія"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -98,6 +114,34 @@
     "priorityScore": 8,
     "aiProcessed": false,
     "aiModel": ""
+  },
+  {
+    "title": "Оновлення: імпортний alert для медичних виробів Olympus з Японії",
+    "abstract": "FDA повідомляє про імпортний alert для деяких медичних пристроїв Olympus, вироблених у Японії.",
+    "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-23T08:37:16Z",
+    "updatedAt": "2026-10-23T08:37:16Z",
+    "originalTitle": "Update: Import Alert for Certain Olympus Medical Devices Manufactured in Japan - Letter to Health Care Providers",
+    "originalAbstract": "The U.S. Food and Drug Administration (FDA) is alerting health care providers about import alerts for certain medical devices manufactured in Japan by Olympus Medical Systems Corporation (Olympus) and its subsidiaries.",
+    "keyPoints": [
+      "FDA оголосила про імпортний alert для медичних виробів Olympus.",
+      "Вироби виробляються в Японії компанією Olympus Medical Systems Corporation.",
+      "Інформація стосується медичних пристроїв, вироблених у Японії."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "FDA",
+      "імпортний alert",
+      "медичні пристрої",
+      "Olympus",
+      "Японія"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
   },
   {
     "title": "Оновлення інструкцій для системи ультразвукової діагностики Philips Lumify",
@@ -392,34 +436,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання контролерів серцевого насосу Abiomed",
-    "abstract": "Abiomed відкликає автоматизовані контролери Impella через несправність, що може спричинити затримки у підтримці кровообігу.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-26T23:56:00Z",
-    "updatedAt": "2026-09-26T23:56:00Z",
-    "originalTitle": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
-    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-    "keyPoints": [
-      "Відкликання стосується автоматичних контролерів Impella.",
-      "Причина — несправність розпізнавання касет.",
-      "Може спричинити затримки у підтримці кровообігу."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "кардіологія",
-    "tags": [
-      "серцевий насос",
-      "відкликання",
-      "медичне обладнання",
-      "Abiomed",
-      "Impella"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Виправлення комплектів BD через ампули натрію хлориду",
     "abstract": "BD випускає корекцію для комплектів і trays з ампулами натрію хлориду, що були відкликані.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
@@ -442,6 +458,34 @@
       "відкликання",
       "інфекційні хвороби",
       "статистика"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання контролерів серцевого насосу Abiomed",
+    "abstract": "Abiomed відкликає автоматизовані контролери Impella через несправність, що може спричинити затримки у підтримці кровообігу.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/heart-pump-controller-recall-abiomed-removes-automated-impella-controllers",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-09-26T23:56:00Z",
+    "updatedAt": "2026-09-26T23:56:00Z",
+    "originalTitle": "Heart Pump Controller Recall: Abiomed Removes Automated Impella Controllers",
+    "originalAbstract": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+    "keyPoints": [
+      "Відкликання стосується автоматичних контролерів Impella.",
+      "Причина — несправність розпізнавання касет.",
+      "Може спричинити затримки у підтримці кровообігу."
+    ],
+    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
+    "specialty": "кардіологія",
+    "tags": [
+      "серцевий насос",
+      "відкликання",
+      "медичне обладнання",
+      "Abiomed",
+      "Impella"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -573,58 +617,6 @@
       "Philips Lumify",
       "медичне обладнання",
       "безпека",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відгук щодо розчину натрію хлориду від Spectra Medical",
-    "abstract": "Spectra Medical видаляє з ринку ампули розчину натрію хлориду, вироблені Huons Co., Ltd.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
-    "originalAbstract": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
-    "keyPoints": [
-      "Видалення продукту стосується Sodium Chloride Flush.",
-      "Виробник — Huons Co., Ltd.",
-      "Джерело — FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "фармацевтика",
-      "відгук",
-      "безпека"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Оновлення інструкцій щодо системи доставки азоту NOxBOX",
-    "abstract": "Компанія випустила оновлені інструкції для системи NOxBOXi, яка може витікати кисень під час терапії інгаляційним оксидом азоту.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-20T08:39:03Z",
-    "updatedAt": "2026-09-20T08:39:03Z",
-    "originalTitle": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
-    "originalAbstract": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
-    "keyPoints": [
-      "Оновлення інструкцій для системи NOxBOXi.",
-      "Можливий витік кисню під час терапії.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Використання системи NOxBOXi потребує ознайомлення з оновленими інструкціями.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "оксид азоту",
-      "інструкція",
       "FDA"
     ],
     "priorityScore": 8,
