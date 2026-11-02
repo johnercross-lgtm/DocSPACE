@@ -1,5 +1,49 @@
 [
   {
+    "title": "Hospital Glucose Meter Correction: Nova Biomedical Updates Use Instructions for StatStrip Glucose Hospital Meter Systems",
+    "abstract": "Update use instructions for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-correction-nova-biomedical-updates-use-instructions-statstrip-glucose",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-11-02T11:17:42Z",
+    "updatedAt": "2026-11-02T11:17:42Z",
+    "originalTitle": "Hospital Glucose Meter Correction: Nova Biomedical Updates Use Instructions for StatStrip Glucose Hospital Meter Systems",
+    "originalAbstract": "Update use instructions for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
+    "title": "Platelet Factor 4 (PF4) Radioimmunoassay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H)",
+    "abstract": "Product performance issue may lead to a false negative result which will delay recognition of heparin-induced thrombocytopenia.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/platelet-factor-4-pf4-radioimmunoassay-recall-instrumentation-laboratories-removes-hemosil-acustar",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-11-02T11:17:42Z",
+    "updatedAt": "2026-11-02T11:17:42Z",
+    "originalTitle": "Platelet Factor 4 (PF4) Radioimmunoassay Recall: Instrumentation Laboratories Removes HemosIL AcuStar HIT-IgG(PF4-H)",
+    "originalAbstract": "Product performance issue may lead to a false negative result which will delay recognition of heparin-induced thrombocytopenia.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
     "title": "Early Alert: Medline Removes or Corrects All Medline Brand Beds and Accessories",
     "abstract": "Medline removes or corrects all brand beds & accessories due to fire, electrical overheating, entrapment & asphyxiation risks. Risk of serious injury or death.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-medline-removes-or-corrects-all-medline-brand-beds-and-accessories",
@@ -72,50 +116,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
-    "abstract": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-26T16:18:31Z",
-    "updatedAt": "2026-10-26T16:18:31Z",
-    "originalTitle": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
-    "originalAbstract": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
-    "keyPoints": [],
-    "practicalTakeaway": "",
-    "specialty": "фармакотерапія",
-    "tags": [
-      "drug safety",
-      "pharmacovigilance",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": false,
-    "aiModel": ""
-  },
-  {
-    "title": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
-    "abstract": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-26T16:18:31Z",
-    "updatedAt": "2026-10-26T16:18:31Z",
-    "originalTitle": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
-    "originalAbstract": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
-    "keyPoints": [],
-    "practicalTakeaway": "",
-    "specialty": "фармакотерапія",
-    "tags": [
-      "drug safety",
-      "pharmacovigilance",
-      "FDA"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": false,
-    "aiModel": ""
-  },
-  {
     "title": "Оновлення: імпортний alert для медичних виробів Olympus з Японії",
     "abstract": "FDA повідомляє про імпортний alert для деяких медичних пристроїв Olympus, вироблених у Японії.",
     "url": "http://www.fda.gov/medical-devices/letters-health-care-providers/update-import-alert-certain-olympus-medical-devices-manufactured-japan-letter-health-care-providers",
@@ -142,6 +142,28 @@
     "priorityScore": 8,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+    "abstract": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-cardinal-health-updates-use-instructions-presource-packs-containing-bd-alaris-pump",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-26T16:18:31Z",
+    "updatedAt": "2026-10-26T16:18:31Z",
+    "originalTitle": "Early Alert: Cardinal Health Updates Use Instructions for Presource Packs Containing BD Alaris Pump Infusion Sets",
+    "originalAbstract": "Cardinal Health Presource Kits may contain BD Alaris Pump Infusion Sets with Updated Use Instructions.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
   },
   {
     "title": "Оновлення інструкцій для системи ультразвукової діагностики Philips Lumify",
@@ -198,32 +220,6 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
-    "title": "Відкликання інфузійних наборів BD Alaris",
-    "abstract": "Компанії BD та CareFusion 303, Inc. припиняють виробництво та відгукують інфузійні набори BD Alaris. Модель 8100 отримала оновлені дані щодо роботи.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-20T00:43:19Z",
-    "updatedAt": "2026-10-20T00:43:19Z",
-    "originalTitle": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
-    "originalAbstract": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
-    "keyPoints": [
-      "Відгук стосується інфузійних наборів BD Alaris.",
-      "Компанії BD та CareFusion 303, Inc. припиняють виробництво.",
-      "Модель 8100 отримала оновлені дані про роботу."
-    ],
-    "practicalTakeaway": "Відгуки інфузійних наборів можуть впливати на їх використання у клінічній практиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "інфузійні набори",
-      "відгук",
-      "BD Alaris"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
     "title": "Відкликання наборів AVID Medical через можливе забруднення",
     "abstract": "Компанія AVID Medical відкликає певні набори через ризик забруднення Aspergillus penicillioides.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-recall-avid-medical-removes-convenience-kits-affected-bd-chloraprep-applicator-0",
@@ -244,6 +240,32 @@
       "відкликання",
       "забруднення",
       "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": true,
+    "aiModel": "gpt-4.1-nano"
+  },
+  {
+    "title": "Відкликання інфузійних наборів BD Alaris",
+    "abstract": "Компанії BD та CareFusion 303, Inc. припиняють виробництво та відгукують інфузійні набори BD Alaris. Модель 8100 отримала оновлені дані щодо роботи.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-set-recall-bd-and-carefusion-303-inc-remove-bd-alaris-pump-infusion-sets",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-20T00:43:19Z",
+    "updatedAt": "2026-10-20T00:43:19Z",
+    "originalTitle": "Infusion Set Recall: BD and CareFusion 303, Inc. Remove BD Alaris Pump Infusion Sets",
+    "originalAbstract": "BD Alaris Pump Infusion Sets are being removed and discontinued; Alaris Pump Module model 8100 has updated performance data",
+    "keyPoints": [
+      "Відгук стосується інфузійних наборів BD Alaris.",
+      "Компанії BD та CareFusion 303, Inc. припиняють виробництво.",
+      "Модель 8100 отримала оновлені дані про роботу."
+    ],
+    "practicalTakeaway": "Відгуки інфузійних наборів можуть впливати на їх використання у клінічній практиці.",
+    "specialty": "інфекційні хвороби",
+    "tags": [
+      "інфузійні набори",
+      "відгук",
+      "BD Alaris"
     ],
     "priorityScore": 8,
     "aiProcessed": true,
@@ -436,6 +458,28 @@
     "aiModel": "gpt-4.1-nano"
   },
   {
+    "title": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+    "abstract": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/hospital-glucose-meter-removal-nova-biomedical-removes-statstrip-glucose-hospital-meter-systems",
+    "source": "FDA",
+    "category": "drug_safety",
+    "publishedAt": "2026-10-26T16:18:31Z",
+    "updatedAt": "2026-10-26T16:18:31Z",
+    "originalTitle": "Hospital Glucose Meter Removal: Nova Biomedical Removes StatStrip Glucose Hospital Meter Systems",
+    "originalAbstract": "Software update for StatStrip Glucose Hospital Meter Systems due to the potential for glucose results to be assigned to the incorrect patient.",
+    "keyPoints": [],
+    "practicalTakeaway": "",
+    "specialty": "фармакотерапія",
+    "tags": [
+      "drug safety",
+      "pharmacovigilance",
+      "FDA"
+    ],
+    "priorityScore": 8,
+    "aiProcessed": false,
+    "aiModel": ""
+  },
+  {
     "title": "Виправлення комплектів BD через ампули натрію хлориду",
     "abstract": "BD випускає корекцію для комплектів і trays з ампулами натрію хлориду, що були відкликані.",
     "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-becton-dickinson-issues-correction-kits-and-procedure-trays-containing",
@@ -564,60 +608,6 @@
       "медицина",
       "відкликання",
       "натрій хлорид"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Відклик вентиляційних наборів INCA від CooperSurgical",
-    "abstract": "Компанія CooperSurgical відкликає набори INCA для інфантів через можливі проблеми з з'єднанням.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/ventilator-recall-coopersurgical-removes-inca-infant-nasal-cpap-sets",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-09-23T14:26:36Z",
-    "updatedAt": "2026-09-23T14:26:36Z",
-    "originalTitle": "Ventilator Recall: CooperSurgical Removes INCA Infant Nasal CPAP Sets",
-    "originalAbstract": "The cannula sets may exhibit a loose connection between the flexible tubing and the nasal cannula resulting in reduced effectiveness and decreased oxygenation.",
-    "keyPoints": [
-      "Відкликання стосується наборів INCA для новонароджених.",
-      "Можлива несправність — слабке з'єднання між трубкою та носовою канюлею.",
-      "Джерело — FDA."
-    ],
-    "practicalTakeaway": "Матеріал фіксує оновлені показники щодо відкликання наборів INCA.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "вентиляція",
-      "інфекційні хвороби",
-      "відкликання"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "Проблема з системою ультразвукової діагностики Philips Lumify",
-    "abstract": "Можливі збої у роботі через проблеми з програмним забезпеченням або з'єднанням датчика.",
-    "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-diagnostic-ultrasound-system-issue-philips-ultrasound",
-    "source": "FDA",
-    "category": "drug_safety",
-    "publishedAt": "2026-10-10T15:34:08Z",
-    "updatedAt": "2026-10-10T15:34:08Z",
-    "originalTitle": "Early Alert: Diagnostic Ultrasound System Issue from Philips Ultrasound",
-    "originalAbstract": "A software app or transducer connection problem with the Philips Lumify diagnostic ultrasound system can result in loss of or delays in scanning functionality.",
-    "keyPoints": [
-      "Проблеми з програмним забезпеченням або з'єднанням датчика у системі Philips Lumify.",
-      "Можливі втрати або затримки у функціональності сканування.",
-      "Джерело: FDA."
-    ],
-    "practicalTakeaway": "Матеріал допомагає орієнтуватися в актуальній статистиці.",
-    "specialty": "інфекційні хвороби",
-    "tags": [
-      "ультразвук",
-      "Philips Lumify",
-      "медичне обладнання",
-      "безпека",
-      "FDA"
     ],
     "priorityScore": 8,
     "aiProcessed": true,

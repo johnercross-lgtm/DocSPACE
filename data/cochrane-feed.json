@@ -1,12 +1,21 @@
 [
   {
+    "title": "Living evidence map of the global climate and health literature.",
+    "abstract": "This is a protocol for a Cochrane review (flexible). The objectives are as follows: The objectives of this living evidence map are to: systematically map the breadth, scope, and characteristics of the global literature on the relationship of climate change, climate variability, weather, climate-forcing agents, and fossil fuels with human health and well-being; enable ongoing, up-to-date access to the evolving evidence base through a living approach (encompassing content currency and adjustment o…",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016408/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-10-28T00:00:00Z",
+    "updatedAt": "2026-11-02T11:17:39Z"
+  },
+  {
     "title": "Levodopa or dopamine agonists for enhancing motor function after stroke.",
     "abstract": "Stroke is a leading cause of mortality and disability worldwide. There is a lack of evidence regarding pharmacological enhancement of stroke recovery with dopamine agonists or levodopa, in particular in terms of motor deficits. To assess the effects of dopaminergic agents, defined as levodopa or dopamine agonists, on improving motor function after stroke. We conducted an extensive database search on the Cochrane Stroke Group trials register, CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, Science Ci…",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013416.pub2/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-10-28T00:00:00Z",
-    "updatedAt": "2026-10-29T20:25:30Z"
+    "updatedAt": "2026-11-02T11:17:39Z"
   },
   {
     "title": "Maternity versus non-maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy.",
@@ -15,7 +24,7 @@
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-10-28T00:00:00Z",
-    "updatedAt": "2026-10-29T20:25:30Z"
+    "updatedAt": "2026-11-02T11:17:39Z"
   },
   {
     "title": "Ergonomic interventions for treating work-related complaints of the arm, neck or shoulder in adults.",
@@ -130,31 +139,5 @@
     "category": "evidence_review",
     "publishedAt": "2026-10-21T00:00:00Z",
     "updatedAt": "2026-10-26T16:18:34Z"
-  },
-  {
-    "title": "Гемодіаліз, гемофільтрація та гемодіаліз для дорослих з нирковою недостатністю",
-    "abstract": "Дослідження порівнює різні методи екстракорпоральної діалізу — гемофільтрацію, гемодіаліз та їх комбінації — щодо ефективності видалення рідини та великих молекул. Вказано, що конвективні методи можуть краще усувати середні та великі соліти, ніж стандартний гемодіаліз, особливо при використанні ультраочищеної діалізної рідини.",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD006258.pub3/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-10-13T00:00:00Z",
-    "updatedAt": "2026-10-15T00:08:06Z",
-    "originalTitle": "Haemodiafiltration, haemofiltration and haemodialysis for adults with kidney failure.",
-    "originalAbstract": "Convective extracorporeal dialysis modalities, haemofiltration (HF), haemodiafiltration (HDF), and acetate-free biofiltration (AFB), remove excess body fluid across the dialysis membrane through an interplay of positive and negative pressures and accumulated middle- and larger-sized solutes more efficiently than haemodialysis (HD). This increased removal of larger solutes, combined with the use of ultrapure dialysis fluid in convective dialysis, is hypothesised to reduce the frequency and severi…",
-    "keyPoints": [
-      "Конвективні методи діалізу краще видаляють великі молекули.",
-      "Гемофільтрація та гемодіаліз порівнюються щодо ефективності.",
-      "Дослідження зосереджене на дорослих з нирковою недостатністю."
-    ],
-    "practicalTakeaway": "Конвективні методи діалізу можуть мати переваги у видаленні великих молекул у пацієнтів з нирковою недостатністю.",
-    "specialty": "нефрологія",
-    "tags": [
-      "діаліз",
-      "ниркова недостатність",
-      "лікування"
-    ],
-    "priorityScore": 8,
-    "aiProcessed": true,
-    "aiModel": "gpt-4.1-nano"
   }
 ]
