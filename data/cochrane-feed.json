@@ -1,12 +1,21 @@
 [
   {
+    "title": "Levothyroxine for subclinical hypothyroidism.",
+    "abstract": "This is a protocol for a Cochrane review (intervention). The objectives are as follows: To evaluate the benefits and harms of levothyroxine for adults with subclinical hypothyroidism, compared with placebo or no treatment.",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016414/full",
+    "source": "Cochrane",
+    "category": "evidence_review",
+    "publishedAt": "2026-11-05T00:00:00Z",
+    "updatedAt": "2026-11-05T17:38:53Z"
+  },
+  {
     "title": "Living evidence map of the global climate and health literature.",
     "abstract": "This is a protocol for a Cochrane review (flexible). The objectives are as follows: The objectives of this living evidence map are to: systematically map the breadth, scope, and characteristics of the global literature on the relationship of climate change, climate variability, weather, climate-forcing agents, and fossil fuels with human health and well-being; enable ongoing, up-to-date access to the evolving evidence base through a living approach (encompassing content currency and adjustment o…",
     "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD016408/full",
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-10-28T00:00:00Z",
-    "updatedAt": "2026-11-02T11:17:39Z"
+    "updatedAt": "2026-11-05T17:38:53Z"
   },
   {
     "title": "Levodopa or dopamine agonists for enhancing motor function after stroke.",
@@ -15,7 +24,7 @@
     "source": "Cochrane",
     "category": "evidence_review",
     "publishedAt": "2026-10-28T00:00:00Z",
-    "updatedAt": "2026-11-02T11:17:39Z"
+    "updatedAt": "2026-11-05T17:38:53Z"
   },
   {
     "title": "Maternity versus non-maternity healthcare settings for the diagnosis of gestational diabetes or diabetes in pregnancy.",
@@ -130,14 +139,5 @@
     "priorityScore": 2,
     "aiProcessed": true,
     "aiModel": "gpt-4.1-nano"
-  },
-  {
-    "title": "The role of allogeneic hematopoietic stem cell transplantation in adults with mature T-cell lymphomas.",
-    "abstract": "Mature T-cell lymphomas (MTCL) are a rare, heterogeneous group of malignancies that arise from post-thymic T-lymphocytes, with a generally poor prognosis. For a long time, the standard therapy for most MTCL subtypes has been polychemotherapies. Hopes to prolong overall survival in MTCL have been associated with transplant procedures such as high-dose therapy with autologous stem cell transplantation (autoSCT) or allogeneic stem cell transplantation (alloSCT). To assess the benefits and harms of…",
-    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014672.pub2/full",
-    "source": "Cochrane",
-    "category": "evidence_review",
-    "publishedAt": "2026-10-21T00:00:00Z",
-    "updatedAt": "2026-10-26T16:18:34Z"
   }
 ]
